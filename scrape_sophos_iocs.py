@@ -14,10 +14,7 @@ class SophosIOCFetcher:
         }
 
     def _get_latest_commit(self):
-        response = requests.get(
-            f"{self.base_url}/commits",
-            headers=self.headers
-        )
+        response = requests.get(f"{self.base_url}/commits", headers=self.headers)
         response.raise_for_status()
         return response.json()[0]['sha']
 
@@ -32,19 +29,13 @@ class SophosIOCFetcher:
             f.write(commit_sha)
 
     def _download_ioc_files(self):
-        response = requests.get(
-            f"{self.base_url}/contents",
-            headers=self.headers
-        )
+        response = requests.get(f"{self.base_url}/contents", headers=self.headers)
         response.raise_for_status()
         
         iocs = []
         for file in response.json():
             if file['name'].lower().endswith(('.csv', '.txt')):
-                file_response = requests.get(
-                    file['download_url'],
-                    headers=self.headers
-                )
+                file_response = requests.get(file['download_url'], headers=self.headers)
                 file_response.raise_for_status()
                 iocs.append(file_response.text)
         return iocs
@@ -57,8 +48,10 @@ class SophosIOCFetcher:
         return iocs
 
     def _save_iocs(self, iocs):
+        # Convert each IOC object to a string
+        ioc_strings = [str(ioc) for ioc in iocs]
         with open(self.output_file, 'w') as f:
-            f.write('\n'.join(iocs))
+            f.write('\n'.join(ioc_strings))
 
     def fetch_and_save(self):
         latest_commit = self._get_latest_commit()
