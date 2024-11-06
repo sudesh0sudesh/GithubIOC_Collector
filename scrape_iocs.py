@@ -59,23 +59,42 @@ class IOCFetcher:
         response.raise_for_status()
         return response.json()[0]['sha']
 
-    def _get_changed_files(self, repo_url, current_commit, previous_commit=None):
-        if not previous_commit:
-            # If no previous commit, get all files
-            api_url = f"https://api.github.com/repos/{repo_url}/contents"
-            response = requests.get(api_url, headers=self.headers)
-            response.raise_for_status()
-            return [(file['name'], file['download_url']) 
-                   for file in response.json() 
-                   if file['type'] == 'file']
-        else:
-            # Get changed files between commits
-            api_url = f"https://api.github.com/repos/{repo_url}/compare/{previous_commit}...{current_commit}"
-            response = requests.get(api_url, headers=self.headers)
-            response.raise_for_status()
-            return [(file['filename'], file['raw_url']) 
-                   for file in response.json()['files']
-                   if file['status'] != 'removed']
+    def _get_contents_recursively(self, repo_url, path=''):
+    """Recursively fetch all files and folders from a repository"""
+    files = []
+    api_url = f"https://api.github.com/repos/{repo_url}/contents/{path}"
+    response = requests.get(api_url, headers=self.headers)
+    response.raise_for_status()
+    
+    for item in response.json():
+        if item['type'] == 'file':
+            files.append((item['path'], item['download_url']))
+        elif item['type'] == 'dir':
+            # Recursively get contents of subdirectory
+            files.extend(self._get_contents_recursively(repo_url, item['path']))
+    return files
+
+def _get_changed_files(self, repo_url, current_commit, previous_commit=None):
+    """Get all files or changed files between commits"""
+    if not previous_commit:
+        # If no previous commit, get all files recursively
+        return self._get_contents_recursively(repo_url)
+    else:
+        # Get changed files between commits
+        api_url = f"https://api.github.com/repos/{repo_url}/compare/{previous_commit}...{current_commit}"
+        response = requests.get(api_url, headers=self.headers)
+        response.raise_for_status()
+        
+        changed_files = []
+        for file in response.json()['files']:
+            if file['status'] != 'removed':
+                # For modified or added files
+                if file['status'] in ['modified', 'added']:
+                    changed_files.append((file['filename'], file['raw_url']))
+                # For renamed files
+                elif file['status'] == 'renamed':
+                    changed_files.append((file['filename'], file['raw_url']))
+        return changed_files
 
     def _process_file(self, file_name, file_url, repo_folder):
         print(f"Processing file: {file_name}")
