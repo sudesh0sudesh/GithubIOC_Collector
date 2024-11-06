@@ -147,9 +147,7 @@ class IOCFetcher:
                                 else:
                                     f.write(f"{str(ioc)}\n")
             except requests.RequestException as e:
-                
                 logging.error(f"Error processing file {file_name} from {file_url}: {str(e)}")
-                continue
             else:
                 return None
             
