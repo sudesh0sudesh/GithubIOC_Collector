@@ -1,8 +1,8 @@
-name: Update Sophos IoCs
+name: Update IoCs
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: '*/5 * * * *'  # Runs every 12 hours
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
