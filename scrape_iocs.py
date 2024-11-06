@@ -82,7 +82,7 @@ class IOCFetcher:
             
             for item in response.json():
                 if item['type'] == 'file':
-                    files.append((item['path'], item['download_url']))
+                    files.append((item['path'], item['download_url'],item['size']))
                 elif item['type'] == 'dir':
                     # Recursively get contents of subdirectory
                     files.extend(self._get_contents_recursively(repo_url, item['path']))
@@ -116,7 +116,7 @@ class IOCFetcher:
                 logging.error(f"Error fetching changed files for {repo_url}: {str(e)}")
                 return []
 
-    def _process_file(self, file_name, file_url, repo_folder):
+    def _process_file(self, file_name, file_url, repo_folder,file_size):
 
         if file_url is not None:
             
@@ -132,7 +132,7 @@ class IOCFetcher:
                     f.write(response.content)
     
                 # Extract IOCs if applicable
-                if file_name.lower().endswith(('.txt', '.csv')):
+                if file_name.lower().endswith(('.txt', '.csv')) and file_size < 10000000:
                     logging.info(f"Processing {file_name}")
                     parser = IOCParser(response.text)
                     iocs = parser.parse()
@@ -170,8 +170,8 @@ class IOCFetcher:
                     print(f"Found new changes in {repo_url}")
                     changed_files = self._get_changed_files(repo_url, latest_commit, previous_commit)
                     
-                    for file_name, file_url in changed_files:
-                        self._process_file(file_name, file_url, repo_folder)
+                    for file_name, file_url, file_size in changed_files:
+                        self._process_file(file_name, file_url, repo_folder,file_size)
                     
                     self._update_repo_commit(repo_url, latest_commit)
                     updated = True
