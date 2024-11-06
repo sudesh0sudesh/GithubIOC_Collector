@@ -44,30 +44,44 @@ class SophosIOCFetcher:
         iocs = []
         for item in data:
             parser = IOCParser(item)
-            iocs.extend(parser.parse())
+            results = parser.parse()
+            # Extract the actual IOC value from each IOC object
+            for ioc in results:
+                if hasattr(ioc, 'value'):
+                    iocs.append(ioc.value)
+                elif hasattr(ioc, 'ioc'):
+                    iocs.append(ioc.ioc)
+                else:
+                    # Try converting the object directly to string as fallback
+                    iocs.append(str(ioc))
         return iocs
 
     def _save_iocs(self, iocs):
-        # Convert each IOC object to a string
-        ioc_strings = [str(ioc) for ioc in iocs]
+        # Remove any duplicates and sort
+        unique_iocs = sorted(set(iocs))
         with open(self.output_file, 'w') as f:
-            f.write('\n'.join(ioc_strings))
+            f.write('\n'.join(unique_iocs))
 
     def fetch_and_save(self):
         latest_commit = self._get_latest_commit()
         saved_commit = self._read_saved_commit()
 
         if latest_commit == saved_commit:
+            print("No new IOCs to fetch")
             return False
 
         ioc_data = self._download_ioc_files()
         if not ioc_data:
+            print("No IOC files found")
             return False
 
         parsed_iocs = self._parse_iocs(ioc_data)
-        self._save_iocs(parsed_iocs)
-        self._save_commit(latest_commit)
-        return True
+        if parsed_iocs:
+            self._save_iocs(parsed_iocs)
+            self._save_commit(latest_commit)
+            print(f"Successfully saved {len(parsed_iocs)} IOCs")
+            return True
+        return False
 
 def main():
     fetcher = SophosIOCFetcher()
