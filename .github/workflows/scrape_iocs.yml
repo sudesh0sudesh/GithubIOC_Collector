@@ -39,7 +39,7 @@ jobs:
       - name: Commit changes
         run: |
           git add --all
-          git commit -m "[AUTO] chore: update Sophos IoCs $(date '+%Y-%m-%d %H:%M:%S')"
+          git diff-index --quiet HEAD || git commit -m "[AUTO] update IoCs $(date '+%Y-%m-%d %H:%M:%S')"
           
       - name: Push changes
         uses: ad-m/github-push-action@master
