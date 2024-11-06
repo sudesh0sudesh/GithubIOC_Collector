@@ -107,10 +107,10 @@ class IOCFetcher:
                     if file['status'] != 'removed':
                         # For modified or added files
                         if file['status'] in ['modified', 'added']:
-                            changed_files.append((file['filename'], file['raw_url']))
+                            changed_files.append((file['filename'], file['raw_url'], file['size']))
                         # For renamed files
                         elif file['status'] == 'renamed':
-                            changed_files.append((file['filename'], file['raw_url']))
+                            changed_files.append((file['filename'], file['raw_url'], file['size']))
                 return changed_files
             except requests.RequestException as e:
                 logging.error(f"Error fetching changed files for {repo_url}: {str(e)}")
