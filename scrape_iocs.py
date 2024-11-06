@@ -129,6 +129,7 @@ class IOCFetcher:
 
             except Exception as e:
                 print(f"Error processing {repo_url}: {str(e)}")
+                continue
 
         return updated
 
