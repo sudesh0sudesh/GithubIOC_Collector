@@ -1,12 +1,14 @@
 # GithubIOC_Collector
 
-To Collect IoCs from Known GitHub Repos
+We Collect IoCs from Known GitHub Repos and store them here. 
 
 ## Introduction
 
 GithubIOC_Collector is designed to collect Indicators of Compromise (IoCs) from various known GitHub repositories. This project aims to provide a centralized resource for security professionals and researchers to access the latest IoCs and protect their systems against emerging threats.
 
 This repo will collect IoCs from the specified sources and store them in the relevant directories.
+
+Feel free to open any pull request.
 
 ## Sources
 
