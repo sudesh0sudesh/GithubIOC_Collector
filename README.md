@@ -69,3 +69,8 @@ The following sources are being collected and parsed:
    - Latest commit: f5ecc7bce2475e6bd1038a807bca3e313640fdf3
    - Last updated: 2024-11-06 21:50:32
 
+12. **eset/malware-ioc**
+   - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
+   - Latest commit: d2944b2f7eb57296de108b5370fd8de77960cc40
+   - Last updated: 2024-11-06 22:58:37
+
