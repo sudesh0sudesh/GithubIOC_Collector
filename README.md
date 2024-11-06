@@ -74,3 +74,13 @@ The following sources are being collected and parsed:
    - Latest commit: d2944b2f7eb57296de108b5370fd8de77960cc40
    - Last updated: 2024-11-06 22:58:37
 
+13. **hpthreatresearch/iocs**
+   - Repository: [hpthreatresearch/iocs](https://github.com/hpthreatresearch/iocs)
+   - Latest commit: 1e29108aaa233dd55f673574a4d75bc0e48a774b
+   - Last updated: 2024-11-06 23:21:27
+
+14. **PaloAltoNetworks/Unit42-timely-threat-intel**
+   - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
+   - Latest commit: 04f53f76c36778be1d478dd31dedd0ade51b9be5
+   - Last updated: 2024-11-06 23:22:04
+
