@@ -1,4 +1,4 @@
-# GithubIOC_Collector
+# Github_IOC_Collector
 
 We Collect IoCs from Known GitHub Repos and store them here. 
 
