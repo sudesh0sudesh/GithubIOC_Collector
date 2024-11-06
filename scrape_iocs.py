@@ -211,8 +211,9 @@ def update_readme():
 def main():
     fetcher = IOCFetcher()
     updated = fetcher.fetch_and_sync()
-    if updated:
-        update_readme()
+    update_readme()
+   
+        
 
 if __name__ == "__main__":
     main()
