@@ -22,7 +22,7 @@ class IOCFetcher:
             with open(self.repos_file, 'w', newline='') as f:
                 writer = csv.writer(f)
                 writer.writerow(['repository_url', 'latest_commit', 'last_updated'])
-                writer.writerow(['sophoslabs/IoCs', '', ''])
+
         
         if not os.path.exists(self.base_folder):
             os.makedirs(self.base_folder)
