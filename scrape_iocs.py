@@ -117,36 +117,41 @@ class IOCFetcher:
                 return []
 
     def _process_file(self, file_name, file_url, repo_folder):
-        print(f"Processing file: {file_name}")
-        try:
-            response = requests.get(file_url, headers=self.headers)
-            response.raise_for_status()
-            
-            # Save original file
-            file_path = os.path.join(repo_folder, 'original_files', file_name)
-            os.makedirs(os.path.dirname(file_path), exist_ok=True)
-            with open(file_path, 'wb') as f:
-                f.write(response.content)
 
-            # Extract IOCs if applicable
-            if file_name.lower().endswith(('.txt', '.csv')):
-                parser = IOCParser(response.text)
-                iocs = parser.parse()
-                if iocs:
-                    ioc_path = os.path.join(repo_folder, 'iocs', f"{file_name}.iocs")
-                    os.makedirs(os.path.dirname(ioc_path), exist_ok=True)
-                    with open(ioc_path, 'w') as f:
-                        for ioc in iocs:
-                            if hasattr(ioc, 'value'):
-                                f.write(f"{ioc.value}\n")
-                            elif hasattr(ioc, 'ioc'):
-                                f.write(f"{ioc.ioc}\n")
-                            else:
-                                f.write(f"{str(ioc)}\n")
-        except requests.RequestException as e:
+        if file_url is not None:
             
-            logging.error(f"Error processing file {file_name} from {file_url}: {str(e)}")
-            return None
+            print(f"Processing file: {file_name}")
+            try:
+                response = requests.get(file_url, headers=self.headers)
+                response.raise_for_status()
+                
+                # Save original file
+                file_path = os.path.join(repo_folder, 'original_files', file_name)
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)
+                with open(file_path, 'wb') as f:
+                    f.write(response.content)
+    
+                # Extract IOCs if applicable
+                if file_name.lower().endswith(('.txt', '.csv')):
+                    parser = IOCParser(response.text)
+                    iocs = parser.parse()
+                    if iocs:
+                        ioc_path = os.path.join(repo_folder, 'iocs', f"{file_name}.iocs")
+                        os.makedirs(os.path.dirname(ioc_path), exist_ok=True)
+                        with open(ioc_path, 'w') as f:
+                            for ioc in iocs:
+                                if hasattr(ioc, 'value'):
+                                    f.write(f"{ioc.value}\n")
+                                elif hasattr(ioc, 'ioc'):
+                                    f.write(f"{ioc.ioc}\n")
+                                else:
+                                    f.write(f"{str(ioc)}\n")
+            except requests.RequestException as e:
+                
+                logging.error(f"Error processing file {file_name} from {file_url}: {str(e)}")
+                continue
+            else:
+                return None
             
 
     def fetch_and_sync(self):
