@@ -188,7 +188,7 @@ def update_readme():
     def generate_sources_section(repos):
         sources_section = "## Sources\n\nThe following sources are being collected and parsed:\n\n"
         for idx, (repo_url, data) in enumerate(repos.items(), start=1):
-            sources_section += f"{idx}. **{repo_url.split('/')[-1]}**\n"
+            sources_section += f"{idx}. **{repo_url}**\n"
             sources_section += f"   - Repository: [{repo_url}](https://github.com/{repo_url})\n"
             sources_section += f"   - Latest commit: {data['latest_commit']}\n"
             sources_section += f"   - Last updated: {data['last_updated']}\n\n"
