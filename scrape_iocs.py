@@ -51,6 +51,7 @@ class IOCFetcher:
             writer.writerow(['repository_url', 'latest_commit', 'last_updated'])
             for repo, data in repos.items():
                 writer.writerow([repo, data['latest_commit'], data['last_updated']])
+        return True
 
     def _get_latest_commit(self, repo_url):
         api_url = f"https://api.github.com/repos/{repo_url}/commits"
