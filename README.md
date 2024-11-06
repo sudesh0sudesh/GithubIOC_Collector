@@ -57,12 +57,12 @@ The following sources are being collected and parsed:
    - Latest commit: 00edefe2a4b08a77e4fe07d09ee6a2d80aaed97c
    - Last updated: 2024-11-06 21:23:49
 
-10. **IOCs**
+10. ** blacklotuslabs IOCs**
    - Repository: [blacklotuslabs/IOCs](https://github.com/blacklotuslabs/IOCs)
    - Latest commit: 01e4f0cdbcce4bc2a2ff900ea9fc22c556f18124
    - Last updated: 2024-11-06 21:23:55
 
-11. **threat-intel**
+11. ** volexity threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
    - Latest commit: f5ecc7bce2475e6bd1038a807bca3e313640fdf3
    - Last updated: 2024-11-06 21:50:32
