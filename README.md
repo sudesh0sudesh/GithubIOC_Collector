@@ -1,4 +1,3 @@
-
 # GithubIOC_Collector
 
 To Collect IoCs from Known GitHub Repos

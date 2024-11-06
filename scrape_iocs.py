@@ -184,9 +184,35 @@ class IOCFetcher:
 
         return updated
 
+def update_readme():
+    def generate_sources_section(repos):
+        sources_section = "## Sources\n\nThe following sources are being collected and parsed:\n\n"
+        for idx, (repo_url, data) in enumerate(repos.items(), start=1):
+            sources_section += f"{idx}. **{repo_url.split('/')[-1]}**\n"
+            sources_section += f"   - Repository: [{repo_url}](https://github.com/{repo_url})\n"
+            sources_section += f"   - Latest commit: {data['latest_commit']}\n"
+            sources_section += f"   - Last updated: {data['last_updated']}\n\n"
+        return sources_section
+
+    def write_readme(content):
+        with open("README.md", "w") as f:
+            f.write(content)
+
+    repos = IOCFetcher()._read_repos()
+    sources_section = generate_sources_section(repos)
+
+    with open("README.md", "r") as f:
+        readme_content = f.read()
+
+    updated_content = readme_content.split("## Sources")[0] + sources_section
+
+    write_readme(updated_content)
+
 def main():
     fetcher = IOCFetcher()
-    return fetcher.fetch_and_sync()
+    updated = fetcher.fetch_and_sync()
+    if updated:
+        update_readme()
 
 if __name__ == "__main__":
     main()
