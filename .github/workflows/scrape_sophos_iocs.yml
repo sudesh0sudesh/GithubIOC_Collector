@@ -29,7 +29,7 @@ jobs:
       - name: Run IoC fetcher
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/fetch_iocs.py
+        run: python scrape_sophos_iocs.py
 
       - name: Commit changes
         uses: devops-infra/action-commit-push@master
