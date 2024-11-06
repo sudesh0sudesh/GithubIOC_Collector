@@ -94,3 +94,8 @@ The following sources are being collected and parsed:
    - Latest commit: 4c03d29a1c9da20dbb61e75a7489389b69cff864
    - Last updated: 2024-11-06 23:35:01
 
+17. **google/threat-team**
+   - Repository: [google/threat-team](https://github.com/google/threat-team)
+   - Latest commit: 2a8c744923f263ad0f6403986ba5d671de273766
+   - Last updated: 2024-11-06 23:45:49
+
