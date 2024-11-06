@@ -133,6 +133,7 @@ class IOCFetcher:
     
                 # Extract IOCs if applicable
                 if file_name.lower().endswith(('.txt', '.csv')):
+                    logging.info(f"Processing {file_name}")
                     parser = IOCParser(response.text)
                     iocs = parser.parse()
                     if iocs:
