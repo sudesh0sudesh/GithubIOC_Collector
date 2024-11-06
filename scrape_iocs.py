@@ -120,7 +120,7 @@ class IOCFetcher:
 
         if file_url is not None:
             
-            print(f"Processing file: {file_name}")
+    
             try:
                 response = requests.get(file_url, headers=self.headers)
                 response.raise_for_status()
