@@ -31,6 +31,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scrape_iocs.py
 
+      - name: Update README
+        run: python -c "from scrape_iocs import update_readme; update_readme()"
+
       - name: Configure Git
         run: |
           git config --local user.email "sudesh@sudesh.com"
