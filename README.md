@@ -99,3 +99,23 @@ The following sources are being collected and parsed:
    - Latest commit: 2a8c744923f263ad0f6403986ba5d671de273766
    - Last updated: 2024-11-06 23:45:49
 
+18. **elastic/labs-releases**
+   - Repository: [elastic/labs-releases](https://github.com/elastic/labs-releases)
+   - Latest commit: 97f7550b1b5733ead50f4b8a6c72e2910c369c46
+   - Last updated: 2024-11-06 23:58:07
+
+19. **DoctorWebLtd/malware-iocs**
+   - Repository: [DoctorWebLtd/malware-iocs](https://github.com/DoctorWebLtd/malware-iocs)
+   - Latest commit: 53104564ec17d19fe38e1c45eab52161fa4a17f3
+   - Last updated: 2024-11-06 23:58:33
+
+20. **prodaft/malware-ioc**
+   - Repository: [prodaft/malware-ioc](https://github.com/prodaft/malware-ioc)
+   - Latest commit: 47ab975bf29b2af41bfe4db2c2ff2a1a5f396618
+   - Last updated: 2024-11-06 23:59:04
+
+21. **WithSecureLabs/iocs**
+   - Repository: [WithSecureLabs/iocs](https://github.com/WithSecureLabs/iocs)
+   - Latest commit: 29adc4b6c2c2850f0f385aec77ab6fc0d7a8f20c
+   - Last updated: 2024-11-06 23:59:10
+
