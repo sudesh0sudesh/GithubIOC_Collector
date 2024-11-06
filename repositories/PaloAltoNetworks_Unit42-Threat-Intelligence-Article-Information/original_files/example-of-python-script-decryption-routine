@@ -1,0 +1,7 @@
+# Linked from: https://unit42.paloaltonetworks.com/malware-configuration-extraction-techniques-guloader-redline-stealer/
+@staticmethod
+def decrypt(ctx: bytes, key: bytes) -> Optional[bytes]:
+    try:
+        return b64decode(bytes([a ^ b for (a, b) in zip(b64decode(ctx), cycle(key))]))
+    except (ValueError, binascii.Error):
+        return None
