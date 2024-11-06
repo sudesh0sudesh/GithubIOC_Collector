@@ -59,7 +59,7 @@ class SophosIOCFetcher:
     def _save_iocs(self, iocs):
         # Remove any duplicates and sort
         unique_iocs = sorted(set(iocs))
-        with open(self.output_file, 'w') as f:
+        with open(self.output_file, 'a') as f:
             f.write('\n'.join(unique_iocs))
 
     def fetch_and_save(self):
