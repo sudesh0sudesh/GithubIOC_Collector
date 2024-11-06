@@ -42,7 +42,15 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "[AUTO] update IoCs $(date '+%Y-%m-%d %H:%M:%S')"
           
       - name: Push changes
+        id: push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Force push if previous push failed
+        if: failure()
+        run: |
+          git push --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
