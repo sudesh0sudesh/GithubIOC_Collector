@@ -13,5 +13,5 @@ volexity/threat-intel,f5ecc7bce2475e6bd1038a807bca3e313640fdf3,2024-11-06 21:50:
 eset/malware-ioc,d2944b2f7eb57296de108b5370fd8de77960cc40,2024-11-06 22:58:37
 hpthreatresearch/iocs,1e29108aaa233dd55f673574a4d75bc0e48a774b,2024-11-06 23:21:27
 PaloAltoNetworks/Unit42-timely-threat-intel,04f53f76c36778be1d478dd31dedd0ade51b9be5,2024-11-06 23:22:04
-infobloxopen/threat-intelligence,,
-netskopeoss/NetskopeThreatLabsIOCs,,
+infobloxopen/threat-intelligence,3d86ee87877e711e7f823d48c45c9e3a1699d6e5,2024-11-06 23:34:24
+netskopeoss/NetskopeThreatLabsIOCs,4c03d29a1c9da20dbb61e75a7489389b69cff864,2024-11-06 23:35:01
