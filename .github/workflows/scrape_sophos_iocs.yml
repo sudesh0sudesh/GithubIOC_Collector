@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add latest_commit.txt sophos_iocs.txt
+          git add --all
           git commit -m "[AUTO] chore: update Sophos IoCs $(date '+%Y-%m-%d %H:%M:%S')"
           
       - name: Push changes
