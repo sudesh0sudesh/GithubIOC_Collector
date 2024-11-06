@@ -18,3 +18,5 @@ netskopeoss/NetskopeThreatLabsIOCs,4c03d29a1c9da20dbb61e75a7489389b69cff864,2024
 google/threat-team,2a8c744923f263ad0f6403986ba5d671de273766,2024-11-06 23:45:49
 elastic/labs-releases,,
 DoctorWebLtd/malware-iocs,,
+prodaft/malware-ioc,,
+WithSecureLabs/iocs,,
