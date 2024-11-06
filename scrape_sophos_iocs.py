@@ -1,36 +1,61 @@
 import requests
 import os
-from iocparser import IOCParser
+import csv
 from datetime import datetime
+from iocparser import IOCParser
 
-class SophosIOCFetcher:
+class IOCFetcher:
     def __init__(self):
-        self.base_url = "https://api.github.com/repos/sophoslabs/IoCs"
-        self.commit_file = "latest_commit.txt"
+        self.repos_file = "ioc_sources.csv"
         self.output_file = "sophos_iocs.txt"
         self.github_token = os.getenv('GITHUB_TOKEN')
         self.headers = {
             'Authorization': f'Bearer {self.github_token}',
             'Accept': 'application/vnd.github.v3+json'
         }
+        self._init_repos_file()
 
-    def _get_latest_commit(self):
-        response = requests.get(f"{self.base_url}/commits", headers=self.headers)
+    def _init_repos_file(self):
+        if not os.path.exists(self.repos_file):
+            with open(self.repos_file, 'w', newline='') as f:
+                writer = csv.writer(f)
+                writer.writerow(['repository_url', 'latest_commit', 'last_updated'])
+                # Add initial repository
+                writer.writerow(['sophoslabs/IoCs', '', ''])
+
+    def _read_repos(self):
+        repos = {}
+        with open(self.repos_file, 'r') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                repos[row['repository_url']] = {
+                    'latest_commit': row['latest_commit'],
+                    'last_updated': row['last_updated']
+                }
+        return repos
+
+    def _update_repo_commit(self, repo_url, commit_sha):
+        repos = self._read_repos()
+        repos[repo_url] = {
+            'latest_commit': commit_sha,
+            'last_updated': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        }
+        
+        with open(self.repos_file, 'w', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(['repository_url', 'latest_commit', 'last_updated'])
+            for repo, data in repos.items():
+                writer.writerow([repo, data['latest_commit'], data['last_updated']])
+
+    def _get_latest_commit(self, repo_url):
+        api_url = f"https://api.github.com/repos/{repo_url}/commits"
+        response = requests.get(api_url, headers=self.headers)
         response.raise_for_status()
         return response.json()[0]['sha']
 
-    def _read_saved_commit(self):
-        if not os.path.exists(self.commit_file):
-            return ""
-        with open(self.commit_file, "r") as f:
-            return f.read().strip()
-
-    def _save_commit(self, commit_sha):
-        with open(self.commit_file, "w") as f:
-            f.write(commit_sha)
-
-    def _download_ioc_files(self):
-        response = requests.get(f"{self.base_url}/contents", headers=self.headers)
+    def _download_ioc_files(self, repo_url):
+        api_url = f"https://api.github.com/repos/{repo_url}/contents"
+        response = requests.get(api_url, headers=self.headers)
         response.raise_for_status()
         
         iocs_data = []
@@ -40,7 +65,8 @@ class SophosIOCFetcher:
                 file_response.raise_for_status()
                 iocs_data.append({
                     'filename': file['name'],
-                    'content': file_response.text
+                    'content': file_response.text,
+                    'repo': repo_url
                 })
         return iocs_data
 
@@ -62,6 +88,7 @@ class SophosIOCFetcher:
             f.write(f"\n\n# Updated: {timestamp}\n")
             
             for item in iocs_data:
+                repo = item['repo']
                 filename = item['filename']
                 parser = IOCParser(item['content'])
                 results = parser.parse()
@@ -69,30 +96,34 @@ class SophosIOCFetcher:
                 
                 if parsed_iocs:
                     unique_iocs = sorted(set(parsed_iocs))
-                    f.write(f"\n## Source: {filename}\n")
+                    f.write(f"\n## Source: {repo}/{filename}\n")
                     f.write('\n'.join(unique_iocs))
                     f.write('\n')
-                    print(f"Saved {len(unique_iocs)} IOCs from {filename}")
+                    print(f"Saved {len(unique_iocs)} IOCs from {repo}/{filename}")
 
     def fetch_and_save(self):
-        latest_commit = self._get_latest_commit()
-        saved_commit = self._read_saved_commit()
+        repos = self._read_repos()
+        updated = False
 
-        if latest_commit == saved_commit:
-            print("No new IOCs to fetch")
-            return False
+        for repo_url in repos:
+            try:
+                latest_commit = self._get_latest_commit(repo_url)
+                if latest_commit != repos[repo_url]['latest_commit']:
+                    print(f"Fetching new IOCs from {repo_url}")
+                    iocs_data = self._download_ioc_files(repo_url)
+                    if iocs_data:
+                        self._save_iocs(iocs_data)
+                        self._update_repo_commit(repo_url, latest_commit)
+                        updated = True
+                else:
+                    print(f"No new IOCs in {repo_url}")
+            except Exception as e:
+                print(f"Error processing {repo_url}: {str(e)}")
 
-        iocs_data = self._download_ioc_files()
-        if not iocs_data:
-            print("No IOC files found")
-            return False
-
-        self._save_iocs(iocs_data)
-        self._save_commit(latest_commit)
-        return True
+        return updated
 
 def main():
-    fetcher = SophosIOCFetcher()
+    fetcher = IOCFetcher()
     return fetcher.fetch_and_save()
 
 if __name__ == "__main__":
