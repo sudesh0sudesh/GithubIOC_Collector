@@ -136,6 +136,11 @@ class IOCFetcher:
             try:
                 response = requests.get(file_url, headers=self.headers)
                 response.raise_for_status()
+                hash_keys = {
+                    'md5': 'MD5',
+                    'sha1': 'SHA-1',
+                    'sha256': 'SHA-256'
+                }
                 
                 # Save original file
                 file_path = os.path.join(repo_folder, 'original_files', file_name)
@@ -167,10 +172,8 @@ class IOCFetcher:
                                     elif validators.email(ioc_value):
                                         observable = EmailAddress(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
                                     elif ioc.kind in ['md5', 'sha1', 'sha256']:
-                                        hash_type = ioc.kind.upper()
+                                        hash_type = hash_keys.get(ioc.kind.lower())
                                         observable = File(hashes={hash_type: ioc_value}, allow_custom=True, x_opencti_description=file_name)
-                                    elif ioc.kind == 'file':
-                                        observable = File(name=ioc_value,   allow_custom=True, x_opencti_description=file_name)
                                     elif ioc.kind == 'CVE':
                                         observable = Vulnerability(name=ioc_value, allow_custom=True, x_opencti_description=file_name)
                                     else:
