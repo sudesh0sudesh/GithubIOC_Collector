@@ -111,7 +111,7 @@ class IOCFetcher:
                             response = requests.get(file_contents_url, headers=self.headers)
                             response.raise_for_status()
                             file_details=response.json()
-                            file_size=file_details.get(size)
+                            file_size=file_details.get('size')
                             changed_files.append((file['filename'], file['raw_url'], file_size))
                         # For renamed files
                         elif file['status'] == 'renamed':
@@ -119,7 +119,7 @@ class IOCFetcher:
                             response = requests.get(file_contents_url, headers=self.headers)
                             response.raise_for_status()
                             file_details=response.json()
-                            file_size=file_details.get(size)
+                            file_size=file_details.get('size')
                             changed_files.append((file['filename'], file['raw_url'], file_size))
                 return changed_files
             except requests.RequestException as e:
