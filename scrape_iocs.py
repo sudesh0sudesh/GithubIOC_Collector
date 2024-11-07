@@ -4,6 +4,8 @@ import csv
 from datetime import datetime
 from iocparser import IOCParser
 import logging
+import validators
+from stix2 import Bundle, DomainName, IPv4Address, IPv6Address, File, URL, EmailAddress, Vulnerability
 
 class IOCFetcher:
     def __init__(self):
@@ -107,20 +109,10 @@ class IOCFetcher:
                     if file['status'] != 'removed':
                         # For modified or added files
                         if file['status'] in ['modified', 'added']:
-                            file_contents_url=file['contents_url']
-                            response = requests.get(file_contents_url, headers=self.headers)
-                            response.raise_for_status()
-                            file_details=response.json()
-                            file_size=file_details.get('size')
-                            changed_files.append((file['filename'], file['raw_url'], file_size))
+                            changed_files.append((file['filename'], file['raw_url'], file['size']))
                         # For renamed files
                         elif file['status'] == 'renamed':
-                            file_contents_url=file['contents_url']
-                            response = requests.get(file_contents_url, headers=self.headers)
-                            response.raise_for_status()
-                            file_details=response.json()
-                            file_size=file_details.get('size')
-                            changed_files.append((file['filename'], file['raw_url'], file_size))
+                            changed_files.append((file['filename'], file['raw_url'], file['size']))
                 return changed_files
             except requests.RequestException as e:
                 logging.error(f"Error fetching changed files for {repo_url}: {str(e)}")
@@ -140,7 +132,7 @@ class IOCFetcher:
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
-    
+                stix_objects = []
                 # Extract IOCs if applicable
                 if file_name.lower().endswith(('.txt', '.csv')) and file_size < 10000000:
                     logging.info(f"Processing {file_name}")
@@ -151,13 +143,39 @@ class IOCFetcher:
                         os.makedirs(os.path.dirname(ioc_path), exist_ok=True)
                         with open(ioc_path, 'w') as f:
                             for ioc in iocs:
-                                logging.info(ioc.kind)
                                 if hasattr(ioc, 'value'):
                                     f.write(f"{ioc.value}\n")
+                                    ioc_value = ioc.value
+                                    if validators.ipv4(ioc_value):
+                                        observable = IPv4Address(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    elif validators.ipv6(ioc_value):
+                                        observable = IPv6Address(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    elif validators.url(ioc_value):
+                                        observable = URL(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    elif validators.domain(ioc_value):
+                                        observable = DomainName(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    elif validators.email(ioc_value):
+                                        observable = EmailAddress(value=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    elif ioc.kind in ['md5', 'sha1', 'sha256']:
+                                        hash_type = ioc.kind.upper()
+                                        observable = File(hashes={hash_type: ioc_value}, allow_custom=True, x_opencti_description=file_name)
+                                    elif ioc.kind == 'file':
+                                        observable = File(name=ioc_value,   allow_custom=True, x_opencti_description=file_name)
+                                    elif ioc.kind == 'CVE':
+                                        observable = Vulnerability(name=ioc_value, allow_custom=True, x_opencti_description=file_name)
+                                    else:
+                                        logging.warning(f"Unsupported IOC kind or invalid value: {ioc_value}")
+                                        continue
+                                    stix_objects.append(observable)
                                 elif hasattr(ioc, 'ioc'):
                                     f.write(f"{ioc.ioc}\n")
                                 else:
                                     f.write(f"{str(ioc)}\n")
+                    if stix_objects:
+                        bundle = Bundle(objects=stix_objects)
+                        stix_path = os.path.join(repo_folder, 'stix', f"{file_name}.json")
+                        with open(stix_path, 'w') as f:
+                            f.write(bundle.serialize(indent=2))
             except requests.RequestException as e:
                 logging.error(f"Error processing file {file_name} from {file_url}: {str(e)}")
         else:
