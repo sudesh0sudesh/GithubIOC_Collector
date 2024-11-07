@@ -1,0 +1,2381 @@
+{
+  "type": "bundle",
+  "id": "bundle--5d9f191b-1c73-477f-8e67-a1e59eda5ea5",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a11cb94e-fcc7-5c59-9406-0d3322065190",
+      "value": "185.225.74.91",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2df0e765-361d-5746-b28a-cdf95bd795cf",
+      "value": "84.21.172.49",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a11cb94e-fcc7-5c59-9406-0d3322065190",
+      "value": "185.225.74.91",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2df0e765-361d-5746-b28a-cdf95bd795cf",
+      "value": "84.21.172.49",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ffacf88e-e48b-5236-a21c-dd3e5caaa267",
+      "value": "109.206.240.67",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea3c4d01-4903-57ca-b822-3f18b601c663",
+      "value": "5.8.8.100",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--358b4e22-a748-56d5-a3c0-2fb64276ef9e",
+      "value": "194.180.48.211",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d07d4f12-3653-5557-8bd9-f6b1eb33113d",
+      "value": "https://news.sophos.com/en-us/2023/04/13/tax-firms-targeted-by-precision-malware-attacks,Indicators",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09d2da78-ef4f-5728-9bd2-b9719f6d42f4",
+      "value": "Barberers.com",
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4dbddd4b-e7fb-5035-b78c-e41359bbbb5a",
+      "hashes": {
+        "SHA-256": "1dc173bba60254b915f8fa88f2ee5730f8d9ba3919ffa7c7a3cc28c3728c43ec"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e87d627b-ae33-55c2-badd-25260b57b02d",
+      "hashes": {
+        "SHA-256": "29201f916b42e013f24a8a0b2543c25ec04e119b4d0969ddd8aff696f84af7ee"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c12b7f42-b733-5ad2-bfc6-dfbbbc36d802",
+      "hashes": {
+        "SHA-256": "2f2892ce3885179c5ddd3ced5f8e3ae5f890ed0cef989f62a0285de136e31fa3"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db545b38-5492-5ed0-bc4a-26a2fa6de693",
+      "hashes": {
+        "SHA-256": "562ec1673c90fd1932f60b0f4e26e02a059347b88aa2d8fc0bddd058427d6946"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17c38572-5a8a-5b3e-b1f9-d03666036ebb",
+      "hashes": {
+        "SHA-256": "5ac2a9e27896c467eb5363ab24c931a5b721c3a715590441a936eb49b06dfb3e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4269c267-718d-5656-86fd-b2f28a0e2922",
+      "hashes": {
+        "SHA-256": "9b137eda8682306f5f5fb22b375ba35c406c0c167bd1ce632165849148439890"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b14766c-18bf-50a0-bfa2-b11cb0e001af",
+      "hashes": {
+        "SHA-256": "de78ba7cedda5de72f399a0bd7b597e880ebd517144bbeb2dd0a4e12d353d749"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--43dd443f-d895-57d6-b4cb-1201c6b60dd5",
+      "hashes": {
+        "SHA-256": "fc06588222dd51a08f9359e5d6ce9ee8c2ae90ff700533bc47d2ab4ead0071e8"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53b8c2a8-de6f-5871-87ab-f2d5d3ac9746",
+      "hashes": {
+        "SHA-256": "20d129d8ad727dc816fac7ab3dc4d3d3f3666220822de0d722db763fa138a246"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8cac0921-38a1-5aff-b727-f0efd7fe6786",
+      "hashes": {
+        "SHA-256": "2082d90b180fdb036a6962f3fa11b00355148d9805498c877cb9e50719504197"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53b8c2a8-de6f-5871-87ab-f2d5d3ac9746",
+      "hashes": {
+        "SHA-256": "20d129d8ad727dc816fac7ab3dc4d3d3f3666220822de0d722db763fa138a246"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf0e1af9-0a52-5d15-8af6-8b2889e8e7cb",
+      "hashes": {
+        "SHA-256": "f63c66e07e040e708df5cd1b1ef48cdea68b2671b3ca064b84b5c6f472c7aa45"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b38a86b-184f-52cf-9749-8245aaa4cccf",
+      "hashes": {
+        "SHA-256": "aa43adb550baa16035171f92597d499091e2c03501c518005ba720ec41df5a69"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40d26be6-fb7a-5075-8641-fde09dfb89c1",
+      "hashes": {
+        "SHA-256": "bf53353a99e6bdf0e54536a5ec3575dea72521067d51a167bf2f298dc86ade03"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c550b552-b73e-5b95-a885-bd3970299d61",
+      "hashes": {
+        "SHA-256": "3c712a8766a7631cb759dd675ab8ea4042ba999a5d5e42d70fa2d5a16081a3a1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21e24a1d-2347-5e1e-b805-f1d90339c601",
+      "hashes": {
+        "SHA-256": "262da5c16cbbf2f260a108f6ecbee001d4b9f9dae654f2ecdcd5430eefd9bff0"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76bbc532-01af-58d7-a739-b37ea20a1575",
+      "hashes": {
+        "SHA-256": "f0c43fccef7aac3b05a3a41cba5e77169f986d1efab526b653c02aa0b4f0f942"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eec66dd0-091e-52c0-9911-31163dbb5933",
+      "hashes": {
+        "SHA-256": "c914dab00f2b1d63c50eb217eeb29bcd5fe20b4e61538b0d9d052ff1b746fd73"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95293405-325d-54a8-a3f3-d26101925294",
+      "hashes": {
+        "SHA-256": "98bb3f8295ccac02a4e582b38a6903273ee50aff223707521982409b4c04e992"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26fd5a31-87f8-54ee-8e74-506c19145b5d",
+      "hashes": {
+        "SHA-256": "6fd1085c9e5e041727cdd1a9b1135299590ad811ea075638256f2817d498d79d"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6c7e13b-713a-5ca3-b60d-a0a3cd013b1b",
+      "hashes": {
+        "SHA-256": "b5869cb9bd976620e9faa16645b66d6aa03e9223c2c5c26f68ebeb27e20c0abc"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfd4a16b-9879-5a3f-814c-342e74806b21",
+      "hashes": {
+        "SHA-256": "87dc4e513a7023f1b8d38499c6fede4e6ab7ec563e1f0dbbd5e9b365e213d145"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--446ffdb3-786a-5dd4-ae88-8d93a3ce8454",
+      "hashes": {
+        "SHA-256": "926fe7f70c86b5c16a632344191820206772f8c53ac075446b138d209a1bf22a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84009bed-5da1-557a-bf0e-c1a2255d25e9",
+      "hashes": {
+        "SHA-256": "ee87e8e9b53378dcea4dd36cdaa9da7e0adaad34e25a2bfcff259b10fc4c7def"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95293405-325d-54a8-a3f3-d26101925294",
+      "hashes": {
+        "SHA-256": "98bb3f8295ccac02a4e582b38a6903273ee50aff223707521982409b4c04e992"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26fd5a31-87f8-54ee-8e74-506c19145b5d",
+      "hashes": {
+        "SHA-256": "6fd1085c9e5e041727cdd1a9b1135299590ad811ea075638256f2817d498d79d"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84009bed-5da1-557a-bf0e-c1a2255d25e9",
+      "hashes": {
+        "SHA-256": "ee87e8e9b53378dcea4dd36cdaa9da7e0adaad34e25a2bfcff259b10fc4c7def"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8856cdbb-2cce-54e1-a3c5-f7058506ecba",
+      "hashes": {
+        "SHA-256": "ffe477577469c87c606e0cbd9d0da68446cd8d895e4f4ab0a083f0a05ac8ab20"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c04d68a8-3ea5-5a2d-8b88-03d789908bdf",
+      "hashes": {
+        "SHA-256": "c696155091e3cc0099b483c9b7356bc9cb62f69ab9dc1cbad38e4cdd69a893a4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--348df401-5ed6-57ec-9d40-7af75956fade",
+      "hashes": {
+        "SHA-256": "036a1d5da899b6e3616bda59d6e5f5d1760d726e88a1373bbdca83f0d82451e6"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8856cdbb-2cce-54e1-a3c5-f7058506ecba",
+      "hashes": {
+        "SHA-256": "ffe477577469c87c606e0cbd9d0da68446cd8d895e4f4ab0a083f0a05ac8ab20"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c04d68a8-3ea5-5a2d-8b88-03d789908bdf",
+      "hashes": {
+        "SHA-256": "c696155091e3cc0099b483c9b7356bc9cb62f69ab9dc1cbad38e4cdd69a893a4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--348df401-5ed6-57ec-9d40-7af75956fade",
+      "hashes": {
+        "SHA-256": "036a1d5da899b6e3616bda59d6e5f5d1760d726e88a1373bbdca83f0d82451e6"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2fb0cae-5085-523b-bd60-9ae2691d6b0d",
+      "hashes": {
+        "SHA-256": "34a689fc4ca1f0b001bee4b0640487e98fce0c67ec67cdf076d86efe9b10072f"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfd4a16b-9879-5a3f-814c-342e74806b21",
+      "hashes": {
+        "SHA-256": "87dc4e513a7023f1b8d38499c6fede4e6ab7ec563e1f0dbbd5e9b365e213d145"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--446ffdb3-786a-5dd4-ae88-8d93a3ce8454",
+      "hashes": {
+        "SHA-256": "926fe7f70c86b5c16a632344191820206772f8c53ac075446b138d209a1bf22a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53b8c2a8-de6f-5871-87ab-f2d5d3ac9746",
+      "hashes": {
+        "SHA-256": "20d129d8ad727dc816fac7ab3dc4d3d3f3666220822de0d722db763fa138a246"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf0e1af9-0a52-5d15-8af6-8b2889e8e7cb",
+      "hashes": {
+        "SHA-256": "f63c66e07e040e708df5cd1b1ef48cdea68b2671b3ca064b84b5c6f472c7aa45"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b38a86b-184f-52cf-9749-8245aaa4cccf",
+      "hashes": {
+        "SHA-256": "aa43adb550baa16035171f92597d499091e2c03501c518005ba720ec41df5a69"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40d26be6-fb7a-5075-8641-fde09dfb89c1",
+      "hashes": {
+        "SHA-256": "bf53353a99e6bdf0e54536a5ec3575dea72521067d51a167bf2f298dc86ade03"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c550b552-b73e-5b95-a885-bd3970299d61",
+      "hashes": {
+        "SHA-256": "3c712a8766a7631cb759dd675ab8ea4042ba999a5d5e42d70fa2d5a16081a3a1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21e24a1d-2347-5e1e-b805-f1d90339c601",
+      "hashes": {
+        "SHA-256": "262da5c16cbbf2f260a108f6ecbee001d4b9f9dae654f2ecdcd5430eefd9bff0"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76bbc532-01af-58d7-a739-b37ea20a1575",
+      "hashes": {
+        "SHA-256": "f0c43fccef7aac3b05a3a41cba5e77169f986d1efab526b653c02aa0b4f0f942"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eec66dd0-091e-52c0-9911-31163dbb5933",
+      "hashes": {
+        "SHA-256": "c914dab00f2b1d63c50eb217eeb29bcd5fe20b4e61538b0d9d052ff1b746fd73"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95293405-325d-54a8-a3f3-d26101925294",
+      "hashes": {
+        "SHA-256": "98bb3f8295ccac02a4e582b38a6903273ee50aff223707521982409b4c04e992"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26fd5a31-87f8-54ee-8e74-506c19145b5d",
+      "hashes": {
+        "SHA-256": "6fd1085c9e5e041727cdd1a9b1135299590ad811ea075638256f2817d498d79d"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6c7e13b-713a-5ca3-b60d-a0a3cd013b1b",
+      "hashes": {
+        "SHA-256": "b5869cb9bd976620e9faa16645b66d6aa03e9223c2c5c26f68ebeb27e20c0abc"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfd4a16b-9879-5a3f-814c-342e74806b21",
+      "hashes": {
+        "SHA-256": "87dc4e513a7023f1b8d38499c6fede4e6ab7ec563e1f0dbbd5e9b365e213d145"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--446ffdb3-786a-5dd4-ae88-8d93a3ce8454",
+      "hashes": {
+        "SHA-256": "926fe7f70c86b5c16a632344191820206772f8c53ac075446b138d209a1bf22a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84009bed-5da1-557a-bf0e-c1a2255d25e9",
+      "hashes": {
+        "SHA-256": "ee87e8e9b53378dcea4dd36cdaa9da7e0adaad34e25a2bfcff259b10fc4c7def"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95293405-325d-54a8-a3f3-d26101925294",
+      "hashes": {
+        "SHA-256": "98bb3f8295ccac02a4e582b38a6903273ee50aff223707521982409b4c04e992"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26fd5a31-87f8-54ee-8e74-506c19145b5d",
+      "hashes": {
+        "SHA-256": "6fd1085c9e5e041727cdd1a9b1135299590ad811ea075638256f2817d498d79d"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84009bed-5da1-557a-bf0e-c1a2255d25e9",
+      "hashes": {
+        "SHA-256": "ee87e8e9b53378dcea4dd36cdaa9da7e0adaad34e25a2bfcff259b10fc4c7def"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8856cdbb-2cce-54e1-a3c5-f7058506ecba",
+      "hashes": {
+        "SHA-256": "ffe477577469c87c606e0cbd9d0da68446cd8d895e4f4ab0a083f0a05ac8ab20"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c04d68a8-3ea5-5a2d-8b88-03d789908bdf",
+      "hashes": {
+        "SHA-256": "c696155091e3cc0099b483c9b7356bc9cb62f69ab9dc1cbad38e4cdd69a893a4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--348df401-5ed6-57ec-9d40-7af75956fade",
+      "hashes": {
+        "SHA-256": "036a1d5da899b6e3616bda59d6e5f5d1760d726e88a1373bbdca83f0d82451e6"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8856cdbb-2cce-54e1-a3c5-f7058506ecba",
+      "hashes": {
+        "SHA-256": "ffe477577469c87c606e0cbd9d0da68446cd8d895e4f4ab0a083f0a05ac8ab20"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c04d68a8-3ea5-5a2d-8b88-03d789908bdf",
+      "hashes": {
+        "SHA-256": "c696155091e3cc0099b483c9b7356bc9cb62f69ab9dc1cbad38e4cdd69a893a4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--395c14d2-410f-500e-8ff9-5a63a7d883cb",
+      "hashes": {
+        "SHA-256": "3f8d5e1d534fa88a05f1c9368643466fdd9525385d05f90dd6f4431c6a932290"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--348df401-5ed6-57ec-9d40-7af75956fade",
+      "hashes": {
+        "SHA-256": "036a1d5da899b6e3616bda59d6e5f5d1760d726e88a1373bbdca83f0d82451e6"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2fb0cae-5085-523b-bd60-9ae2691d6b0d",
+      "hashes": {
+        "SHA-256": "34a689fc4ca1f0b001bee4b0640487e98fce0c67ec67cdf076d86efe9b10072f"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfd4a16b-9879-5a3f-814c-342e74806b21",
+      "hashes": {
+        "SHA-256": "87dc4e513a7023f1b8d38499c6fede4e6ab7ec563e1f0dbbd5e9b365e213d145"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--446ffdb3-786a-5dd4-ae88-8d93a3ce8454",
+      "hashes": {
+        "SHA-256": "926fe7f70c86b5c16a632344191820206772f8c53ac075446b138d209a1bf22a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc4f51af-9a59-5112-8ba3-631120576857",
+      "hashes": {
+        "SHA-256": "a1402e3d5679e4613572e46f328a9851b58c06af66bd3c5d721d34ff38768b8e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50f6e622-1c48-564c-99ca-24f063cde3ab",
+      "hashes": {
+        "SHA-256": "31af880d26c1b7e38e48808b8c0dc8cb559a87cb4f9c53cb29ba814300779a96"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a625f25f-1f28-53a5-9800-f2cda2767d80",
+      "hashes": {
+        "SHA-256": "b0e25efae0f58ec99fefe1aa4fe88ff57ea6d2ffbf61931d5c7d622e76c60e0a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8fd33cd-6cf3-52b1-a193-a6ad03ed65aa",
+      "hashes": {
+        "SHA-256": "db8f07dad19acc99f9078c7e3c873d9542f422b32e09402e8eb166fbee9a150d"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--786ba581-867f-5932-89d6-64428694080f",
+      "hashes": {
+        "SHA-256": "cf311a5bd7a1da3989fcd28caffc6fe8f3d5bc586588c5506421caebd000cab6"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0aa9270-c657-5951-837d-0b0566255b9d",
+      "hashes": {
+        "SHA-256": "48681b7a871998f0bd71a8b55b82cc6ff1170b8c52e81bdd9c4bef54ad04520b"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eee4009b-bd82-5174-87a9-b1dddc09d340",
+      "hashes": {
+        "SHA-256": "deb3a592161a52140c7ab80c037c20ee8e405c296b5447cd6f592816c81794ce"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--add7009b-a0a0-539c-9084-32260f7f3f12",
+      "hashes": {
+        "SHA-256": "25a19206f7f989d1197e64a3f47f74cbc8911c847a7f6a9c76131d52e46c25b2"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1944efed-8412-590d-81d6-7d1313eb73d1",
+      "hashes": {
+        "SHA-256": "09b1fd66b0ec4b57861db145bf4cefff0ee5634eb5a156d04d04f8495d309dab"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--43753867-5db4-551d-80d0-bdd1c3cad494",
+      "hashes": {
+        "SHA-256": "a5ac856ce08f5526b013044067e1e74ce5aedf695a4a964025349059800ea763"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6ca39ed-2822-5ccc-8fef-6a6a86d7ead9",
+      "hashes": {
+        "SHA-256": "0a542e1d7444df99461de2ca49a3859aa1a35b458f8f77b205aea0d14e6620a2"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--538aad7e-0da2-518e-a6fa-d00909a20710",
+      "hashes": {
+        "SHA-256": "73e714ee977ba7c4cd32f52539f94031b52fcaa90448ceaeb910fd22932e9d4e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3bafc99-6b13-53b3-8d8f-75f0c8bfbc08",
+      "hashes": {
+        "SHA-256": "c5be50f35fbda3fd8b996659fe3b1a648ac3eb4ded45825a0c158a1303cdae5a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eaa0da5c-c351-5d4a-ae38-d4bed49878ec",
+      "hashes": {
+        "SHA-256": "dd7e1d8f39581e3f90e51e082e11344eed2668c0377439d769ddf5422b4c66fb"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1ddb2b2d-1fd0-5a9e-b919-c3c468a3b796",
+      "hashes": {
+        "SHA-256": "27806a2c2a1246965d0e15d20dc6f3d46df0cb242c3296311f40dd63991cd02c"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5eccbf1f-985f-521f-9927-7f6d00390bcc",
+      "hashes": {
+        "SHA-256": "149ee334dc6cd0593aec294f405a9390623ab198080b476122433048402f93b4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--960a3b68-ecdf-5e90-a9af-8b9925cc5dbe",
+      "hashes": {
+        "SHA-256": "fc1f9fc56f9b87242d205d67c40e5772c0a510650d83f1b7429dd037754c8eaf"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1676798b-4430-5639-8540-0bb6b4aaf2c7",
+      "hashes": {
+        "SHA-256": "ef1065677b256644113648caa26d75512bea881c4953396da561eae8231f56f3"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--786020e8-0765-5cea-878f-699a373d1548",
+      "hashes": {
+        "SHA-256": "18d7be1dfaed274670ea6cdd3d45e864cdca173d5e71753dc69910334d0a92fa"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b859c57b-25a4-5380-95ff-65e5705965e8",
+      "hashes": {
+        "SHA-256": "2cf0f2c5d665438ac31a6b2880cd8ff637e7d4339781b5f2d26e7bc6058b737f"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cccad6c4-5010-5b26-a17f-38612a93de98",
+      "hashes": {
+        "SHA-256": "6e6c4ffbf5b3ba6d1137a932b1077d16b5f8dbf3e8856fc11d8b60c78f805035"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--199986c4-12d8-56d4-b4fc-60603b9c9309",
+      "hashes": {
+        "SHA-256": "91ed07f83f7dd31c7245513749b788cdf613031585a7e81dc575b35c7a0ff8fa"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bda794d9-c0d0-5339-95e1-54b125cd3ffe",
+      "hashes": {
+        "SHA-256": "db2e909967789a863b911ec123d004aa4f75de2a2d8d04f63c21bd803dac3011"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b459e2b-5dcd-563e-a357-6161096d2e87",
+      "hashes": {
+        "SHA-256": "0aac60946db4b4cc8bf5dace11c94e028d54ed09b2a1a5848a457f3f56212fed"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3a99134-1385-57a9-b721-c75e58be2048",
+      "hashes": {
+        "SHA-256": "4558be769e542bee0dafef4c9dab40e9b11d3b0764a0e85f29206b68574d3c68"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb249470-7253-5c27-82ae-986391444cd2",
+      "hashes": {
+        "SHA-256": "490d6e1bf81f593b2919595570697a1b78e23c6967be707147908d1fa2ca0cd4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a1759ed-3077-547a-9e3f-b69bb221ace9",
+      "hashes": {
+        "SHA-256": "223dfb25e333302b7d976a0435fc2502fcf15b30f60be34d90aaa6d28838feb1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--15b3983f-338d-5b90-8db4-550df9a977d7",
+      "hashes": {
+        "SHA-256": "0f8d51f65c8a51f651e16115a76329cd99008167570660fe2eddf228631ac05a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7773bf07-6ee9-55b3-9a29-bcc389aaed97",
+      "hashes": {
+        "SHA-256": "da669632c7379df872d3e6aa20cab9107e0efb26e248b984913a8c80d30ec41a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4930685-d238-5b33-9300-54419e122025",
+      "hashes": {
+        "SHA-256": "f9edc031e26e9d37e740acfd3739cc3f0a442bb14ec34d9b2ddbf79db56e073f"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--738cea48-9ae6-5333-8474-9a5a9430151a",
+      "hashes": {
+        "SHA-256": "de11c14925357a978c48c54b3b294d5ab59cffc6efabdae0acd1a17033fe6483"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fbfe91f-99ae-5e39-867c-236c1337aa8e",
+      "hashes": {
+        "SHA-256": "1e4f44290182fa0f8629c6e2546aeef02f398acada223758ad63dce79a1cbffd"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f6d4e10-05d9-52f4-adc9-8126cc98180a",
+      "hashes": {
+        "SHA-256": "12dbf7bec89d7f0c7be791091e1cf758c2bd1176919582a9160ecc999539f84a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ebd7aeb9-a5f5-5b85-b4e9-92438baa980a",
+      "hashes": {
+        "SHA-256": "d5b62011046b65599a3ad761f2f8b70eef63e1dc54143dfb68e17fd12085efba"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91441691-2fe9-5e14-be0f-3af1c5e1f6d3",
+      "hashes": {
+        "SHA-256": "03924b9d8b30fd56df7ae93e416c98899fcae58c0a3fbf5a2639f1d205340427"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a81b942-0cb9-5674-8e00-d0dcc6677e5f",
+      "hashes": {
+        "SHA-256": "49a2feb656d5f2654f30b6a6f6850944aa0040be7eeea95506dd07070e319516"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1d12571-8fc9-5ca2-bfbb-e078ed0ca697",
+      "hashes": {
+        "SHA-256": "769435a35a16660344844ee041222475ca18468bb28697611db82835895ee75b"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79e96cdb-a6e2-5fa9-ac30-5eca79f3b308",
+      "hashes": {
+        "SHA-256": "72dcb9a5d9f16a7607327a1d5dc43f289f1cdad4edcfba1d7c6a195b49d90c1c"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f97ec9eb-63ee-5189-b578-dacbffc1f58a",
+      "hashes": {
+        "SHA-256": "0256923b5292c88bf3f3df42a887072250b3cc6f6be3d6be312ad934c53649b1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3944bb63-be41-5720-a945-4f3acceb19db",
+      "hashes": {
+        "SHA-256": "6846486566b39702de03b32781aa040d2edd62e8b468a2359e76fdb2a1f6dc63"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7582c7d9-1745-59dc-b7d8-3f1d159bb653",
+      "hashes": {
+        "SHA-256": "6e085689f2bfae645035553891e01de8ea155a62dc7d2c7e1b7c8ebc0bafd9d3"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ffa01a4-4a3a-50a0-92ef-a279a765f4ff",
+      "hashes": {
+        "SHA-256": "92694c98c89631ecbdfa8621e7535385f5e6926dcbbb46fa1cdc528291419e77"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5138fb4f-3cc7-5036-92a4-3eadd2168548",
+      "hashes": {
+        "SHA-256": "ef49069b1e93beed6fc3dd40046fd919aa2ca45afd92d74c73041b9fc6c7462b"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1ef1e0e2-53c6-5562-afd7-6d869f30719a",
+      "hashes": {
+        "SHA-256": "f760617cecbb0d05156470d21986cb4feba5f88a89fb2522a1263327dfb71882"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f78ad84-7089-501c-a2be-736baa15f5c0",
+      "hashes": {
+        "SHA-256": "1fdea273ef4d286c30f446cce6acfb42aa546118e7950b29de96b3df766ae07e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3296535e-a133-52c5-9b91-eb20317a71c5",
+      "hashes": {
+        "SHA-256": "a67db6978f585c368f50ed6be9efba8b11ed7f44d1e9d454ee2813a68fc22e81"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7582c7d9-1745-59dc-b7d8-3f1d159bb653",
+      "hashes": {
+        "SHA-256": "6e085689f2bfae645035553891e01de8ea155a62dc7d2c7e1b7c8ebc0bafd9d3"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7773bf07-6ee9-55b3-9a29-bcc389aaed97",
+      "hashes": {
+        "SHA-256": "da669632c7379df872d3e6aa20cab9107e0efb26e248b984913a8c80d30ec41a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8682c505-4a4b-500f-9679-af57bce392a5",
+      "hashes": {
+        "SHA-256": "436e81cc1c09b9fe3fe3fbf2503f17a80422b476276d3b8c6cb2b8ade417614e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa304e5e-3e80-5011-94cd-6f9cd8f1395a",
+      "hashes": {
+        "SHA-256": "7bd663ea34e358050986bde528612039f476f3b315ee169c79359177a8d01e03"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7975a22e-d48c-5886-be2b-d5af7853e09d",
+      "hashes": {
+        "SHA-256": "a373f01a9cd3e3db683ab892027c1a529bdb7f1f8a8c114be940cd10a27366c7"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ffa01a4-4a3a-50a0-92ef-a279a765f4ff",
+      "hashes": {
+        "SHA-256": "92694c98c89631ecbdfa8621e7535385f5e6926dcbbb46fa1cdc528291419e77"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94d83227-2786-5e10-963d-19583760ae6b",
+      "hashes": {
+        "SHA-256": "0d9cbc0e94d01e763facaf37991bce5c6b466b552961e9f136214004085d912a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e8713c0-2778-58dd-9904-d4038cc0565a",
+      "hashes": {
+        "SHA-256": "98eee0791e9e33bc16140ed6dc2a68ace15cb42f78408790e0278bc24c8416a1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01309fcf-4c35-550b-b6c0-84edab956e4f",
+      "hashes": {
+        "SHA-256": "411f0a9ea08898d392394095e2554199b0372cd6d170d11af28fe255a72c04c7"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c18d882-a9e4-5186-bff0-ff49c353bd14",
+      "hashes": {
+        "SHA-256": "7b30f7becd90646f64b632be4c55385cd34062564605d68803c0061164bfe13e"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b62377e0-6aba-5dc0-bd45-6e15cd426b00",
+      "hashes": {
+        "SHA-256": "c9e0b3cc98af3696c80319a4dc29a0623643e313a8209f43559b194def9fcad7"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad518237-a01c-52c4-99d4-b25fac73c512",
+      "hashes": {
+        "SHA-256": "b2782a6d2195b664bb53fcbc3aad61c5c0e668eeb64cef028216c6fb05a65f6c"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d060a82-bea8-5ac1-8652-6d2eae148228",
+      "hashes": {
+        "SHA-256": "da36db6283513455d6ff410cdff450cbe1c732166837ff7338a68b373a9b14f4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5eb34e83-3785-5b2f-a4f7-874c8f85c8d6",
+      "hashes": {
+        "SHA-256": "03c069290892e1516a4afd98190aff00771f8e083238366212cb56abf434e233"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94d83227-2786-5e10-963d-19583760ae6b",
+      "hashes": {
+        "SHA-256": "0d9cbc0e94d01e763facaf37991bce5c6b466b552961e9f136214004085d912a"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e8713c0-2778-58dd-9904-d4038cc0565a",
+      "hashes": {
+        "SHA-256": "98eee0791e9e33bc16140ed6dc2a68ace15cb42f78408790e0278bc24c8416a1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01309fcf-4c35-550b-b6c0-84edab956e4f",
+      "hashes": {
+        "SHA-256": "411f0a9ea08898d392394095e2554199b0372cd6d170d11af28fe255a72c04c7"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b62377e0-6aba-5dc0-bd45-6e15cd426b00",
+      "hashes": {
+        "SHA-256": "c9e0b3cc98af3696c80319a4dc29a0623643e313a8209f43559b194def9fcad7"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad518237-a01c-52c4-99d4-b25fac73c512",
+      "hashes": {
+        "SHA-256": "b2782a6d2195b664bb53fcbc3aad61c5c0e668eeb64cef028216c6fb05a65f6c"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d060a82-bea8-5ac1-8652-6d2eae148228",
+      "hashes": {
+        "SHA-256": "da36db6283513455d6ff410cdff450cbe1c732166837ff7338a68b373a9b14f4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5eb34e83-3785-5b2f-a4f7-874c8f85c8d6",
+      "hashes": {
+        "SHA-256": "03c069290892e1516a4afd98190aff00771f8e083238366212cb56abf434e233"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c82e209-3972-5d84-8ac8-bc8e8392922b",
+      "hashes": {
+        "SHA-256": "ba901c73936d0f794e0ef621a7f3c2029d8b8194a70a0b4d6e6740ce8efc18ec"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--594ff8db-745b-59ea-ba76-d746babe99dd",
+      "hashes": {
+        "SHA-256": "0284d5b3329696130a0cff5c73c2eddb76c2927a72ea7a868ba6d72344172f18"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd04625e-cfcd-5e62-b5ad-408df8204772",
+      "hashes": {
+        "SHA-256": "a0eb3d21e512a48dc5235b72ede39abcbda707e04435d73be4d2735493dac0f4"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9942a432-c766-54f1-8460-abd0fe8460e8",
+      "hashes": {
+        "SHA-256": "b856c7082522a173c2b70c55b3c035960912d387f271ec3cf485a62b3bbdcbae"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24cba79e-0d18-580a-ab71-d52059f46983",
+      "hashes": {
+        "SHA-256": "eb9ca246694ea260825e50900ebcb7d11406a5b0f29714d6a0dda6bf79b6c557"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59a9bd69-82da-5f64-94a2-1173a6402504",
+      "hashes": {
+        "SHA-256": "5a6c63df51978213cd14ba68dcf66da0bbe5a08279a5966fda120d61e0a972bd"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0201e26d-0118-541c-91da-ab2dac8c6994",
+      "hashes": {
+        "SHA-256": "34791f482967d3838979c4c4bd8053c1fc4398e36677997d32f62fb9df580a4c"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3d3b06e-2123-54bc-8318-60ea24c5e3a3",
+      "hashes": {
+        "SHA-256": "ba8181eb09e59b283843191c67629e04f7c490e2fd800b973dc1290caf88fdd2"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9942a432-c766-54f1-8460-abd0fe8460e8",
+      "hashes": {
+        "SHA-256": "b856c7082522a173c2b70c55b3c035960912d387f271ec3cf485a62b3bbdcbae"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cce0a83f-de10-58d4-ad64-5968e30a3f99",
+      "hashes": {
+        "SHA-256": "b72e2373041850881f55305147ea1fcff10aa51915455dd27f9b409ad42abce1"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e6b0bce-bdb3-5c5d-8eb5-12cbde191f4c",
+      "hashes": {
+        "SHA-256": "4c3b1df153ad1725556e8c77775a4510ab3f69441ade1802d69660900061e405"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c82e209-3972-5d84-8ac8-bc8e8392922b",
+      "hashes": {
+        "SHA-256": "ba901c73936d0f794e0ef621a7f3c2029d8b8194a70a0b4d6e6740ce8efc18ec"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e6b0bce-bdb3-5c5d-8eb5-12cbde191f4c",
+      "hashes": {
+        "SHA-256": "4c3b1df153ad1725556e8c77775a4510ab3f69441ade1802d69660900061e405"
+      },
+      "x_opencti_description": "Troj_GuLoader.csv"
+    }
+  ]
+}

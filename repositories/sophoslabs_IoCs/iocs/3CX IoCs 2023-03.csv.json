@@ -1,0 +1,260 @@
+{
+  "type": "bundle",
+  "id": "bundle--3331be3a-ac9d-4652-925c-a2ae9fe66873",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--98ecc21e-4418-502e-bdad-384cf7405992",
+      "value": "https://news.sophos.com/en-us/2023/03/29/3cx-dll-sideloading-attack",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0aaedb1a-ac88-5850-b694-d90859c26351",
+      "value": "akamaicontainer.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09ffef97-97d3-5a6e-a884-58e2098e1e44",
+      "value": "akamaitechcloudservices.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07358427-5239-557c-97b1-b74a8edcf9a1",
+      "value": "azuredeploystore.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e0eed95-f8be-5667-b64d-71607724afe2",
+      "value": "azureonlinecloud.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52d2fd0f-1ec6-566e-94c0-782302fcdea9",
+      "value": "azureonlinestorage.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4476c656-eb38-5cb6-841c-2723f4f8ff92",
+      "value": "dunamistrd.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--197292a2-7fa7-550a-afd3-f87065f8286c",
+      "value": "glcloudservice.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cae4798a-aeb9-58ef-b640-e01bc699c514",
+      "value": "journalide.org",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9f1f9bd-5f1c-5fda-999a-b25e6a82954a",
+      "value": "msedgepackageinfo.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae0f359c-75af-510b-84dd-2a8b3127a4f3",
+      "value": "msstorageazure.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--638b832f-e61d-50f4-831d-8df5a1984d9d",
+      "value": "msstorageboxes.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2352f98-4ae9-5ced-bffb-4dd0fc88dc24",
+      "value": "officeaddons.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a467dabc-ac76-52af-a10f-eb2f77bde4ac",
+      "value": "officestoragebox.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--019d1083-2409-5e57-86e4-ccca183c100c",
+      "value": "pbxcloudeservices.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb32754e-e266-5b2e-a5e6-ea0b75c96988",
+      "value": "pbxphonenetwork.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--afc65484-c4ba-5afb-ade1-ba57c735d902",
+      "value": "pbxsources.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6ecb1d1-2303-5290-9dac-824504c9ac76",
+      "value": "qwepoi123098.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efb47cfb-7b22-571f-bab2-07ca20e55b0c",
+      "value": "sourceslabs.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5822e301-e880-5209-a36f-9cf4569f4104",
+      "value": "visualstudiofactory.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--255a103d-c8c0-5c76-b1e1-45a03d85501c",
+      "value": "zacharryblogs.com",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af8d2724-2c13-5af2-8001-bc7f4877838b",
+      "hashes": {
+        "SHA-256": "aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fe34961-b957-535b-8940-0eed2be6c93a",
+      "hashes": {
+        "SHA-256": "59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbd3ef4d-3784-567f-99fa-63c24ebd3946",
+      "hashes": {
+        "SHA-256": "c485674ee63ec8d4e8fde9800788175a8b02d3f9416d0e763360fff7f8eb4e02"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0cbf315-a014-576f-a26d-99a1aeb25fb7",
+      "hashes": {
+        "SHA-256": "7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfc56f5c-62e6-5c0b-a89c-c5a9f2467370",
+      "hashes": {
+        "SHA-256": "11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b923d96b-985c-5950-9375-b50aea77fd73",
+      "hashes": {
+        "SHA-256": "4e08e4ffc699e0a1de4a5225a0b4920933fbb9cf123cde33e1674fde6d61444f"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2340846e-1d18-5047-b2c6-c4362884313d",
+      "hashes": {
+        "SHA-256": "a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16b9853b-77e2-55ec-8ebe-77e738f0aab7",
+      "hashes": {
+        "SHA-256": "e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec"
+      },
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--812fc61b-7fd8-5bc1-b286-19c9462ea8f9",
+      "value": "18.12.407.msi",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0425279-653f-5a3f-82b2-d53eb55904f2",
+      "value": "18.12.416.msi",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c748bb2-a825-545f-a921-73f52638c68f",
+      "value": "ffmpeg.dll",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c748bb2-a825-545f-a921-73f52638c68f",
+      "value": "ffmpeg.dll",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a23e656b-57cb-5dcc-bc8f-8b8bcaffdbe9",
+      "value": "18.12.416.dmg",
+      "x_opencti_description": "3CX IoCs 2023-03.csv"
+    }
+  ]
+}

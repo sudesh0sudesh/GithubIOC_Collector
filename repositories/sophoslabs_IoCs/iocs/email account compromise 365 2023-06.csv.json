@@ -1,0 +1,48 @@
+{
+  "type": "bundle",
+  "id": "bundle--0f6e6384-7700-4e1b-9c1d-2e920dd08d2b",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c7d9c7d0-9396-5d24-be9d-e4825daada79",
+      "value": "104.161.20.102",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cd735f64-ff7c-5edd-ad64-feb24416adbf",
+      "value": "185.241.149.122",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--88cdbed4-fa49-504c-b010-3bef83617960",
+      "value": "20.232.202.245",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13de4616-a696-5322-939c-9146f30de6ca",
+      "value": "botasso.cl",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7423a381-005c-5eef-9a35-cf03719c6d10",
+      "value": "smtp83.iad3a.emailsrvr.com",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfab5ed0-c4eb-537e-9b39-64e4a7e41224",
+      "value": "database.com",
+      "x_opencti_description": "email account compromise 365 2023-06.csv"
+    }
+  ]
+}

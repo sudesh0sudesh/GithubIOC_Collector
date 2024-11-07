@@ -1,0 +1,179 @@
+{
+  "type": "bundle",
+  "id": "bundle--d45cb5ce-dc69-4e9e-a187-03b848608162",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3dc4de04-f2ac-539a-989a-5c4175cb683a",
+      "value": "5.149.249.187",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d3125d3a-c61f-5403-a8c8-dde7dc19d757",
+      "value": "185.70.184.8",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--950db107-b3ec-5036-b4c4-1cbb99207696",
+      "value": "104.168.44.130",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a6e3667b-1c41-5e20-893b-74c69a10302e",
+      "value": "74.222.5.43",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f05ed2e4-1d49-5e07-841c-dc510969300a",
+      "value": "84.17.46.148",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7d4a2b83-d68f-58d4-bc5f-8f11ac28bfa6",
+      "value": "185.217.117.44",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--afcc143d-8ca1-53cc-bfe7-de6765999780",
+      "value": "104.197.217.121",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--569f0a52-84f2-5683-91f9-c9e04c1e5b58",
+      "value": "45.155.204.227",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--907c460e-1795-5235-9800-a019dcbfd3ba",
+      "value": "213.232.127.66",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--771c78d2-15a9-5963-b367-72638bf2056d",
+      "value": "203.184.132.187",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e0bf54c6-3767-5c43-9a81-604b9f3a66a5",
+      "value": "193.29.13.203",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fcf0e2a7-85a5-5852-83db-c4beb6c0dcb0",
+      "value": "smartdata.su",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b9de52c-6cb6-5dec-81b6-c9cb497701f9",
+      "value": "novinhost.org",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43b48bc0-537f-50e4-ac0f-4be4d025ecbb",
+      "value": "hgc.com.hk",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d040839-03cb-50d8-b5f6-b6fed24ff9f4",
+      "value": "perfectip.net",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55388c86-40fc-5d1f-b91f-eacb52a1ccc7",
+      "value": "datacamp.co.uk",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96f3e109-e157-56b5-85d8-3078a46b4f90",
+      "hashes": {
+        "SHA-256": "e6212e7d74f315fa4638e32ab775fb1b57ef55071d179676330bbad4dc102a57"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bcccc04-f91d-593f-a5e5-fb115e681b46",
+      "hashes": {
+        "SHA-256": "74c8f583cac135fc005ef0141142c9fedf6fd3c1791545a176db8b4deab7b11d"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd1e0a05-4ac4-5232-be87-bba93f4de432",
+      "hashes": {
+        "SHA-256": "11a27e5803ad997d2e6eebe1decb945d4a42974f506a56654c3653eec5b401e2"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a3d71c7-eba5-5861-b575-90a22ce9e06a",
+      "hashes": {
+        "SHA-256": "ef8b55e1ad80bd503df7d880bfa6ffb26288a782c250267b85766490c33b6f4b"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a3f414f-2971-587b-8cc3-07a9849fa51f",
+      "hashes": {
+        "SHA-256": "e066cc48c1b45aee43e394636c6c12502cf7deed6599f60fba140c4c57501e95"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d96b84de-9657-50a0-93c2-df58c9d44f97",
+      "hashes": {
+        "SHA-256": "41324493142b10db127217274e21df37f6ccd13f01a8d29d2b23b7b1463423a7"
+      },
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84b8af72-e586-5263-81b2-63bd8fce4da2",
+      "value": "64.dll",
+      "x_opencti_description": "Karma_Conti_joint_IOCs.csv"
+    }
+  ]
+}

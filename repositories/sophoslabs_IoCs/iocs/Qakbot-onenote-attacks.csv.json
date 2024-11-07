@@ -1,0 +1,977 @@
+{
+  "type": "bundle",
+  "id": "bundle--21972a15-083c-4efa-8298-6dc6bf0a6174",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ac08e75e-527e-5cbb-81f9-74a66279d4e1",
+      "value": "77.75.230.128",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ec0e997e-405c-574b-b770-473a308a8172",
+      "value": "86.194.156.14",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5f542d7-7b8b-53c4-a76c-d6528815189a",
+      "value": "91.234.254.213",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3988bc52-ee49-5000-9e24-81785463f8cb",
+      "value": "https://news.sophos.com/en-us/qakbot-onenote-attacks",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--eb69be4e-1a14-5251-8370-b0c5987ab49f",
+      "value": "https://a1revenue.co.uk/SQ.php?TSI=5,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3956cc11-1e55-5975-b493-2e63c23e2c1b",
+      "value": "https://gpshelpline.com/EAUD.php?NSII=10,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8cccd80c-c10c-5812-8a3a-e7b871536faa",
+      "value": "https://limpiotucompu.com/OSIQ.php?ELIEAOSMT=1,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a3ac7c32-6687-597b-a57a-ab31517d3da4",
+      "value": "https://smartvizx.com/UE.php?AISESCTISEBTUN=4,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e6ff9693-0ce7-5b08-be90-e39e81e7e497",
+      "value": "https://babarbrotherscargo.com/RO.php?NI=1,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2fe051ee-1114-5f61-85a8-8ca8b8620f23",
+      "value": "https://rjll.org.pk/TUEI.php?CUM=3,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--32011ffe-f0a5-5ba1-a6c9-377642fbb2a8",
+      "value": "https://isoatte.com/LOTV.php?NTUEDRSE=8,Payload",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--428f0f28-e0ea-5e12-81a6-b74b7c209308",
+      "hashes": {
+        "SHA-256": "31c48ac6cfaeea3d2748d6fa6bbe6cd33c3fbb250fb36eb56add7615296ab3ab"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3434bab-dcd4-5558-a031-ccd23fe6c856",
+      "hashes": {
+        "SHA-256": "63ea310921ebc1c56aad91c2e2616552d865458353687ea3da7652856d249892"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49ceef55-79c6-51ed-8287-a4b7f1044cb6",
+      "hashes": {
+        "SHA-256": "3454d51502b337287a41b8aa2f23dae9e8f4172c1abec96612e07595d68d5f80"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--74599af4-3bee-5c76-8902-460fe4767db2",
+      "hashes": {
+        "SHA-256": "0256bc29d8edfb94257bb15bed55f5f15782669f5ec5f769ae60e9dfe5ce41cd"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4837a8da-24b1-5abf-921a-6720f91951a3",
+      "hashes": {
+        "SHA-256": "b36443057aae33ade1d3a48560ffb70faa597e8cd81d3d0c7017baa59533f0e2"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5b5e280-3c31-571f-abcc-a02a2a0151a3",
+      "hashes": {
+        "SHA-256": "aa00299f52e9ed2521a1a67bf1e6544ff487995d37c1a96b593ddbf17895d5c5"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--39765784-f04f-5778-814d-add40b391f1b",
+      "hashes": {
+        "SHA-256": "05ecc97361f221bb72cb0a2ce81d86e35e71d48f3f7414791a5deb3fdcdeb54e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c79e7cf-5f37-564d-8eb7-46aae8a44783",
+      "hashes": {
+        "SHA-256": "4d50c882cac3b291776580717013ff2c23e440627c11f03277c57bdc2bee7413"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2bbaa8f2-ec3f-5fb9-9dcc-684c768e9919",
+      "hashes": {
+        "SHA-256": "575dad22318098a878414af36a8301f9f00905161279b086fe2de71165c67d3d"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20a84849-af6b-57fd-ab99-39f43c2cbb01",
+      "hashes": {
+        "SHA-256": "b1bf687bcf269dfc1b55d620bf4a8303daece5699efee864c4aae69568cb34df"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35e930aa-53a7-5790-837c-809fa5a04020",
+      "hashes": {
+        "SHA-256": "b9c1a95277ba29da9d21f315ef8131f3c931940d2773ff2d96d8b133bffbab49"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a26f7d5-d488-5103-9c81-0b38654624df",
+      "hashes": {
+        "SHA-256": "bd0cd4d3829bf118c2a5b5aa8fbdd7958bc29f1619ceffb5a2d812d8eb8a361e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26983f7f-72ad-59b9-aad4-0bebeb4afd53",
+      "hashes": {
+        "SHA-256": "59597ec253a7eaaebaac7b43d367a7733d1a0788bb8038f08dff37984e99ea32"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9913cd37-d3eb-53c4-96d2-9b40a026a0c4",
+      "hashes": {
+        "SHA-256": "07d9ac25687f656a63a34450f99d2acb5dbc6a26c4b16d345c2a84e90fc74e31"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83a4c4c5-2c59-5e27-93f2-9f6155aa3007",
+      "hashes": {
+        "SHA-256": "f11ce4ab3b92e20d460a3e1e8d5eeb865e77ab6a02b3fd55274ebabe024242e9"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0f397d1-df37-591e-8170-4a2dae2cfd83",
+      "hashes": {
+        "SHA-256": "c33493847022de5ef821116c2d655673270233b788584403403e4da33afe8c60"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03138676-0cf1-595d-9a97-7f4e2e895783",
+      "hashes": {
+        "SHA-256": "6b9b89534534ec07c07cc529db6b898e8269cd777fd33f71b8fd726fcbae810e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed799692-a60d-5820-bc68-1a8bbe0b1933",
+      "hashes": {
+        "SHA-256": "bad5291477abb19820880327ae5da5f4c3db259489f10344f50961c8b4f55768"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f1152bac-b588-542a-a2d5-edf87bad7c1f",
+      "hashes": {
+        "SHA-256": "cd0bc455ad9d3d590e1305029b1fd3cd986202608cba6279c7898075a6fa93ec"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc4c52fb-5c35-5ab7-875f-2aa32160dda0",
+      "hashes": {
+        "SHA-256": "d13a15c096a44fcd41ab005a2dc6dcbb0e66f7273177b56bcf19601e4c209db6"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0b87a4d-f56f-5941-9bd1-36e226db0743",
+      "hashes": {
+        "SHA-256": "2611431961f939c9f902ce5acf79049b2d57cf2be02290cfd4e9572a16bd9a59"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--113a956e-1bab-5a7a-aad4-692272b749e4",
+      "hashes": {
+        "SHA-256": "288f0b94a68d36328ce888cc9d79fe0647d158b1abf05fea4498f5dfd998cf4e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40695e82-7cf8-5218-879d-f4675bcf0118",
+      "hashes": {
+        "SHA-256": "740f9e6c9c8b705b45d0c039ef0f44a624efa3cc90b3b77b2db9bc523c62b208"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07095629-6982-50a3-b1bc-c3ede843291c",
+      "hashes": {
+        "SHA-256": "ccc45c678a6f5185428bd39ad6d2dc9759e553dc1043c94fa8f9375575661eeb"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db15598b-0920-5067-9a18-de5e7b88f86b",
+      "hashes": {
+        "SHA-256": "ef609ae7ef5d32d18bdecac1ed59fcce6ce766e27fe0b9e3a8f208b8e2d0c8ba"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d8c5bf7-f8af-5234-929c-e9a24dd63fe6",
+      "hashes": {
+        "SHA-256": "274a2d924d1522182717de20cb7d8da4a2576bb1383ea75ffbda6de51f544407"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--43328aa7-8f5a-585e-9ca1-2208aa962351",
+      "hashes": {
+        "SHA-256": "69d6e2fa7cee4f4f8f01f65076994d88c61060181be2528f0805d6e60f9c162e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2534fdc-87d4-5778-91ac-527748854fea",
+      "hashes": {
+        "SHA-256": "84930549a3c9846c91f56b8ca2f659091af767db6bda15dffb7cc0cbfdec838c"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a1c30ae-ef91-5581-a86c-e277567054a3",
+      "hashes": {
+        "SHA-256": "96bf5df3d7ea29f4d2b689a245750d955b294d5d3cf122d8dc87becf973d7a34"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c2ede54-3c7b-5cc3-9ec1-24f2dd5fbf2e",
+      "hashes": {
+        "SHA-256": "6971674c8510c812ef6a432182e57eb08979163888a4080d016d5441b4dc28e7"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e45123fc-da19-5142-b30a-1315c54d397d",
+      "hashes": {
+        "SHA-256": "a2fac0bf9f6d0b745a9befd868cf9ca76ed2e18faa890645a2b136f79b3b31cf"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--023dc7c1-05e0-56c6-aa82-c227b4e1cabd",
+      "hashes": {
+        "SHA-256": "4004720112dc8674cd74df274175cf87476ca2e57075a29ea4745a8debd30aac"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2eac45a9-2c6a-5302-ae0b-9f6bb318d304",
+      "hashes": {
+        "SHA-256": "22d7a504d97fc537a5b7b9147bbcfa2f3b36694fa527ad8dc4d0686e73666dbd"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86690855-9619-54e5-bb89-91d82078ce15",
+      "hashes": {
+        "SHA-256": "9bd74243aee04e952cd0fcaf5018d11040e105c13992f5b9a403a72abdfb8e24"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1fad74c5-fe0f-5d69-8907-81803a63bde5",
+      "hashes": {
+        "SHA-256": "65c660552dd2b8a37db09db9bc1bab6896faeb5f1d1ae957d78f0b726040e229"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--464ff618-c678-572f-b7de-1e8a67c7440f",
+      "hashes": {
+        "SHA-256": "c879e3a6c2551c4a81cc535564d55a450dc8172ca8f8c83bb63207f5965a5ea4"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--152a1580-beca-5a32-a0f8-8ae8f3376335",
+      "hashes": {
+        "SHA-256": "f8c25e5193dd9e2b95294bc6bfce155470d9c768fb34729c438a42c8aa3ae804"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45392f48-4804-5ee4-81a9-eeb1f01fccba",
+      "hashes": {
+        "SHA-256": "000fb3799a741d80156c512c792ce09b9c4fbd8db108d63f3fdb0194c122e2a1"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb0b2fc8-ea9c-53d3-9ee4-b02f0f670966",
+      "hashes": {
+        "SHA-256": "6539445b4f4a4a40e0e167d251fd860be86deb7e9e8c448dece531ababa4ffe2"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f47336a-949c-5bbe-a790-2018d7d3d478",
+      "hashes": {
+        "SHA-256": "cc18715cb037185a7373de7ff6ae9ecbf16be33492c3042e62d74c25fe355e0e"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2be7b45d-29f8-54c8-9801-beeb26cc74cb",
+      "hashes": {
+        "SHA-256": "1e87f5a1cf8e2ac506e1ae033dec18481922006e2108e0c58c41e80440f66aa9"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9fc9696a-36bd-543d-9fe9-3de020829507",
+      "hashes": {
+        "SHA-256": "06d8fecfe490deccbbd8be08c8b6cd698b7780cbddc834e2f6d7166de593e178"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1027839f-b264-5777-9a66-47981a45095e",
+      "hashes": {
+        "SHA-256": "dfb66fb210ae7a4f0beaedc74cea53072c082687fce9f2ac1de9cb9c04c6514a"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d19065c9-16ca-5f9d-9d47-b97428a4df2c",
+      "hashes": {
+        "SHA-256": "4345756cb32cc708d128a93b6ab3dcd798ed142bef2e2ee34d4f31dd736479d6"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae480294-0f7d-5211-8320-ece1fb9da99e",
+      "hashes": {
+        "SHA-256": "30fb6eba4b45dbe3d0152a3acdfa0ef75f0359da93f42ab271e53c3529e986cf"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf48699a-7bdb-5cab-97c4-f52312694170",
+      "hashes": {
+        "SHA-256": "69fa53c561b1a2222f98934cf3d62dfbb1f73746377eeee9d9483651f2bb1792"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c1b5bf5-53ac-5b80-8d21-510319cfd098",
+      "hashes": {
+        "SHA-256": "aeab890831897ba6eb42ed208d5105fc091c57ed50101952072ff3a6b261c807"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2433ae4b-123c-5cdd-9d09-2908e5186cc1",
+      "hashes": {
+        "SHA-256": "09024cba380dec7cf6efb2e7618707d7a06124f67a318330e0ec1256036d337a"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ef1a6c6-a330-53fc-b660-24ce33f779ab",
+      "hashes": {
+        "SHA-256": "6a4b9112f07b29b16c0595a80501d0ef6beaa33f3a94469c8a18ec492c3435c9"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69bb3e28-a5f2-5895-ba4a-fe7c7a9630a8",
+      "hashes": {
+        "SHA-256": "92f798fde2f625d82ed3979f187794e612509fc155134c4b480e4a01a994e176"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--62fcf16c-7aab-5e85-bf2f-0cf19c3e62c7",
+      "hashes": {
+        "SHA-256": "a745f74930f731d9b6c302b3cd6ff6dd32e91f7972d64a637cb80cf70903136b"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53291081-41a0-598a-b40d-90a1508f1247",
+      "hashes": {
+        "SHA-256": "35c42b80924ee3d759949d8e3ae0c10ce7d81a0af62a3d8aa21fbdb5b9a6088f"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--14626987-6f84-5cf1-b9be-ed56f1bef84e",
+      "hashes": {
+        "SHA-256": "b3adc8a0056a4e205e726250b28a1d86665f7668d6cb731306d92de5ba5ed4d7"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--593a38b9-37b4-56c4-aea8-44245460d57e",
+      "hashes": {
+        "SHA-256": "dbddb135f4e968bef79bb8b44b96a4f836a9445fa88109ed1f815d87586032f8"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5cbb30f-0f64-5d21-ae2a-caf9b02e15da",
+      "hashes": {
+        "SHA-256": "e93a79b0e10f59ee89f01f6ad827716234f61f37252cb8a86ad19a1d2a50d7e8"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93b1b6dc-0535-5985-9bfc-eb4da9bebab6",
+      "hashes": {
+        "SHA-256": "51ddd9ff9415c9c4c32e6e66ea7f4e04c4719d1ffb06ddfd3f8783a814649947"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc1fa6a7-e413-5737-b34b-01b155311b54",
+      "hashes": {
+        "SHA-256": "6b5da0160f8671b31e670c3edb510efd52f87d25ce11c33ebe83e0958eda15da"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9aabdd04-9156-52e9-92fe-f76e5877c5ab",
+      "hashes": {
+        "SHA-256": "6f9ecbfcd92004c3cf46da37bd9780e6436ae6284714edf5b79f68742a193b8b"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf5f5aa5-5d63-5b59-95db-b24e26fae73e",
+      "hashes": {
+        "SHA-256": "03d97ac98243b0c540096e1d7a051282a628d4dd52e4549b84745e7a0edde1f1"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40874e97-8205-5efd-a977-e8e846761411",
+      "hashes": {
+        "SHA-256": "31d09e5ee6f26929ea2536540f46d7029da161c05eac64696ff7e2012c767651"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d377235-a8fa-5b14-9fd1-3db3ecc96ebe",
+      "hashes": {
+        "SHA-256": "365c7d25fdfdca7fc1b8ce716088bf4a7a3abadc26bb6fb37718cfcc71a91943"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3597c2fe-521d-5db7-9d96-22b594039c3c",
+      "hashes": {
+        "SHA-256": "8275e09bbf0319910ca6959f0103b4ffcb8ac272cc0f453502a4f08e4fb081fe"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61bf03d1-8486-525c-adad-dafaff30ce33",
+      "hashes": {
+        "SHA-256": "f3fb246e22973c86effe482dca610b9371c56304c50acfe09bb4773b1d360505"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed3ebe06-d94c-5503-bde9-83ff65ea8246",
+      "hashes": {
+        "SHA-256": "b670a54368b9653d05d56d13272ecc0eb3307380a76e4cd4a6e527b01ea15aee"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd2dd32e-28cd-559d-aa31-3560e0d2745e",
+      "hashes": {
+        "SHA-256": "f91e4762a62ad71fce898545e7d473b6ac775467891ddca5bd9bec22da23d80c"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c669d59-0553-52aa-8ac6-07c9d9a34c77",
+      "hashes": {
+        "SHA-256": "53093d049e00e699f3280ec5af937d24c3bf0d1f57c33950fd6ac6d65cf8ccc8"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8eb1b4c-afdf-5455-9f75-a10fcd50cb87",
+      "hashes": {
+        "SHA-256": "dbde0ddeb49e9a8600e8728dcded741a39446099144bbc14ec13926e98e19b92"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab786b2b-3de9-58a4-9d77-85bca1d55b0b",
+      "hashes": {
+        "SHA-256": "ce88f14ba30ea395dfdeb1c8bebed3ad167e024c1b001f57d8b8540000463e9b"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c0dbcae-b196-5d10-a4a1-ce07772b25ab",
+      "hashes": {
+        "SHA-256": "fb369dec42ba00766a7101558ad1f3fd425171da5c7fdd348bed0d739fb0f1ad"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd8b993c-6bbc-5f38-8cc0-70162309095c",
+      "hashes": {
+        "SHA-256": "ccde2fdf3f4cc63491b5506074b865b5f2a3674f8e07e1de47512ee0f4c27b16"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35275de9-b78e-5f41-bac3-6d97db80dabd",
+      "hashes": {
+        "SHA-256": "3405d96828961101c846478f467eddef4b1e68a63f3ff5d8da94c4727246ada6"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3124fcd8-9fe6-54cb-b8a6-361fdd4dd257",
+      "hashes": {
+        "SHA-256": "3b1f1a65c0d80cfe4c4fab345f881236570456f482c18c53ef9307d1f4acf348"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae669151-dde0-5874-a74b-eb8c6d96876b",
+      "hashes": {
+        "SHA-256": "0e97cc533aae179df2a7861efced8f61526b076eaace4d2cd8fa4481f92a5a50"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--831c1b70-646c-5953-8423-b7aa6fed4237",
+      "hashes": {
+        "SHA-256": "e88a561ff38ee6b190d7240933aab916dfff6493a4541d6913b2d22456b71864"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25517330-3d3c-5ecd-8646-42ffcadd6ad6",
+      "hashes": {
+        "SHA-256": "4d44e6442084731d6cda87db9be8f956c0e7ef123280b3f189c0f2598b8a303d"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--184cb231-47d6-5176-b530-8767af59ed89",
+      "hashes": {
+        "SHA-256": "2877feb0d1926393593fc0cb2d06e3260d0c99167f65f66a89a0ab4340d790a3"
+      },
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd1ad9aa-abee-5ae6-ab14-feef654e57c1",
+      "value": "100918.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de1d7c71-2408-58b7-984d-5581f85c9916",
+      "value": "102982.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8521090f-8fa8-53fc-bd55-9b99c669a26a",
+      "value": "142205.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78841362-c74c-5ea5-ad29-1f0e9b3e2938",
+      "value": "146057.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf3ff805-acda-5eb7-9281-0175bcf85201",
+      "value": "151360.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e5b68fe-7e5c-56b6-9910-dd3d991b601c",
+      "value": "163070.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bb1d2550-b53f-5009-92ce-37a7d83318db",
+      "value": "174667.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--65eb01cc-e1a7-5025-9070-6e24472da4ff",
+      "value": "177730.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f50e75aa-5371-55d2-a1ed-8d23e4c521bc",
+      "value": "179797.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00f0131b-9171-5224-87ea-fdb5d92b1166",
+      "value": "185974.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b62307f-a6a8-5368-8d0c-9378f8babddc",
+      "value": "186642.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a269a902-c7d9-514a-81a6-b8c6090d44d8",
+      "value": "194160.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b61f469-b64d-53b2-b00b-eceb4ba453ee",
+      "value": "210785.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--765335af-0e88-5069-967e-2098c5a18245",
+      "value": "311419.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c335179e-5cae-5d2a-8905-3a3eec8e08c5",
+      "value": "337478.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0704639c-8dce-5d63-ac0e-c769974ec2ed",
+      "value": "352051.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dad72353-2ef1-5f56-abd2-11efd5b8e018",
+      "value": "356985.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--26e4be8f-fa36-5cea-9eeb-bd6b359b2d1b",
+      "value": "364092.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54e4a9b7-6987-52b3-85a5-1980d82b9a5d",
+      "value": "366832.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--204e8a9c-bb74-54cd-bea5-baf585c881fe",
+      "value": "368146.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7652061-b816-54fe-a474-2d44be09bbd7",
+      "value": "368814.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8eb35e85-56a2-527e-b824-691e90d8e26d",
+      "value": "636879.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9258af3-d939-55c5-946a-a57ef251c9f3",
+      "value": "640879.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6fc01388-505a-5383-bca3-c8562dbd49cd",
+      "value": "792153.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb9fcd02-3960-5215-b4c7-7c45d754b111",
+      "value": "822862.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50be7e13-83f5-57c6-be7e-b2321af3fea3",
+      "value": "826347.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--523a87d0-e969-5151-9ccd-616c12603f98",
+      "value": "839114.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--835336b0-c1ad-54de-8b96-d19c3553ff4a",
+      "value": "843987.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea8da941-301a-545a-81fe-a5ab8c7f547b",
+      "value": "851428.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b249c89-2af0-5539-a6c9-774fff389b0c",
+      "value": "886502.one.zip",
+      "x_opencti_description": "Qakbot-onenote-attacks.csv"
+    }
+  ]
+}

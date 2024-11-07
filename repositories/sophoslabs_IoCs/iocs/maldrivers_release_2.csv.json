@@ -1,0 +1,1984 @@
+{
+  "type": "bundle",
+  "id": "bundle--be0ab9c9-40f9-47a0-939d-ce86167d389e",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3abc8e6f-5c13-578f-9461-1692f699ee61",
+      "value": "https://news.sophos.com/en-us/2023/07/11/microsoft-revokes-malicious-drivers-in-patch-tuesday-culling,Signer",
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07225a0d-b403-506f-9d08-be4091649198",
+      "hashes": {
+        "SHA-1": "AF5A136DCCED63DEFC29502FEDE9BFF7E2C16A8C"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8b3d091-c36b-5ca8-9967-779421e1ff25",
+      "hashes": {
+        "SHA-1": "984E03B613E8C2AE9C692F0DB2C031BF3EE3A0FA"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8f2b33a-5741-5f87-a61c-0635a446a8b9",
+      "hashes": {
+        "SHA-1": "EA2A543D70F210F2BA567609DA0E8BF96135E57D"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--635f4186-0c6a-5340-9ff3-2433b98aa806",
+      "hashes": {
+        "SHA-1": "EFF412646D93803D49243795A2439EB9941D0B95"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c92c5842-c7b7-5474-8c13-434976f7c24f",
+      "hashes": {
+        "SHA-1": "426510225A68B9260814230B37E289BFE0566F28"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3caf625-f995-5347-adeb-9cd9dae567e5",
+      "hashes": {
+        "SHA-1": "9EEEF1B33142106A095364DD0B2BFC8A24A2A563"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1353ce1-c5f4-5709-b148-3e4b9433ed2b",
+      "hashes": {
+        "SHA-1": "A29E53F93B6BB31BC26997449DBDE4E218217CB4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--635f4186-0c6a-5340-9ff3-2433b98aa806",
+      "hashes": {
+        "SHA-1": "EFF412646D93803D49243795A2439EB9941D0B95"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73374758-c33d-5abc-960f-b055421bf4c9",
+      "hashes": {
+        "SHA-1": "D715230B535C8937B469632EC6158761FD18AD21"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--635f4186-0c6a-5340-9ff3-2433b98aa806",
+      "hashes": {
+        "SHA-1": "EFF412646D93803D49243795A2439EB9941D0B95"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c92c5842-c7b7-5474-8c13-434976f7c24f",
+      "hashes": {
+        "SHA-1": "426510225A68B9260814230B37E289BFE0566F28"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eec3f983-b454-5a00-99ae-02a4e5ede586",
+      "hashes": {
+        "SHA-1": "3A1CE9C2EE30EE8D8883DFC5BF45FF0201C2AB5D"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb357369-e319-51d1-9aa3-cd6e2436825e",
+      "hashes": {
+        "SHA-1": "1D7067C3564DBBB80769FF513B01441775372920"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbc9dc90-4317-55e8-acf8-f9e7f32dc75b",
+      "hashes": {
+        "SHA-1": "579AEC4489A2CA8A2A09DF5DC0323634BD8B16B7"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1645917d-d578-589b-af57-3a76aff9cb78",
+      "hashes": {
+        "SHA-1": "8B2627FECD69A799EC949D7989D90D4B3E8801AB"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4357ba7-f9e2-5960-a7a7-1498417a54dd",
+      "hashes": {
+        "SHA-1": "451B7F8A4C0E669189E9382A09E423C2B875AD42"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66122b45-5c46-57dd-bbc3-34d1d7ae1633",
+      "hashes": {
+        "SHA-256": "00a0a09e08abca816857c446f88972ea78a3cee9833980df48b069f9612ba727"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd3b37fb-2e72-5a8c-82e7-5765f9e82bd0",
+      "hashes": {
+        "SHA-256": "0440ef40c46fdd2b5d86e7feef8577a8591de862cfd7928cdbcc8f47b8fa3ffc"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83280bd3-0b9d-55cb-a637-2d5e51da00a9",
+      "hashes": {
+        "SHA-256": "05b146a48a69dd62a02759487e769bd30d39f16374bc76c86453b4ae59e7ffa4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a7ac94a-5d16-55b7-a04f-7906d1ccbd35",
+      "hashes": {
+        "SHA-256": "07d09c2b6dcd61eb5885bf2a43dbf34e4e18a173c286e5f75adb6cdd7af0a8c6"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9128a5ec-d005-5251-ab78-4631854a5925",
+      "hashes": {
+        "SHA-256": "0a6116a00f97f37499da064234901c8a4e99a271318724416ff0634846463351"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7eaadc95-8e66-5624-8c0d-8519bc37b191",
+      "hashes": {
+        "SHA-256": "0d10c4b2f56364b475b60bd2933273c8b1ed2176353e59e65f968c61e93b7d99"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e34e97f6-c11b-5e36-9943-08e068b96ff7",
+      "hashes": {
+        "SHA-256": "128777e7645fd2afd84a685e80c7489ff957523af78dcb6d9e3629914cc64455"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e025f018-e0ab-5aef-b4b6-35251ddbb02b",
+      "hashes": {
+        "SHA-256": "12d8428f77eb7e19b5cf464b37bfd1434b6d3fe3d02835ef0ce753046882634f"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd267305-61e8-51f4-a4fc-ca46e4ab8b93",
+      "hashes": {
+        "SHA-256": "14021b3a6eaca0718a03c39b602e12aea2e78d70e0a33dcb3fcc8c66d4f2e167"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06c04028-63b1-5964-a71f-0abd86b91c5c",
+      "hashes": {
+        "SHA-256": "14548599eb896bfc045bb7f51ce2084c2f94745fb5a07fc795c6e220078f2c09"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06865563-075b-5d09-bfaf-ca85e17ba1b8",
+      "hashes": {
+        "SHA-256": "1f343d83355bc8c42bbeecdfb8f8ed38cd3b3cc0826beafa84ed660c6813864d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--546a0cff-e2ef-59d5-aaea-1da7d690611b",
+      "hashes": {
+        "SHA-256": "2088764efe780fcde3a7623b330e8319280c26e481bed8fc3e8726bfddc1ea53"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--561bde0b-895f-53c6-a467-99cc27892839",
+      "hashes": {
+        "SHA-256": "274340f7185a0cc047d82ecfb2cce5bd18764ee558b5227894565c2f9fe9f6ab"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3e8403f-f8e2-565f-ad2f-9939373128d5",
+      "hashes": {
+        "SHA-256": "29ad536ee41c769b63393d6b1e053da1f264c4bf2818b0af8a1fe9e224820d0b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2f8e599-757c-5d07-9568-a5854aa5a897",
+      "hashes": {
+        "SHA-256": "2e25a5399bf56768684297709e6cce6d12f3a456afccd9954e490a1d6c524603"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--78e2c65f-8ef9-5f0b-8703-fc80e64e0583",
+      "hashes": {
+        "SHA-256": "3908a695fe5e63fccb435c047367224edb0ccf51aa07dcbbd74872d28570db98"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c9690cc6-8142-58fe-85fc-e4fbecaadbd4",
+      "hashes": {
+        "SHA-256": "39c1f5adeb3607be9bba55b46bc3041cdef6ce7a5612d4397d1c65818610327c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f75c7fd-8830-50b9-97e8-2acdc89bbcd7",
+      "hashes": {
+        "SHA-256": "3f6b94e3e0e7c5dcc856a3448bbe1dc08f2779a0c7e0aeb8230d8304c5e0a47a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e13d475e-a5e7-503b-8a56-97d0d4248d2f",
+      "hashes": {
+        "SHA-256": "42b22faa489b5de936db33f12184f6233198bdf851a18264d31210207827ba25"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e99c1e05-0dee-511a-89a5-bda8f7d4a0fc",
+      "hashes": {
+        "SHA-256": "450b237f5c155548c984db6b54e383ca24be859cd42719a2366146d45b724280"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9161ebb5-1e6b-5d42-baf1-74369a0f7930",
+      "hashes": {
+        "SHA-256": "4865c64ecafb34ffcd0f0922558f7ea1c78c099b99dfef03e522cff7b2f98db2"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--194b31e2-d6a9-5ac7-b61d-f65034264c28",
+      "hashes": {
+        "SHA-256": "4a11b918b4f24b46e433159c1f5a4c0bfa653d488ab21e06b9e9a2825156c8ea"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8db9b2eb-7f49-5fd7-b417-d1df1be7e7b3",
+      "hashes": {
+        "SHA-256": "4b267203d6cbe5ca72f9f47446153ab62a2f99a0ae0788173cfefe61ba936f6d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5027df0b-8089-57af-9dd2-2f7b928bc987",
+      "hashes": {
+        "SHA-256": "4b89272d70a96063bb428e303aba69d2573e7e39cc77caa6f4913b7c89b8cd8c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24cd6c68-be81-5255-9c9b-0c950ba5eeb3",
+      "hashes": {
+        "SHA-256": "4ba0692e4d60cdebd099ffcb3146b5edf50760e10baac029d8d03af93df5a6d7"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e82e4ba3-f0f8-54d7-8d7c-32c175b62504",
+      "hashes": {
+        "SHA-256": "4be5f8b9a34d4c6ad483cc290740b4252064882848791388c66db2253afbe71d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c28a16d-04df-50ea-bfa8-e86fe866b029",
+      "hashes": {
+        "SHA-256": "4d89b7cb2f01f5461ec30fec311e25284680111d69d5e9e8e98b274f2b5e38a0"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a59f069f-a9d9-562d-a9ff-52faf87d3de9",
+      "hashes": {
+        "SHA-256": "4dd9f423beb9033d37fc27fe4a868fc7d95681a985c7ae494f6b06d3248d9d6a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28f5c939-8565-59c9-ad96-60ccc495fc94",
+      "hashes": {
+        "SHA-256": "51f9f9338eb97e9a06d8e78fc7ba61c0e62484bd179b321c4f31c3e69d8ddf84"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93f05f40-7c24-558d-9664-acdcc1099d8a",
+      "hashes": {
+        "SHA-256": "52d5c35325ce701516f8b04380c9fbdb78ec6bcc13b444f758fdb03d545b0677"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d0040b7-69af-5cd2-9479-1a823286e951",
+      "hashes": {
+        "SHA-256": "53bede47144ea0e61ab6a635fc17cc2782e8278241512da2e2170bc14a0f700a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49f4c358-0385-51aa-8b7c-938a372acae4",
+      "hashes": {
+        "SHA-256": "547eb802e7bbf40ce6b5e219baad84152677653e92eaefeee7ce4226cf312058"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10bc1bfe-b188-56c9-a691-7c4a1b400a64",
+      "hashes": {
+        "SHA-256": "55b106d13d24b105e35b2aeb4d2b33f1cd5bb0e08f84c836208687ff2881eb96"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3af5e870-df14-5825-afd5-a20da97be569",
+      "hashes": {
+        "SHA-256": "592d4056b36cf298da2403a6afb9a52162f1f377085ca75d11a09bc2f5ae5434"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--247079ec-e20f-5a10-a9ae-634a6f9096b9",
+      "hashes": {
+        "SHA-256": "5cd02b515762b7b07771ed6f1b538fdf0962b83940804a52a1bdfe821fec3ed7"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e1f22d0-c3ea-50f3-947a-0ee87e891bfb",
+      "hashes": {
+        "SHA-256": "5f6fec8f7890d032461b127332759c88a1b7360aa10c6bd38482572f59d2ba8b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89be8cdb-176b-5d2b-b70f-5b4570515a34",
+      "hashes": {
+        "SHA-256": "6162bf8a5f8359e1e8eeb40d571ddb50ae88c40b8afc3d25dbf6a0db7f75a08c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b3128b5-a522-5556-a9e4-4c9ea8dfdbae",
+      "hashes": {
+        "SHA-256": "621fc2c2ca7d6eecb4569d35a5a3d435281862cec803b7f4f8c06199bc6326c8"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b4cac7c7-06a0-5506-9b9e-e0ed149dd4d4",
+      "hashes": {
+        "SHA-256": "6839fcae985774427c65fe38e773aa96ec451a412caa5354ad9e2b9b54ffe6c1"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d66383a8-19b9-5ce0-afb5-14033a3a4b0c",
+      "hashes": {
+        "SHA-256": "6b372a47384872aaa703350ec37686372fd7eddf2145b8bf419a16145e966478"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f1d57755-2eb2-5528-b187-3de69350dc34",
+      "hashes": {
+        "SHA-256": "6bf7fb60c2c93dc17ba5dbf24f63d1ede4615fc53e3f6643bd676f2e9c9d4c2b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55a44863-fb68-5726-8080-410a75d6e201",
+      "hashes": {
+        "SHA-256": "6c6dbcd53a7e6a4e0dd1458cb417ef472afbb178d457481eda8f85561b9debd4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af5bf7b8-b06a-5fb7-8a1d-c2bdbdb10e93",
+      "hashes": {
+        "SHA-256": "6e0a0326943ea58a1b2aaf38efcbe7d2732a46d579f183217a4c0e420930ff3a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c5f7fa7-f3bf-5e3f-aa38-966dc4d52181",
+      "hashes": {
+        "SHA-256": "6f810c53e8cf38bc79aa41bfac209d19a8217153448e5c9e30788b649e1b6ae4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98dec3ed-b415-5738-9997-f76da2e80325",
+      "hashes": {
+        "SHA-256": "73e808570e9a05770ef50f288f85a2f83c7196cfaabf37faa1b56384ff50d463"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3faa17c-a277-5809-859f-d1217585afdb",
+      "hashes": {
+        "SHA-256": "760446568ade501535eb75f18b04a537dff60ba9fa28d3bf0b04a666a69f9386"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b409f90-bbbe-58e8-8424-7c5f2e3a9dda",
+      "hashes": {
+        "SHA-256": "78dc71be0a790513491c61306af29bcdc028c3033a9b8cd54d4c65c9f21fe75b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93163d81-8f04-5a48-b21e-1230bb38721f",
+      "hashes": {
+        "SHA-256": "7a0668988a45cd03dfcf9989e8449bcb02bfb946f95cb3e0faea7c048bfe4995"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--feb27f04-36c0-5511-9000-52ace5306b10",
+      "hashes": {
+        "SHA-256": "7bf425b214d0306bd5f9a5855f9bdd5895c523be74f672c346f5d2c859a42fe2"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27c54af1-3fea-515c-96fa-ec03ef6d12d6",
+      "hashes": {
+        "SHA-256": "7ca07139b2a5e12afa34ed09959b7db5a505abde7bbc85a0a7f85acefa92726d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--168d26fa-f048-5306-8226-e4cab7b47e62",
+      "hashes": {
+        "SHA-256": "7d191a383c15ae1e5bc0b6611c83e89308b897645d1b75e48b314ed93126e372"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec608f8f-d2b7-5ebd-8d4f-d28b323f4b31",
+      "hashes": {
+        "SHA-256": "7f4555a940ce1156c9bcea9a2a0b801f9a5e44ec9400b61b14a7b1a6404ffdf6"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c12a2010-69fa-59c3-b95c-fd9e189285b1",
+      "hashes": {
+        "SHA-256": "8501d07f3834192ed16badc423120445cd15581779020646e1671b5ac81e2fbf"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d76f60bb-ddce-5e51-8ac0-88ac430858c9",
+      "hashes": {
+        "SHA-256": "862b205eb40a4274ff78c2bcb7aad77916ebeb2f9d2208b2ea385105f3835817"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--15cb9275-ea9f-50c7-95b6-fc21ff4cdeb6",
+      "hashes": {
+        "SHA-256": "8bef06598b67c1edbbf42399a19c8a8aa61d12466e873d70e9e26a10ba54d308"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--372dc0dd-79a7-5cb8-a8a8-6c156344a68b",
+      "hashes": {
+        "SHA-256": "8e035beb02a411f8a9e92d4cf184ad34f52bbd0a81a50c222cdd4706e4e45104"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8ce4b51-b937-5717-9e46-c359b01dac5b",
+      "hashes": {
+        "SHA-256": "8fb3d3db095920345cafc55821598b4f46f8d756caf2f18016e331e5567e6a41"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8425d8bc-79c9-51d8-a8ce-0125dda429cf",
+      "hashes": {
+        "SHA-256": "917ce8072403294b9079d365892f263c92eb870c75e39cd060ba40713d3300a8"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90994717-4f8f-5b4c-a7b3-28894260ee07",
+      "hashes": {
+        "SHA-256": "939e04ba99d517f3a1451ce304f3454a3c7b13738a0c30aa67b0b3b9247d4aa0"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ede4a01-d52e-59bb-bfa8-91d758dac0a3",
+      "hashes": {
+        "SHA-256": "995f66cbe3752290d38457df2cbd392f79bcb720afb1e77e36aff3f6fb68b7bb"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67d30b77-4b77-53aa-896c-a3263219cd27",
+      "hashes": {
+        "SHA-256": "996434920b27f2534fd1197810f391e5d8899dfde94500517b7632f17a8d3d8b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0908879c-816d-5af0-8fea-50419f1dea88",
+      "hashes": {
+        "SHA-256": "99a8d4a5b9913744f604148ec6c79d48a359913d6b48ec8a69271aef3240b2d5"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb63abd9-3ef2-59a2-ba31-55f5e74e0295",
+      "hashes": {
+        "SHA-256": "9b1b15a3aacb0e786a608726c3abfc94968915cedcbd239ddf903c4a54bfcf0c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95963c12-5d30-5bb4-816c-97e7d33cd659",
+      "hashes": {
+        "SHA-256": "9bc57a85f70ae5dcf46740c1bf7a35be189bb4285ff406519942a26ea44818c1"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b17aeae-877d-5453-b664-5c6f8a8b0b47",
+      "hashes": {
+        "SHA-256": "9beca954da15bd7abfa3389e63af322361a12b7616a734d31d9aecef71f84fad"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87552f22-fcd7-5bdb-8275-12d7f99357fd",
+      "hashes": {
+        "SHA-256": "9d05061c3b7a62ae365639e0532b4ac6226e3bdd6e9caf0a1166ef80829356bb"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6eda18cf-753f-5369-befc-99b6f1f759e3",
+      "hashes": {
+        "SHA-256": "9d854494d349ad34544c4667bc00dc13fc8d005fb743875ffba9fdc332806248"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--862609d3-45a0-55eb-bf33-9a788f7897e4",
+      "hashes": {
+        "SHA-256": "9f4c6a32cc8a5d38f70002c0b9cfc260e3555b1090aee205dd377de434b26d6a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3c6cfc87-1bfd-56f3-bd46-b3bf37640a72",
+      "hashes": {
+        "SHA-256": "9fa5bcee91d3651b8e005cfaf03183989fb17fac305815cd425302a4c42fd9f8"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12fd2422-0ded-5d24-8fac-6e22826a51cf",
+      "hashes": {
+        "SHA-256": "a1be29cd2a06867c14dca5a621eb73a5428d6a31bbd4182d350e46775ad80cdf"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfb91636-8d32-5a83-92b0-66eb068d3846",
+      "hashes": {
+        "SHA-256": "a2d1bfc6686f97d82ff7a7c2e027dd7fdb75a86531c28ed827652722c43e4ee8"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e24e66d9-2735-519d-8b58-0fb1971266f4",
+      "hashes": {
+        "SHA-256": "a46c0cce3b4085d148ce29787509166069a329b044077e7a39c5b0834a2de24d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91617859-f114-5ad5-9f44-f1519b8e1d6f",
+      "hashes": {
+        "SHA-256": "a82794500932cd286b88fec79a8b0e6d9121b135e531da8552333ebb87da834f"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f531a593-a441-5096-a46c-5eba046e0498",
+      "hashes": {
+        "SHA-256": "a98ceb2360c365061b05e795536437f7f0842426ed6b2b9e3e7059281f58343c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb37e9cc-6ac8-5467-8cfa-61b10d89a0b8",
+      "hashes": {
+        "SHA-256": "a9b386e1d522afae0c88c6390b912bdde30786c05fb8dec08c271200d25419ed"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da61b1c4-e729-5fee-a529-2868f487a1ca",
+      "hashes": {
+        "SHA-256": "b0ec47428873e8d2a468fb4d879b23fe94ad1421f11c010b227d5e87398732b9"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc2c6347-b423-57ca-a18b-8d792672ba1c",
+      "hashes": {
+        "SHA-256": "b1fde38dcf163f7724ec240d7441b5b75386e9199ecd80dd878bfd9bff6b823b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--280a44ff-9076-55d8-8250-527d257eceeb",
+      "hashes": {
+        "SHA-256": "b28abf0b11ed44661b77594430919e8e269169568931d1e530342ac149fb33e6"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aab5a811-a019-5d1c-a97f-a2731ad9a39a",
+      "hashes": {
+        "SHA-256": "b29fa96cc966bcc3ebd97eb62623190683221642838b0c3172f64688cee5129d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92f63f1a-844c-5cab-9182-73f0de82d06b",
+      "hashes": {
+        "SHA-256": "b692eaca8a9a1c313f6c23f53f122d2a3b0b5fe1e32563adcbc9a748e85f1f68"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2162da1-e383-57f6-9d0d-e6e62a4f0888",
+      "hashes": {
+        "SHA-256": "b7e27d11ea89146a2b948a1257e5a537106ed4f6df41c78c21b8586d8544cc06"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--660dd1c6-ea56-5b89-b122-2a416a650a24",
+      "hashes": {
+        "SHA-256": "b83915f38f022aaf9b540f80514fbbc19febf76538788a2f5e351d4e65c1b417"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07270fcd-8429-507f-8a0e-91b79a824ea8",
+      "hashes": {
+        "SHA-256": "b99f93ae753ee7d41f3d79445caeae5b7fd1f673267bbe4eb7ec1ad2f95ba254"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--434d65a7-48b1-50a3-9aa7-5235132ad190",
+      "hashes": {
+        "SHA-256": "b9c9dfdc7ca5cb95f8633a9cff0a62dc03668869782bcea8a6fa69a0716d8d1d"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6fa6eae7-354d-567e-9594-1e012cb0b3a4",
+      "hashes": {
+        "SHA-256": "bdc3cea76bfad55d27acb73a807de5e998b03c319a035eafb42380892b5e2559"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--091bfd1e-c60f-5d4c-abb4-ea0ca7361dd3",
+      "hashes": {
+        "SHA-256": "bdda2b709b97f9138e9462c42c10d436ef020ca6628b7fa49eccf84aa3d90ae1"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d910b5d9-e585-5606-8cb9-d45e6630ec97",
+      "hashes": {
+        "SHA-256": "be548dca06908083f15fe6ffedb6602eb406dc14bdebf99f4bd2a188f3868d65"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c99068b-ba1c-5701-bc7a-2721427ca134",
+      "hashes": {
+        "SHA-256": "c27c5b331e8d6410631a03118b49672edc40fd84abd2e4dbdc18db03b9ee9eed"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05dd2e7a-d5a7-55ea-a226-fc7a8798807b",
+      "hashes": {
+        "SHA-256": "c3b9fa3c74b7b07a278dca63b63845d5d512f7eb753479e51aaa9a46ec10727f"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56b53bcc-1959-51e3-b56c-4fa732a61c9e",
+      "hashes": {
+        "SHA-256": "c444e1c6238b13e4e3d6f85269ba721b00460e4252f0b3f7001e859d780248c3"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3fed4a61-9c27-5732-9c8f-998ba97dc528",
+      "hashes": {
+        "SHA-256": "c6b01f6e4a71ee00979d170accfd40b11b26cd9d3c57f0cb402b0f3c391e1367"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7db95d5-84b5-542b-85d9-84df6c655d14",
+      "hashes": {
+        "SHA-256": "c823ed1e83337cddb9e43409ed92681590b6d2a251058b221734864233878c92"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--839a6ed3-da4d-529b-8f02-9f6ff855071e",
+      "hashes": {
+        "SHA-256": "c867ee3c123d4f11297beccdab43676a13d8163fc1e845186fd3d863515bdd19"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34ef8e68-bf47-5631-8f30-844a3d470ac8",
+      "hashes": {
+        "SHA-256": "c8f2c9352163a999f5160a8ad7a830f84941dd346a5d3c19de6513e9996ae06e"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--611b2494-cbe4-56c9-84b2-b09f99861ca4",
+      "hashes": {
+        "SHA-256": "c8f9e1ad7b8cce62fba349a00bc168c849d42cfb2ca5b2c6cc4b51d054e0c497"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f754780d-542b-5452-849d-5477776a8181",
+      "hashes": {
+        "SHA-256": "cbe7b3886df425b90ca827b81fecb4b4bc4e0a5464cf6103245c311e79d57ef4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb97995d-ab8e-527f-acd3-32e8aaa2beda",
+      "hashes": {
+        "SHA-256": "cd0eb0cf3b1935b01e0ec1c42962d3a64d744de18c47bacd37a73fc78db986a4"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55d29703-597e-521a-a279-179dfa5624c0",
+      "hashes": {
+        "SHA-256": "d7c81b0f3c14844f6424e8bdd31a128e773cb96cccef6d05cbff473f0ccb9f9c"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--547b8641-bd33-59c3-b78c-ab1413f0f9df",
+      "hashes": {
+        "SHA-256": "d93c406fddb17234b31ac7767b145420b8cc74eb33c8df4ada32bcfb271ddea5"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d926376d-826e-5b8e-b4e8-b90849f26dcc",
+      "hashes": {
+        "SHA-256": "da1fb38329cd2f940ef22dd3a255432a7ed0762b6172ef64fa8480283acab155"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3faf0ef-5d8b-5a76-a5e2-1fe99ae07820",
+      "hashes": {
+        "SHA-256": "de31a9a575810b6b1cde808daf10b0cc2042f2b35363c025ebd737984cb6cd79"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5948ebd1-9331-5b37-950e-f630af21810d",
+      "hashes": {
+        "SHA-256": "e273061733da624f2d6f8bff25b5a65b6c378e325a6484531cdacbee9bb80789"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40f85f9b-6ad8-588c-bfa4-0a1a3a132b52",
+      "hashes": {
+        "SHA-256": "e398b3818cb784c6efb6b2e80a265429b417ac693f35a3ba155baabab7445511"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--842b800a-3a8a-5a53-bd17-2f5ccff056d2",
+      "hashes": {
+        "SHA-256": "e542b5f2e57347871a8a602a02208a3287225a4db28ce652b1ebafdce0a0d5a7"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--58ea9727-fb28-57cf-bf34-77469f1e55c8",
+      "hashes": {
+        "SHA-256": "eaad75470e21084ab3a38f6cb0f3aa72d4203260515619f8703e3fc80e800d7a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a191630-0829-5aea-ada7-9f0f373f1821",
+      "hashes": {
+        "SHA-256": "eb9bfac2fbd500a9dca71b4ca97536fe3f76bc225bb42e95e97a3db0b7687fd5"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d93688d1-d0e1-5e4e-8dac-f6b60b8ec01e",
+      "hashes": {
+        "SHA-256": "ee75bbe10675a7b8e90072cfac182d65963d927778f0d4c477f6ccc5c9570ac3"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--795eee03-3583-5fa9-bbbd-a191ab90a8e5",
+      "hashes": {
+        "SHA-256": "eebfcb727e1bed74b288d6ce7465bbd3bf95aad957fd5a2269dbb296da8450c1"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f54c6180-2081-5b15-95a8-7829bbd25317",
+      "hashes": {
+        "SHA-256": "f2401dd344ef5c65ad674c45e4a5dbc911b0cc6d0c757bd413ffbe715422e080"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9655c184-ba02-5339-a5a1-28be2334a3dd",
+      "hashes": {
+        "SHA-256": "f28ab5f0a4d74f4018717b4fbae32d396c97418b73e668eb1d6a5babe49836a6"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e74b7003-d9b5-54b5-be31-55bcadd2a5fe",
+      "hashes": {
+        "SHA-256": "f3b017cf469aa4e76b1e9b67c6462a0b5d9ebbfc550c1bf3f65e9ccdf88f2447"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--929c0e0f-b66b-54c8-a536-4f0acead5e66",
+      "hashes": {
+        "SHA-256": "f80246ad1cd3f34b190b5261c3ac3db0496d3e40a38b34203ce02c5ffdd4b46a"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6a32b00-6ba2-55eb-8006-04b12bacc87d",
+      "hashes": {
+        "SHA-256": "f8efa3cc21719b8b25aa8719f58e9af9fa2016918d067be897572c58580655db"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7dbea50-fb02-5474-92e1-bba5248d4da1",
+      "hashes": {
+        "SHA-256": "f8f2d01b173b5c7b9672e06ea17b5b8f80451edc5e3e3fd66e7fdfcd02db8778"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3e4be99-15ad-5958-8064-8fd335543893",
+      "hashes": {
+        "SHA-256": "f9d9d22b9c19f45b8ba74b556a959990586fd2c10f962af34e49d12b94d5d35b"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5c58ecc-c1e3-53fb-b849-3f667375654b",
+      "hashes": {
+        "SHA-256": "fecb556ecbcd5063d99def8329fac593bc250785db953dd1cbaf425c9db46883"
+      },
+      "x_opencti_description": "maldrivers_release_2.csv"
+    }
+  ]
+}

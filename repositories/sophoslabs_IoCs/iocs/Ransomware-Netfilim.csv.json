@@ -1,0 +1,38 @@
+{
+  "type": "bundle",
+  "id": "bundle--4ecc5e93-e89c-483c-9bb6-a8e9253539a7",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0d63e10f-8006-5914-9853-f5d5d03a7c58",
+      "value": "45.11.180.250",
+      "x_opencti_description": "Ransomware-Netfilim.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3dd64019-a02b-55db-9910-8bd76b1b0f86",
+      "hashes": {
+        "SHA-256": "e7ccbcc9f500272f8b6422e9900c5131768cc9ca074e6cb8cc92bce385a7ee2e"
+      },
+      "x_opencti_description": "Ransomware-Netfilim.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53fadfe2-5512-502f-8def-af9fd7ee129c",
+      "hashes": {
+        "SHA-256": "3cd9b8f675d4718c4d73a9b1656836790a058b8ba46c1e0f254d46775ab06556"
+      },
+      "x_opencti_description": "Ransomware-Netfilim.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1a2212a-b304-58f7-9d2e-6268b30ec77f",
+      "value": "HELP.txt",
+      "x_opencti_description": "Ransomware-Netfilim.csv"
+    }
+  ]
+}

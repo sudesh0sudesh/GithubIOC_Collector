@@ -1,0 +1,455 @@
+{
+  "type": "bundle",
+  "id": "bundle--d38fc32e-1ced-4299-b47c-2244ba31812f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--86eb7065-b1d4-511a-a0cc-84c94fbf0345",
+      "value": "89.44.197.74",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4b6961c1-ed8b-5a24-b607-0c7062d91c82",
+      "value": "185.195.237.123",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d2d0fb73-9a34-5997-9c54-50059d209460",
+      "value": "195.123.247.50",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9c1d4971-fe2e-51d5-abdd-e1434b9c7f7f",
+      "value": "172.67.130.71",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a566483c-b335-58e0-a306-94ba15da32de",
+      "value": "45.90.58.103",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8d1b6be4-9f60-56db-bc7c-3910b98eeeb2",
+      "value": "185.195.237.121",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7f3c39fe-00f4-5834-aa08-817332323605",
+      "value": "104.21.3.57",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7f7e9c25-2d22-51ab-8c6d-37e0f42a85cf",
+      "value": "185.82.217.164",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5ec608d9-8e0f-568f-8168-ba3c598b8015",
+      "value": "195.123.245.79",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--54505d17-f48c-5476-88d0-eeb6eaf99b70",
+      "value": "154.39.137.29",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e862761-773e-5787-95ec-109726d96cff",
+      "value": "147.139.47.141",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--16c79805-b458-5fda-bc9b-8dbf2caf0a0f",
+      "value": "185.167.116.30",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3e5d7421-b0df-5527-89ac-ccdb3d7f4878",
+      "value": "91.220.202.143",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--72e29c43-f865-5e46-a8ce-357ca397b4bf",
+      "value": "139.162.18.97",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2dc9b597-5d7c-512b-a11b-ae393d0d8d48",
+      "value": "cloud.keepasses.com",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1546bd88-5952-59f8-bef5-acbc22bb9175",
+      "value": "scancenter.trendrealtime.com",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae877e5b-465a-566c-8812-7b285505406d",
+      "value": "associate.feedfoodconcerning.info",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38f09f6c-ab16-5264-b902-7f18115c1589",
+      "value": "associate.freeonlinelearningtech.com",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21336557-f53d-5433-8972-5a33d0975b44",
+      "value": "msudapis.info",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50e01c5f-efae-5d09-8d9c-bc222cc55dba",
+      "value": "associate.freeonlinelearning.com",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e5b37f1-a025-554d-9280-11c9f8e1effb",
+      "hashes": {
+        "SHA-256": "110c5eec940f3abb8b3a671cd292bc9ef65772168325a7949290e9828353824a"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d46f4c4-7a5c-50bc-b671-fc4a0bd03168",
+      "hashes": {
+        "SHA-256": "e9cb02690d987de8d392d0e24b3ccbb294c751dff73962135913c7ec0d8a8064"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aa374ee4-ef64-58ac-b6fd-8e3d2df2db7f",
+      "hashes": {
+        "SHA-256": "c1abc254d231574044ffe7bdd030be04618916f255396197f1151bfec98c04b6"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--57c9616e-3904-5bde-9c56-9f093f42b92f",
+      "hashes": {
+        "SHA-256": "e8cd237ac43fa0505d858ac8eb800020eeca104a1cd931d3b6d0ef656ee5393d"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31ff4519-852c-59b9-b551-6731f9ee2a8c",
+      "hashes": {
+        "SHA-256": "173bb620ed2eee6b356e128da88e173eb1b69253ecd616f8f984087688c089fd"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aeabd61a-fe4f-5bfc-ac92-a9d7160223cc",
+      "hashes": {
+        "SHA-256": "c06065d3de3bfb37168a5d94baf1c675f831a201937ef774a36c2ea2bf6fc49e"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b45a7a74-ee42-5962-abd2-4c4acdd6bec7",
+      "hashes": {
+        "SHA-256": "b05b92fd84cc3e3bd6378cadbe9b8b2cb926c42383e6194be1df44d1b9202fc1"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--164f72e2-bf8b-5498-9292-e89ba32b8964",
+      "hashes": {
+        "SHA-256": "951c7f8fdb6cfc8b362615ab1eec4a07dc8fccfd3a7ecda8255908a93b6a1f21"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--676abca0-9222-5106-8f2f-6aa8bab53fa4",
+      "hashes": {
+        "SHA-256": "01544aeb502163c4fb7bac483430059183ce3d11aee78cd4a6c7074c5289540e"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--13449ca5-6833-577e-ab4e-31e3d1ad1c14",
+      "hashes": {
+        "SHA-256": "47c4a62fe75aa62906f0b110668e17947e905a33759100de21b987879b47183b"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c17a41ec-72a6-517d-9849-7cdc076ebe0d",
+      "hashes": {
+        "SHA-256": "7ed44a0e548ba9a3adc1eb4fbf49e773bd9c932f95efc13a092af5bed30d3595"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0f43c487-6020-588b-beb9-36d81f4c02a0",
+      "hashes": {
+        "SHA-256": "f499f8d9584e5f4474b19324b807a38fec1c1d38d5df2ff4c1e16798311bc25b"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b4c2748e-fa4f-5982-85e8-84bc33a62fdc",
+      "hashes": {
+        "SHA-256": "68ee8c2209641a6796e06caa115effcb89f722a5737210b5bebb87a36e5141a8"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2180f045-5de6-57df-b156-c55ef89322d6",
+      "hashes": {
+        "SHA-256": "9404f51ccaf4165e6add08344f04b90ae79a045814d6b1de6b6c1e30981faa78"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2bb967f-9c29-57e2-86b4-f7f2071025fc",
+      "hashes": {
+        "SHA-256": "0e010a36ff24299592569f7c3fc01c597e158996d94b66eb3bbf757742663e76"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ae74b23-403f-59fd-90f7-45621af37eb2",
+      "hashes": {
+        "SHA-256": "1b97afb3310b3af944f74c2d715c110cec32ec536c0a9837b8c88df3438b2a63"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--834b28f7-2317-52b9-b84e-c26a8f3775f2",
+      "hashes": {
+        "SHA-256": "2a662b58f1dd229e7dba923a4d123658e3c10c0cfcec03748fbe577db81db34d"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1edc90e-15a3-5a16-8ed4-c4d54639a58a",
+      "hashes": {
+        "SHA-256": "bbc0fe549a9e902528a125abd13b1f7c53746416d9c9bb91f88877f37a4ce11c"
+      },
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7e3e2ce-8df7-5959-a1b0-04fd72533589",
+      "value": "sslwnd64.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7e3e2ce-8df7-5959-a1b0-04fd72533589",
+      "value": "sslwnd64.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bda0f6d2-bb69-5634-b411-c16895e3665f",
+      "value": "nethood.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71b5dcaa-abc7-5469-8002-091db64841fb",
+      "value": "oci.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c6a93c00-23bd-59af-915b-06a9422e8ac2",
+      "value": "X64.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71b5dcaa-abc7-5469-8002-091db64841fb",
+      "value": "oci.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9df6c20a-aa6c-50e9-88d1-d7e49718433d",
+      "value": "wlbsctrl.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a627883-bb1f-5c41-b5ce-cfeececa4294",
+      "value": "TSVIPSrv.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a627883-bb1f-5c41-b5ce-cfeececa4294",
+      "value": "TSVIPSrv.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--961bb72d-64ce-5be9-b87d-e11a5463f719",
+      "value": "pc2msupp.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--460e8d41-372a-5792-b688-2afac1678b6f",
+      "value": "MOBPOPUP.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--267b2de7-14ac-56ab-a220-c86ba8af208e",
+      "value": "MSI64.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06897297-c55f-5c4e-9aa6-7adf400b70b2",
+      "value": "ba0oddof.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bbf8ae6-40a8-52cd-a598-3bb41f1724a6",
+      "value": "SophosUD.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bbf8ae6-40a8-52cd-a598-3bb41f1724a6",
+      "value": "SophosUD.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31e23b6d-0769-5714-9bed-af8281c1cd95",
+      "value": "SophosUD2.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96476a40-8d4d-5879-9637-621bd4874c5e",
+      "value": "SensAPI.dll",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc4853d1-9775-5fd9-a4e2-7d8c4af6c9c5",
+      "value": "ph.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da8fea3f-b053-553f-8217-434f375bf9d5",
+      "value": "vmnat.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6efd039-3474-5656-bdc1-e85d00d25745",
+      "value": "svcchost.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37af74bf-e777-5144-bf77-6ad5991d5309",
+      "value": "dllhost.exe",
+      "x_opencti_description": "crimson_palace_stac1248-alpha.csv"
+    }
+  ]
+}

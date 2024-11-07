@@ -1,0 +1,153 @@
+{
+  "type": "bundle",
+  "id": "bundle--43567108-c6c0-41c3-9e4b-63ced10cb726",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11d507cb-4d49-5aac-9a2c-601aea64e735",
+      "value": "175.118.126.65",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11d507cb-4d49-5aac-9a2c-601aea64e735",
+      "value": "175.118.126.65",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11d507cb-4d49-5aac-9a2c-601aea64e735",
+      "value": "175.118.126.65",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f5d3fc40-24cc-5f70-8b08-7b6420fbe57f",
+      "value": "https://news.sophos.com/en-us/2024/03/04/itll-be-back-attackers-still-abusing-terminator-tool-and-variants,Observed",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cbf6c793-7652-551e-a617-e467932f7728",
+      "hashes": {
+        "SHA-256": "397eb84bfebb366c2719c02bbadfdf9de8ef608808d680c9f127f9a62ccca083"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c30db43b-26a2-56d8-8e03-4db490018e1d",
+      "hashes": {
+        "SHA-256": "6f55c148bb27c14408cf0f16f344abcd63539174ac855e510a42d78cfaec451c"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eaae7e94-460e-5658-90b9-cc339550e1a2",
+      "hashes": {
+        "SHA-256": "c3e6034ee65a1131068998399f110d0c944686683197b607c5598e9c09af1c39"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ae43c5d-6771-5c85-88f9-9c8052eb70b5",
+      "hashes": {
+        "SHA-256": "6e2d85628ae37e57365ed59ac30371d86ab3b62acd5d0dfb6cbd0ccc6c4e5c1a"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83309cd2-e2db-557b-9126-6bc6c835f9ee",
+      "hashes": {
+        "SHA-256": "2bbc6b9dd5e6d0327250b32305be20c89b19b56d33a096522ee33f22d8c82ff1"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea234fbc-b0b6-5e82-96b9-fee95456bc60",
+      "hashes": {
+        "SHA-256": "c748b9054a97a00db5484a98b1841b3c92881c96989d492586206e0970be3b4b"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--891c6099-3697-5a32-b897-876a05f8652f",
+      "hashes": {
+        "SHA-256": "3c54646213638e7bd8d0538c28e414824f5eaf31faf19a40eec608179b1074f1"
+      },
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba4701b-11a9-51c6-98c4-c9d387df2107",
+      "value": "ter.exe",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba4701b-11a9-51c6-98c4-c9d387df2107",
+      "value": "ter.exe",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c949444a-bba5-5dfd-ac1d-89b5f42ec8be",
+      "value": "Ternimator.exe",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--878f5e23-e4f6-56ca-b508-1ede67056e92",
+      "value": "Zam.sys",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c949444a-bba5-5dfd-ac1d-89b5f42ec8be",
+      "value": "Ternimator.exe",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5ea3faee-8c9f-559e-97e4-c170b9ef11ab",
+      "value": "http://175.118.126.65:8002/js/wi.txt",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f5632d7-b32c-5a84-8b43-96b4f5964233",
+      "value": "updatedrv.sys",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f5632d7-b32c-5a84-8b43-96b4f5964233",
+      "value": "updatedrv.sys",
+      "x_opencti_description": "Zemana-driver-IoCs.csv"
+    }
+  ]
+}

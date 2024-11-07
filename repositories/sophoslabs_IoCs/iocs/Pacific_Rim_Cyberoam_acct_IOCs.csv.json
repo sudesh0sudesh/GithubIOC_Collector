@@ -1,0 +1,40 @@
+{
+  "type": "bundle",
+  "id": "bundle--0ea8183e-0f4c-439a-8574-0e5c9a82f2c3",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Cyberoam_acct_IOCs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--aa3dcd03-4f3e-4c34-97d3-199de720a4e4",
+      "created": "2024-11-07T12:31:53.029057Z",
+      "modified": "2024-11-07T12:31:53.029057Z",
+      "name": "CVE-2020-29574",
+      "x_opencti_description": "Pacific_Rim_Cyberoam_acct_IOCs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--0dad3976-3386-4070-a9ba-3ed76df2c776",
+      "created": "2024-11-07T12:31:53.029416Z",
+      "modified": "2024-11-07T12:31:53.029416Z",
+      "name": "CVE-2020-29574",
+      "x_opencti_description": "Pacific_Rim_Cyberoam_acct_IOCs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--69f7c0e7-1765-409d-8ce0-2f0af8917c7b",
+      "created": "2024-11-07T12:31:53.02979Z",
+      "modified": "2024-11-07T12:31:53.02979Z",
+      "name": "CVE-2020-29574",
+      "x_opencti_description": "Pacific_Rim_Cyberoam_acct_IOCs.csv"
+    }
+  ]
+}

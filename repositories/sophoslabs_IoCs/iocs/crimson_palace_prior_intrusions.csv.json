@@ -1,0 +1,141 @@
+{
+  "type": "bundle",
+  "id": "bundle--722930bf-1e4a-49c5-94b7-0fdadb0c5f34",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--152aaa39-8fb7-562a-8513-04f0bfee9863",
+      "hashes": {
+        "SHA-256": "cca5ae87cd710a8fbf994addb0abc8bf1deb222214d4831289885de23ca98924"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--950da859-6bc6-5eda-8573-c78afab4629b",
+      "hashes": {
+        "SHA-256": "c1bec59afd3c6071b461bb480ff88ba7e36759a949f4850cc26f0c18e4c811a0"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--189b6982-9991-5249-8959-27ec03f0fc29",
+      "hashes": {
+        "SHA-256": "f682323a2c543abbe12c21a77ee93b49444381fa33f76c67363c84764ca4c675"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2dffde11-fea1-5698-b203-001fa0225a8c",
+      "hashes": {
+        "SHA-256": "506b21588541243f3ddd5acb759bf20a3bf06fd2fea455066866154bc5e59721"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ea90b34-530c-5421-afb5-fac0e3aa9507",
+      "hashes": {
+        "SHA-256": "4ae29b8124f6221dab934ac04afed2acc8b17c6b35120d568bad8658cbca01c6"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5cefb7ed-10ce-5bf9-944a-f00cab2ea330",
+      "hashes": {
+        "SHA-256": "56F0C8047203147D9B9A888EBAC8F33B14AE198182A13913A0F93652DFE2052A"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89375d19-aa54-5f71-8e40-0804c26af881",
+      "hashes": {
+        "SHA-256": "b708dd11942c3e87a8987bdf83f7ea603425ae75fc25a306f54f1087df4198b4"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1043b06e-94b5-5d5c-aa8b-972acb34778e",
+      "hashes": {
+        "SHA-256": "f830c3771d35237b4a63b946d7a0d187f5aaa4240e965d74070b7d72b6fba210"
+      },
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f87a93e2-374e-52b4-9841-18edbe4fb0fc",
+      "value": "textinputhost.exe",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61c4103e-c470-5594-8a48-a3671678cbfa",
+      "value": "rc.exe",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf715534-ffd3-5930-9549-a26920ea92cd",
+      "value": "TextInputHost.dat",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7779b46-3582-5c8b-b96b-c139e674c96d",
+      "value": "sc.cfg",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6191790d-dd36-58b6-8b3d-63bf22d57a3f",
+      "value": "appmgmt.dll",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--639b818c-8833-5d68-97f0-7e9165106c06",
+      "value": "check.exe",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6191790d-dd36-58b6-8b3d-63bf22d57a3f",
+      "value": "appmgmt.dll",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddba2e37-787f-5942-8d74-e8c6fb09aa49",
+      "value": "swprvs.dll",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b111b4d-d769-5a8b-9233-e345c868deae",
+      "value": "winbridge.dll",
+      "x_opencti_description": "crimson_palace_prior_intrusions.csv"
+    }
+  ]
+}

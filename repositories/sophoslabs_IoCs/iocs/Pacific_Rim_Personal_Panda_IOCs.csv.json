@@ -1,0 +1,105 @@
+{
+  "type": "bundle",
+  "id": "bundle--3da28c09-1801-4a39-b8dd-728ae38fe127",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4c7c5f33-8838-5b61-a0e8-7578f4de4957",
+      "value": "192.248.152.58",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4c7c5f33-8838-5b61-a0e8-7578f4de4957",
+      "value": "192.248.152.58",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad112825-c4f0-55ac-aa4c-9dd72b271eaa",
+      "value": "libsophos.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad112825-c4f0-55ac-aa4c-9dd72b271eaa",
+      "value": "libsophos.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf56272-1ff3-5ccd-9594-74d0ff72f4f8",
+      "value": "libgoat.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad112825-c4f0-55ac-aa4c-9dd72b271eaa",
+      "value": "libsophos.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3e79c57c-6724-56d3-b478-bd37a708134c",
+      "value": "libiculxg.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3e79c57c-6724-56d3-b478-bd37a708134c",
+      "value": "libiculxg.so",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec3c7814-2c84-5b15-bfd9-a593ac26e4fc",
+      "hashes": {
+        "MD5": "c71cd27efcdb8c44ab8c29d51f033a22"
+      },
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d18cb273-23e6-5d6a-b3d1-87031701e3d2",
+      "hashes": {
+        "SHA-1": "dc64bbdcb4ce0c2c49bb681de35f181f096dee30"
+      },
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49dc0b54-0d4e-5f18-85be-fba7643d26f4",
+      "hashes": {
+        "SHA-1": "7b1e16548265fe4ef9e882af7f1fdf336d072b5a"
+      },
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--0966a482-c85e-4d96-90db-25194024b9df",
+      "created": "2024-11-07T12:31:53.255724Z",
+      "modified": "2024-11-07T12:31:53.255724Z",
+      "name": "CVE-2021-4034",
+      "x_opencti_description": "Pacific_Rim_Personal_Panda_IOCs.csv"
+    }
+  ]
+}

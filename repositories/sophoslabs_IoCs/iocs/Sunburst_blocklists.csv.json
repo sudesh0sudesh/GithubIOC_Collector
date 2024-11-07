@@ -1,0 +1,118 @@
+{
+  "type": "bundle",
+  "id": "bundle--3d5a5e34-ca32-49e5-978a-490c12d42cad",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2cab55e-5ea1-5498-8b9a-115d30d2c370",
+      "value": "cybkerneltracker.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f22071e-8234-52ee-8b70-4daf5fd3e323",
+      "value": "atrsdfw.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2435f39-6ffd-5f94-9be9-d66d19bb5b19",
+      "value": "eaw.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ac73af9-5454-5b30-9433-d8302f9bdede",
+      "value": "rvsavd.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a0283f7-f6d1-5751-8abd-5c4969049022",
+      "value": "dgdmk.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c51b884a-16a8-5320-a492-e9d07cb2e093",
+      "value": "sentinelmonitor.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f88730e1-584d-52b6-8c5f-0fcf72bd1182",
+      "value": "hexisfsmonitor.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79631d97-af69-5a9c-b4d8-34a79b5cf7ac",
+      "value": "groundling32.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9fff666-10fe-5068-94a0-297aa158cd91",
+      "value": "groundling64.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e34420a1-b552-56c1-a6a4-ff8229f80619",
+      "value": "agent.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0afcfbca-f4e1-52f4-b2bd-45d1e408d34d",
+      "value": "crexecprev.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1bc2bbb1-f082-5de4-9318-e7fd213099ff",
+      "value": "psepfilter.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17181eb5-f0d2-570c-a787-bd6ba7852fa8",
+      "value": "cve.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cba40a54-ee63-5c8c-9a68-4dc8382d2b18",
+      "value": "brfilter.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a83a96eb-e140-5e96-b6d8-bcca709a6888",
+      "value": "lragentmf.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e613ee6-5fb6-50e4-914b-91e996d6cf16",
+      "value": "libwamf.sys",
+      "x_opencti_description": "Sunburst_blocklists.csv"
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "type": "bundle",
+  "id": "bundle--be7da8fc-cada-4a72-9a96-94857fc40fcd",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fca65aa3-7e4e-5046-b3d0-e37769e227e4",
+      "value": "212.113.116.63",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fca65aa3-7e4e-5046-b3d0-e37769e227e4",
+      "value": "212.113.116.63",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b7e84f2-e4b3-5dfb-b56c-56006cf5abab",
+      "value": "78.47.104.201",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b7e84f2-e4b3-5dfb-b56c-56006cf5abab",
+      "value": "78.47.104.201",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--866cb4e5-5031-5dfc-9e82-c7d441519b73",
+      "value": "https://news.sophos.com/en-us/2023/12/19/inhospitality-malspam-campaign-targets-hotel-industry",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81c298a7-8f48-5146-b97b-c7af9a2bd4be",
+      "hashes": {
+        "SHA-256": "d352593cee4b9865d9d6c9ad3c0bea532c611a08f9d2bd7242b51c3fe2f78ba2"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8baa5034-3520-570b-9d7d-395b7e40e354",
+      "hashes": {
+        "SHA-256": "5fc3c806e9c5a93c9ada6ea6878fbee6c7302fb76b72277448bcc8189449f190"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--44867b3c-894b-5bc2-8bc6-d500fa1caa1a",
+      "hashes": {
+        "SHA-256": "d9a0deb3ec21d717c231d66ed50aef1a40e204497290f218910d899811671962"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9547e977-68c1-5eb8-b867-6d8cf23f5434",
+      "hashes": {
+        "SHA-256": "b4ea2d41355ddeb4d7b7b532bd1f78f813041f3cb96b7b1f5e4f4f4750d7497a"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e74bf0e-f406-57a7-8782-9cf691fdc5ad",
+      "hashes": {
+        "SHA-256": "7a46f40175a7d0d12f2010a6511e9faca529484a3a037a44aea78c0a7f53595e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de6595cc-c789-5794-8dc5-d0da72d9da82",
+      "hashes": {
+        "SHA-256": "cf10fb3d0d5f9dc2c19c82da38e37caa0562bf536020064c9904873c95b2486f"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--582a029a-f28d-59a3-a863-5738d7f93e31",
+      "hashes": {
+        "SHA-256": "e6359187be67dd196e1553a795ddcf786e518b8c11d7b8cbf4124ca4f8a35c23"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90724a67-a745-5a22-99d1-3ebd3709dbc9",
+      "hashes": {
+        "SHA-256": "5b1defbaa364276487f54002e512a7c60a65c7ae0254a3933bd848b2eb52a006"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb2c5c5a-8386-5860-8db9-3efe148850d6",
+      "hashes": {
+        "SHA-256": "fce9807d4ffb6d8b211fe35ad107bafc4d9a9790f3a72ffc108ec360a879bb32"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3516ed82-b43d-5920-a1b1-1cf35c0e1918",
+      "hashes": {
+        "SHA-256": "b71e6dff416caf4f6fa73f4c89a0dd548ac0f128032ae9370886b7e24b18cd9e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3516ed82-b43d-5920-a1b1-1cf35c0e1918",
+      "hashes": {
+        "SHA-256": "b71e6dff416caf4f6fa73f4c89a0dd548ac0f128032ae9370886b7e24b18cd9e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87d73789-e8cd-5f75-8a34-899addae2cdc",
+      "hashes": {
+        "SHA-256": "0c5fb7158b8dfe6e2550779d69137138bd7a8e9586848b0e2c42e47bffd2b76d"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81c298a7-8f48-5146-b97b-c7af9a2bd4be",
+      "hashes": {
+        "SHA-256": "d352593cee4b9865d9d6c9ad3c0bea532c611a08f9d2bd7242b51c3fe2f78ba2"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1494cbbc-7df0-521f-b396-730486d4d314",
+      "hashes": {
+        "SHA-256": "fd649d6c91a0e7f68be293371ce81367c091c1377bc7cb7d69b01671e4c96e8b"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92538225-77bf-55ae-ba49-98f0f4418c04",
+      "hashes": {
+        "SHA-256": "90c17baf90cd5353e7695317fbc3c6e2f50eb73ec0adaa05227e835dad3326f0"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--11950112-eff7-5f41-88e1-a2a703d79159",
+      "hashes": {
+        "SHA-256": "08cf8ed5112af910a49154f6fb2c80035d4144303bad86dc0e2c162c34efb0ae"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2df511cf-a0e7-557a-a607-675012b5e088",
+      "hashes": {
+        "SHA-256": "fcd18584db80db720993b7650b0d286339fd8839a6ef31b50c423287374a91f6"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8514e8a9-b932-57b1-8a15-5a9d5ff95629",
+      "hashes": {
+        "SHA-256": "e8c7bb1599519cda5f436519950cc8defdf4828a8b2ddc26bbd7063ebd81a2c2"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a563771-4e7f-5453-ba21-bce1eb14e465",
+      "hashes": {
+        "SHA-256": "9eabdbb230364c3e805d2f762f07d81bd5791a1056d748309df6af2df89ebb2f"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f8c96de-a0e6-5875-95ca-4cd8f4d8d651",
+      "hashes": {
+        "SHA-256": "71f0e34c59d9fde8ce357f5b5d195dfc324777b2e9831f3772f5b77da21f9a12"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5873c553-3a3c-5058-8898-447a0458a510",
+      "hashes": {
+        "SHA-256": "b2e1b10557594b8a6e1004645aa9af184540857687d4d8d9330e799f423465e9"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--150bac0c-2e49-5e83-85cf-389624c0d42b",
+      "hashes": {
+        "SHA-256": "6fdf7e97a8a2a619d2ad92473e0663d81416caffd9fc8ab638358920f39284be"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9351d5f7-67e9-5fbf-bdd4-b2df277c660a",
+      "hashes": {
+        "SHA-256": "26e5352a7b64d439efdfafd98dd116a969b5e6d6a2a82cd111af22db04bf00b6"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--284abdc4-37bc-5082-aabc-508e97c46141",
+      "hashes": {
+        "SHA-256": "646b832c7b5c5245cfeece67567c8a6181e44595e54fc8e28ce6aa5b7350ea46"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--284abdc4-37bc-5082-aabc-508e97c46141",
+      "hashes": {
+        "SHA-256": "646b832c7b5c5245cfeece67567c8a6181e44595e54fc8e28ce6aa5b7350ea46"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c322ab7-ddfd-5328-a25d-34076c44ad15",
+      "hashes": {
+        "SHA-256": "0147497f4ccd90b4600b2fb71baef1b895c67a524032c203c50236d6c998885f"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--11950112-eff7-5f41-88e1-a2a703d79159",
+      "hashes": {
+        "SHA-256": "08cf8ed5112af910a49154f6fb2c80035d4144303bad86dc0e2c162c34efb0ae"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e8ae89d-a40f-5c1f-8935-0801c1ce2670",
+      "hashes": {
+        "SHA-256": "99e11573d54e8379e7fc2d5b2233764cef0b4f6a910ddca9df64e8aa09c3822c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea8853a5-5522-5ace-a174-243f68d02ce5",
+      "hashes": {
+        "SHA-256": "91886e86f59b64fd4331ff6bb8c8927439610e093e0681073f89eb810dbd7c16"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b68ecc09-1f0e-55fd-8a77-a4166c0eb273",
+      "hashes": {
+        "SHA-256": "ae92077f7701e5653243f8d17666b73b5273138cc9949f9b8abc79abf19c6b43"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e824edad-0be3-5617-a313-d35c2d9b4672",
+      "hashes": {
+        "SHA-256": "ef3ccf22f3153d3db220cc4ca5fa5cc4f75a968c5243a9165d29d5c9d915a12e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8514e8a9-b932-57b1-8a15-5a9d5ff95629",
+      "hashes": {
+        "SHA-256": "e8c7bb1599519cda5f436519950cc8defdf4828a8b2ddc26bbd7063ebd81a2c2"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2dbc26b-62ca-529d-8d2d-5988eafe5a5f",
+      "hashes": {
+        "SHA-256": "9ec2b525eb0e2d1b50f236f6ec7bc4cb24c90bcb69b92d1aecef6ba892942969"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2b3d3396-d64a-505f-ae3d-d025ed0e573f",
+      "hashes": {
+        "SHA-256": "070f22e968253c06575514c5c57641b72ffe4f7646594e992907e8529125136c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--360dae5c-72e0-58ec-82e1-6fb65d8b5b8c",
+      "hashes": {
+        "SHA-256": "e141c2a0666e1f8471bb3b97d99f96ffcaf1ceab7964700239aacfedb90412e9"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e8ae89d-a40f-5c1f-8935-0801c1ce2670",
+      "hashes": {
+        "SHA-256": "99e11573d54e8379e7fc2d5b2233764cef0b4f6a910ddca9df64e8aa09c3822c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64ad828b-79a1-5306-821e-2807d377bb28",
+      "hashes": {
+        "SHA-256": "97a6861439cbe274db92880f66dad6ac73b76203249b1e2a2d25da24b6ffe427"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3c360d12-03b0-5016-85b5-03cf1924334f",
+      "hashes": {
+        "SHA-256": "c3a5027e0efdabcfdd793a64f65a67b6f989e866b938fa4171208d250ecba31e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30a78122-7f20-5e61-b0de-d23697852a93",
+      "hashes": {
+        "SHA-256": "0b0be58cc99c864c1885ecb15e6bbba3256b23d1d57fbcc9715854d2b4353712"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a49a6135-996e-5af2-a144-34af1078992e",
+      "hashes": {
+        "SHA-256": "21578065bb897f43e1037a82ea5272bb82e34df09970f5a5bdc7971801f178fe"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--54422814-516d-5d92-9e11-8887fed91d5a",
+      "hashes": {
+        "SHA-256": "967ab2f94648bda105db3d1f2ae73b107b04a98e4f41920474132bd626a2b193"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b867014-a0df-5ecc-a6ee-966baf0af600",
+      "hashes": {
+        "SHA-256": "ac2f93660b0a9ad487fe8351cc7638a71d0ebb8fc9ef5e8ae7b4fe683a7daad3"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2df511cf-a0e7-557a-a607-675012b5e088",
+      "hashes": {
+        "SHA-256": "fcd18584db80db720993b7650b0d286339fd8839a6ef31b50c423287374a91f6"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fb5ead3b-4d0a-5e77-b99f-68294a39a24c",
+      "hashes": {
+        "SHA-256": "1b562c3daca8ee4be69e7161256772c24228d8583d7ddfd6cc502192a9db2cfc"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6c04208-db35-5d72-97ad-50c09632cc43",
+      "hashes": {
+        "SHA-256": "4b58bf4dee97acc82b0572d0623af376fddd403497bfbd24d0b70203533a7b52"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07f0eebf-f60b-552c-901e-ad8d09621dc3",
+      "hashes": {
+        "SHA-256": "11332d55d27814f6934e5923f85ed56a8b0820d267a867157a2a785726aaa091"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6558f3c9-0247-5401-93ef-099409f80d3c",
+      "hashes": {
+        "SHA-256": "89b7053977c8c9fc39f4d0b6d25f964995061ac2e968b29227638bc5a3dfbb61"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--708b3568-3faf-5a16-aa59-053abe31dd2f",
+      "hashes": {
+        "SHA-256": "523dfd119d866622b7a15b5b31a7e0486c6b3b04f10b154f63e71b3c59ce3efd"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--32121c35-46e1-5a2c-8b51-4569fc45d12c",
+      "hashes": {
+        "SHA-256": "1831c4edef765a52dff46fff432225edb40f3f3f3653066bdf2d78f94e656545"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42e7b43e-0f12-5cf2-979f-0ce579fe4022",
+      "hashes": {
+        "SHA-256": "9e3aef7c06f14df64fa594b0410b6e3fe582035d7a575f93145a8d9156020504"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22b8aba6-dbe8-53fd-bfdd-ab18f0d1791f",
+      "hashes": {
+        "SHA-256": "f0568cf917ea10e60dc7d0f26b296ea8d28d737b143903bd99227c62e7afbaa3"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bca73405-16c0-5c82-acc6-225dac00585f",
+      "hashes": {
+        "SHA-256": "c6438aeefd57bd3d5eeca395a12dced7de8ca4b839e26a11150f884b8fbd1f0b"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c053c3f-c6f1-5f2c-9454-8014c6156b9a",
+      "hashes": {
+        "SHA-256": "7aad4aa64ed4a5c8e3886510dcfe442ba27b9f1edb543f9f5ae72fdf499dd69a"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be7bbcbc-05df-5def-a7eb-3e5bf8f2d3ee",
+      "hashes": {
+        "SHA-256": "3d9edb7535abd48dd13c7ce6d2374b4c77311e5b4945bdf75cf85d91bae00751"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50551f37-4e1a-5abd-9e27-fdeea117bfd0",
+      "hashes": {
+        "SHA-256": "5817aff95100bd502bd7f10d22ee39e437609fa0db35472b1e5251693f153014"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae6be4c6-9352-5f5c-84f1-24a24717867f",
+      "hashes": {
+        "SHA-256": "f724b230dd2309b79896255dd72d2821b03e9024d25964e0e1c6310e9d960edb"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c2dc2b05-7962-51b6-97e4-6e3784131622",
+      "hashes": {
+        "SHA-256": "b574d8915db7099609433c22a40d23c2ecb49e73a9aeaef0a96ada0ff208dd38"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7609dcf2-64fe-54f4-8370-8c970cc3bffe",
+      "hashes": {
+        "SHA-256": "f8bf89f12c2db959e15d1c746eddc48c84eb430befa9aa66041e7c02c222c6fb"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9cff425-d3f8-53a1-8c29-ec8a7e9d3171",
+      "hashes": {
+        "SHA-256": "610a2f473973461584632ab2ce00081dac7c290501e25f7c05300724e8bc80ba"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77545b82-8640-5824-8746-dfd66019618d",
+      "hashes": {
+        "SHA-256": "2da5bbd254003cc102af15ad90e85b40ed2e57e39a1530a4c749c8c44e7088a7"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e653b1bb-d597-5dcc-b4ce-30c2eecd83e8",
+      "hashes": {
+        "SHA-256": "00b8c95b18b34387b35b3959e571d7c7814c00272cb2714d27d0e2d8b81680da"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a571a506-76db-5114-a228-0c48d462ed40",
+      "hashes": {
+        "SHA-256": "cc3dd47a123b63ef362912feaf308318920876627dbeba51a02bd3f344fd86b4"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--46534b5d-a9cf-5337-aade-59fbad006686",
+      "hashes": {
+        "SHA-256": "3987ec9427b0cd379f15d0b47495d82fb02d0d81ff7d97c8ecb1cc89d1579855"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e06de866-3467-5f9d-a7bb-f8e5c4796d27",
+      "hashes": {
+        "SHA-256": "74ec190602fee2ab8ab7392c37b141af9fea917e3d91326f6b6313929415027c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01ce7080-7919-59d6-a423-61e2b3bb4c2a",
+      "hashes": {
+        "SHA-256": "c029bc3f3c38b7e72790385824ed800d371e59bb46fdbee752f43402c7f6005c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12866049-cdcd-50b0-9e33-acb3c6f9e43f",
+      "hashes": {
+        "SHA-256": "b6faa905e894f89f1b67616d876fd6b658ca846fff8b5ba326d89d55e3ea67b3"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77af00b0-6773-5edf-a29e-9ad54708c74a",
+      "hashes": {
+        "SHA-256": "1669bf15f280a41a76e2a60fcbf4881bfd8b0f5f04397f7edd7ea75207fd1c79"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fde6079-8f25-5ada-b591-c68e36e495c3",
+      "hashes": {
+        "SHA-256": "93f267938ecb28a219743f811bfc94457a709be549347498e3566a66d642bffe"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83503854-2ae3-50ce-8f17-3aa6fece9194",
+      "hashes": {
+        "SHA-256": "70b1a242ad60608f98e29a487bd553bb7263c4c6ef1782bc8081b64f6b15ea32"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30c6c292-f594-5ceb-9749-488cf9f42186",
+      "hashes": {
+        "SHA-256": "8649a3086a774d028bc46bd6eb7a5c0924c47b52187cd8951310ed19bc0eb593"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea9c7f96-d33a-53ca-b358-64cc2ba6c2e6",
+      "hashes": {
+        "SHA-256": "12a91b2e82c707d31d51479f96465fa74dc599c457a1ed07cd747cf5bf164d9f"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--763fb3ab-45b2-5fdc-972d-4fac52d306a6",
+      "hashes": {
+        "SHA-256": "4bdd575a06136e01a44e1a875fc560df1c791d20690a92134464a487f9b22aea"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--212de44b-f004-5127-bde9-6e9a33a6cd57",
+      "hashes": {
+        "SHA-256": "e7185239a589469c3c73f6115437c7747074da38ca1e457b9824c7efb01cf289"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dafd242e-b8a1-51a8-844f-9014dfdd545a",
+      "hashes": {
+        "SHA-256": "b1d2896b261e5e6ac216fec1bdf4cb94b2d343a2be0eda6152b8cfd23c21061e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c63b1e5-0f06-517b-af0f-53d32927d99b",
+      "hashes": {
+        "SHA-256": "aba4a0465f11f690a55683d2a05707a18e5f0db003d7f4131983789d1a4b16dd"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3efbe34c-c13f-569a-b4df-4112195fe396",
+      "hashes": {
+        "SHA-256": "33e93a4af8f82e50d408b912a40834e3d3ebe133c405e8655401087eab35c392"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ae7f968-ce44-544a-a9f7-f9c20866945d",
+      "hashes": {
+        "SHA-256": "64647e978c743893db5e222d9161b9054392035a69a873068e20183bda388668"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--832a3d2d-87d7-57d8-8a8c-c12866565894",
+      "hashes": {
+        "SHA-256": "e89813e90512770cb7d36ac08c94d20269ed8439d302c8a9c1f6023aed0d0f44"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c73cc7e-cea4-5a16-b422-9ddc0f7828c6",
+      "hashes": {
+        "SHA-256": "ce3323d74add81b48f1b9a1d5e3bab73311b62c4c581afc9aef35b404aa9d562"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2a74717-12fb-580a-a150-6bf4a3446bd3",
+      "hashes": {
+        "SHA-256": "47f70d8c0d282d1032ff1b0d02e393da22bf4ac2ad538dcbca9562fc30124610"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ca897bf-a788-5bd4-bb1b-82d798ceaecd",
+      "hashes": {
+        "SHA-256": "9a972f6bb256ddd9f988405a01d4e9650f7ae5922ac434c82e78f702062332d6"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac553838-6eb8-5400-8039-81f850510e12",
+      "hashes": {
+        "SHA-256": "af3a2844eaab7c670293cbe36896c620af19ded6d6074e185c7e83479b3db37c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c322ab7-ddfd-5328-a25d-34076c44ad15",
+      "hashes": {
+        "SHA-256": "0147497f4ccd90b4600b2fb71baef1b895c67a524032c203c50236d6c998885f"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2dad6af-b368-5452-aa37-7cc578983ba0",
+      "hashes": {
+        "SHA-256": "03dd85a1b4542544ced350d4a4518875219022809a550e6b7c489ea4a1fe595b"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6fac405-4426-5508-876a-1004e4a1f9cd",
+      "hashes": {
+        "SHA-256": "140653704128a6aa88f80e80b387e87892367b26da00e392e9ccf181bb48408b"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c97d1c2-7ce9-5c78-8fb2-681905f6ebbf",
+      "hashes": {
+        "SHA-256": "16bb2be4f5aa1fb9d325cb01b2bfffea67ea68142465f2b681e8fc68418a9ee3"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da4ad6c6-6e93-547f-9000-172635aee376",
+      "hashes": {
+        "SHA-256": "1e51cc6e507808fd3b0edf1a9cf01b52e5eb1fa91f0e547aeb174e9050f763fe"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6990e547-0dde-5058-b60b-0db1f2e27321",
+      "hashes": {
+        "SHA-256": "5925f804f18cbeb366018be2c0f11809064bb2b8bc40670c26c6cfb2d8efbdd3"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6afd278-8cf0-5b6e-be7d-5f275e617391",
+      "hashes": {
+        "SHA-256": "94eb35964e86e70e0591a5c0a3e8bd6a9dffa41111eec119bfc45f1dde8399a1"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d40133d-3347-53a6-a727-21feca977e71",
+      "hashes": {
+        "SHA-256": "9defcc3d2c37f74fd5e36f3ded0a361dae1c9c2de59c9868a2d47ef7e856ed1c"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9e34af7-9640-54db-8649-aeb734d1fb9d",
+      "hashes": {
+        "SHA-256": "b2088d46a565077851637156df7dbe9bec63545b39fa704a585fbec4392a4634"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--044b8fa7-9fd7-5655-919c-17d1a6009018",
+      "hashes": {
+        "SHA-256": "b1e90fcb7b587180a341017c60aba05d135c49ee8e2774c2aaf2f8dcc980425e"
+      },
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5201917d-6997-5ead-b7c8-bcb8a7c2633a",
+      "value": "confirmation.mp4.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af5a9fcf-9fa2-53a9-9aa8-87cd4d07b1bf",
+      "value": "video.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af5a9fcf-9fa2-53a9-9aa8-87cd4d07b1bf",
+      "value": "video.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af5a9fcf-9fa2-53a9-9aa8-87cd4d07b1bf",
+      "value": "video.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5201917d-6997-5ead-b7c8-bcb8a7c2633a",
+      "value": "confirmation.mp4.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5201917d-6997-5ead-b7c8-bcb8a7c2633a",
+      "value": "confirmation.mp4.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af5a9fcf-9fa2-53a9-9aa8-87cd4d07b1bf",
+      "value": "video.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af5a9fcf-9fa2-53a9-9aa8-87cd4d07b1bf",
+      "value": "video.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5201917d-6997-5ead-b7c8-bcb8a7c2633a",
+      "value": "confirmation.mp4.exe",
+      "x_opencti_description": "Troj-Agent-BKJE.csv"
+    }
+  ]
+}

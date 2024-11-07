@@ -1,0 +1,598 @@
+{
+  "type": "bundle",
+  "id": "bundle--78859f28-a8ca-4433-964b-c5c6b2a578d9",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--be9fc8ad-9c41-5787-a31a-e9cb561be1fb",
+      "value": "0.0.0.0",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--40dc2705-63ad-5ca9-b798-31ae5c166233",
+      "value": "167.71.87.85",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--40dc2705-63ad-5ca9-b798-31ae5c166233",
+      "value": "167.71.87.85",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7ee88ffc-2db6-5044-9cd5-05992f14d9a5",
+      "value": "https://news.sophos.com/en-us/2021/05/07/new-lemon-duck-variants-exploiting-microsoft-exchange-server/,Indicators",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--637cfe91-aee3-51ea-b000-7511dbb639c7",
+      "value": "d.hwqloan.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c06f613c-dfa7-5854-8364-436b87dd042e",
+      "value": "t.hwqloan.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54a97bf1-24dd-512b-8776-bf2027b7a3ab",
+      "value": "ps2.jusanrihua.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4445b5c6-4609-5ed5-b662-560aac2da861",
+      "value": "t.ouler.cc",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8036ba83-c7ef-5698-8f83-f7b0e17ec765",
+      "value": "ps2.hwqloan.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00248e39-16b7-594b-b64d-5d1c7ea78095",
+      "value": "vhosts.hwqloan.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a2098d2-cddd-52a6-b494-8448ad614a1c",
+      "value": "cs2.sqlnetcat.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e5812e6-023d-5933-971e-3faf36378c2a",
+      "value": "t.sqlnetcat.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d42dac1b-3a36-5ad4-977d-0f2263de462d",
+      "value": "t.netcatkit.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ac43cfc-293c-5f0c-ba35-e85159870f02",
+      "value": "t.890.sh",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70e8cf37-c5fa-56e0-8952-85df40e467d2",
+      "value": "api.890.la",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--475f1a76-bd15-5a39-9887-3c8700eade2f",
+      "value": "api.678.sh",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--779e5c62-68c1-5523-b047-9a3e7010cc91",
+      "value": "https://news.sophos.com/en-us/2020/08/25/lemon_duck-cryptominer-targets-cloud-apps-linux,(previous",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52b9c937-db62-5174-aeeb-6113d7bb4de9",
+      "value": "d.ackng.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5c8e343-8dc3-5c0d-9675-3c6b5ec51f1f",
+      "value": "lplp.ackng.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--02f4e2ed-8bf9-5e94-9123-f9c80bebfd29",
+      "value": "t.amynx.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91c7b29a-42e6-53ca-88e7-8b8d4e9434cd",
+      "value": "t.jdjdcjq.top",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e85186bb-0fda-5ada-9df7-8a1824a15398",
+      "value": "t.zer9g.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--940c8de4-8ed3-550a-96ab-c4457ad06156",
+      "value": "t.zz3r0.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5c8e343-8dc3-5c0d-9675-3c6b5ec51f1f",
+      "value": "lplp.ackng.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fc715e8-1165-5421-bc8b-cab80283c6c9",
+      "value": "p.b69kq.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--957da7d0-5e0f-5dc8-80c1-cb72dc88d0b1",
+      "value": "p.k3qh4.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5c8e343-8dc3-5c0d-9675-3c6b5ec51f1f",
+      "value": "lplp.ackng.com",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35beedb6-ce3d-5ba3-9198-783958ab1f8f",
+      "hashes": {
+        "SHA-256": "a5c0006b8117b5976ace4b6445901a83db110d82cb76d71f25400ba137f09f74"
+      },
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4cf9d37-6263-54dc-961d-513d3637bfca",
+      "hashes": {
+        "SHA-256": "6be5847c5b80be8858e1ff0ece401851886428b1f22444212250133d49b5ee30"
+      },
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ac43cfc-293c-5f0c-ba35-e85159870f02",
+      "value": "t.890.sh",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--475f1a76-bd15-5a39-9887-3c8700eade2f",
+      "value": "api.678.sh",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df72fe02-875b-5f0d-bb50-3a882d771fe8",
+      "value": "m6.exe",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--161018d6-8b4e-53c5-880b-a23a83a11ef6",
+      "value": "http://t.netcatkit.com/eb.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3260a32d-cc6e-5a8c-991a-8364e7f675e5",
+      "value": "http://t.netcatkit.com/ebo.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--df31fea3-c1b2-5c7d-8048-e4446e962b3d",
+      "value": "http://t.hwqloan.com/ipc.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ed7933f8-1cfd-514c-a004-b4e8cd8e6871",
+      "value": "http://t.hwqloan.com/ipco.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--18c7f45c-e590-5a6a-90b8-e2ddf3e41045",
+      "value": "http://t.hwqloan.com/ms.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e834ecb3-e3c4-5f8a-b289-9ed6ae8d06c2",
+      "value": "http://t.hwqloan.com/mso.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6ba9b8cb-a7e1-56f1-aeeb-6764bf3cec93",
+      "value": "http://t.hwqloan.com/rdp.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9c0f60c2-fcea-524b-9dd2-a29902b6a259",
+      "value": "http://t.hwqloan.com/rdpo.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cdde0d70-6539-503e-858e-9a43f858e79b",
+      "value": "http://t.hwqloan.com/smgh.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ecd3df2f-9618-50f1-af4c-01a848572d13",
+      "value": "http://t.hwqloan.com/smgho.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--579a06de-25c7-5bed-9795-fb27e7c16e85",
+      "value": "http://t.netcatkit.com/usb.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ad8d2ee8-5481-53a1-afbb-ee86dbf384b1",
+      "value": "http://t.hwqloan.com/logic.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--58aa6f05-1852-5891-99f5-5af70fc8fc52",
+      "value": "http://t.hwqloan.com/logico.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a69e5af-9b04-5b76-8e15-cd36edd695ef",
+      "value": "http://t.hwqloan.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b60c4b4-d61a-5535-bd5b-33ebdd5f4209",
+      "value": "nvd.zip",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc37bff7-4029-5439-9d33-a971a29ec383",
+      "value": "xr.zip",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f1df9b5-7327-5b4c-bb59-a768fd28d6e9",
+      "value": "ode.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dc907c2a-a764-5ff7-bf1b-4d558c8d9948",
+      "value": "http://167.71.87.85/20.dat",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--25ddaf11-aa84-51d2-9ec7-954ecaa30ad0",
+      "value": "http://d.ackng.com/if_mail.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cef8f7b8-935f-5773-a4b5-1edc0ed15ebc",
+      "value": "http://d.ackng.com/kr.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5428f24b-f236-52f2-af6b-3592e01c5bbb",
+      "value": "http://d.ackng.com/ln/xr.zip",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f2424a91-edec-5154-8eab-0f3b4d2f1c32",
+      "value": "http://d.ackng.com/m6.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--76f4dacd-20c3-50e5-ad5e-57928380238e",
+      "value": "http://d.ackng.com/m6g.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b18689c7-c878-5290-8b17-e670863baca5",
+      "value": "http://d.ackng.com/nvd.zip",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b3689d8b-db9a-58d6-93cc-fc773c5825e4",
+      "value": "http://d.ackng.com/ode.bin",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2efe318c-8081-56e7-882a-3b511cc99033",
+      "value": "http://t.amynx.com/a.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--03e9c336-0ab8-5c08-a229-9ab9bfcfc02f",
+      "value": "http://t.amynx.com/eb.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0ad06bc1-df0b-520c-951a-368d451a3f58",
+      "value": "http://t.amynx.com/ebo.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--37f055c2-0afa-54b2-8f73-0a9105ddacba",
+      "value": "http://t.amynx.com/ipc.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--426bd432-864b-53b6-b516-3c44a44f0a26",
+      "value": "http://t.amynx.com/ipco.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7aaeb143-c787-5eca-b197-a9459930b6d9",
+      "value": "http://t.amynx.com/ln/a.asp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55cfd566-4d61-545c-af88-e9c051f22da9",
+      "value": "http://t.amynx.com/ln/core.png",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--da1fb34a-a90f-5f55-a3b6-d478874c675e",
+      "value": "http://t.amynx.com/ms.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0e2156b8-890f-58e9-8eed-6b73eeaeb978",
+      "value": "http://t.amynx.com/mso.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--717efc07-19ae-5dfc-acb1-4bf5adc05302",
+      "value": "http://t.amynx.com/rdp.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f139f45f-ca70-52b6-8bc7-57f543b1ea7e",
+      "value": "http://t.amynx.com/rdpo.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--79ab723e-6095-5253-86a5-d1ef49f8b63f",
+      "value": "http://t.amynx.com/smgh.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9c4229ba-8ab0-5c86-a879-9d3e0570e7b3",
+      "value": "http://t.amynx.com/smgho.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3414ea58-4632-5d1a-b1df-df1eda80d499",
+      "value": "http://t.amynx.com/usb.jsp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--42ed5fa2-0c2b-570d-869c-24e410fe5fd1",
+      "value": "http://t.jdjdcjq.top/ln/a.asp",
+      "x_opencti_description": "Trojan-LDMiner.csv"
+    }
+  ]
+}

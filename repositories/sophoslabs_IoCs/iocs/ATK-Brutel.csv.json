@@ -1,0 +1,97 @@
+{
+  "type": "bundle",
+  "id": "bundle--04059991-9834-4c7f-ae3f-808ad152c7c2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c2d7a555-ae34-557a-a612-2f1270992347",
+      "value": "5.78.50.172",
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--57c5f77b-6b77-5a29-92b3-4f91b231bf51",
+      "value": "https://news.sophos.com/en-us/2023/05/18/the-phantom-menace-brute-ratel-remains-rare-and-targeted/,Observed",
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7ff5867a-ac3e-51c5-9da8-3da42b90b7fc",
+      "hashes": {
+        "SHA-256": "f31d785e7dc5d715a768d0d9565488cbeeb9ab35e4a0895785ecea533692176a"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bcb7c44-c5d7-57b4-9dbb-c343c4022f52",
+      "hashes": {
+        "SHA-256": "4a8495f03644db7a08d5a995b4f373eff2ade8e61261fb4818ac0bb9da7b0540"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c037e69-9de6-5fc1-98cb-df5877209371",
+      "hashes": {
+        "SHA-256": "f86770a368d75ece9b8542e3087218c01676c0444e18d5d68f53902619049462"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2b256aec-a6cc-55f4-a3da-70382bcb37b8",
+      "hashes": {
+        "SHA-256": "f1087f4eff735123ec5ec7fe67b11208c73fc49110bde60cecd42f1a10ed9c89"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eac48bce-b9aa-5084-88ff-a2fe54bc3ec2",
+      "hashes": {
+        "SHA-256": "88908f7a8834ba08a69403af99aca50f61cb8c571fe6b50046ccba5b146f5a45"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a29ce6c0-cbc6-5153-85d6-1e48ed6d0a23",
+      "hashes": {
+        "SHA-256": "fe010ed0549c00326f4319c1ac2d16684957a2fd09e0c7bbfec55e92f5d8606c"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a9c934e-6a3c-5533-a642-ca4e0de0c1a7",
+      "hashes": {
+        "SHA-256": "d5b0c42ef9642dce715b252a07fc07ad9917bfdc13bd699d517b78210cc6ec60"
+      },
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff6fdafb-4954-5325-8282-438b01ff2ddc",
+      "value": "2021.zip",
+      "x_opencti_description": "ATK-Brutel.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5fb4de04-baea-5704-bb96-882a775b13ac",
+      "value": "2021.js",
+      "x_opencti_description": "ATK-Brutel.csv"
+    }
+  ]
+}

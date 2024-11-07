@@ -1,0 +1,375 @@
+{
+  "type": "bundle",
+  "id": "bundle--98234d88-33c5-47db-a925-7ba3c9d22469",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--effef3c7-b72e-585c-8b21-4ca1739d5959",
+      "value": "7.0.0.1",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fbce6ca5-b122-5a0b-852e-bd6130ae5d34",
+      "value": "https://news.sophos.com/en-us/2021/05/05/intervention-halts-a-proxylogon-enabled-attack",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cabd5695-c0a9-5c23-ab95-098f3722a572",
+      "value": "https://bestsecure2020.com/gate,Module_RunByWMI.ps1",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7043d959-698d-5a51-ab15-fdc09da81d22",
+      "value": "bestsecure2020.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--399456a1-a107-5a19-a3d9-2babb6b72752",
+      "value": "https://astara20.com/jquery-3.3.1.min.js",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da57db08-9d52-52cf-a649-f76e4e68b251",
+      "value": "astara20.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74611f77-c023-5b8b-8123-aca609a7a8eb",
+      "value": "estetictrance.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dda87378-7807-5369-a560-2962b6e43019",
+      "value": "https://estetictrance.com/gate",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9494a394-0c02-502f-bb05-d9c168daa97c",
+      "value": "againcome.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c0786026-7091-5767-bfdf-5ea315c586aa",
+      "value": "https://againcome.com/gate",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f4bb94d-91be-5313-87ec-d729aa8830ab",
+      "value": "diametermes.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--89fe521f-536f-5835-bc78-e5125df7c807",
+      "value": "https://diametermes.com/gate",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f4bb94d-91be-5313-87ec-d729aa8830ab",
+      "value": "diametermes.com",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--89fe521f-536f-5835-bc78-e5125df7c807",
+      "value": "https://diametermes.com/gate",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b5d62dc-f882-553a-aaec-70c73e21bcbe",
+      "hashes": {
+        "SHA-256": "7d52bcd5845ef1d6c16717a299b5695bfb82b4d32c9cf259f5bff58f239df783"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfe6914f-a53e-531e-b759-b063d3a629f9",
+      "hashes": {
+        "SHA-256": "0a511648b1eb00f3eee4edaaa1fca683bbfc2fbb24923f334ba82485fd890f1b"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e86b7d82-5b36-54fb-b9c7-5eaccf1b2919",
+      "hashes": {
+        "SHA-256": "b61650ba0aa7497982a0bc189b3301f1f50a4a56094cce860dc05b52e96dce52"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e65ba53-7c64-5d7d-bfd4-d4f1d33886f2",
+      "hashes": {
+        "SHA-256": "d7d6303b917b7dd69c3f16f01b3f23cfca44493531563dade8fa0f8bf863fce2"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fcce31f2-0c3d-5e8b-abea-81e94f032afe",
+      "hashes": {
+        "SHA-256": "6cb905dbfc2ab85f50eefa4e407246bf3733f06af94c4bf553fba85032a2f7e2"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc9e9ba5-7bd9-5238-8778-a63a821e500a",
+      "hashes": {
+        "SHA-256": "226462c9f639e220f84401dcf6a535089cbe29df7a6502acab16da78134f3e8d"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--594b4875-dc4e-5731-858e-d9f1468317cb",
+      "hashes": {
+        "SHA-256": "2b5351d65ad6ed6df4ab8b6a0914bb9d0a686623b65db60be006371b255b1ced"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8338fab-294f-5106-9a17-42ad156e1ecc",
+      "hashes": {
+        "SHA-256": "e5cb6de8fd9be101a7e76e5345e1d7598756d997ff5cbfd96710d2027d79f75a"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2de9775-ef91-5b57-a219-e3f50cd50c24",
+      "hashes": {
+        "SHA-256": "d208409abd2113e1888f6beeb436edc3336540148a341a12ac74ceecc626355d"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a2c560b-1e57-5f86-b29b-a58c98a62d3c",
+      "hashes": {
+        "SHA-256": "454afe23c5e0c3d535e5f0794e838ca98fb23a55181a657aa1004df814ea1ddc"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c63d8b95-e2fe-5550-b00f-c35c412bc4b8",
+      "hashes": {
+        "SHA-256": "19b0a642622fbf87b385200441bdda250cf0278063525ed6e35ba7210a75af2d"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f1bbfed-25f3-51c7-b395-d33baf1146a0",
+      "hashes": {
+        "SHA-256": "da8df0a03ece4e0920b4afc5a7cbcf23c931b6695393887600b39b555336f2ff"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7106895f-db81-5699-9b18-229c412266cb",
+      "hashes": {
+        "SHA-256": "0e542de95da762d0d59c731ded5065ca0390eecde5c6972b5a58c52cae7f7c8d"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23580a18-2a20-5130-b85e-784ebc59909b",
+      "hashes": {
+        "SHA-256": "76d1a3079b3ef08c5fbf4476f6479ddba0a5e20fd712e5b6acadafae6f817696"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e380214c-edd0-5d78-b0be-2dc8466e0905",
+      "hashes": {
+        "SHA-256": "e496c41793b4eef1990398acd18deb25dd7e8f63148e3b432ff726d3dc5e1057"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b2be838-4083-5a7a-9ecf-f41f06e66353",
+      "hashes": {
+        "SHA-256": "ae013d2935b9520c834b39e24e0123421edf9c518665f199480ecc2a78d9a8d3"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a93efea-4f18-5ea8-9bb8-cd6ba54016b3",
+      "hashes": {
+        "SHA-256": "b5242d61a1a04f86e7e6f3f9724796497c3391bf7adde9a171f61b02084e5bdd"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec5533b4-7f20-5e07-bfec-f86455c2861a",
+      "hashes": {
+        "SHA-256": "91b4bc7ec03f217571b21c1cce333c2489e9aee597c3bb54a6c86738e9e7067d"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82d34fc1-c9d3-5583-85f2-d72c531769d4",
+      "hashes": {
+        "SHA-256": "ceacbccd98ab0f681e153f61869b6845b82ba0c730f007f73cc8a3af82ec78f8"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7524a1e5-3b48-5183-8496-aacd0bee9607",
+      "hashes": {
+        "SHA-256": "0e715e38bb978cd745eac2d6ec1a083b3650452b36b6982c36559bb90a9218d3"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12d2f9f3-98d4-5a91-9a01-739eb2bb7347",
+      "hashes": {
+        "SHA-256": "a8592747024715d3b0effdac95345bc8956e09823ff429887f4f9c56085515fa"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ab85eaf-fe6b-5d81-81ba-f1d27e885cd4",
+      "hashes": {
+        "SHA-256": "850edeafd3924538ec806649ad6eeec66fd92916dbd4693bfa91c582c62299a5"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d0aab08-2d26-50cf-b4d0-9c36b5cd2b25",
+      "hashes": {
+        "SHA-256": "92974d6b2fbe99876731bee124d7138b062ead6fab68dd2e5ddff8c52946f3ca"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12d2f9f3-98d4-5a91-9a01-739eb2bb7347",
+      "hashes": {
+        "SHA-256": "a8592747024715d3b0effdac95345bc8956e09823ff429887f4f9c56085515fa"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c60010ea-7b77-5be4-abff-839dc9657ba3",
+      "hashes": {
+        "SHA-256": "4055c612a157016cb00025c9b024d052df4b6790108bb25dee2e7c78569ab102"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2461be6a-12dc-580e-8e87-5ffde0410851",
+      "hashes": {
+        "SHA-256": "136c32246b28a64cb22c5cdc6c33085886a4a59cf47344e9593793275bb8e849"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c6f236a-8368-5415-b5a8-f664b8b1eff2",
+      "hashes": {
+        "SHA-256": "d4d3ef9196b5dac53d1e06d738eb3e529578752bf9e8cfd2900a600d5f10a7e5"
+      },
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a940b1d-d7dc-55ed-b9bc-738c31c8d2f9",
+      "value": "3.3.1.min.js",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22766a53-5345-5840-9b0d-384c026d0e85",
+      "value": "sophos.exe",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93d721f6-22d6-5e19-ab62-c094f5f15af2",
+      "value": "MK64.dll",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0f3c1a5-60e2-56d5-95ca-7a2df4ea1493",
+      "value": "host7.0.0.1.exe",
+      "x_opencti_description": "Troj-PS-FX.csv"
+    }
+  ]
+}

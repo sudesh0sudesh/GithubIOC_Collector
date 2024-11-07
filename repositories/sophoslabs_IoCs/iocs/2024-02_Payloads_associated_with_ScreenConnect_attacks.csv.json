@@ -1,0 +1,588 @@
+{
+  "type": "bundle",
+  "id": "bundle--e17d06c7-b6c7-4b1c-8988-bb5e3911227a",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a9abcd33-3d2b-5c26-aadb-ec82778e32cc",
+      "value": "207.246.74.189",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--783149cb-e805-5c7f-9e2e-2a626f48cb41",
+      "value": "91.238.181.238",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--97f47381-0cf8-5bcc-82a2-e8a292a4c6ac",
+      "value": "116.0.56.101",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d5e9d90e-f7bd-5b96-8a95-8ac116eccd19",
+      "value": "23.26.137.225",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--97f47381-0cf8-5bcc-82a2-e8a292a4c6ac",
+      "value": "116.0.56.101",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3156fa8f-58e7-5eda-8f10-d361ae73dc5d",
+      "value": "119.3.12.54",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff886839-f87c-5107-aaff-573170b81128",
+      "value": "159.65.130.146",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff886839-f87c-5107-aaff-573170b81128",
+      "value": "159.65.130.146",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04aae69f-8d8f-5c8a-93f0-1f1683a003e9",
+      "value": "185.232.92.32",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a9abcd33-3d2b-5c26-aadb-ec82778e32cc",
+      "value": "207.246.74.189",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--783149cb-e805-5c7f-9e2e-2a626f48cb41",
+      "value": "91.238.181.238",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a6a68830-1504-52a4-bcfc-bea8e7d22df5",
+      "value": "https://news.sophos.com/en-us/2024/02/23/connectwise-screenconnect-attacks-deliver-malware",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09258820-581c-5c51-8e63-e1c44778a6d5",
+      "value": "https://transfer.sh/get/6YoVhBPfKE/temp2.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--473849eb-2024-5843-9727-c312cd3384d5",
+      "value": "shapefiles.fews.net.s3.amazonaws.com",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b49f46a5-efa3-568d-99ad-8df14f919e19",
+      "value": "https://transfer.sh/get/HcrhQuN0YC/temp3.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ba3a86ba-498d-5076-8ee3-4087eebc1a1e",
+      "value": "https://transfer.sh/get/6YoVhBPfKE/temp2.exe,Installer",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5553af15-35e4-5202-8cc7-42ca2e4c84f0",
+      "value": "https://transfer.sh/get/HcrhQuN0YC/temp3.exe,Installer",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d8ea77b-4917-51fe-8cbf-1e5ae4f1ff1f",
+      "hashes": {
+        "SHA-256": "0d185ea3b0a49c2fa65bfd2757c9d0705657f0639fd36f196ac394fcd38c361d"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09bd1429-7bb0-5b31-90d8-28c448d6a6d7",
+      "hashes": {
+        "SHA-256": "11d2dde6c51e977ed6e3f3d3e256c78062ae41fe780aefecfba1627e66daf771"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b181f9d5-e5b4-5e39-b252-1d3b6a304266",
+      "hashes": {
+        "SHA-256": "1362e6d43b068005f5d7c755e997e6202775430ac15a794014aa9a7a03a974e7"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56409dc0-10a2-51b8-a297-525c850b3a65",
+      "hashes": {
+        "SHA-256": "19fc383683b34ba31ed055dc2e546a64eecbe06d79b6cc346773478c84f25f92"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe55552b-960f-5118-9b7b-a40742f06645",
+      "hashes": {
+        "SHA-256": "254714b7028005596fd56bdbe30bfc77f02bbe274048d0982118d93966e79331"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe6a2ba1-c826-58c9-b539-e0f2b3a59969",
+      "hashes": {
+        "SHA-256": "2da975fee507060baa1042fb45e8467579abf3f348f1fd37b86bb742db63438a"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05841530-6022-55fe-8bd0-b46228d50719",
+      "hashes": {
+        "SHA-256": "3818bb7adf60f8c2aeb5fe8c59b81fc7eb7f1471a80932610dc9a294ba7ba543"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b92691e0-50c0-5956-b6f7-bc5f69edb82b",
+      "hashes": {
+        "SHA-256": "444338339260d884070de53554543785acc3c9772e92c5af1dff96e60e67c195"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75b3cae2-95fe-568b-81e6-b71752528fcd",
+      "hashes": {
+        "SHA-256": "f1c7045badec0b9771da4a0f067eac99587d235d1ede35190080cd051d923da6"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c40a65f-08f7-5bdd-9e55-3331e9196724",
+      "hashes": {
+        "SHA-256": "55e4ce3fe726043070ecd7de5a74b2459ea8bed19ef2a36ce7884b2ab0863047"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24cf818f-1994-55a4-a3f6-c18d1605a759",
+      "hashes": {
+        "SHA-256": "858ddfe6530fb00adb467f26e2c8f119fef284e1e9b6c92f0634f403ee3e7913"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea56dbc9-e5cc-5c72-9e7c-88a5927dd548",
+      "hashes": {
+        "SHA-256": "86b5d7dd88b46a3e7c2fb58c01fbeb11dc7ad350370abfe648dbfad45edb8132"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a22c0687-cc82-5167-bd9a-c5bf36dffd0f",
+      "hashes": {
+        "SHA-256": "8c2d246bf93bf84f6d4376cd46d8fcc3cb9c96d9bef7d42c23ff222d8f66eeaf"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2512ac5d-91f9-503a-a12b-a0489f45b95a",
+      "hashes": {
+        "SHA-256": "8e51de4774d27ad31a83d5df060ba008148665ab9caf6bc889a5e3fba4d7e600"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--820384f2-113a-5cc0-a5d4-53c205b655f2",
+      "hashes": {
+        "SHA-256": "9b3327f9ea7c02c6909a472a3c1abb562b19ae72d733a8e2e990e975b5f8a5d0"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05841530-6022-55fe-8bd0-b46228d50719",
+      "hashes": {
+        "SHA-256": "3818bb7adf60f8c2aeb5fe8c59b81fc7eb7f1471a80932610dc9a294ba7ba543"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f619820-d814-5309-a6f2-20de869b6433",
+      "hashes": {
+        "SHA-256": "a39d9b1b41157510d16e41e7c877b35452f201d02a05afa328f1bcd53d8ee016"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de1f67a9-f88f-5b9e-b10e-2ba25cc73bc7",
+      "hashes": {
+        "SHA-256": "a50d9954c0a50e5804065a8165b18571048160200249766bfa2f75d03c8cb6d0"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--290583fc-060a-5544-ad25-1e4cc71f2ffd",
+      "hashes": {
+        "SHA-256": "c94038781c56ab85d2f110db4f45b86ccf269e77a3ff4b9133b96745ff97d25f"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e588eed9-deeb-5825-b941-ab2edc0c2774",
+      "hashes": {
+        "SHA-256": "de42bd53cb0944da8bc33107796ecf296d00968725eed1763a8143cef90e2297"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75b3cae2-95fe-568b-81e6-b71752528fcd",
+      "hashes": {
+        "SHA-256": "f1c7045badec0b9771da4a0f067eac99587d235d1ede35190080cd051d923da6"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72fc4ebb-5e59-5a10-883b-b3d87ff8d04a",
+      "hashes": {
+        "SHA-256": "f3f5d3595559cad6019406d41f96fa88c69d693326cdf608c5fc4941fdf6a8ec"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24cf818f-1994-55a4-a3f6-c18d1605a759",
+      "hashes": {
+        "SHA-256": "858ddfe6530fb00adb467f26e2c8f119fef284e1e9b6c92f0634f403ee3e7913"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d39e4735-b51b-51dd-949f-24dc997126ae",
+      "hashes": {
+        "SHA-256": "b423d100e7aa2e576c8f21586f1d8924b34c3e9ed4cfdba40d121e21c3618445"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05841530-6022-55fe-8bd0-b46228d50719",
+      "hashes": {
+        "SHA-256": "3818bb7adf60f8c2aeb5fe8c59b81fc7eb7f1471a80932610dc9a294ba7ba543"
+      },
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1841805d-c7ea-5006-8891-9f5576fdea98",
+      "value": "http://207.246.74.189:804/download/Diablo.log",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5fa275fe-73f3-5e80-8767-2b6c985a7496",
+      "value": "http://185.232.92.32:8888/Logs.txt",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ef19ed8-c483-57e4-ae5e-697e5034127f",
+      "value": "SentinelAgentCore.dll",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09258820-581c-5c51-8e63-e1c44778a6d5",
+      "value": "https://transfer.sh/get/6YoVhBPfKE/temp2.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12ea9d42-fcd5-5519-bed5-162b22cc5d0e",
+      "value": "SentinelUI.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ef19ed8-c483-57e4-ae5e-697e5034127f",
+      "value": "SentinelAgentCore.dll",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70219d54-0c12-5a7f-a839-a70fc8e3fcf2",
+      "value": "Logs.txt",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05839e5b-e66f-5a05-9ab9-575fa8188b9b",
+      "value": "enc.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fa0fc621-7308-5f5d-9aa5-d9e90b606512",
+      "value": "http://116.0.56.101:9191/images/Distribution.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b49f46a5-efa3-568d-99ad-8df14f919e19",
+      "value": "https://transfer.sh/get/HcrhQuN0YC/temp3.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a712506d-dd81-5831-8df4-a5fe6033b22e",
+      "value": "crypt64ult.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61b4d79c-85af-537d-bdd1-2471efaa580c",
+      "value": "msappdata.msi",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--df4a9c7f-b31e-5125-94b6-15d70beee36e",
+      "value": "http://23.26.137.225:8084/msappdata.msi",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09c27b43-2dab-5052-ac69-45ab7ada74be",
+      "value": "http://185.232.92.32:8888/SentinelAgentCore.dll",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c548e24-5bbc-52e8-85b5-c0318a2dde9a",
+      "value": "UpdaterScreenConnect.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--922e7c24-1523-511c-ae3b-b0dfa7eebb1f",
+      "value": "http://185.232.92.32:8888/sentinelui.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53eeb257-9e7c-5f76-a814-2a5fb99c6fb3",
+      "value": "r.bat",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fa0fc621-7308-5f5d-9aa5-d9e90b606512",
+      "value": "http://116.0.56.101:9191/images/Distribution.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--19b48e93-5004-57ef-a0a4-7a493ab5f14a",
+      "value": "http://119.3.12.54:8000/identity_helper.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0a1c6972-b8fb-548b-9fdb-2ec62415b630",
+      "value": "http://159.65.130.146:4444/svchost.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5fa275fe-73f3-5e80-8767-2b6c985a7496",
+      "value": "http://185.232.92.32:8888/Logs.txt",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09c27b43-2dab-5052-ac69-45ab7ada74be",
+      "value": "http://185.232.92.32:8888/SentinelAgentCore.dll",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--922e7c24-1523-511c-ae3b-b0dfa7eebb1f",
+      "value": "http://185.232.92.32:8888/sentinelui.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1841805d-c7ea-5006-8891-9f5576fdea98",
+      "value": "http://207.246.74.189:804/download/Diablo.log",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d9d429f-f3bb-59c1-b686-7c9f222e1225",
+      "value": "model.dll",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09258820-581c-5c51-8e63-e1c44778a6d5",
+      "value": "https://transfer.sh/get/6YoVhBPfKE/temp2.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b49f46a5-efa3-568d-99ad-8df14f919e19",
+      "value": "https://transfer.sh/get/HcrhQuN0YC/temp3.exe",
+      "x_opencti_description": "2024-02_Payloads_associated_with_ScreenConnect_attacks.csv"
+    }
+  ]
+}

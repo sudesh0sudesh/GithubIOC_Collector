@@ -1,0 +1,204 @@
+{
+  "type": "bundle",
+  "id": "bundle--4b855e03-6dfc-41af-a0cc-6be6ff3e3a82",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2df464b-9d8f-5204-986b-3e239ee36a66",
+      "value": "23.106.160.174",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7020f19f-d01e-5f9d-8796-f18ce534b342",
+      "value": "23.82.140.137",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--81a38a78-fd28-59be-aa43-8872453176ee",
+      "value": "https://news.sophos.com/en-us/2021/02/16/conti-ransomware-evasive-by-nature",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61cb2867-7555-57fa-ae56-dd25b6dc1dba",
+      "value": "docns.com",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f01e0ff4-2664-5f95-93d7-396a4e49bb52",
+      "value": "tapavi.com",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5546e988-ac5f-502d-9143-9f50e1f5a984",
+      "value": "https://github.com/xx0hcd/Malleable-C2-Profiles/blob/master/normal/trevor.profile",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5546e988-ac5f-502d-9143-9f50e1f5a984",
+      "value": "https://github.com/xx0hcd/Malleable-C2-Profiles/blob/master/normal/trevor.profile",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5546e988-ac5f-502d-9143-9f50e1f5a984",
+      "value": "https://github.com/xx0hcd/Malleable-C2-Profiles/blob/master/normal/trevor.profile",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61cb2867-7555-57fa-ae56-dd25b6dc1dba",
+      "value": "docns.com",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f01e0ff4-2664-5f95-93d7-396a4e49bb52",
+      "value": "tapavi.com",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e69335ab-cb54-5255-b867-510f226a7057",
+      "hashes": {
+        "SHA-1": "C7BCB3B84244A22E6EE9699CFBD86DC9F27FC677"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2b7feff-27a6-5b7e-84b4-6d6f6e497009",
+      "hashes": {
+        "SHA-256": "3b375dcda1f6019d986de1f7ae3458657e623c4f401c121e660add55d36a9e8c"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--793880a7-1806-5cc9-9283-00c0c12f3761",
+      "hashes": {
+        "SHA-256": "4e3d8806e6c9ba334166f12ffe4e27dbde203425c882fccf1e452f77355b7d25"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fae5597f-ec24-52fa-98e1-12ffa4406b10",
+      "hashes": {
+        "SHA-256": "e974c09f204b99bfcdeb9fe4a561a28e064c612132829919f8b99a838c2b2106"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae6f61c3-5c4d-5a88-96e0-39684c9dc4a2",
+      "hashes": {
+        "SHA-256": "af218e34e12216d56e5c6c86704804866100aa09ccb9160bc4029492c3f1f959"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c980add0-4f4c-5aec-874c-bd8326166f51",
+      "hashes": {
+        "SHA-256": "591677b54eb556e7e840670eccb2d62434e336af6d3908394d17cb26e99c4733"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35b0cbd6-1633-5f02-8956-8f175927e425",
+      "hashes": {
+        "SHA-256": "2d3b859f2ad3f0e296fd29c1abc5eb80b4dabe7c0b9d9a3b44821c9ed8e015b1"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b32ec945-c24d-5293-881f-9bdb1d34aaf1",
+      "hashes": {
+        "SHA-256": "63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be"
+      },
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0408c029-6e4f-521f-9543-a1b077b42a10",
+      "value": "backup.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0408c029-6e4f-521f-9543-a1b077b42a10",
+      "value": "backup.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0408c029-6e4f-521f-9543-a1b077b42a10",
+      "value": "backup.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c027169-837b-5eab-9f10-f7fb0f09d59d",
+      "value": "x64.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c347bd98-7e6c-5e08-832d-bebd1e368751",
+      "value": "s1.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2fba6d88-9bc7-51e9-b616-dbb5beef1b98",
+      "value": "doc.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3babc97-23ff-5d5e-b0d8-9b537ec326ff",
+      "value": "aa64.dll",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1ea2557-0715-5ba4-b96a-3a267ee74fc7",
+      "value": "conti.exe",
+      "x_opencti_description": "Ransomware-Conti.csv"
+    }
+  ]
+}

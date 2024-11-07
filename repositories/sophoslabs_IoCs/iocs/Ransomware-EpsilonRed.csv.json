@@ -1,0 +1,212 @@
+{
+  "type": "bundle",
+  "id": "bundle--d4cbbe67-a3e1-4f31-a533-fc5d817234b5",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--67f33665-4a7a-522d-b029-d49f0b62223c",
+      "value": "https://news.sophos.com/en-us/2021/05/28/epsilonred",
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9c2e098-528b-55da-ba71-5177bb3930a8",
+      "hashes": {
+        "SHA-256": "57EE78299598170C766FF73CEFCA9E78B9B81AC6999E8ADB61903BC89BE313BA"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f12b728a-4a59-5323-9190-a3a9d5055e35",
+      "hashes": {
+        "SHA-256": "7259975D7E3B3D9D059A38F4393AB920764B46CA243E192E08F7699999382E07"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88a2694d-87bd-584b-ba88-b61f13132404",
+      "hashes": {
+        "SHA-256": "172BBF46E5F46DD7A9EA0C22054B644F60EFC3A9AD26A6F0E95CA57E38AF60A7"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4eb11b1-a495-5d1d-845e-502cdcd171b4",
+      "hashes": {
+        "SHA-256": "9845619CB9C3612055A934C4270568391832EAB40A66DBB22B1B37FA05559C92"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--acdc891a-0909-5eb2-ba05-668a584664c8",
+      "hashes": {
+        "SHA-256": "5120998FA1482D4D0D0099D91AAB2AF647C0272819D7DCF792EEC01C77AB9391"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96c88da0-f03c-5700-8eb4-e89d13df2ac7",
+      "hashes": {
+        "SHA-256": "4D6272AEADF7FC131AC126DC07D7BFD2E878D359E5E7BB5376A67295CE05FC15"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f3eafc7-373f-5877-94e4-e3630444e65f",
+      "hashes": {
+        "SHA-256": "0794C8630F40F04C0E7CEA40F11DC3F1A829A3BE69852FE9E184AA8B7ED20797"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8123ea04-368a-513b-b3bd-bb751aee22ca",
+      "hashes": {
+        "SHA-256": "7A8128F8788524E54A69619B69870DFD4C50DB46E3EB786899F7275DAB73D2D9"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2d0fb9a-b92a-5dd7-91bb-646a1fd1b3b6",
+      "hashes": {
+        "SHA-256": "4EAF5E93953756BC2196BFCFB030B6EAAD687FA1E8DB9F47B09819F3B4315230"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36abc2da-6673-52f2-b5c1-a09187f62821",
+      "hashes": {
+        "SHA-256": "8C294F1EF05DF823460BD11CE34EA7860178DE6BC3D9B0127A3B9C08CF62437F"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51be5d8d-a05b-5220-bd8a-e66a2de17335",
+      "hashes": {
+        "SHA-256": "A9A6D35469E471666758ED5D1174EDC5B650C0ACB2C351213EADFB408F74BDCB"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4c9f558-7f5f-559b-b745-58aee6c555af",
+      "hashes": {
+        "SHA-256": "039DA6B099303FDFD087BB7DF94012780DFE375C67234CE495C78CF2DCF7FD9D"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18fd6839-3dcc-5ddb-b81d-255c5a6ac4f5",
+      "hashes": {
+        "SHA-256": "699FFB898864BF804CF726F39B5E8168D55E44FC1584B71BA25E31B43AE543E8"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e37f007-7597-5043-94df-1854f49d7bfa",
+      "hashes": {
+        "SHA-256": "EE10F3A798AAA03F4CED2DDB28D2B36FE415EA2CBBD9C3B97B2A230A72D77F5C"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89cdccd2-6470-50e2-ae9f-b83e8d5a5cc6",
+      "hashes": {
+        "SHA-256": "C1F963ABA616680E611601E446955E9552C69DB23DABAB8444718D82AD830029"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d45890b-1978-52ce-8e80-5daa2bfc04b9",
+      "hashes": {
+        "SHA-256": "5AA7DE7EAB570522C93D337D395396057033AD6596DB4A0BDA15D77A6D4C6C3A"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--500568d8-e90d-576e-b9ff-760309cf799d",
+      "hashes": {
+        "SHA-256": "84755B2177B72364918F18C62A23854E7A8A66C4F5005CC040357850ADF9D811"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ccbb769-0bf8-5bc5-b2a7-ee8620f99eef",
+      "hashes": {
+        "SHA-256": "ce5ba1e5d70d95d52b89a1b8278ff8dd4d1e25c38c90ca202b43bdc014795d78"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffd45def-a27d-5453-84b2-f46e84e15e4a",
+      "hashes": {
+        "SHA-256": "35ffc1263005fd0a954deed20a7fb0cd53dbab6bb17ff8bd34559a5a124686c7"
+      },
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92c297cd-1e48-5946-9a76-f97b3db82800",
+      "value": "RED.7z",
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5bc9662-6240-5252-ba18-139b06bb0d5e",
+      "value": "P.exe",
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9720791-e1e7-5166-85fb-643293ee249d",
+      "value": "rutserv.exe",
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9720791-e1e7-5166-85fb-643293ee249d",
+      "value": "rutserv.exe",
+      "x_opencti_description": "Ransomware-EpsilonRed.csv"
+    }
+  ]
+}

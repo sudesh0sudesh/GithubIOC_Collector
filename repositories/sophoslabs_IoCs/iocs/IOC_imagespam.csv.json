@@ -1,0 +1,285 @@
+{
+  "type": "bundle",
+  "id": "bundle--75325cad-a856-4029-b5a2-a8134362cd51",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7a715fba-c7ce-57fa-ae1a-205b1e0dd72f",
+      "value": "https://news.sophos.com/en-us/2023/08/10/image-spam-attack,IOCs",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d67c2a3-6381-5d22-a7f5-b49c88e08689",
+      "value": "company.com",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d67c2a3-6381-5d22-a7f5-b49c88e08689",
+      "value": "company.com",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7852079d-8de2-54d1-9809-f6014a95bb22",
+      "value": "carpoollk.com",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--deffa7f1-d91e-582e-93eb-e1e2cd23ae2a",
+      "value": "https://carpoollk.com/se/maind.ps1,Payload",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4d5bc440-b551-58a4-a98d-a34f64beecd7",
+      "value": "https://www.redhat.com/sysadmin/getting-started-socat",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfd33fa2-6f64-5679-92c1-df73c91a015a",
+      "value": "System.Net",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--76cb2e56-99a1-5550-8fbb-46e4cbadd066",
+      "value": "https://carpoollk.com/se/maind.ps1')))),Command",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac0ba3af-4074-514b-ac0c-27d750929ee8",
+      "hashes": {
+        "SHA-256": "44ccf669eec9f9b9695e0eb255b729df14f63485d85faf5375b5e7efb35a9d3e"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f15cff7-843b-56d1-87bd-bfe83d23d1e6",
+      "hashes": {
+        "SHA-256": "8ebcc0d9a7883d6526aad38492aa6f2d2192a817591aeb4b971cb2ba3d447ef0"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67590c38-d03d-5eb3-a709-7ffdbabbf3c9",
+      "hashes": {
+        "SHA-256": "3ba53f06b81005d0da9dc2e83feb4dd983884ef5533fcec2e8e3772e1ee1a615"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ecd22b9-8ac7-5f25-91ff-7b192cb9b644",
+      "hashes": {
+        "SHA-256": "2700054554608a0a1d53fd65067b19d3a1dc0297d6bcfcc4292eec37cde07c18"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b95c86c-7ab2-5ed7-b52b-c6875ae5ea06",
+      "hashes": {
+        "SHA-256": "bef6a0755ac4a42697f45843562cc7ce7d1454a85bddc458d2cd99658cf57b71"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69bb8fd0-c66e-5717-835f-43737f19e86f",
+      "hashes": {
+        "SHA-256": "c7c9b1373af60159fe65915116a961be0e74c3719c2f482c91ca88dd738bff78"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da3ba3f8-9573-5241-ae70-de422afa5636",
+      "hashes": {
+        "SHA-256": "d339ce37d632cee2d457c21b8dbe04fe69930cde0cea13a96593403130abdb54"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09c4bdcd-a882-5deb-a479-9f95188fe05d",
+      "hashes": {
+        "SHA-256": "782a82e755c16bf653cb3ab5a65bb58638a16cf2b04e1f1cf454b9bced91a81b"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c3fd99c-17a7-58a9-ab65-8df72858762a",
+      "hashes": {
+        "SHA-256": "4000f66ed28d407208d0e87875ffa0a55d4079955089e6c2a6d5a057b33841f6"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--008d35c6-19cb-52b0-a52e-3b939bd08489",
+      "hashes": {
+        "SHA-256": "5507b8fcfddc3c21f08551a2388fdf4c41fd13531dfed1d6b6d20388440f34db"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6827f5e-ab13-5068-a31c-666eaf3506bc",
+      "hashes": {
+        "SHA-256": "23e87538d4c06ac6c640fe8dbe6992bf652ecdcaa1f0cf9b5e5108d0655fe2c7"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af3341e9-7551-5316-9528-ba39a547f912",
+      "hashes": {
+        "SHA-256": "301b2b0c6eef71a33312207abf6c4b7f0fd703a988529a9cd457a412eb9f9992"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c3fd99c-17a7-58a9-ab65-8df72858762a",
+      "hashes": {
+        "SHA-256": "4000f66ed28d407208d0e87875ffa0a55d4079955089e6c2a6d5a057b33841f6"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcf82ef5-67d3-5082-a01d-db98e4e3b349",
+      "hashes": {
+        "SHA-256": "abd20c3cc7a02fce3a39cf03225f321d8c92db4a96b54d87dcac7ddc112c7c00"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3271041-7647-5580-aba0-218878439410",
+      "hashes": {
+        "SHA-256": "fcc9600aaa6b398b861962bb5ef8cd88072be3c619c235e890909e4f12374005"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6827f5e-ab13-5068-a31c-666eaf3506bc",
+      "hashes": {
+        "SHA-256": "23e87538d4c06ac6c640fe8dbe6992bf652ecdcaa1f0cf9b5e5108d0655fe2c7"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd98bbdd-ea38-5903-b85c-a2f0d99a4e66",
+      "hashes": {
+        "SHA-256": "d8ac4f43a5279e3aa33b2a743e17e1c59ba170c74965c45feca529fd8e817140"
+      },
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74efefcc-6c18-5637-a400-871a990bba9c",
+      "value": "SERVICE.EXE",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da8a99ea-7cc5-5e37-92b4-4af2545d7410",
+      "value": "npp.zip",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48efc69c-b63a-5128-b726-840ff9d7d12e",
+      "value": "GUP.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e1a5687-0d21-5b9a-8804-3e79e119b070",
+      "value": "GUPP.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48efc69c-b63a-5128-b726-840ff9d7d12e",
+      "value": "GUP.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e1a5687-0d21-5b9a-8804-3e79e119b070",
+      "value": "GUPP.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d249e56-2341-56a2-a1ab-9966a15e18cb",
+      "value": "socat.exe",
+      "x_opencti_description": "IOC_imagespam.csv"
+    }
+  ]
+}

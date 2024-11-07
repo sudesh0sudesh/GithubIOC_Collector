@@ -1,0 +1,74 @@
+{
+  "type": "bundle",
+  "id": "bundle--d89718a0-a951-4527-bf57-a3b8132bae7a",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--26ccae52-38ad-576c-bb12-c05ac54e08f0",
+      "value": "https://news.sophos.com/en-us/2020/09/24/email-delivered-modi-rat-attack-pastes-powershell-commands",
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a2fb00e-d096-5daf-95cf-d5cc9712a60e",
+      "value": "mondns.myftp.org",
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e1e7119-e3d6-5268-ab79-122a07155b30",
+      "hashes": {
+        "SHA-1": "695b21032e1ba37affa4f13d525798f9869ea794"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94cc3d34-04f1-5814-b415-d25d21152821",
+      "hashes": {
+        "SHA-1": "0449ae73074153195368cfefd910946d540e59ff"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b606112b-e675-59f7-9184-c5aee37b8cda",
+      "hashes": {
+        "SHA-1": "00c8144d988385ad0d44a8871044185fa9bb78e4"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82cbd147-7c32-5de8-b3f1-a517bcfb8cdc",
+      "hashes": {
+        "SHA-1": "17b85597c55e99d09c8ad5cf9631f0f1d5d82d0e"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4026b518-c971-5281-88cf-f4b6016a672c",
+      "hashes": {
+        "SHA-1": "a7967f4f66d4f9d3ac7187cab601abdc47e1c6c0"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9444feb9-6257-5845-b367-074edf1e40be",
+      "hashes": {
+        "SHA-1": "79bcda484419f0adc9648b581b10498c8415d89a"
+      },
+      "x_opencti_description": "MoDi-RAT-reflective-injection.csv"
+    }
+  ]
+}

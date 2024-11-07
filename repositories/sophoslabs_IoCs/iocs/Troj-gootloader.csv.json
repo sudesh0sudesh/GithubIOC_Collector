@@ -1,0 +1,176 @@
+{
+  "type": "bundle",
+  "id": "bundle--d2052bc7-76ef-4f0a-94c2-04ed1e18f70f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bde71011-184d-5aa0-b708-5d0e6d7ffec6",
+      "value": "5.8.18.7",
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8dcf2ec4-756e-58d8-be5a-d51acfadfd8f",
+      "value": "https://news.sophos.com/en-us/2021/03/01/gootloader-expands-its-payload-delivery-options",
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--667be402-0f3e-5a1d-b774-0afdcb4f6146",
+      "value": "https://github.com/sophoslabs/IoCs/blob/master/Troj-gootloader.yara",
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f61b0aed-69a0-55a5-9377-5aac21b1bc01",
+      "value": "https://careers.sophos.com/go/Sophos-Labs-Jobs/740302",
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5e431ee-8e7e-5916-9a1a-54a0d51127e0",
+      "value": "game.biz",
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--028be450-c6d3-5090-ae1a-26ed4571b2d9",
+      "hashes": {
+        "SHA-1": "8731316018d005690046909f86b10a2130cfe75c"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51971395-a81d-513e-81fa-2c25468edbd6",
+      "hashes": {
+        "SHA-1": "04ac4430395e4bb5c8e78e3c6a277f108da36124"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1454738e-d959-5463-b032-438fb87b6302",
+      "hashes": {
+        "SHA-1": "d7469da6a523239a9f2eee26d944aa9076c87bfa"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b63b2dbc-9fdc-5779-bddd-e942cd8b5151",
+      "hashes": {
+        "SHA-1": "f43b74c10c880546cf03014e253026736f01d1f9"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01ace0e7-8197-55a2-b3c1-24f60d7935ee",
+      "hashes": {
+        "SHA-1": "2bc5babb780ffdd38f2ee61583ed2d036fd499d7"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9439acf2-cb12-5c78-bcaa-2ed4a9a5498e",
+      "hashes": {
+        "SHA-1": "7fde4507b2430e37c7dc9a1df8904371bc1bf9b2"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b4b24f8-f061-5552-b64e-289354255a17",
+      "hashes": {
+        "SHA-1": "f2ddf525f9bf9e583cb6e2694e5abfac483660b2"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be1e14e0-907c-5d8b-83fc-01614e2e62f7",
+      "hashes": {
+        "SHA-1": "098b332b7a4f8712916d6a681799e390daaaef98"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5bb2b46d-45b5-5ae6-a969-b5ef07ad3512",
+      "hashes": {
+        "SHA-1": "9771dc299da3aafd578a3182c63530315aff5726"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1eeef571-0ecf-5c98-b7d1-b1f58418b317",
+      "hashes": {
+        "SHA-1": "dd98b9fce29bb291f37ef7ccf745ad3cdf5880b8"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4a6cebf-e694-5d5c-bd91-1d94ddd84488",
+      "hashes": {
+        "SHA-1": "effb1d6d2a254c428fd3b726e5d10ba9c77a3ae6"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8197eccb-9130-5653-b492-67c008f1d111",
+      "hashes": {
+        "SHA-1": "f6525c66ab292d394ff7ec3da9beca8c45919788"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1498edf0-33f3-541e-8808-577fd059441d",
+      "hashes": {
+        "SHA-1": "02efc02a97e2223a85deea842eacebe9eb86aa0f"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a4728d9-3c3a-54b5-b2ba-79970f94b3f3",
+      "hashes": {
+        "SHA-1": "c51d97e76b018918504533ffdc05b06bae420912"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e294489-c4df-517d-a46e-4c5146f4230a",
+      "hashes": {
+        "SHA-1": "f1acf90d5a42eba5b601ebe1b954be72d1c5b0b2"
+      },
+      "x_opencti_description": "Troj-gootloader.csv"
+    }
+  ]
+}

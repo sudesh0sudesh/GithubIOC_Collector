@@ -1,0 +1,189 @@
+{
+  "type": "bundle",
+  "id": "bundle--10850833-e54e-464a-8219-dd55ecdcd722",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e461851-324f-50db-8e75-35c50affec2d",
+      "value": "185.212.128.8",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e461851-324f-50db-8e75-35c50affec2d",
+      "value": "185.212.128.8",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4249acd0-7dba-5dac-82f5-8948ba3e6ec4",
+      "hashes": {
+        "SHA-1": "9cae5fcefc8bc9b748b4b16549e789e27ae816df"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a6cf3da-20bf-5d15-9ca9-464c67a004fd",
+      "hashes": {
+        "SHA-1": "a037439ad7e79dbf4a20664cf10126c93429e350"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59009624-6857-5837-828d-ea4e06128eda",
+      "hashes": {
+        "SHA-1": "0ce3614560e7c1ddbc3b8f56f3e45278de47d3bb"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea60694c-ba69-51c4-8689-6445b125aee9",
+      "hashes": {
+        "SHA-1": "4f125d890a8f98c9c7069b0bb2b5625c7754fad6"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25fab199-1aee-5a37-9b40-1a0c6b1829c6",
+      "hashes": {
+        "SHA-1": "e2a961c9a78d4c8bf118a0387dc15c564efc8fe9"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23ae3881-1c22-5d5b-ae8a-df9cd0e86a89",
+      "hashes": {
+        "SHA-1": "81d5888bb8d43d88315c040be1f51db6bb5cf64c"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf02e2af-408d-5e56-a7cf-12617a340e1c",
+      "hashes": {
+        "SHA-256": "18661f8c245d26be1ec4df48a9e186569a77237f424f322f00ef94652b9d5f35"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65b41d84-c105-55b1-95ed-43a8d3701b96",
+      "hashes": {
+        "SHA-256": "b262b1b82e5db337d367ea1d4119cadb928963896f1aff940be763a00d45f305"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0cacbe9-3c84-57d6-95b3-b6e43c8299bc",
+      "hashes": {
+        "SHA-256": "2f0e4b178311a260601e054b0b405999715084227e49ff18a19e1a59f7b2f309"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49274bd8-fd8f-5461-8294-f6b4c3a56b72",
+      "hashes": {
+        "SHA-256": "a6ded68af5a6e5cc8c1adee029347ec72da3b10a439d98f79f4b15801abd7af0"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d0f1c3b-753d-5f37-a1b9-def4c16e47ce",
+      "hashes": {
+        "SHA-256": "dfbd62a3d1b239601e17a5533e5cef53036647901f3fb72be76d92063e279178"
+      },
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d4a818c-57b7-52a6-957b-5094ca0ec6a1",
+      "value": "clean.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d4a818c-57b7-52a6-957b-5094ca0ec6a1",
+      "value": "clean.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b8ed2aa-d729-5185-be11-b4ed6ddd49f8",
+      "value": "run.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf0b9914-096f-5b77-ae9a-0f96fe6efc83",
+      "value": "Run.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d4a818c-57b7-52a6-957b-5094ca0ec6a1",
+      "value": "clean.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d4a818c-57b7-52a6-957b-5094ca0ec6a1",
+      "value": "clean.bat",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2229f7d-415c-5944-868a-8cb19daa298c",
+      "value": "WinMgr.xml",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2229f7d-415c-5944-868a-8cb19daa298c",
+      "value": "WinMgr.xml",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7825e8ac-bd06-56fd-98fc-43875a9753c4",
+      "value": "WinMgr.bmp",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7825e8ac-bd06-56fd-98fc-43875a9753c4",
+      "value": "WinMgr.bmp",
+      "x_opencti_description": "Ransomware-ProLock.csv"
+    }
+  ]
+}

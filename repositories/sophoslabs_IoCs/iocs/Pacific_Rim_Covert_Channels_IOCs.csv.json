@@ -1,0 +1,248 @@
+{
+  "type": "bundle",
+  "id": "bundle--71e3a19d-8eda-414b-bcbc-d28497a2d116",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6bf6ac68-a8b9-5a9b-8997-1e73d643e3b4",
+      "value": "192.241.152.245",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--35f8254e-7a06-53bc-bc9f-beac5449c145",
+      "value": "172.67.163.48",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--60f767e7-01a5-5afb-bc5a-9f9f8ae6af05",
+      "value": "104.21.41.84",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--60f767e7-01a5-5afb-bc5a-9f9f8ae6af05",
+      "value": "104.21.41.84",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--35f8254e-7a06-53bc-bc9f-beac5449c145",
+      "value": "172.67.163.48",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6bf6ac68-a8b9-5a9b-8997-1e73d643e3b4",
+      "value": "192.241.152.245",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--39f565cd-f011-5eb4-8d06-f5f6d83417a0",
+      "value": "https://github.com/shadow1ng/fscan",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f93e2cb9-b61e-5422-88d1-96fc8a5d2321",
+      "value": "https://github.com/jpillora/chisel",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--734cf763-5491-5a07-9f09-6646909e6ff4",
+      "value": "https://github.com/zyylhn/zscan",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1654866-0236-5925-be34-955ed96534b6",
+      "hashes": {
+        "MD5": "edeabb6b21bbae30491a7f1ad8cf374b"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a311ac0-7557-5f1a-beb9-2d3c33856ec2",
+      "hashes": {
+        "MD5": "89ae36448f1922870f1a09c29f17c775"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2c9f9ff-9d4e-59c6-8de8-a5ca8eea75bb",
+      "hashes": {
+        "MD5": "2c1397f61325d3ab7eee97124ed8dcfa"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6852e9d-5a12-54d8-88c2-2e76d4982c80",
+      "hashes": {
+        "MD5": "50b42f796774f925d9bb4b05ec50dffb"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c9e2009-a7fb-5529-a97b-325c99e6c0bb",
+      "hashes": {
+        "MD5": "9bd5e3bd9ca3785b82a767c6b02d74e1"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6daafbb5-427e-5dff-a920-63fcf26312ef",
+      "hashes": {
+        "MD5": "c62ab7e7f5e6cbc04244a76d4adeef16"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17365c45-38d7-5e4d-9c40-4e0b5db835e4",
+      "hashes": {
+        "SHA-1": "4bf1211a59638a6510aaa328d5dfef96807426b5"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ea2ae93-5527-59b9-9ee8-413fcafe83e9",
+      "hashes": {
+        "SHA-1": "3b1329e81739b1ea6acbb4ec4dff11f02ff42570"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a8b2a6e-a43f-5717-823e-0cf6a705d566",
+      "hashes": {
+        "SHA-1": "bc8bbe7786216e648a914809cc971012023861aa"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b06d534a-c2ed-5e4b-9081-f9b0c5334d0a",
+      "hashes": {
+        "SHA-1": "253d262afbf76c6e89d48c00bfbc94f987d05c41"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f0f8c926-6e09-5dee-93b4-ddca75afc6f7",
+      "hashes": {
+        "SHA-1": "2416700a102184f78ccc79c6802ba4c906f0e0ac"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7dde7fcb-ba7f-5efe-8a6d-c73f019b1d01",
+      "hashes": {
+        "SHA-1": "8b0118e9b9b8b686592152500c9c066ffe495ea7"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d2f257c-545a-5302-9896-93181e8f714e",
+      "hashes": {
+        "SHA-1": "01833e8f02858aa6ebb91136478c4d1031e809dd"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b7f5f7f-e477-5b2f-96e2-9e8dd4013517",
+      "hashes": {
+        "SHA-1": "a40e9c97e4e49f7e1fec1972a8a3420020d5c985"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7e70b5b-d9e7-5ab5-831f-3622ca1d52b1",
+      "hashes": {
+        "SHA-1": "1157c3cbe87405459dc6523ea10bac1d553c379e"
+      },
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--5e2fe763-71ac-4bc3-af2e-0decf9270e75",
+      "created": "2024-11-07T12:31:52.897414Z",
+      "modified": "2024-11-07T12:31:52.897414Z",
+      "name": "CVE-2022-3236",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe3c0736-bc08-535d-8147-0c8a86e02f2c",
+      "value": "fix.jar",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--694ecc72-f5df-5dcb-b1d2-10952348f0ff",
+      "value": "SophosAgent.jar",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe3c0736-bc08-535d-8147-0c8a86e02f2c",
+      "value": "fix.jar",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--694ecc72-f5df-5dcb-b1d2-10952348f0ff",
+      "value": "SophosAgent.jar",
+      "x_opencti_description": "Pacific_Rim_Covert_Channels_IOCs.csv"
+    }
+  ]
+}

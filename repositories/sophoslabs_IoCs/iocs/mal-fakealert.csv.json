@@ -1,0 +1,2530 @@
+{
+  "type": "bundle",
+  "id": "bundle--bbf12b24-bead-4eea-8c8c-f138fa0eed0f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--692ebe2b-82d0-59da-8d7c-891bf02c444b",
+      "value": "108.61.198.134",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--06b11e87-cbee-56eb-b7c5-d1f1fe4ff501",
+      "value": "116.202.171.47",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c77366b2-c31d-5a4a-8217-364a2df614c6",
+      "value": "143.110.135.219",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--783c5701-6eb4-58fd-b19b-3f2f1bcd7bef",
+      "value": "167.71.56.43",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--22d8ffe1-4afd-5eb2-82b3-cdb211d48497",
+      "value": "178.128.254.224",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7779b38a-c448-56b2-8792-79d924c56b39",
+      "value": "18.130.240.77",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a6788376-888b-5c9b-b767-5ec72ccf5fc5",
+      "value": "195.22.26.248",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1b1a1b25-f625-51ed-95b1-b715953d8d33",
+      "value": "3.8.191.167",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cf61b3d8-08b2-5e68-bd7b-cab068e3d9f1",
+      "value": "3.8.23.195",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ba3beb49-3593-5ae6-8779-c0188c11eb36",
+      "value": "47.135.30.181",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--69879b5f-234a-5f24-aa0c-7ff859e4e5e9",
+      "value": "78.141.234.87",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7822e030-3762-5b11-bc34-7f092121e02b",
+      "value": "94.237.92.139",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--94bbf192-db98-5d51-95b9-ffc8eab1d601",
+      "value": "94.237.96.181",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e8491457-8918-59b0-a8ca-ea70dbcf026c",
+      "value": "https://news.sophos.com/en-us/2020/09/09/faking-it-the-thriving-business-of-fake-alert-web-scams",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--809a07c0-1392-5ba9-ad15-4b0bcfa87afd",
+      "value": "abdurantom.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1e78b8a-f6e5-51c7-a350-2693372519ff",
+      "value": "airwiseq.cf",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14cf24e8-aba2-5bb9-b08f-75e1a9a24660",
+      "value": "appconnect.bekapro.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d1d5bdc-56d2-5f21-bf0d-a768b0b53066",
+      "value": "notification.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef3bad4e-c6be-5770-8880-63b35ed71a89",
+      "value": "goodthings.ml",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c33b7658-6e01-5e08-9130-7a3ca09ad7c1",
+      "value": "helpiossuprrt.info",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07246600-753a-50ae-8e3e-767b3b2af280",
+      "value": "highsecureus.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ce37d63-eb60-5a63-b9e5-841a4ce7a29d",
+      "value": "xps.azurewebsites.net",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4982074-3333-5938-aff6-d6c155bd5742",
+      "value": "lookee.info",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7c0b8000-33c4-5e60-8551-d331ad0e5a5d",
+      "value": "peachtrackerus.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efb46119-6b30-5509-b3ed-3c7a222e4d72",
+      "value": "popads.net",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc00aeb5-3510-59f1-aaa8-02dc41c331bd",
+      "value": "popcash.net",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76b05f5e-0432-5b89-9dfb-021134f7b6c1",
+      "value": "shield.eu",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9cfe008d-fc3a-535b-9a75-e16114385e43",
+      "value": "qwertyasia.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3cf8cd1-43dd-5af8-a587-f856432ab811",
+      "value": "qwertytracks.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f428790-75ac-5bfa-bc13-4f390c244be1",
+      "value": "qwertytrackz.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6c4c2a1-dd03-5ac4-96c6-34d84fb3fabe",
+      "value": "satecgs.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82f3a5f4-e371-5472-8d6c-4e34a1e1b2eb",
+      "value": "serverconnect.boraer.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--719d2537-a44e-5501-bf53-a5139bbca88b",
+      "value": "main.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--885a9470-5abc-5c46-b0b5-2a0b2684fa3e",
+      "value": "support.dheje.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--557be842-8ec7-5cc0-9747-740792d4b06a",
+      "value": "support.lolopod.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecf0af5e-c5f0-5872-b0e5-e0ecbc4c33e7",
+      "value": "support.marusia.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bf51d7c-b45c-54f7-a3a2-bf93e2c68fc6",
+      "value": "support.paluns.xyz",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be2bc1a5-8898-56b9-a368-9732351298f9",
+      "value": "alert.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be2bc1a5-8898-56b9-a368-9732351298f9",
+      "value": "alert.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3120f49d-1d79-5877-9936-f19dbbe3ea59",
+      "value": "quick.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--041b08b5-01f1-5d82-bfed-46f472e7741f",
+      "value": "trackoo.info",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--daac30c8-3f84-594f-9063-49ffff113f78",
+      "value": "trafiq.party",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a678a813-fe80-5a8d-8ab4-3740b79da36b",
+      "value": "yourphoneboost.com",
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a6ebd97-f840-5556-8239-20470d36abfe",
+      "hashes": {
+        "MD5": "e3a73294721aa7e82c0e7a36b1e5da42"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea136797-482d-52f2-af87-facc72f3c23a",
+      "hashes": {
+        "MD5": "ef5df3c338d5d0c9e2ce712f899c52fd"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bcabb91-23ad-517f-bc35-92df76ba63bf",
+      "hashes": {
+        "SHA-1": "010f93d36fecaae33cc2600ba53046d30f2fcdf6"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0798a5e3-03ee-5df7-aba3-b61a74821653",
+      "hashes": {
+        "SHA-1": "07062a4dc1d928e03934faddefbb385907ee5005"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b744a89a-f54f-502a-ba63-d5c850e77b08",
+      "hashes": {
+        "SHA-1": "07290ff4c92d4a1c02b55df768855fb9a2a0f7be"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b628354-4707-5691-b796-587ad863f6d4",
+      "hashes": {
+        "SHA-1": "0900f96dcb250f001096236e54d15293eacc5652"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10bdd5a2-61e0-5133-b263-3eff60440a90",
+      "hashes": {
+        "SHA-1": "09852d146040540583ba1807b68b14db8853f4ce"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e00b7d89-cf71-54e9-9518-640237ac9974",
+      "hashes": {
+        "SHA-1": "09b3db25987716cdd64a175f3e9b7488413e7bd7"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d79732e2-7234-5c0f-a8f7-db5fa18997e0",
+      "hashes": {
+        "SHA-1": "09fe2337801dbbede3fde335115ad148ef705675"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7f14150-b2d4-54e9-babb-f8acc5157bd9",
+      "hashes": {
+        "SHA-1": "0a2fc327dbbf37755bdd57b5c4b4725234d0d031"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cebc2cb9-46df-504d-89bb-8d31c45b09eb",
+      "hashes": {
+        "SHA-1": "0b7200d3b267442555d5ae431a6f653615aab7f6"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4d616b9-41a6-5810-94fb-50e5aa8f152b",
+      "hashes": {
+        "SHA-1": "0bde97977adbdd0fabc863a4b00b34eb5d706c1d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ab1e987-a308-5e79-b683-c5659c0d73a8",
+      "hashes": {
+        "SHA-1": "0c18d1695556aa9826d5c90311e8930a62797bb4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a11b9ca7-7d43-59b7-ab3c-51032828dfd7",
+      "hashes": {
+        "SHA-1": "0cb76bb42663f37fc8c4b804afc611b0ccd8c58c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67b0a68a-e97a-51c8-b077-5c6257506a62",
+      "hashes": {
+        "SHA-1": "0e6720bad33632efa66134fb28fd7d9e5fb9085a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7daaf1a1-acbb-5278-8be7-5efb10b17356",
+      "hashes": {
+        "SHA-1": "0ea7d30010cff4212fd9510a5b6d1286c0bb6503"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--344a3a33-9618-53ad-8eaf-b5d45f05d10e",
+      "hashes": {
+        "SHA-1": "0f6bf3ac9375ce826bfd4d4da2193c8a33429a21"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf7c842f-4910-5653-8aaf-391b3b300352",
+      "hashes": {
+        "SHA-1": "1195f7e747a0f3cfd38b3d2e0aaca27c2266e10c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3bcc6ad7-a828-5309-b65e-3220b7ab8c56",
+      "hashes": {
+        "SHA-1": "125c42739da097ba85b7d64e66fb4733aa97ecbf"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1655cdc-e20c-539c-8207-7d40f383c698",
+      "hashes": {
+        "SHA-1": "125cf94652a2ea9ccebdf710bfeca1856963a4a5"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--994a922e-4833-5f48-8251-d256253a4357",
+      "hashes": {
+        "SHA-1": "134c989cc8ade87e1c5ad617e4a0c56ba2d7fd5c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c9737c9-5b03-5e52-8576-b63483f52471",
+      "hashes": {
+        "SHA-1": "13cc3023f8717fb1874301c6a6de906d4b4a3b9e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7af0c27-ef14-5e58-887b-aa3c390715b9",
+      "hashes": {
+        "SHA-1": "16d5df2134f7e3e3d164cc66a4180b88057e60ba"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb919767-c0e9-54f1-89c8-cacf9b8aa4ef",
+      "hashes": {
+        "SHA-1": "16e8015fa982aa89d0fcb32a44cc28716b349011"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--768ffe7d-963b-5d5b-ab96-b7b53b2673d5",
+      "hashes": {
+        "SHA-1": "178d78b7150d011c6c2e0933675ad3181c19bbab"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b54db6c-f0f0-577f-8b58-a6092cf94e8c",
+      "hashes": {
+        "SHA-1": "17aef2f420a9363cb069f468f744ea28753c3b09"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ba93aa00-fbb9-54f0-a5d3-3542b7b56d73",
+      "hashes": {
+        "SHA-1": "17dbdcec1d2becac8eb182681b3a0d961936e2f4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da03baf9-c9b4-595f-87f5-5ef1656f3742",
+      "hashes": {
+        "SHA-1": "18d4b5ae14a69bdad6cb371542740b7dd6bc07cd"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4d64bd9-ffb2-5d0e-803e-d641eaeadc9a",
+      "hashes": {
+        "SHA-1": "1c3a54caaed0df892a77a689d218b189edd0b314"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a970047-a99c-5285-bc53-067f18f2d8ed",
+      "hashes": {
+        "SHA-1": "1cd46164e16a2cca559316f58a5be1213477c20e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79a1792a-35f2-5d8f-8da4-075242716f45",
+      "hashes": {
+        "SHA-1": "1d2cd1974ff7035b28f1c81f35f37e16249c5e8d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1620827d-9a36-5a43-b4c7-e0f4f22b589d",
+      "hashes": {
+        "SHA-1": "1e705527a35d1240157859ebe207f0c1c47a0ab8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fe0c38a-f3d8-54f7-afca-ad4ca16bb64a",
+      "hashes": {
+        "SHA-1": "1f5ac8b895722959d88ba11c6c64c5bf7c8b2fca"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2632a6b-7707-5cd7-87bd-9e29626179ed",
+      "hashes": {
+        "SHA-1": "20f5529297c0ceebb5b884614f51bb3c9758fd86"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37eb2244-3bcf-5e37-8bb1-1e5974d260ab",
+      "hashes": {
+        "SHA-1": "212b3673b74f75c1f369769608b9f3a880c8325d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4477eed-ff52-5d6b-9c10-8d788cfa984e",
+      "hashes": {
+        "SHA-1": "2199a28eb46a8d8b48baadef6f73281d71895dc4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03399079-6dda-561e-96c2-f058cd656d53",
+      "hashes": {
+        "SHA-1": "21f30552eee154f4bf796c4beb5b64c9a614ec27"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1ed45d32-8868-57bf-bce1-2700f52e699d",
+      "hashes": {
+        "SHA-1": "22c0761df9dea93ff796b9e2381ee7224ef41e40"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--617ed359-4419-5a6f-9d79-7f74c3888e46",
+      "hashes": {
+        "SHA-1": "2347160ad09377663d1f6c5dd0bb04cbe4674d8b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bfbd994-e6a1-513f-877a-964c6f74f6fe",
+      "hashes": {
+        "SHA-1": "24c092a8bec04cf0362437c60fb0c9d8309188f5"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--307dee0e-5714-53c5-951b-389cdb3cc639",
+      "hashes": {
+        "SHA-1": "2577211579af75199cbf09e033f4e5808d2159af"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92c62ee9-f30c-5046-a62f-ec0c8fd98c09",
+      "hashes": {
+        "SHA-1": "28e461a970da7704c557ecd062da1f67e4c25d9b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3cf7f0ed-74c4-5ced-9200-022a2b442c15",
+      "hashes": {
+        "SHA-1": "290f32ca7a6e3e359cb2fc08ff2d85112917280e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7fb342ce-ce28-54ec-bed4-a227263bd8e7",
+      "hashes": {
+        "SHA-1": "296a28d04eed80d183242866309663ae74ab4b7f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--302ddbe0-7df4-57c6-b243-711169aa386d",
+      "hashes": {
+        "SHA-1": "29ab96f3a8eb5179ee7a8264cab8b23c1fe2852e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3f57373-a776-5d92-b704-250422f03129",
+      "hashes": {
+        "SHA-1": "2b1b0618233b86a527b324323f1650e18a9c1fcc"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bcb6db23-c210-50bb-8156-16a907552cb9",
+      "hashes": {
+        "SHA-1": "2cf9c0a1d6b3332d346b5850b16f6d0921af4e93"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9568e37-52b7-5d7b-8df8-e674ac11810a",
+      "hashes": {
+        "SHA-1": "2f499c511b571ecc51fc45074ec7610ff9e5b303"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95127329-d867-5bec-8563-160bd50428ff",
+      "hashes": {
+        "SHA-1": "301fccb352e9a5aae78da954a0197d24b93bc058"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0761b604-75c0-59e9-96ee-e387989c4e08",
+      "hashes": {
+        "SHA-1": "342ca85363486b467752f769fd3d227c19ce43fe"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--635322c1-1fe6-5e18-bad3-9be270ab8d9c",
+      "hashes": {
+        "SHA-1": "35462e633bca50327de417e895048d3ffca62dc3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45662a4b-754d-5c41-919c-d80a9cd0b6ca",
+      "hashes": {
+        "SHA-1": "37aad9fc261267fa44fc115ca03d0f049089b83a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6950b08-8f6f-56d2-9e13-4885989328bc",
+      "hashes": {
+        "SHA-1": "39b738ed069bfe13c500ab8af32e42558fc28c8b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ebfe753-3ba5-52ec-b216-8f6902c33e37",
+      "hashes": {
+        "SHA-1": "3ba5b015996bbd56c6563e5c827e564edf165eb9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c24b6c2c-d9d4-53b0-92b6-08260ff35258",
+      "hashes": {
+        "SHA-1": "3d022dc0552ebe58928c36d6a00a33641fcad280"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5041848-bce4-5df9-a714-9902a8399758",
+      "hashes": {
+        "SHA-1": "3d724691fceaa0ca3c2de9c9850737a58fca2481"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52fd7897-5e83-587f-9c15-d90dc1fac31b",
+      "hashes": {
+        "SHA-1": "3def5381acea16e9ed7c1147563f24d1341f756d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9527a50f-74b6-5f17-8e81-5d381f89b30e",
+      "hashes": {
+        "SHA-1": "3e7ca7d958efe89233aedf2278f6a42b53160d2d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--44c4b594-5e9e-5b2d-9ec1-9d99346d0ca7",
+      "hashes": {
+        "SHA-1": "3ef5cfb4d7f9f93d3e4fbf15c5a107c872981958"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7a51fca7-c9b2-5769-8c1f-53c54d120a79",
+      "hashes": {
+        "SHA-1": "41af60c2b44f58ead42f30ae05a6491768927d8b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9eaa653-da16-51b9-8e2a-00cee655facb",
+      "hashes": {
+        "SHA-1": "4326a105dbe4d77a7dd7735692faa22da15a29aa"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cc56e61-9afe-5d9e-8b0b-95464b3d3a9d",
+      "hashes": {
+        "SHA-1": "442287704c367eb1a5d451c29cab775cabf9e2d8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05e5b492-9781-5abe-9ed7-ba5f43bf79ba",
+      "hashes": {
+        "SHA-1": "45553b47770e637a3ce4a5b22ab7f893d441c288"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24af50dd-a4aa-59eb-bcac-ec183a7045dd",
+      "hashes": {
+        "SHA-1": "466c9ee4689b0533728ff42c486de5b6a5d84ab3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8984858b-8cd5-5fb1-a168-308f83268e3b",
+      "hashes": {
+        "SHA-1": "472f732fd67cb7864e37a97df76ccdfd05c9d801"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6b64b1f-30f6-5ae1-9af0-625d16c156aa",
+      "hashes": {
+        "SHA-1": "473491f4f8e51f52e81ddbcecf595bf98351f470"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f741aab-b902-5b3e-b40f-b1c88a343f70",
+      "hashes": {
+        "SHA-1": "48070ba74544ae5fa7786158696a9050398e2b6f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3841c907-8874-5b43-abde-35b0d473909e",
+      "hashes": {
+        "SHA-1": "4813e2a612c4cd7c29148d6980f20b6db6a68574"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a29eed87-f26e-5b67-a3fa-f861ecc48263",
+      "hashes": {
+        "SHA-1": "484447eff8a3d397fdfcd48d70ee1d535559a656"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--39ddb168-974c-518a-b34f-d9cee0ab9e9e",
+      "hashes": {
+        "SHA-1": "4849b1ff7728997be415cefb490eba41a36dd3e6"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae1327dd-4911-57c3-85c0-f27af4f272cf",
+      "hashes": {
+        "SHA-1": "495f5aaa984ae6e13d2a405a68f230b376fb1d0e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--817d1ae2-f43b-5c25-8eca-d30ded01508c",
+      "hashes": {
+        "SHA-1": "4bd30303619d0fd1b8dae1fd472ea770c776174d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24cf3bfe-92d8-5be7-9e7f-232559f04741",
+      "hashes": {
+        "SHA-1": "4c6fe5d398d71e6be2e43031afb8ed33e1a43163"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93544438-9e31-50f7-85af-2070e6910e14",
+      "hashes": {
+        "SHA-1": "4e58ccc2736fc4ad8bce116badc5bdef2c6ab735"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3c22090b-2403-5208-8678-a9c969b65126",
+      "hashes": {
+        "SHA-1": "4f4f33ca9a25a273e46832a6ae035d82dba205bb"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ed170a3-6784-55bc-8549-abc794662139",
+      "hashes": {
+        "SHA-1": "4f5e87a4ecb2342be0986df67d8a3ae82acea648"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49cbaa4d-feff-5b3f-8354-cfb7a3d09d26",
+      "hashes": {
+        "SHA-1": "50ce73877a0e0621eec377df2a3315a5a47a633f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9037586c-29ea-505c-b77b-0de1b1655428",
+      "hashes": {
+        "SHA-1": "518eda4da587b677d8fbd8544501b78675fced7b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e9290a9-c774-509e-8d36-e0d60d21c629",
+      "hashes": {
+        "SHA-1": "5237b4692f4f7c4c33ee6adbb435c788acd97ed1"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d853bf28-7d3c-5e1c-a9d4-38d6308b0870",
+      "hashes": {
+        "SHA-1": "53610c2a6d5b1a1b3abff225362ba3acee9a423f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3c78bd42-e8a0-5360-8082-b3d95335cc14",
+      "hashes": {
+        "SHA-1": "53d05b42725467ac1730d74f19f89bd84e4e8a5f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c0eaa43-378b-565a-9355-8a9733fe3ec2",
+      "hashes": {
+        "SHA-1": "53dea514eceb1e7183de9cf2278ed8928fd507b3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2515135e-3e2b-543e-a479-8f1fb4c71045",
+      "hashes": {
+        "SHA-1": "556cf92c02de23425adaaef709b455c3aaa02702"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbffde9c-b85d-58a4-b91d-88eb535ebb62",
+      "hashes": {
+        "SHA-1": "5663ee011e02b0a6e883873e28ae613726d4f8ba"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0ca81d8-8631-51d0-a792-96101fad11ef",
+      "hashes": {
+        "SHA-1": "581853f052247a455738d37f6c27d5ac8dbcfbdd"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b984c02-069b-5311-920a-d839e407c946",
+      "hashes": {
+        "SHA-1": "584bac2600debc031a02e6dfad2977cdff301375"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1981a57-d77b-5c3e-9966-a01534d25c51",
+      "hashes": {
+        "SHA-1": "58a61c7a2b46ccfd58a3e005b86e1bb6adfaaa21"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d7931f5-cd93-57c3-9028-d6f042e6664b",
+      "hashes": {
+        "SHA-1": "59b26e3d00bd9f0b8d606e411e3b2cc97845566e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--249e4590-65b3-5839-8a5c-1be792d535db",
+      "hashes": {
+        "SHA-1": "59e4cafd1f36ad999a72389fd1fb7470395e70da"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--adcc687c-63bb-5ae8-bf5a-2e4797a95478",
+      "hashes": {
+        "SHA-1": "5b8bda286bcda032d260331fee9890946532386f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6643459-3851-5b79-a420-331990134364",
+      "hashes": {
+        "SHA-1": "5d110d5d7e6caa08eb0a2f70b0cf1c3df935dd9a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f288fab-b133-53d6-98ee-0f025eb23c19",
+      "hashes": {
+        "SHA-1": "5d873c4e969028b15efe5acf60cdaf0c75c7c158"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31a83fee-7f2c-5820-aae5-b6aef2c6c1a8",
+      "hashes": {
+        "SHA-1": "5e3e906972585b1a73fbb2088218c34848673d6f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22f18925-0339-5d9c-a683-fd5761112162",
+      "hashes": {
+        "SHA-1": "5f9d15a07c72f106058152e43e40f29f5acab5ab"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5bd4536f-eb78-5c5b-9223-dee070fe28fe",
+      "hashes": {
+        "SHA-1": "61358eb332c1165f2fc8a26ccbb17bf84e087cd9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de2dc6fc-be21-57ca-a2da-dea4a7ab42fd",
+      "hashes": {
+        "SHA-1": "62d02fee5833f10b0c745ad7eeda4e35483723db"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aed96fa3-8fa8-5063-8231-c2061e77250a",
+      "hashes": {
+        "SHA-1": "62ddba944fdeb9b12f3a3d76d1d0a246ea33044c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9f9011e-c3cb-521d-abe8-feeb5ae7c941",
+      "hashes": {
+        "SHA-1": "635250ed17e2af02b3957629992b60decf1b2f44"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9192f293-f00e-5517-9306-bfd79f808c66",
+      "hashes": {
+        "SHA-1": "6513aa18ebe7bde48f625de5b928dbeb71c521a9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75b2fb19-fe01-50c0-9f19-996595e8cdd0",
+      "hashes": {
+        "SHA-1": "65f7a41f96943e7a8f670effbc71151bd8c1018f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1987fec2-fbc0-5477-b0ab-ec145bc24963",
+      "hashes": {
+        "SHA-1": "69b53b5755c965a19fdfef918ef5674d0a006255"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1a8f196-b48b-5104-b8e9-2a1ec12db85b",
+      "hashes": {
+        "SHA-1": "6a2f30eca5fc0b4ee0892269baa3e5a999f9a75c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aaf637f0-2e49-5e47-8bb3-27f998dc0a31",
+      "hashes": {
+        "SHA-1": "6aa8b9d0635ef7f0033a9ebcb6f343da204b5aba"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e8f92c5-bbb3-5cc7-947b-b54ec4ec9001",
+      "hashes": {
+        "SHA-1": "6ada9f093b56ed6d560a0654f4d72889f3a6578b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--433def6c-2a95-5038-9f18-e18cb7b120c5",
+      "hashes": {
+        "SHA-1": "6be5efe83cba17b4c7e064bc802602badfc5459f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbaa8934-9efa-598d-8cc7-8d2c5cf0b2be",
+      "hashes": {
+        "SHA-1": "6dea62129556e092d379849c2c54c864d562e1e0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d46e3889-0ced-5b7e-89d7-1725fe0d364c",
+      "hashes": {
+        "SHA-1": "6e6b6aa5eb8e83cd28dd1ab20c9ff141a6856f9f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ee23549-3036-59ef-afd6-f6fbc1d7b63b",
+      "hashes": {
+        "SHA-1": "6eb3cb0eb88c50061287dbcd3538948541a501cc"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f97e4a07-85fe-56a8-a13e-32dd181b6c94",
+      "hashes": {
+        "SHA-1": "6eccef5ddced37de396390f42c0e27758986b62a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f5eb9e9-5475-5495-8707-3e3eae971079",
+      "hashes": {
+        "SHA-1": "6f40e9a8ea06f4a44621d04ac6dd0c04e9784398"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e422abca-22fa-5269-9185-d07e2f69dc8d",
+      "hashes": {
+        "SHA-1": "6faef32869f70aa674c9d83b1cba374595f095d7"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76cb7fa3-f404-5243-b676-959b70f21e7d",
+      "hashes": {
+        "SHA-1": "6fe5c1c455ee631fa09b39835716a220f2dda490"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5505b3c-e4b4-5b69-b986-8500f79385ec",
+      "hashes": {
+        "SHA-1": "703658ab16fa161ccd17d721b3a5546c8a336dec"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71a21348-77a4-5e3f-82d6-0e5588ff168b",
+      "hashes": {
+        "SHA-1": "716227495afb54e968f6a79f43c1101b6a19933c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--169995e2-9382-5cce-9d0a-4cf65b896d9f",
+      "hashes": {
+        "SHA-1": "723ed76c96c1d511102fcfe2f0419a25ce1eeb2e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d01aaf77-c2c5-56ce-af5b-01c4bc26806c",
+      "hashes": {
+        "SHA-1": "72f1df1ff1348e597c51284e8b67c38d7df1a282"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6037d16-0916-5f28-bd86-ea6413f6037f",
+      "hashes": {
+        "SHA-1": "743c14ebdafa97244ac1c13cae6a07e6879ac8ad"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02ce00b2-7d9e-500d-94af-02266e6053d7",
+      "hashes": {
+        "SHA-1": "744ffff00f362e891e906b951cd26c26ca7e34d8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--816fcf68-c181-5d7e-8014-230ebab37ec8",
+      "hashes": {
+        "SHA-1": "749d49f4c8b33a97ec8464c9e91818f6e3b2da1d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5502e08d-669b-5069-92d1-44740116e84b",
+      "hashes": {
+        "SHA-1": "74b48dd9d89bfc519914025ac2098f62728610c2"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37548c27-de0d-5490-b394-f290b4fe923b",
+      "hashes": {
+        "SHA-1": "77d261ab34380a6a2c7f273ace4eeb73e288a54d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92ae97b4-c317-5365-b678-1398ae8b0d88",
+      "hashes": {
+        "SHA-1": "7a4df67e96a406e5fe7d23df0e97630e49f0952a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef30d6bf-2db3-5bc7-8450-7cbefbb68630",
+      "hashes": {
+        "SHA-1": "7b9fc51e6cffc6e1dd4a35e4fcb31902e01f9a35"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d8514df-0461-5dcd-8b1c-2623b0cc7f23",
+      "hashes": {
+        "SHA-1": "7bca3af5f1d31244d13507da5a7a558730e82dd4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6689b660-4b56-5b58-ad8b-e9d803ea6359",
+      "hashes": {
+        "SHA-1": "7c9551586bcc949ca1e95bffc08444998c17b45a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d725cc6c-9749-544d-bd60-de9f32ec1ec1",
+      "hashes": {
+        "SHA-1": "7ce6d73b117ec3d298d9e0d5b5cae8be35ada12e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dc5a374-cc82-5041-bc55-1698d48b0d56",
+      "hashes": {
+        "SHA-1": "7ee2d553dcaa480a68f4e697504598b874dfc752"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6dd2c37e-b532-562a-a4db-e4d2e65b6d84",
+      "hashes": {
+        "SHA-1": "7f8c58bf4a9c920a5f4b806b74ff3e3ba628a450"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e27ef220-7ece-5c02-8da5-54da8500b1e9",
+      "hashes": {
+        "SHA-1": "7fca95bd737b402d835afe0909666e0a5c21df2a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6eecb1a-2a21-5c50-b839-21abf99c0a63",
+      "hashes": {
+        "SHA-1": "82a90901273e543ae69ce835e9abf7c9bb2c4507"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c073d73d-bf1d-55c3-880c-42ffe7e8eeab",
+      "hashes": {
+        "SHA-1": "82c45454a995033a299ab4ec47f709cc926ca7ae"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50ef269e-44b0-53da-a6a1-a310739903c4",
+      "hashes": {
+        "SHA-1": "859e3faf1fb9d36167b1837d116cba020492c9e9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--370313c0-fca4-5241-9a94-1a684c3f1027",
+      "hashes": {
+        "SHA-1": "87c88ac9b27cab21c8bcb8c8095a259765534140"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70947b3b-b4a6-5419-b745-463491553fe4",
+      "hashes": {
+        "SHA-1": "88b069bfe1e740673a04f73680a304d0bf89b7f8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67b6b1a2-2622-5964-86d5-58b5355721ee",
+      "hashes": {
+        "SHA-1": "8a0aab53aa3b86cd205cf96de1b129c6a5756f28"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a4890f9-bafb-5bcb-a3c9-78339f9fe184",
+      "hashes": {
+        "SHA-1": "8a75ff624d9c689b6ad8aa1cc587d09290fe1e58"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e7931d6-7bd5-5578-90a5-5cc650148a87",
+      "hashes": {
+        "SHA-1": "8ab850a37e448811f12dc8cc3ec498d8f939d11f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--efdb08ba-8e68-5a2a-a228-c4e6143c7742",
+      "hashes": {
+        "SHA-1": "8b21c6680b6e8a0cf88983356e871c87df8a4b17"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be496ffb-f66e-530b-9363-e09ea90c2b5a",
+      "hashes": {
+        "SHA-1": "8b59f4154e1ea566f6153c6c1bcafc2319ef83ce"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d6c82fc-ac6b-5744-ab1a-ac4f0507c382",
+      "hashes": {
+        "SHA-1": "8c51f7ecfa12cb6c50db14fcf01b392332c69cbb"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0864f98-ed5c-53dd-b716-db278f10b7cd",
+      "hashes": {
+        "SHA-1": "8c8e6d430f2ea516438052bc6819cc0e767a8668"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61b82cd1-d30b-5f64-b42b-0a77c3ed287f",
+      "hashes": {
+        "SHA-1": "8f2ab93c152a01fc493b41232adfcd9c4bcc5003"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ebaef719-ef97-55bf-8e43-a196a151d24f",
+      "hashes": {
+        "SHA-1": "8f37203f8cd17f35dd768d39841916eae17a5c36"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f0d00f35-61c1-53c8-8dab-27f9a6cb3e63",
+      "hashes": {
+        "SHA-1": "8f7e1847e6291629a6d3ee09f7c711123f2dc933"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--58b38c21-df69-5a6f-a70c-0247b49a9b95",
+      "hashes": {
+        "SHA-1": "9082f8f192d2abd364fe4ef9c5fc4632b5732639"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc09ac3e-6c36-57ae-b8be-fcb938d5f0b1",
+      "hashes": {
+        "SHA-1": "918df03673c01ae984ce0f1cf5044650377806e0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4255e22-1ed3-513f-a1ad-d99039de962f",
+      "hashes": {
+        "SHA-1": "931546f387f942b6614ceea529f0e45a9de92d41"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bccf73d2-7439-58e6-81c7-262af753b03d",
+      "hashes": {
+        "SHA-1": "95d8d57fc11f1dc3aeea8413b177b0b7d21a3a00"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf6d1bce-2741-58aa-9800-66798e48b032",
+      "hashes": {
+        "SHA-1": "96a280ee6c853e00fd4ee49e53384a556cd0d283"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aa691d02-5ead-5b99-8f10-07c23baee1da",
+      "hashes": {
+        "SHA-1": "9a0e1e1df5d0d95ac50adbe2268c133ed916a232"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9043533-da35-577f-bacc-12d1349579a1",
+      "hashes": {
+        "SHA-1": "9a2bb87947b17e479791a9bc7fa230cdd1b34bc4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8fd09be-c166-5287-89b4-945cf7b9312c",
+      "hashes": {
+        "SHA-1": "9c7d77cbf1cd406a53952dd875a8a05e33c49037"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ab95f6e-8290-536d-adc4-98d18fdb76b5",
+      "hashes": {
+        "SHA-1": "9d2ea046f645dc6aca14c280e5eb3c0f1be947f3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49424ed8-2989-5a5b-997d-8e051cf5ff4b",
+      "hashes": {
+        "SHA-1": "9d8ef08eca0a565058160e234e8a68ef11bb8d5f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8bc95c6-eb9e-5d52-b9e0-20bae128dc23",
+      "hashes": {
+        "SHA-1": "9e693ced35892cb27493cdd2bd07d91e411460b4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e88e1fc-b2d4-56e2-8eaa-19883eb24ae7",
+      "hashes": {
+        "SHA-1": "9e873ec9190f504524ec3f73e2b2368d74d2983d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34ccfe5b-a39a-5be1-aa4c-0bf7b8545da1",
+      "hashes": {
+        "SHA-1": "a02b177684329e6345ca7ce5492e29595cc187eb"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--374b6514-1ddd-5724-9925-f26806470610",
+      "hashes": {
+        "SHA-1": "a03740dbca96c1ec283626a09322e76adde59777"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--968f20d1-e16e-5ba6-b08f-48a371023a3b",
+      "hashes": {
+        "SHA-1": "a04fe9145731b9c048e28e2b51a71780692410de"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88c412f4-088f-53c2-bd7d-443afe9f2f25",
+      "hashes": {
+        "SHA-1": "a0caf420a6a11508fe28782a09174841421fb6a4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbed68bf-f7a8-5f02-a610-866f02958c6b",
+      "hashes": {
+        "SHA-1": "a2380a1bf130ca4fde2f14a482eda7beace7de2d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e230e078-69b3-52f0-aceb-9dfdfb056507",
+      "hashes": {
+        "SHA-1": "a2fad11174b05c3b40de2e67c072bf2d3f10ce90"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3b7891f7-baba-5e56-80e0-2546c24228a7",
+      "hashes": {
+        "SHA-1": "a3f5b694abf979a0d5b564813ef97d0815d9e309"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f75719f-3850-5be6-8fc5-00e52f56f0d7",
+      "hashes": {
+        "SHA-1": "a53b6bb612abfeaaf42bfc0185321a4d71651b62"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c40d8125-921f-5bcb-a8ae-6a1926020f07",
+      "hashes": {
+        "SHA-1": "a658a45d673757bd61bbb4242fb21e747dd0c96f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f5adb1b5-4b21-5982-adec-40a30863a681",
+      "hashes": {
+        "SHA-1": "a683802400eaa9dbbda31ddb08c5a8934421f20c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6e3a109-b4bb-511f-a8f5-14ef085d6f31",
+      "hashes": {
+        "SHA-1": "a7a0fb676cf186909be1e9cecca398b1c93bd75f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e24136e-11a2-52a8-89bc-297290eac167",
+      "hashes": {
+        "SHA-1": "a8e23c04abae6697bdf0ebbd5804c7f27fce2360"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94f9d374-44e2-509f-a26a-c2cbbb1db687",
+      "hashes": {
+        "SHA-1": "aa94f5d2dc68e52b33ade59d5674058d32549cb7"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e135a5c9-aa97-5d43-8a7e-b79fda6869a1",
+      "hashes": {
+        "SHA-1": "abebed4266fcc36e99b1f65ba6c471bc07055f9d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--78c99e1d-6459-5dc0-8cad-488b2616f6e3",
+      "hashes": {
+        "SHA-1": "ac4f0a17dd44d7d8ec56a3b99f4f1c02bafabbbc"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7197239f-3e38-598a-9300-78a3e515e479",
+      "hashes": {
+        "SHA-1": "ac54acce64d4ba63747013c81168ab1d4b1f0677"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--058c52dc-d227-566c-b785-77c81cba519f",
+      "hashes": {
+        "SHA-1": "ad4adb2a285fe6bc4e7eaea8d2cbc6b9549bf7d1"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec0492a7-ae6c-5124-bf0f-1e7b8044f65d",
+      "hashes": {
+        "SHA-1": "adb9e1b8b563b6202818dfff6efadb4c0cb0723a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9c9d071-127a-5514-a206-93d0720053b3",
+      "hashes": {
+        "SHA-1": "ae6435bc85338f1e4f200668b4915a0461a9d1f0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8be26706-6d32-58cf-9ac2-f65fcd11c53b",
+      "hashes": {
+        "SHA-1": "af3a4cf781e503f679847bdac758cecc9fe8b64d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18405e04-48ff-5ee3-9c8c-4003ce9b83f7",
+      "hashes": {
+        "SHA-1": "af5beda3d811b36a0de6226efb2f621926d1748a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca7ca911-ff7a-5317-95cb-705272dbffe9",
+      "hashes": {
+        "SHA-1": "af79dbc45256c283a6cda19c06dcc408a7f2b7d8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed65d7b9-bb31-51f6-9522-9cc7ac727d39",
+      "hashes": {
+        "SHA-1": "aff7c891f379e8b027a490f62cd453e69756c191"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a20486f-ff29-56a5-9f29-a545a21b35a2",
+      "hashes": {
+        "SHA-1": "b05aa9a25b872f82e7e2ffdbc3725532c8768bd3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87c5ec14-5033-51fb-b303-cd37083ed4d7",
+      "hashes": {
+        "SHA-1": "b0df2787c8e452b6a061bfd0362f4c3f32f0295a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--604f8c45-f8af-5f7e-a515-abbde6e52803",
+      "hashes": {
+        "SHA-1": "b260f74c849792d07c3d45694d4535c0367471df"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--630c9e84-eac4-5335-813b-4a6417132494",
+      "hashes": {
+        "SHA-1": "b2738b67b8e5e8f00c1642612b1a4c5c7927a48f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf96bf21-ae7a-5333-b881-cafe2a2cc696",
+      "hashes": {
+        "SHA-1": "b4ef01fa44ba82b7adc8c95c3da021a2eec30e71"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e0c1a92-b7d4-5932-b3f9-cd5db21b027e",
+      "hashes": {
+        "SHA-1": "b5d2b0f894aa863d5cd8d2413c3b75f2f13d6e9a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4dbebcd0-a7db-55e5-a2ec-8776bc14b1ad",
+      "hashes": {
+        "SHA-1": "b5e8282e2bed74bd2f057fc526b1ae6c457dc6e4"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb47ad2d-32f7-5cf1-97e2-0fb92569cead",
+      "hashes": {
+        "SHA-1": "b7df707ea6df93294c3884c6c5249a5742c4a3e9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5103f67-678d-5a72-a5e6-a2c9c9a5a7a7",
+      "hashes": {
+        "SHA-1": "ba47e28f4dae43c2823e35670fe0ce6e33acf783"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8276352b-36df-5701-8310-917430d65e03",
+      "hashes": {
+        "SHA-1": "bb6bfd218429dff3784eecf696f05bfa3bfeb709"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a950f5c6-5fd2-5682-9e49-e5254a601a15",
+      "hashes": {
+        "SHA-1": "bbb5e8716817b3e7ebeb0194f66cdbee312058b9"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--defbef3a-947a-5ac7-acb1-c07efe204b37",
+      "hashes": {
+        "SHA-1": "bfc8172695ff4b838bfc84851ac2cff301230428"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--610698b4-c188-583a-9098-3b8fbda1ce98",
+      "hashes": {
+        "SHA-1": "c19009d30f8fa018a2714f0e6fcd77a09ce0766a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--782be4b4-7119-5789-8a64-cd9100752edc",
+      "hashes": {
+        "SHA-1": "c21d2205ac9dba5e8c9bd2610e8d8809fe3be317"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0e9dbd3-370f-5692-a333-e62caada5558",
+      "hashes": {
+        "SHA-1": "c62c82199dc4edb9868a39f0bdc3b87756a7d7e3"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2bb5cdfc-a827-5858-bd8e-06e3f614bd18",
+      "hashes": {
+        "SHA-1": "c8404f976f5ae5b5761033b8954f86975eb89005"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d909bb1-d70f-52ad-b162-f432684130d0",
+      "hashes": {
+        "SHA-1": "c8c2b447eb010771c34c607ad0b0ddb1e46cf70f"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab742398-24a9-52e6-addc-0c1164d68d9a",
+      "hashes": {
+        "SHA-1": "c9aa35c3fe045501693cba9054432238478b4ea2"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--08008232-4f94-5ec8-8722-05524455665a",
+      "hashes": {
+        "SHA-1": "ca2d9b4666c71ebc6b0c862d942d9de7ebd69f05"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--879f52da-7d39-59c6-882a-e8cc23b5dbc6",
+      "hashes": {
+        "SHA-1": "cc679b9cbcdcc6638e7dc994a79da4a928e28950"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffd7c6cf-f752-5c9f-984d-054a341709bd",
+      "hashes": {
+        "SHA-1": "cc91a6b5515fefb2bc426257f18ef5b718b7a1fa"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a865107a-dac3-56ae-b86e-ec6f737d4f1f",
+      "hashes": {
+        "SHA-1": "cd2824b7ac4e3ff50109822a44a38439c7e1df84"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b00b92d-161a-59bb-93bf-f193cfeff2e0",
+      "hashes": {
+        "SHA-1": "cdc3f032134c838955728c8d541ef896b550ef19"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5480d89c-8e41-5495-bb55-99efc733c1b4",
+      "hashes": {
+        "SHA-1": "cdcb7fcc7328d6258690739d3f16e29a2aafa467"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80efc14c-89c7-584c-8d46-6c5f4c3e64b5",
+      "hashes": {
+        "SHA-1": "ce087c2b6408dfe8dfc0139f825a9b161262f7c0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5b2e9db-b13c-5a6b-855b-d57178d9f230",
+      "hashes": {
+        "SHA-1": "ce38b773dd03ec116f04e7af59a077390eaee87d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf96e006-feb2-586c-b052-8602b81c25fa",
+      "hashes": {
+        "SHA-1": "cf25467ca5335f64ee3fbb5f918d034c88bff3b2"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2e819f2-561a-527b-ac71-601e799ce46d",
+      "hashes": {
+        "SHA-1": "cf43b12f137653e7c08d938dacbc227a9cf2624b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e820d67-a0c4-5f68-8d66-13d4b5fbe7ba",
+      "hashes": {
+        "SHA-1": "cffe79bde6c108ad1bb884eb0b8c38e6cf3f589b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8eb667f5-2327-50be-93ce-2886f91972c0",
+      "hashes": {
+        "SHA-1": "d022bcebd7cc7f98bac6a3b98ea1ce6fb45b3a97"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--642c7335-89b4-5120-8318-6386a95cd77b",
+      "hashes": {
+        "SHA-1": "d0c11b684aa7aa65f20f829eb1872d4fb653ec2b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--070a6960-85e5-5fec-834a-2ec27287e24f",
+      "hashes": {
+        "SHA-1": "d1abd2063137ada324db91ea049c43444a15d05e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb471694-f4ca-5390-97f2-548f889a1aee",
+      "hashes": {
+        "SHA-1": "d2c514c84432e4b6264ef062e2b5b4f257fa5404"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4103fea-64ac-53d5-a8cc-2b7564c2bee0",
+      "hashes": {
+        "SHA-1": "d389712a9855c033775bf314e5c39536ac2ac075"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a9bfb78-3f5d-5d3b-a08f-cec41e6eb516",
+      "hashes": {
+        "SHA-1": "d4313a94be2341906cdc1e523f866b01d9afbce7"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b6a9f10-9ca2-5f5e-a746-dddcdefb31e4",
+      "hashes": {
+        "SHA-1": "d4d458059178b00d130a8f9c36a2e1ea8eb4ebce"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--364ac608-562e-5eec-97be-bfde8e43b3cf",
+      "hashes": {
+        "SHA-1": "d62b2ee29a43b26828426b4a2450dec5e8853904"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b6f5766-8be1-5f99-a8bb-2e6f8c51f33d",
+      "hashes": {
+        "SHA-1": "d62ed4948a081c02aa777723b15b2e2a286f4d67"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9dcc47a8-e610-5f96-a3b3-ef08d381fe6c",
+      "hashes": {
+        "SHA-1": "d6b1b3575b627d2af93e59e2f9a4ee5d9ce7b247"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0799669e-a5ee-5b1c-9c6c-d46459b8913e",
+      "hashes": {
+        "SHA-1": "d718535b855449e053b3f6880d92faffeca1d763"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f52d2a1-975f-5968-bcc0-50460a086ef0",
+      "hashes": {
+        "SHA-1": "d9a4d86a3624328ea0028a5090fb54ab21bf4fce"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93f1a239-2e25-5521-ab1b-7d6953c1195d",
+      "hashes": {
+        "SHA-1": "dae6b901ba965ef42e0c5c143abc29028686598a"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e4e332a-493a-5cb4-8969-92279a2b1e7b",
+      "hashes": {
+        "SHA-1": "db2ec6a63ecc871bbd7ca3749d7f85181ad548e6"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d1ff1ee-688b-5ef4-8515-063fd5e81c57",
+      "hashes": {
+        "SHA-1": "dc57f8a55d3f94cfea101d7acfb4ef545dfc06a1"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34483132-d7eb-597d-80b5-c03b74d67e27",
+      "hashes": {
+        "SHA-1": "dca8e48e29d3eafc99aa87e0fe7584c0b586cbcc"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5aa48e10-e2a2-591f-b31b-dc95a3aacf1f",
+      "hashes": {
+        "SHA-1": "dd2056924f96cb4c343606ca955b6bb45f4ce0fe"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0255240b-e4d3-5cba-9e5c-ac2d0654922b",
+      "hashes": {
+        "SHA-1": "df55c191e447488b8afaa0fca96cb542565a5871"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67f423b7-26b5-529d-ae5a-51eaf682f774",
+      "hashes": {
+        "SHA-1": "dfa988ad7dcd37179da8b1b3ccc8dca661c9696c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d92c4821-79ca-5a91-b93a-7c37a5868073",
+      "hashes": {
+        "SHA-1": "dfb679d37fc36b3eff621fa4be2f808954e827bb"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca9ec25a-c978-549b-a583-dba1d028e6f6",
+      "hashes": {
+        "SHA-1": "dfd66ff55de36ac806e958f055c1820ff8c73b82"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05ed708d-dd30-5373-bb3c-808623f7b56f",
+      "hashes": {
+        "SHA-1": "e458fb06c40949e0dcb2934e337d6e387a87973b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c3c21cd-a3d7-5869-a48a-efdf8943f636",
+      "hashes": {
+        "SHA-1": "e89fbbb2c84ed14a80dfec274a25bd3b87e75f0b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b931e26f-e239-5f23-9085-8ffb88aaabd4",
+      "hashes": {
+        "SHA-1": "ea07dad6f4e56e4b09a57956d6045cb31f487df5"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12562d27-d666-5448-b3f3-02a7c5c7f935",
+      "hashes": {
+        "SHA-1": "ea8d4d0f35d68119e417a08ebb2b85d7e6006e5b"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aeda12b8-e566-54a8-9327-033be2e51660",
+      "hashes": {
+        "SHA-1": "ebf33f85ae12b05c9f30da036204b01151b155b8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e84b672b-5df3-5e44-b1ee-3e84030e006e",
+      "hashes": {
+        "SHA-1": "ec8dab5996e81c5012518d7e606b2fafc27dbff0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b39febc-1a39-5483-9dda-a8dd691f9515",
+      "hashes": {
+        "SHA-1": "ece199f0ef805e88c68ae253e3beffad5e33dbe8"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f2d7d39-274b-59d9-b4ec-5befcd796751",
+      "hashes": {
+        "SHA-1": "eede45a4869a64f32fe8fcb4f39bd518f3efbdda"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--caae9282-0b6d-5734-a5e4-96e910a29730",
+      "hashes": {
+        "SHA-1": "efc44d61b98050b6f8b8e0b190633111541bb76c"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf8dcadc-8949-526c-a821-2c04f55f3b20",
+      "hashes": {
+        "SHA-1": "f3e7e0d5e1636385cf08079bd847ce502c0fe596"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97ca36c7-4ed3-528d-966c-f228348ab7b8",
+      "hashes": {
+        "SHA-1": "f6ce0ddc283dcc8d7484bd5856a9fc8ff4c13d53"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61038818-6eca-5749-b3b0-50fb127e191b",
+      "hashes": {
+        "SHA-1": "f6d56f2ebddd6b87b70105b09e6726cfcd4958aa"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70075624-6526-5d0d-82f8-a9ae28c5ec05",
+      "hashes": {
+        "SHA-1": "f6f125f7ef2bc0b8be7d9e53cefc31cd63be41f1"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d1a109c-1cc1-59e3-b58b-7564cbc628ab",
+      "hashes": {
+        "SHA-1": "f6ff1b4cfab826dd6e252cf2ab1cc1f77f780276"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--784358bd-15c1-5131-ab25-a79db89985de",
+      "hashes": {
+        "SHA-1": "fab19c2f562173a37f8997ab16c2e64425848a7e"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f1b90a3-0968-5a43-988c-cafa2d301ef4",
+      "hashes": {
+        "SHA-1": "fc0330990cbefeb1f094c4e905a74aa100c92ece"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--625bce16-9193-5692-9019-cc9452e83551",
+      "hashes": {
+        "SHA-1": "fc54c9c5aeebdf34ea313f484eec889f667b28b0"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e144110-9ae2-581e-a328-974af7856e2f",
+      "hashes": {
+        "SHA-1": "fd35f6abfec7bff9bf2f79f6a1c47bbde2e3752d"
+      },
+      "x_opencti_description": "mal-fakealert.csv"
+    }
+  ]
+}

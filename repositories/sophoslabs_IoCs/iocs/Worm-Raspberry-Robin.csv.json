@@ -1,0 +1,55 @@
+{
+  "type": "bundle",
+  "id": "bundle--bb4d59c9-a312-43d9-9a5c-334b07d8e720",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5aa4c29-c149-57e4-b479-93d0efdcef54",
+      "value": "5qY.ro",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5aa4c29-c149-57e4-b479-93d0efdcef54",
+      "value": "5qY.ro",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f88bf7f2-5f16-5a37-93f3-84b03127bc07",
+      "value": "5qY.Ro",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa90ef81-ee94-5b4d-86ec-84c25e77f2ca",
+      "value": "RUNDLL32.EXE",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa90ef81-ee94-5b4d-86ec-84c25e77f2ca",
+      "value": "RUNDLL32.EXE",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa90ef81-ee94-5b4d-86ec-84c25e77f2ca",
+      "value": "RUNDLL32.EXE",
+      "x_opencti_description": "Worm-Raspberry-Robin.csv"
+    }
+  ]
+}

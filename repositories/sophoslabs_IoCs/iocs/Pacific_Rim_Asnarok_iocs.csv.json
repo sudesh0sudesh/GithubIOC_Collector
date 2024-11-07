@@ -1,0 +1,132 @@
+{
+  "type": "bundle",
+  "id": "bundle--f5ddb8ab-05f0-4079-93d7-e4af714ea942",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a6e44956-f49c-559b-9bfe-a10c9134dc36",
+      "value": "43.229.55.44",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a6e44956-f49c-559b-9bfe-a10c9134dc36",
+      "value": "43.229.55.44",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8452abfa-f115-542f-b060-2ff74eec6614",
+      "value": "sophosfirewallupdate.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8452abfa-f115-542f-b060-2ff74eec6614",
+      "value": "sophosfirewallupdate.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8452abfa-f115-542f-b060-2ff74eec6614",
+      "value": "sophosfirewallupdate.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2dd7bd3-5698-5491-85af-13df36090cd8",
+      "value": "install.sh",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8452abfa-f115-542f-b060-2ff74eec6614",
+      "value": "sophosfirewallupdate.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c272858d-4113-5bf9-8047-812d5054ee4c",
+      "value": "sophostraining.org",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7719e2a9-62e0-5f86-b659-0d2293636ccc",
+      "value": "GoDaddy.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d1c0b5c8-beb5-5de0-90db-34675535b8d7",
+      "value": "filedownloaderservers.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--041387f0-4bfe-5565-90e4-77e94de49f21",
+      "value": "sophosenterprisecenter.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--80221e93-ac5b-560e-96b0-fd90536084b3",
+      "value": "sophoswarehouse.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--19ace72c-eff3-5753-b91a-b742a42f8463",
+      "value": "sophosproductupdate.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c272858d-4113-5bf9-8047-812d5054ee4c",
+      "value": "sophostraining.org",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--789a3b44-82f5-5f93-a1cb-1196f6898542",
+      "value": "ragnarokfromasgard.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--789a3b44-82f5-5f93-a1cb-1196f6898542",
+      "value": "ragnarokfromasgard.com",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2dd7bd3-5698-5491-85af-13df36090cd8",
+      "value": "install.sh",
+      "x_opencti_description": "Pacific_Rim_Asnarok_iocs.csv"
+    }
+  ]
+}

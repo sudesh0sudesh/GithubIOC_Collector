@@ -1,0 +1,780 @@
+{
+  "type": "bundle",
+  "id": "bundle--dde2cf0d-87c9-467a-ab39-515b32f0ba89",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a53afdec-a40b-5e2c-9ab5-90638dd3e684",
+      "value": "149.56.131.28",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f41a4cae-a4fe-58e8-a9c5-4e31980a6e95",
+      "value": "138.197.147.101",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a418ce45-d460-503b-86a9-e87076161fc1",
+      "value": "https://twitter.com/SophosLabs/status/1526881339705892864",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2adb71fc-aab4-556f-9f54-6a57fb0d3044",
+      "value": "sunvn.net",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fcf849e6-fd7d-563d-913e-dc98acf7fb48",
+      "value": "choigo88.us",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--690a1880-fd1f-5745-ac87-ddb387ed9ca2",
+      "hashes": {
+        "SHA-256": "03b17f7da2f6d2dc89481e44230b0864e6f0224de8005f6f5295ca775898c6e2"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c47d98b3-ea4d-52d3-a5bd-f2a12ef67f53",
+      "hashes": {
+        "SHA-256": "a9579f3c05096567c67ea737a411e1a553899ba10257101bbdf31f5fbcb3c73d"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ceec55ed-976c-500f-8e21-bab3c1733f17",
+      "hashes": {
+        "SHA-256": "0b25fa084c01fc946d0ef437dd5eab00c4a392ce9d5bb4b29c819faad96297e4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8699f7a9-63fa-517c-8fb2-d18d53342403",
+      "hashes": {
+        "SHA-256": "0f64c351d2d933b348610ed7949ad8b52d4ead40595c72c56692ed7f7231c08c"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f15d175-f9c1-55f2-832a-8af6f06b7c0d",
+      "hashes": {
+        "SHA-256": "0fd11276fea2b3a855a3c836155dda8dc77c75447f9060616ff221b45307ebad"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a85f9d58-7512-5f4f-a9f2-5314956594fb",
+      "hashes": {
+        "SHA-256": "127d50dea36f28e239031e8837aa0924727742599203df88fdc49e8a67f9cc4b"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a70f1e55-d9cb-5296-a3de-7ae44a5b5b47",
+      "hashes": {
+        "SHA-256": "4bc18b044325b71f2eb66352115a6c1210addb8f9059a97e67c4a548194cc48f"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--311b2da0-1ef1-5547-b36f-2f81a8682c68",
+      "hashes": {
+        "SHA-256": "13f57741618ffea33ddacf0803b532e675be60a259ef0e2de88b56914f2242c6"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d1b4574-1177-55a6-8eaa-2856cf48e4d1",
+      "hashes": {
+        "SHA-256": "15b7444f7f381fa76d9e9d7e2bf27e75a33fb34656c5818ed4925d0ead9435ce"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec2c871e-2da5-5da5-9a8b-e75f5fe55f0b",
+      "hashes": {
+        "SHA-256": "19ce6b0cff58c6c40fe862c7e46a9a8d556c574cae7e7f549d67c952c984fb94"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd0582e0-4b78-56c3-8124-1b4397ac61d7",
+      "hashes": {
+        "SHA-256": "a7adb4c9e8aa728bf2a6921f3c057f0d51ad98d18fc758897a08d4641971a464"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71ae848e-827e-59d7-a3f8-e648deb74d09",
+      "hashes": {
+        "SHA-256": "20349b930640cba6bc0a34f3476f583e34a8cc18ca32942af21aee2cd51a8028"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--32a71fb5-75d3-59bc-87a8-3e8266360be8",
+      "hashes": {
+        "SHA-256": "2fe92e17da815252204aeeb52d0c8bf4d0c6e2b9e9d344c7dca57d09cb9e0a1a"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c4f8b25-5d7b-5240-846d-2208de93cf3b",
+      "hashes": {
+        "SHA-256": "960b7d5de23035a52f6dcd6cc50a0d5443bc90f99d0e87f8ed74c117523b425b"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b20a4b49-279e-58cc-9807-16fbc12f2fa9",
+      "hashes": {
+        "SHA-256": "3a1cbae53062cc6f0493c9393b3d32511ccc29134accf52352a07261a7f6e75d"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf0f330c-6ae6-5094-a955-7be9dfe307e9",
+      "hashes": {
+        "SHA-256": "3d54a062be0bfba9fa5d4fb73c399f9e807429794ccdb48acee5884cc4f38a1e"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf0f330c-6ae6-5094-a955-7be9dfe307e9",
+      "hashes": {
+        "SHA-256": "3d54a062be0bfba9fa5d4fb73c399f9e807429794ccdb48acee5884cc4f38a1e"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8777a8a6-163b-587e-8054-151671219687",
+      "hashes": {
+        "SHA-256": "4b8e2d332a4046ebe1715ccb7be12a8c6c61223d6ee0be0795f5cc079408216f"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a70f1e55-d9cb-5296-a3de-7ae44a5b5b47",
+      "hashes": {
+        "SHA-256": "4bc18b044325b71f2eb66352115a6c1210addb8f9059a97e67c4a548194cc48f"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5383ffbb-3d22-56a9-adac-8782888dc4bc",
+      "hashes": {
+        "SHA-256": "5343092356d5383089dfb867806ed3b153595d763b16911b3d2b1f6ef792fb90"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--311b2da0-1ef1-5547-b36f-2f81a8682c68",
+      "hashes": {
+        "SHA-256": "13f57741618ffea33ddacf0803b532e675be60a259ef0e2de88b56914f2242c6"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d134577-c67a-58cc-8fcf-fd25f2051e02",
+      "hashes": {
+        "SHA-256": "5368a4244f630c817b539d1eddf1fa12a4cbd5a5451944fa25f4e98a7a216813"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e904f1d-f8bd-559b-a2c2-04ab164a2712",
+      "hashes": {
+        "SHA-256": "c1039e8b81de0c0361f7e39d081bfd284444d795964f3848867c68bb39f0f661"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a296781-4434-5b2a-8324-9346f0196beb",
+      "hashes": {
+        "SHA-256": "55f2000d71028725996d7edc2c847e103e3bbb8eea3da9220e396e2199d2d2c4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--306219d4-c806-50cd-b72e-fd679b241cd4",
+      "hashes": {
+        "SHA-256": "596f4bc37f5e7c92fe58bb7f3dd34e1ef097698ec3ca055feb305f58b51fa2ba"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5be7d7ef-7b1d-5eba-a44e-baf4f10c8998",
+      "hashes": {
+        "SHA-256": "5f2911ca398bf7de3b33daadb538ae78fa9a1152aae0ad31b3a732bad1536352"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17671081-e6d3-582c-a058-5f2b17e147cb",
+      "hashes": {
+        "SHA-256": "dca2973edf3824ce8e11bace3bad6269090116331bba248a11b687fe067fdd2c"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be24dce3-73a4-52de-aac3-a4731cb65545",
+      "hashes": {
+        "SHA-256": "61b6aef2908ae4aafdf36561632d44c2cc3dca1f8bfe2b718763290560aa47ef"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--29a652ac-b618-5752-a1ef-5e5f8acc5673",
+      "hashes": {
+        "SHA-256": "ebf2f974165f1d519940ff53520e40995c014a6df36df2de858dd35ac83d6f63"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb69e4b4-8d66-5c5c-9e51-6daa946dad35",
+      "hashes": {
+        "SHA-256": "649a285f6ce586bc7b79b3e17a783d23860ad239ea6db9424484109aa57d8c96"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35d1cc7c-3f19-546f-a43c-b21058767337",
+      "hashes": {
+        "SHA-256": "e1ecf69ec4c4439cef1bce2cf5c1d930818d4aee0638cb97ff65c42dc11d40f9"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3573298d-f57b-5ae3-bd2b-453cf15609b0",
+      "hashes": {
+        "SHA-256": "6ffe95f39a051c3c1c8e7f23ba5f6e66e0bba1c7647a8034bb0479aaea91b8b9"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f2f600b-9275-5292-8d9b-982e75e25c73",
+      "hashes": {
+        "SHA-256": "e5931cc07c82301d0ebb2ed5c8885d67765a7a579835e2a8e252217ed1f8fb80"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--172fbabf-2df7-549f-86c7-719ef3c8c824",
+      "hashes": {
+        "SHA-256": "78d608b3a2cd047c006040c196b370c532c417d9016c48c39e49510dc797d094"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8699f7a9-63fa-517c-8fb2-d18d53342403",
+      "hashes": {
+        "SHA-256": "0f64c351d2d933b348610ed7949ad8b52d4ead40595c72c56692ed7f7231c08c"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3167ae7-50df-5779-8cd3-a44e0e55a0a2",
+      "hashes": {
+        "SHA-256": "79df36251af7a6532af2ed4f16a05dade8e13bdbb3b075c65f75d132d1225be4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02da2de2-330a-5155-a47f-f067774e47b2",
+      "hashes": {
+        "SHA-256": "7c578f6c7e861ca7376b7f10a5edc37adb54df5b7fac84aadad8ddf0e294b10a"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f15d175-f9c1-55f2-832a-8af6f06b7c0d",
+      "hashes": {
+        "SHA-256": "0fd11276fea2b3a855a3c836155dda8dc77c75447f9060616ff221b45307ebad"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9bc19cc1-0cdb-5376-8be2-19ba6bf61a16",
+      "hashes": {
+        "SHA-256": "89d500e25d6341a6659d3a3128dac085674a2dc7a22c6db76a8d6c5c5fcd5cea"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8777a8a6-163b-587e-8054-151671219687",
+      "hashes": {
+        "SHA-256": "4b8e2d332a4046ebe1715ccb7be12a8c6c61223d6ee0be0795f5cc079408216f"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65e53617-14f7-56b8-a3bb-1c3a91f74fab",
+      "hashes": {
+        "SHA-256": "8f9fbaae021664c186935d3abd76b01a00e9c030ed7eaf82d7ab4f0074cab4de"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a296781-4434-5b2a-8324-9346f0196beb",
+      "hashes": {
+        "SHA-256": "55f2000d71028725996d7edc2c847e103e3bbb8eea3da9220e396e2199d2d2c4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51788cf7-53aa-5329-b006-b1a45e8d352a",
+      "hashes": {
+        "SHA-256": "9089969f8887ee1ba825efa56b673597eb90cdba7456534c774136bee07aa756"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc7dd8c4-a0fd-55cd-8b7f-d0bddcc42baf",
+      "hashes": {
+        "SHA-256": "f5e08119e74ca6115f6f9f85aa4877c306c7a2e11f635f8c733c6031902d70e7"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c4f8b25-5d7b-5240-846d-2208de93cf3b",
+      "hashes": {
+        "SHA-256": "960b7d5de23035a52f6dcd6cc50a0d5443bc90f99d0e87f8ed74c117523b425b"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3287b2e9-57c0-5621-ae9e-6c2cda7f8eaf",
+      "hashes": {
+        "SHA-256": "9f79518888dc4ecda7d550844a0be0a6d165f487638626e7dd2c59844eb233d4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ceec55ed-976c-500f-8e21-bab3c1733f17",
+      "hashes": {
+        "SHA-256": "0b25fa084c01fc946d0ef437dd5eab00c4a392ce9d5bb4b29c819faad96297e4"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af780ba8-0779-54be-a4e4-edaa14118d7b",
+      "hashes": {
+        "SHA-256": "a36cfbde2fdfd5241d9beee6bc7cda31260071939ba097822c6c1809765288bf"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--306219d4-c806-50cd-b72e-fd679b241cd4",
+      "hashes": {
+        "SHA-256": "596f4bc37f5e7c92fe58bb7f3dd34e1ef097698ec3ca055feb305f58b51fa2ba"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd0582e0-4b78-56c3-8124-1b4397ac61d7",
+      "hashes": {
+        "SHA-256": "a7adb4c9e8aa728bf2a6921f3c057f0d51ad98d18fc758897a08d4641971a464"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c47d98b3-ea4d-52d3-a5bd-f2a12ef67f53",
+      "hashes": {
+        "SHA-256": "a9579f3c05096567c67ea737a411e1a553899ba10257101bbdf31f5fbcb3c73d"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e904f1d-f8bd-559b-a2c2-04ab164a2712",
+      "hashes": {
+        "SHA-256": "c1039e8b81de0c0361f7e39d081bfd284444d795964f3848867c68bb39f0f661"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6be5ba86-bf36-56e2-b8cc-853fc0005531",
+      "hashes": {
+        "SHA-256": "c91c95f8325b91aee29f28cb70f4e9e249561d8aa79a8470085c43d92a6bffbe"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4235f349-5a57-5188-8336-59615fc7a71e",
+      "hashes": {
+        "SHA-256": "ce5dcf76b74988af1accf451ab5a25c41ba6237d2bc02536857a0522f475c699"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6be5ba86-bf36-56e2-b8cc-853fc0005531",
+      "hashes": {
+        "SHA-256": "c91c95f8325b91aee29f28cb70f4e9e249561d8aa79a8470085c43d92a6bffbe"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1dd519c3-4af9-57c2-a471-7df914cdf05d",
+      "hashes": {
+        "SHA-256": "d574fa861ff8f4d0c66b5b26079d4042ccba1b8fab3c0a9d3dbb9cb411771db7"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71ae848e-827e-59d7-a3f8-e648deb74d09",
+      "hashes": {
+        "SHA-256": "20349b930640cba6bc0a34f3476f583e34a8cc18ca32942af21aee2cd51a8028"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17671081-e6d3-582c-a058-5f2b17e147cb",
+      "hashes": {
+        "SHA-256": "dca2973edf3824ce8e11bace3bad6269090116331bba248a11b687fe067fdd2c"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35d1cc7c-3f19-546f-a43c-b21058767337",
+      "hashes": {
+        "SHA-256": "e1ecf69ec4c4439cef1bce2cf5c1d930818d4aee0638cb97ff65c42dc11d40f9"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f2f600b-9275-5292-8d9b-982e75e25c73",
+      "hashes": {
+        "SHA-256": "e5931cc07c82301d0ebb2ed5c8885d67765a7a579835e2a8e252217ed1f8fb80"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e52abee-a2ec-5da1-8fed-5e9efa6ca894",
+      "hashes": {
+        "SHA-256": "e6fd1166a3385a9cd5ba0b9e0811fbf193c82394ceaa03be7bd0284c05ffd52f"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d1b4574-1177-55a6-8eaa-2856cf48e4d1",
+      "hashes": {
+        "SHA-256": "15b7444f7f381fa76d9e9d7e2bf27e75a33fb34656c5818ed4925d0ead9435ce"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--29a652ac-b618-5752-a1ef-5e5f8acc5673",
+      "hashes": {
+        "SHA-256": "ebf2f974165f1d519940ff53520e40995c014a6df36df2de858dd35ac83d6f63"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc7dd8c4-a0fd-55cd-8b7f-d0bddcc42baf",
+      "hashes": {
+        "SHA-256": "f5e08119e74ca6115f6f9f85aa4877c306c7a2e11f635f8c733c6031902d70e7"
+      },
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--5fb2531d-b663-4575-8534-38d3734e0f6d",
+      "created": "2024-11-07T12:32:00.216679Z",
+      "modified": "2024-11-07T12:32:00.216679Z",
+      "name": "CVE-2021-40444",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc2cf664-0681-5395-bc1a-ea1011ff6f10",
+      "value": "Destruction.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b417d8c6-c716-5149-8fd3-9100fd5cd626",
+      "value": "s.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba87f67-07f7-5e6c-918b-c7a4799002a8",
+      "value": "Mariupol.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--141a86f9-1801-5793-a090-142898215827",
+      "value": "Ukraine.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba87f67-07f7-5e6c-918b-c7a4799002a8",
+      "value": "Mariupol.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b417d8c6-c716-5149-8fd3-9100fd5cd626",
+      "value": "s.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--141a86f9-1801-5793-a090-142898215827",
+      "value": "Ukraine.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc2cf664-0681-5395-bc1a-ea1011ff6f10",
+      "value": "Destruction.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--68a7afda-209f-591d-aaf7-537144cdbb98",
+      "value": "capitulation.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--30f2bc55-f927-5f28-b91f-539be1747e25",
+      "value": "surrendered.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--68a7afda-209f-591d-aaf7-537144cdbb98",
+      "value": "capitulation.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7c48abb1-1d0a-5747-851f-ed438fb719b8",
+      "value": "Convention.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec950636-7d17-5f22-bd07-6363eec0f14a",
+      "value": "fears.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b417d8c6-c716-5149-8fd3-9100fd5cd626",
+      "value": "s.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92b50784-76a8-57ae-8a26-bef3d7a8d1b9",
+      "value": "weapons.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba87f67-07f7-5e6c-918b-c7a4799002a8",
+      "value": "Mariupol.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92b50784-76a8-57ae-8a26-bef3d7a8d1b9",
+      "value": "weapons.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc2cf664-0681-5395-bc1a-ea1011ff6f10",
+      "value": "Destruction.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92b50784-76a8-57ae-8a26-bef3d7a8d1b9",
+      "value": "weapons.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--68a7afda-209f-591d-aaf7-537144cdbb98",
+      "value": "capitulation.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0d775d3-8d60-5a78-afba-5bea74fa879e",
+      "value": "plant.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--141a86f9-1801-5793-a090-142898215827",
+      "value": "Ukraine.docx",
+      "x_opencti_description": "Troj-Emotet-Ukraine_maldocs.csv"
+    }
+  ]
+}

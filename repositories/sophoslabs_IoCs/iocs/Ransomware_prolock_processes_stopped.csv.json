@@ -1,0 +1,27 @@
+{
+  "type": "bundle",
+  "id": "bundle--4b46fe2c-dde5-4306-a299-50f4ba2f2d61",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63ee081e-6096-5221-b55f-f212a19128b4",
+      "value": "agentsvc.exe",
+      "x_opencti_description": "Ransomware_prolock_processes_stopped.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3dd2bf1d-9b5d-5678-82c6-52de42887ebf",
+      "value": "dbgeng50.exe",
+      "x_opencti_description": "Ransomware_prolock_processes_stopped.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--784b4d13-e5ad-5a5e-b4a6-9f9b3dac801f",
+      "value": "dbsnmp.exe",
+      "x_opencti_description": "Ransomware_prolock_processes_stopped.csv"
+    }
+  ]
+}

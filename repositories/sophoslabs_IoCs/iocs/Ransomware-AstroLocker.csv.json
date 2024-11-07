@@ -1,0 +1,164 @@
+{
+  "type": "bundle",
+  "id": "bundle--74892993-7eec-453c-9668-b7fcd1b6bc75",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--90697012-e938-5dbf-9540-58f32f23f1fe",
+      "value": "139.60.161.68",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--603686ac-7404-5b9e-9c50-1a608d973639",
+      "value": "185.38.185.87",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b52b47a9-7998-54af-ae55-cafd6e62384f",
+      "value": "45.134.21.8",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c8910036-46c8-5be1-b381-92f2b8f91e99",
+      "value": "46.21.153.135",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7cdee41-ffc9-50e1-ac05-c8dde412ddcf",
+      "value": "https://news.sophos.com/en-us/2021/03/31/sophos-mtr-in-real-time-what-is-astro-locker-team",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9aea3566-ee1c-5828-85c8-e6e29e6f2d2b",
+      "value": "dclogictrust.com",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ebdd8da1-4e49-5b79-a3ac-94f0a516731c",
+      "hashes": {
+        "SHA-256": "0a671d9d7ca62274e5e210813d02d860846baf59188e2a07522cd3a1cc3f9cc0"
+      },
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e83dc19-08cb-59f8-960c-2318d0b816d7",
+      "hashes": {
+        "SHA-256": "2c44444d207a78da7477ae1af195d4265134e895bebb476f7b2c003f1467a033"
+      },
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b0642ec-2d16-5e4f-80ed-2a4ff49b6bf6",
+      "value": "lsass.dmp",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ab33ed8-1fdd-578a-8571-592ba77c01e1",
+      "value": "lsass.dmp.cab",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56257985-f11e-564c-9f6e-4f08f29d5e83",
+      "value": "procdump64.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--021ad3ea-40e1-53ff-a709-090c7fc6fa11",
+      "value": "lsass.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b0642ec-2d16-5e4f-80ed-2a4ff49b6bf6",
+      "value": "lsass.dmp",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--000b2304-fb42-5aa3-80fb-30fef92e9155",
+      "value": "taskhost.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05a7ed57-9f9f-5243-af9e-c5b9c71524f5",
+      "value": "wininit64.dll",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-AstroLocker.csv"
+    }
+  ]
+}

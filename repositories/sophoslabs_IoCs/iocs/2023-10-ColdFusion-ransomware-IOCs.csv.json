@@ -1,0 +1,138 @@
+{
+  "type": "bundle",
+  "id": "bundle--012b68ed-b570-40ff-990b-8388c7dc1f7f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f8db4f29-65a7-55fb-a356-21672e87767e",
+      "value": "185.74.222.92",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fba70821-b2d4-507a-8c36-f49fde0c946e",
+      "value": "https://news.sophos.com/en-us/2023/10/19/ransomware-actor-exploits-coldfusion-servers-but-comes-away-empty-handed",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d6fdae4-6e7a-50a9-a0b6-0660e5aa5c86",
+      "hashes": {
+        "SHA-256": "b1b8664a09a3157c656a2b7d920a8bf8f802ee026b3fdf0eb6028c943159757c"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ceea14ff-8f1e-59cb-9bb8-aeab29109fa1",
+      "hashes": {
+        "SHA-256": "0f1e223eaf8b6d71f65960f8b9e14c98ba62e585334a6349bcd02216f4415868"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e51d65d-73b2-5e24-b03d-e6f9120b7d9a",
+      "hashes": {
+        "SHA-256": "8984b4a0739c4a8645447b13ea13a1c8e900b8b71e56f5a17e03ad9632df12dd"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe1a246e-b915-5ef8-bf3c-ce43e9be917b",
+      "hashes": {
+        "SHA-256": "7068468b8054fdcef61e2c740fb51b30007d2916e8faa65c119ec694e375b649"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b789da85-aa3b-5c09-95cf-fd2db11cf08f",
+      "hashes": {
+        "SHA-256": "0f888a51e70f8d92e391999f4a37fbe3bcca770cd67dc0ed2f914e03b2fff31d"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ec48741-4593-505b-943e-c8ce239673db",
+      "hashes": {
+        "SHA-256": "d1d2df9dd639423ca622c20da49ede99b8405079d49215e5fee7e42bf086a1c5"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3fd9b7e5-4211-5df2-8f1c-3a73d876d9d0",
+      "hashes": {
+        "SHA-256": "720ef38246a0cdb12212deeadcd93de2879e887712b47e21559e1bf771400979"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7430139-195f-5ace-b018-52f1002cc84a",
+      "hashes": {
+        "SHA-256": "0bc225be15a50e1f718733feb9f6ad4c1bc6513acfd6348db85ee09cb3389c28"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38094047-0936-5e1e-a493-2006412c2f1a",
+      "hashes": {
+        "SHA-256": "60e2d81176b33fc198a495ffd8dc70e2052bd0452cfa2ba31229e905a5774dda"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53fbc08e-21db-5569-8b7e-69b97cb640c4",
+      "hashes": {
+        "SHA-256": "c8c03e40cad417e9a93aa062004bb5748ba9989c271005524edc6eb5a4585e6e"
+      },
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35d4f1ff-76b6-5d9c-a4d8-37a39ff955d7",
+      "value": "ftps.exe",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--87716a08-5b7b-5358-8b38-4ecb3b027f2d",
+      "value": "LB3.exe",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c95c9b1-6274-5fa5-9135-a0280a3aa481",
+      "value": "LKl23s.exe",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c810450b-ef75-5fd8-9446-a691554f9ca2",
+      "value": "Ww3wb.exe",
+      "x_opencti_description": "2023-10-ColdFusion-ransomware-IOCs.csv"
+    }
+  ]
+}

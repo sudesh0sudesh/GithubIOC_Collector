@@ -1,0 +1,4154 @@
+{
+  "type": "bundle",
+  "id": "bundle--1e896f69-c723-4f91-9091-44d9d4eb0bc3",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5aa5cdae-4c2d-5500-a636-bf9244f1361c",
+      "value": "185.219.221.136",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--126f59f5-ae69-5274-89e7-d41a17f98cf4",
+      "value": "185.117.91.230",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cd8cdf2d-bf47-58a3-80f8-6b4aafbbccae",
+      "value": "149.248.79.62",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--55a05400-0d40-548f-aab6-627f7632d8e7",
+      "value": "206.166.251.114",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--20807558-a9f7-5a87-82f1-f6f033434202",
+      "value": "64.95.10.243",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9297c708-91b5-548e-8a90-ccf6f10afab4",
+      "value": "45.95.11.217",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29feecf5-1308-5f44-92fc-97546bcad7c4",
+      "value": "178.23.190.199",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29feecf5-1308-5f44-92fc-97546bcad7c4",
+      "value": "178.23.190.199",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--881611ee-f9ea-560d-99f7-46a7a4dc5b16",
+      "value": "185.234.247.14",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--474aa660-edfe-5ef4-b60b-8758a11bd910",
+      "value": "185.250.148.46",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--20be075a-7297-534a-aafa-114155e2deb2",
+      "value": "45.140.146.156",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--20be075a-7297-534a-aafa-114155e2deb2",
+      "value": "45.140.146.156",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b16c79b2-1276-586b-810b-feb4cd3a904f",
+      "value": "45.95.11.134",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f05a00f5-19ec-5761-8b07-31259e9d2359",
+      "value": "5.252.21.207",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2df7d23b-a7d5-54de-a747-a6ee96465fa1",
+      "value": "95.164.3.171",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0b20afc4-a4cc-5188-83ed-88055341e295",
+      "value": "https://news.sophos.com/en-us/2024/04/26/malware-campaign-abuses-legit-defender-binaries/,Malware",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--237b7a43-917a-593e-86bc-b4902c419890",
+      "value": "azuycomp.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--942c3189-6892-5ecc-966f-6c2d060ded0c",
+      "value": "businessannually.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1dc384a9-44d9-54f3-ba08-baf2d35615b8",
+      "value": "buygreenstudio.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71f09475-33ea-53ff-bc15-962b551f2e6f",
+      "value": "devs.ambitenergycorporation.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d4465cf-9659-537d-8c0a-29f061fc2f89",
+      "value": "ara.tyk.io",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--97eb6204-370f-5e21-8846-482ecbe50cfe",
+      "value": "realsepnews.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--daf77e43-670f-5e31-bda8-2d893d3517a3",
+      "value": "usaglobalnews.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e87c5dc2-8c9e-50da-8f4c-fbd54bb29d41",
+      "value": "du178mamil.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fd43a90-f47a-5904-96b2-8a2a92ebe7bb",
+      "value": "fluraresto.me",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bb55771d-8a95-5669-8463-0fadcade7532",
+      "value": "miistoria.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3663cfc8-4551-5afc-a8ad-34276e8a11ab",
+      "value": "plwskoret.top",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18e2ca64-cd17-53e6-b05d-93c4ee2f8ae1",
+      "value": "scifimond.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4961620f-bb74-56c1-acb2-f016128eb0e0",
+      "value": "skinnyjeanso.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d47d2695-e4a3-55a6-a06f-01b9f7ea53e1",
+      "value": "stratimasesstr.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2db25e94-9253-543f-b49e-4a3a25370985",
+      "value": "titnovacrion.top",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1768d0e-316e-5fb0-8272-6468e3d5263e",
+      "value": "winarkamaps.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ef73900-d965-5b89-8558-2c40520afa7e",
+      "value": "basiconlineincome.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--978de3b5-26f8-5c0e-9b83-eb406449ad51",
+      "value": "lakeshorehomebuilders.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90916c03-619f-52f4-893e-69a7c2ed8193",
+      "value": "retdirectyourman.eu",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17085b9e-076e-52df-998e-067a35e1ad43",
+      "value": "supfoundrysettlers.us",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a63b8e3-0bdd-510f-9977-bd5e4323e823",
+      "value": "yourserenahelpcustom.uk",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--785ec395-11ad-5f16-823d-17df16c96dee",
+      "value": "topclubfond.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98ca901d-efc8-5a4e-8e20-0b722802e5a9",
+      "value": "advancedtherapyservice.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2963d219-a370-5b4c-ba01-8c6114a5af4f",
+      "value": "danteshpk.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0eb5e474-ff20-5c25-a7e1-b19871b66b47",
+      "value": "globalsolutionunlimitedltd.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43b1e2d0-ddbc-5921-8e57-c26b54c243cf",
+      "value": "hycoworldwide.info",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76a9e360-6201-51e3-b500-9bb1bb1ec29a",
+      "value": "kasnackamarch.info",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e2b33de-4a09-5666-a865-b149c2e3011e",
+      "value": "kosukeshimura.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad2903ac-8762-5b32-b4dd-7bcef8d70da7",
+      "value": "maramaravilha.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1293bcf-f084-5380-80db-4cb5d168215f",
+      "value": "qbra7.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33c0c456-ab91-525c-8612-3c1693202311",
+      "value": "simplyfitphilly.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bd18165b-5f60-563c-9e27-a2f7406ae692",
+      "value": "sokingscrosshotel.com",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3bf685f1-b146-5385-9104-b7288cd82671",
+      "value": "wireoneinternet.info",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04bae094-31eb-5f59-b4a1-7701e3ec2674",
+      "hashes": {
+        "SHA-256": "09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18c21b9c-86d7-52ea-becf-597ff7c7cd04",
+      "hashes": {
+        "SHA-256": "1bad86039f7189f0c143033ddc28121ffe9a4c438becbcec123bfb6a01a11885"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0d7c405-5e7f-550b-946a-7ed01afe8740",
+      "hashes": {
+        "SHA-256": "25e5a54741a0aeefccc669802c30315ba42cc47a99665b87ab0373655939f052"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6de13558-d651-5386-b330-12e8740d96f5",
+      "hashes": {
+        "SHA-256": "2707610b0eba853264e3cce793b35162d40359a57ff94d998a31524bc12a508f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66481db5-cfda-5c4b-9b3e-bcc3acc0e3f8",
+      "hashes": {
+        "SHA-256": "4001ca434aef1efa8738bcdce056820150a9abc45e8ce3690d9cfc2188e96f0e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96d4c7f3-42cf-5ab8-a349-6796cccc0aea",
+      "hashes": {
+        "SHA-256": "5a941af0b30095133b88c69be312ec6a04a409ee2dd331e781f9642cd97347f0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34606f58-9412-5384-a9b7-da0927468b5e",
+      "hashes": {
+        "SHA-256": "69390012180a34df94f1d2f0e10f98a2f7666389c053a2ed5ff4986c30519b14"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1125be87-ecca-5e2b-8333-ceb0c045cae9",
+      "hashes": {
+        "SHA-256": "7206eafc475f246e7c9c258afdaaa64b5193c1c7427d927be417e53dec890078"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b93e3135-79ff-53ad-b090-bcbe0fa26063",
+      "hashes": {
+        "SHA-256": "847042a1dbfe2bbe81a4edd81bd710f156af4260dddd1289e6a41e9416360934"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8be7cb46-6b7d-51da-96f0-e79b9de9e74d",
+      "hashes": {
+        "SHA-256": "8ed1ba513b298c2dea57d5d47b3bdb8dc3d622e8e8b64ed244633ae8ccab8cfc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a9fbb93-a3fb-522b-8b06-74ace75afbda",
+      "hashes": {
+        "SHA-256": "919ccfa399f0b60f9b0680b0325b3415ab7ef4a357765c305756d56017b1ea9b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1e97c30-e3a3-5f07-aa38-269870b3a92d",
+      "hashes": {
+        "SHA-256": "ac851c7c20500893d64adf7522f565d02b443f6ab6173963f1bf18b470355287"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60afd6e4-00fa-5b9f-9845-d6f8060c98a6",
+      "hashes": {
+        "SHA-256": "b90c804b11c532cb97d2e306b29b64f80dc890121bc73ceb4b355e9fd65fdcf3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--278ce251-145e-534b-9205-e490b262d30d",
+      "hashes": {
+        "SHA-256": "c0fe9600ecb15e739cc6950e10ea56c31c1d47d0e990dec0b61a263f623f1043"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e00bd8b-bfc3-5ffb-9cdd-f56488472e00",
+      "hashes": {
+        "SHA-256": "f9aee9f92ca0406c7cdb37f83cccbb6cda725a374b7caea190c7d30ef03bdff0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67f7e326-00f5-5358-9e69-8ee1bf76d8d1",
+      "hashes": {
+        "SHA-256": "2b78c2b7d2c9a8f5d1e785e8afc92a03da52a53879d93238207e8434ddb661db"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e74378cd-6bda-50ca-ae00-3121d9defa28",
+      "hashes": {
+        "SHA-256": "78802d5b705042a8bab3ecf8597c611f58a37b9bc1a55f382c551ac6e35ae928"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d503d19-96c5-5b4d-ab7e-1d62d9446250",
+      "hashes": {
+        "SHA-256": "00e18b6dd077d1653a31266e11465e1a9c66362f35eff47c4403850de9370824"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eac30120-f668-56e6-aa38-5f009fcbbffd",
+      "hashes": {
+        "SHA-256": "396308b7abf201b80232084a7313d5438b80b9167b91f0bfca4c8da8c7b3fd7d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--444ef7a3-2b48-5f1e-977a-e8137c9a103f",
+      "hashes": {
+        "SHA-256": "67ee8b52692857acfc54c96fc67b3b092858ddc9568f49abaaa5d5c786a17163"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a079b277-95d4-595f-bae4-b1fe669296aa",
+      "hashes": {
+        "SHA-256": "97e08d1c7970c1c12284c4644e2321ce41e40cdaac941e451db4d334cb9c5492"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ef7e8ed-39b2-5fee-8ca6-ff54ffe5e962",
+      "hashes": {
+        "SHA-256": "c2da4321d091d414568343cccc8006f780987d5f4c70af264039f736536c266c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--857722f4-f99e-5166-a35c-ba75b73a7f4c",
+      "hashes": {
+        "SHA-256": "000ac83fe38ca68495fc023c4b449f86c9d71b9583e0a7b4713cdc246a67306c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10298aa6-43b6-54fb-bda7-e1ccaa6aab2e",
+      "hashes": {
+        "SHA-256": "02f9e68c32246b0cfb98f07117050c52ee0a648ece2cd4fcd55d1c7861723fab"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e7b1c6f-c092-5975-9937-e0f130e76fd7",
+      "hashes": {
+        "SHA-256": "036c8363e4bd89c72883921e766ee2d679a7ea24ba5533941bf3e71b4b8050da"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41cf6ff5-4d7d-55fb-9d81-bd88af91d933",
+      "hashes": {
+        "SHA-256": "0700cae07b1231b575051b8e29e74204f67082afb8a8e2a65de53726d54511b3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--777b7523-c295-5724-a3ae-67bcf112e549",
+      "hashes": {
+        "SHA-256": "0e244c6cec7b9ffb12e2d0bca91ccd7a4633189e96b508ea32be7b9eccf186b3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a79756e-4fd4-56f1-83f7-369850bad198",
+      "hashes": {
+        "SHA-256": "0fda29f0c20f799d9dcd6ea205533066da4be578e2014fc6824abd26130c3ba0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82806d58-0a7e-5806-ae58-bae3d5d50756",
+      "hashes": {
+        "SHA-256": "1137b149e0bced9e6700658b526bd7eb27f59e0850bef8ee843359d887f6f131"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f86f20b7-513f-5e16-81e0-e3af3258bcfb",
+      "hashes": {
+        "SHA-256": "11bd2f957e6e59703bd92d284c5c832c109b40b8a5842d3983f870906618f8f2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a654a9f-d78a-5877-bc15-e47137190979",
+      "hashes": {
+        "SHA-256": "1776bed93c0cc57b81c04ee042c11b2079e8dc9102452251e81e298d074462c6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--706fb4ba-687b-522a-9014-41dada6424d4",
+      "hashes": {
+        "SHA-256": "17d74e5ae960e61f455c750dbd00c0350f18a16f1ae867b0361cd53a633c8f14"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ab7d499-2d78-55bb-af50-6d9187546bd8",
+      "hashes": {
+        "SHA-256": "182e08bf5ee5ea1c32270979ce3db9f12bc300922b89715222db003f75dded7c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86e5e5c0-d182-5d6a-b2fa-00d6a3755392",
+      "hashes": {
+        "SHA-256": "184e53af04ff158a22facbe4499694223462bfed7d6c96e83ec1be69272348e4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89e8eb7e-06a6-5ac0-bcc7-5bd411bdf819",
+      "hashes": {
+        "SHA-256": "19f1f81142a02fa639d523cc3b93ea90957602403f079832e604c09b49743666"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a723db89-85be-5b02-8f9a-a269d2576d3f",
+      "hashes": {
+        "SHA-256": "1e10dc67146c5aa2fdd6913670dd06c59bb021a4ddfc8b1713e7464d43d2189e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c99f4494-57b3-5849-88d3-3f288ed323a5",
+      "hashes": {
+        "SHA-256": "1e69e27b535dc21998b6ff09980dc2405fd7a708bcf4196821abae77e8609c50"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1095bfd-cd1b-5acd-9e8d-3aac4926f34e",
+      "hashes": {
+        "SHA-256": "1f421a7b26672dbc3fbf44228707d71c91e8e354bd4ac2f0581ac6a3cd54b4fb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61be3d67-f3e9-578c-8894-e84ef63a9a20",
+      "hashes": {
+        "SHA-256": "233815d80ef296b355d37815565e4279b22e8849298e059db2036adf7e18520b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4741f365-a3c9-5bf9-a851-a05ce3870c1a",
+      "hashes": {
+        "SHA-256": "23ba8f3df5acbc3d415081885cdc31bbb1c2f036d1230c01530e2385a7bf9016"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--295fbb43-460c-52f7-a34c-a80ea62abec0",
+      "hashes": {
+        "SHA-256": "2a6c12965cd10eec9972db4a12a01f2479f7b8fff463857f126762d965fd2ff9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e68f549-1464-5b7b-8abb-ee5b6e8ff2d4",
+      "hashes": {
+        "SHA-256": "2ab68c0f85723801a23ed52536e66a2a063dcb4bb43bbf6d8ceff75e29823ccb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fb4627b-c6ef-534a-9d91-1abbf0b3cb26",
+      "hashes": {
+        "SHA-256": "2e078766bc68f65ac87fbfdb9ccaa3981ee097a8ca0729b9be552f09c9497693"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f90cd26-cb8d-560f-b9ee-810a43b4cb15",
+      "hashes": {
+        "SHA-256": "30a98dc57205976c73da2f404890c899c7d84db61572e1dce0e80b3f06b48934"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf2b1a90-df99-5a64-8545-d3956842a773",
+      "hashes": {
+        "SHA-256": "328b07e33759c6666d7cce2f181430f3cfa53690bb3c3360dc314ac6bbd3700b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1069d26-b87e-5111-b74c-fbf29a653ccf",
+      "hashes": {
+        "SHA-256": "33609f17db804ab7ca6976a2bc6ef29d495f5ad7ad6a0043756c8a591a4ef269"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06c43a18-a63c-5cdd-9482-f41fd02c6e82",
+      "hashes": {
+        "SHA-256": "34e2957a0bf800a5ad1be4f6af06b55feca2c944a80b6ab13ebf9c30f8fe14c8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0092923a-2e54-5194-87e7-7f79d78ec6ae",
+      "hashes": {
+        "SHA-256": "3a993c44e39c426239051b00aa692b7e7d1b6092a2087af04b3f3bc3a3c79208"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25f3d750-7be4-5592-875f-f07c8db72f74",
+      "hashes": {
+        "SHA-256": "3b63ea8b6f9b2aa847faa11f6cd3eb281abd9b9cceedb570713c4d78a47de567"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec93a116-5713-5b07-ada1-f909a80ea8a8",
+      "hashes": {
+        "SHA-256": "3ba4bdd4bcea3f61fb13239dda807dc46d43af3e0f4d3b80caaac625e07a6cfa"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe2de9a1-43a1-5022-99f2-61a7eea402d4",
+      "hashes": {
+        "SHA-256": "3e2f5aa0ac14191d983982d46ac1a77c9e4b36b6d5fd71cc26bf19cb29c4723a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3aa12c5-7b43-5a06-b515-faf6a80e71ed",
+      "hashes": {
+        "SHA-256": "3ed098f6101a96a18329ec446027b39397e2b19501b3ffde98a55b361c3c6440"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e03c1267-84d6-55fc-a994-23f92c5aa2e0",
+      "hashes": {
+        "SHA-256": "42a5fa86e9a20424e02c560591a122dd3f00fc49ed0482075193baafc4dbc5e3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d645fb5-9a0c-5b4c-8f65-ec63cafd1df6",
+      "hashes": {
+        "SHA-256": "47bb8a605056140781c84c1915efcf142855bf116112d48024fa72f6e5cf04ce"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fefa8bca-b1f2-55f5-a727-26afd2eeb821",
+      "hashes": {
+        "SHA-256": "4933d95cdb4e7460469832a1ea0b42573978b6c86dfa119eea078509e6de01d6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b660bf3f-80da-572f-beb3-5058acd53977",
+      "hashes": {
+        "SHA-256": "4c924a040bcc5cf2a8dce0ec931d4ae1877b7d29023ed94821ee03c486a721d6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d439df57-7c63-57fc-bf7f-0c73a289272e",
+      "hashes": {
+        "SHA-256": "4f8e60e49e4c8bbd88b00558f80abc929dd9d1a033c63305159fd9fd23de0576"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9851475f-8086-5d85-8bbe-5a2553d5a2c6",
+      "hashes": {
+        "SHA-256": "518e4e2959bbc4deed8d4283973388314e226c2b45896f7bc50dfa2e0e0a5a95"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb28e316-ad02-5def-b6b4-f463988c1a14",
+      "hashes": {
+        "SHA-256": "53e7cb80537de9f0c5c73bf21373fbc90a98d34053a2c42ebc08a942e8df4389"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2239e93e-774f-5408-9e1b-5474e3c953a1",
+      "hashes": {
+        "SHA-256": "555687ca3149e23ee980a3acf578e0572da556cf34c87aecf48596834d6b496f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cbee1b23-728d-5df8-9fb2-eb20e906ff99",
+      "hashes": {
+        "SHA-256": "58c15b6ead753c7740c08232f79dbb0eaab74b613052247e49bf5d6abc8ae046"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e0310705-d487-5a18-8c14-fa3fc89ca064",
+      "hashes": {
+        "SHA-256": "5a730112a38ce1f1ae7f7ce29c2cfa85abe1d544784674d748316e5734cfecc3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38e14e88-0e8e-57d7-bda1-7b3acc65ba0e",
+      "hashes": {
+        "SHA-256": "5cbd3154967e870e55085e4679415ce2d9448916169e6640d468cb17c47bafee"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2fbd253b-3fb9-5b2b-89ba-e68f82545cae",
+      "hashes": {
+        "SHA-256": "6025287605e660ff65f34ee9081d2a8a25cfdca61fdd584479c2812dad84030a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--901bae5b-bcad-58fa-93d0-b3f6b8565ad3",
+      "hashes": {
+        "SHA-256": "60ffa2a4c96b8f2a95602fc190cabedf4c5860f8514a648b601f0a96fc6da7de"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f78f7f7-fda2-5cf5-ab33-484e62b5dfc9",
+      "hashes": {
+        "SHA-256": "65d7ec22b961663df40883f5a851296d017e2866064e54c276fb4b044736a1ad"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8820446e-2dc7-5222-a3f3-4f6b51595f3f",
+      "hashes": {
+        "SHA-256": "6a28b2f6f6e69dcd7f709b112a87a8453cfb425176bd9057f53d679f4b4a1f6e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06dd0efa-8001-560d-bd6d-7045a93989a2",
+      "hashes": {
+        "SHA-256": "6b98e37546c7f016f007c48042022138fb28c4677941700bd7f7d1dac4930870"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f47269e-6ed1-58f4-addb-ff3212e399b4",
+      "hashes": {
+        "SHA-256": "6c1df9be76ce31b48cf508644ccaee044cf8c8a3535a6e0a6a6216f0dc9a5f02"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60e7bb42-ece5-5121-83fe-83239b1bd744",
+      "hashes": {
+        "SHA-256": "74a19a12a8d5ec89f985cc23b0f93daa91fb1ac4cb1daafac2fafc68c1b4d852"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--878e8a47-8903-515b-87a8-92e6ab44898a",
+      "hashes": {
+        "SHA-256": "74bbb2320f687034cb63aaffb8c72cf7c4f45b13fc9736c32715bca325fb0322"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a035d660-9785-598f-bfbe-9347ac980c48",
+      "hashes": {
+        "SHA-256": "796fe6d21fad602d57b7f6c1eced4a098531df9e96e56356d60451df024cbe12"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6921bf9-15ad-500f-8399-72d70b693ea5",
+      "hashes": {
+        "SHA-256": "7b1c5147c903892f8888f91c98097c89e419ddcc89958a33e294e6dd192b6d4e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4cc9f188-ff01-5046-8083-dc6372497519",
+      "hashes": {
+        "SHA-256": "7d026daf10da5c5f08136dbe73cd8d9d8f785809623db082dee1552cb0ead47b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02113092-69ee-594a-a575-779200925ef4",
+      "hashes": {
+        "SHA-256": "7e4c7aab11985cb490f2792defcf57a11b4a5fb0d4410ba002439c540ce53296"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6848df8-3388-575c-9ebe-028a06bc6433",
+      "hashes": {
+        "SHA-256": "807f8b57ff50a1158db4b93f4f0a2e980fa45856ef33a3d1002c35f9486f03ad"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2f14ee5-ba2e-5c77-91aa-04848b7137af",
+      "hashes": {
+        "SHA-256": "81f816aae3d326da8d73f33f10297f24cc79482c6a1e87393af64d496a7912f1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcfb03dd-c994-5689-8885-416efccd0311",
+      "hashes": {
+        "SHA-256": "81fcf54f9a9a9973bd734e203623f329dbef09789e2c25c78ef1c19a6f0c72d1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cccc3b4-7747-5ddf-968d-5b410debf11a",
+      "hashes": {
+        "SHA-256": "839550463e4e5ce3fa738378529b1e818405967413a4351d3790eee5c10a3ef2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe60cabb-694c-5cff-849b-456f154eedb5",
+      "hashes": {
+        "SHA-256": "846791a6a27072476ac541a916139020586efbca26de02bbdb04ffc129d4f942"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef84f7b5-043d-5025-8164-d2632b534f5b",
+      "hashes": {
+        "SHA-256": "879803d1f559e2ef57e857fabaa03f7809b973fea3a2ce97d26aaf5f50925f78"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ce808af-25f6-5c97-bd59-ce3f530651ab",
+      "hashes": {
+        "SHA-256": "887594ca6a20bf67064c0f2bf0db1246ab54236df3fadb7162ac8290d40b1798"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8ce3928-c4d1-528a-a97d-1c06869b88dc",
+      "hashes": {
+        "SHA-256": "8eab535445ef91400fa8776ac3cef4f06c71a60832b8699db1fbccf8aacd5806"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe859634-6471-5507-a360-e33e0a67f7b1",
+      "hashes": {
+        "SHA-256": "916d16da9bd18fd1cba74c3753f67b6d11fc9dfd8dc4079f99cd65c0b33e667a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--962665b4-bad1-5d44-8ca2-d6abec6bb5b7",
+      "hashes": {
+        "SHA-256": "91b4fe66f4a1c73dda730c752a4aa2895ace4458094ddfe8e064662766672a1c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d49b153-b97c-5576-9474-d1d43f561199",
+      "hashes": {
+        "SHA-256": "92448bf680c6c38962d84f20c1f6633d0b7ef07261ebb6beb39d1974dd195142"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfcf7952-5b59-541f-98f3-70882995c29f",
+      "hashes": {
+        "SHA-256": "9af31121df664468c186cc379bbd786d1a2d9a33518c1967c550e1bf354866a6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a57475d-0dc1-5698-a1cc-2522f2bffec9",
+      "hashes": {
+        "SHA-256": "9da59e3ec0f0386d09a20328b481bbb7431da0cdfa1214ef254a7f8c5b800a49"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--08bb0381-ebac-5cf0-a727-646982ed0ac3",
+      "hashes": {
+        "SHA-256": "9fdc1c2fc0708a8ce04f318ad50734a34102b5c103101880f458a6ca7cd87e19"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9d3a446-091a-599f-973f-03b4d8445d68",
+      "hashes": {
+        "SHA-256": "a06a36de9b35bf54940b70a0ba4c3f836e42613b51c96bc265ee8910c6ae1849"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21357078-edd6-5f6a-80af-92149398ccd2",
+      "hashes": {
+        "SHA-256": "a115db9a3cb90187e62478feaddeccd5ac3b7a3685a617a55e14c7f2ce7d9c22"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63045706-79ff-520f-8843-2ca6a4708163",
+      "hashes": {
+        "SHA-256": "a609089768fb1cd2d740cb4ff65c543b01e6da4bd5fa02011761490459227030"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96ac1ae1-2e76-5d4d-997e-8dff7af25942",
+      "hashes": {
+        "SHA-256": "a64dcff78fae79cc878f62d832916752d97326a2588693affa6edb1f192a748f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4cf3512-3cb9-5793-9783-b09ad243c8da",
+      "hashes": {
+        "SHA-256": "a7794d56213aa17da06c4104f97c3822f08f1c8e02b38ec0190e7812c2c76972"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--48f068b1-30e5-568c-9f50-da2a2414933d",
+      "hashes": {
+        "SHA-256": "a866b0205aedfc7677e88e7b8eb71f02c3f46337df277206423e657cdfeae2d6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a869bfaf-8b80-5e11-a9f2-07e8027384b2",
+      "hashes": {
+        "SHA-256": "a9677832e0b19aab863d243aec2245a0be5d916477bd58ae10b8674b912161b2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21ce5981-8e94-5a1f-b906-a959f5380952",
+      "hashes": {
+        "SHA-256": "a976728c8b3844328f0f7032c88071a33061f01df85c39a87aade7c2695455f9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bcc64f3-c7bb-5cb5-88d7-061d1273eed3",
+      "hashes": {
+        "SHA-256": "aab0e74b9c6f1326d7ecea9a0de137c76d52914103763ac6751940693f26cbb1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5950f70c-ff95-5e4a-a1af-5d225952821f",
+      "hashes": {
+        "SHA-256": "aab9e3d3f923f7c17694df3bd395aea1112f87e63580c1762579c43056d3b2da"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dd35cdd-8553-5efe-88b5-255c42c0babd",
+      "hashes": {
+        "SHA-256": "ac60c0a4a174797bccaafed23d5076cda1182bab72ff778bec389ad27fa0094a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d586116-2e32-5e60-bfbc-3cf75529defe",
+      "hashes": {
+        "SHA-256": "aee22a35cbdac3f16c3ed742c0b1bfe9739a13469cf43b36fb2c63565111028c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ff34515-591f-5f85-ac03-f3e9a089c88f",
+      "hashes": {
+        "SHA-256": "af9049e31eb0d43ff8d83fb8f67a6415b156d7f71cef6c7b784d0d167629a462"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75881a88-aa09-51bc-9904-ac6cee7679b0",
+      "hashes": {
+        "SHA-256": "b13ebb1dd390e34b47c61b27ebfe57f4fbd01a9fb71fab79636ed5734c59874f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2c54597-d702-53d0-890b-4a56500d647c",
+      "hashes": {
+        "SHA-256": "b26e4662c6a1c61ebba9abf6c4a96f5256158846542401a539af1d8d597a8d29"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53098de1-14cc-5787-8427-b3928f71e882",
+      "hashes": {
+        "SHA-256": "b59c99e41c8d7ff8f5a2265caf51325cbe7b5c0e3024e75cbb23bcc384f1ff7a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45ed9bc3-1e1e-5ded-a756-4f30890ae2b6",
+      "hashes": {
+        "SHA-256": "b5d968deba0914f000d9a281d94088b7c83c04b15f3b8d58205849ad6df57721"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12a47445-7f6e-56e0-a1bd-9965c35314c4",
+      "hashes": {
+        "SHA-256": "b67eb16e375407648c85fb731366af82f938f771e8eb77e060164da305fcea59"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c055fcb-a42f-51cc-9933-e3c96bcc55b1",
+      "hashes": {
+        "SHA-256": "b991bea14708bd703a46fa6f42e166c427b93157060f97b0284301274bb55767"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c04ef28-e03f-5871-a166-47a67118fb7f",
+      "hashes": {
+        "SHA-256": "bb04ae24b09d50c9a138cc3d902b3c017896e4c30384b1e2e8e7882148792ec3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f9218f5-3d9a-554a-be00-04a60b3cd569",
+      "hashes": {
+        "SHA-256": "bc4c4b37114da088688083566f45a8afa07b756ac7e02522797ae7c9faaaa127"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3dc9485a-e277-5009-8f1a-880a889ef26a",
+      "hashes": {
+        "SHA-256": "bd012c215761b13c55b2ff254c2b18f29af006e188862849719ae73a0387e968"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3bace8d-0583-5e8d-894b-10ae7dbbbac8",
+      "hashes": {
+        "SHA-256": "be992d892d7448e2fe6d6bb0f6de72fbb247ef068e6cbb8c302a2486a8aceebb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e75861e-a9ce-5b42-9bcd-ff51d36fd8c7",
+      "hashes": {
+        "SHA-256": "c22b8c9f0e7cfb4c64651324eb1fbe8aef0b7d72cad9197280fec101067b19e3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c12edb3-7268-5b73-9ab3-45704129c776",
+      "hashes": {
+        "SHA-256": "c4c026138e11e9fdf6e24643b4914a530d30fbe944d1c11bd054d6238c8a4e7e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01a4ea90-ffb1-572f-b01c-e36eb73839de",
+      "hashes": {
+        "SHA-256": "c67ac406fa56bb4bd65b005b472e36a283d9b300506e743dbef118e9a26a2b1c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f590eb6-3452-5bc9-b966-68446fc781bb",
+      "hashes": {
+        "SHA-256": "c6b1c96cf3ea2aa5373ebdaab3ea9815100e4b8febc009bf464771531892a5e4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60db89e7-8e1c-5f69-8401-716f4e526246",
+      "hashes": {
+        "SHA-256": "c8f686cd58ab02adb7261536a3f21ee0fedbd155ed33e887e3914a48dae5f40d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99f4d0f4-50ab-5d63-9cf3-d19665321b2f",
+      "hashes": {
+        "SHA-256": "c9159fe9c3845bdf97efcd20c5f1bfe252c6429878768709fb59fb71a5312378"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a461cc9-f861-55bf-997f-144fb6fc45e1",
+      "hashes": {
+        "SHA-256": "caae3a24c2f02c86cff5fcc3d720078ebbe85eaad9dee68a4ba03d16a212dbb4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c45dea4d-7041-54fc-8b46-d64d710d2965",
+      "hashes": {
+        "SHA-256": "cce2c944c38e496a4b6ea34f81fcad15e9052874b30496940ff11baee55c952c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75599dca-45fa-5384-9580-7814f4cc2cba",
+      "hashes": {
+        "SHA-256": "cd90e313fa18cc71c65f2c4db3c21ca33241359d6174c771bad2118c0abf8cee"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e436baa4-39f0-5c5d-b109-34ff41971988",
+      "hashes": {
+        "SHA-256": "ce056ace14b47eb50d4ece1a9de21aacc2d425560236eab9ba067954a67fe7e0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ef45d38-0343-5244-9dfc-9e1b366587f1",
+      "hashes": {
+        "SHA-256": "ce79c488866ea23c1ca3d57e197cd5a90b7a9cbfd23387f1aa7beacf7641a3ac"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86163e37-095e-5c73-8d5a-0c6db1a38cc8",
+      "hashes": {
+        "SHA-256": "cf5945f06e66c4ab2147ce60c26ffcd30afec0d73a332a34acafe81a975aec6a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a8b1f6f-f2cf-511e-8886-7b8f4b6d58b1",
+      "hashes": {
+        "SHA-256": "d0183ef7b6efd3a68c5d77b9e56a9a5011b37d390e7220c635c9da4e0211c936"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7144cf36-48c4-5c80-a4eb-8a789c06ef2b",
+      "hashes": {
+        "SHA-256": "d5bbd0ee3dba60ce9d267d68e9e271c0934a628b12a73f9edad4756025e0e1e4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc7aa941-0b99-57a9-af92-14776c903cb5",
+      "hashes": {
+        "SHA-256": "dab746b6a81d30ecd619c73d79f7547a8504a164b1a78d221a068c7716fbcb38"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3984f86e-7963-5adb-bf6a-2171ca9bcafa",
+      "hashes": {
+        "SHA-256": "dbbe8aaab05fd5b59b57fee83c686b1c52687ac268cdaccd239cfaf07eb3823d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--594ba7b8-a3ad-5b00-9c4b-ef4469d53569",
+      "hashes": {
+        "SHA-256": "dbc2e39cbee0266495160ede50c23925ecd140ce2ce4a404ed266b6c31b4193a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ede9593-4125-5edb-9a34-5fe839345f42",
+      "hashes": {
+        "SHA-256": "dc50491b564dd8464d6be3b5605e0b55016acb8341b6b21ced5858baecc22f65"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b1222f4e-5e2e-55d2-b1fd-e6be8d761a36",
+      "hashes": {
+        "SHA-256": "dcf173c812b85f0c890122d27b7e3b2e8b311a105106c89c6e33debc40cc8f3e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd678de6-e011-583b-8a3f-42142258dc91",
+      "hashes": {
+        "SHA-256": "df63ad289440573c16c81a9105907795148d5ae60b659a52c71aa20d013d7d7f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae03d8cc-288e-502c-bda4-ef86a4d45830",
+      "hashes": {
+        "SHA-256": "e049124a50abaf07902bf5095ff218130f70254609751384c4ec916842b7b256"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24f1c98d-2edc-5320-a557-276a88f96898",
+      "hashes": {
+        "SHA-256": "e4151746f0d818479c399e118c9f6a412cba02de65e070e4895f27d9178d88f9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe61b8fc-396c-56ec-a43f-5cb0b0235843",
+      "hashes": {
+        "SHA-256": "e5aae5e2ea955c02ebdae08292dbb25015d2ec4ae5327f493e73f1fcb4b9ecb4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d08bcaad-3dfd-5b1f-bf2d-0e09c38569c9",
+      "hashes": {
+        "SHA-256": "e6a80688bc43148dd965c852e4a7a44dd54af3f18ea1782769e00bf8b7b34c7c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3648b7ce-4716-5f9a-93f4-8d27873edf64",
+      "hashes": {
+        "SHA-256": "e757aec8c626828d80558f2b47b35507bd3439630ba8eb2aa48e9dcdf7dd6805"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6780063f-9d1a-5204-bfc6-ffaf4f56ed22",
+      "hashes": {
+        "SHA-256": "eb6b8894e774e359fb250e253904071a2b33730bf88557312f093eb682611dd4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c17b7e1b-a5f5-5e1d-8d12-d0f9de920e42",
+      "hashes": {
+        "SHA-256": "ec2c279eaa06d246afe32a3c3115adcfdb6847b864dbc3c5c9a943927c2bcd97"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21035507-7c96-5312-b5d2-564229e5dd3d",
+      "hashes": {
+        "SHA-256": "ec7bcf048cc605f66b9e2ce320784347a12f4fdefab250f2347bd521ec2ba361"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ded0c1ec-3a33-5d08-a4ea-1063dee37737",
+      "hashes": {
+        "SHA-256": "ee59e202b12cb9c0f0f8049c43fddc0800bd1af2a39b1e6a05fe441d8cd4e98f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--078594f1-8e6b-5621-9b96-df51d0c10edb",
+      "hashes": {
+        "SHA-256": "f4673b8db5634b2c632ccf32661ee0576ddb61d01ed329a894cc46edd777e362"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c469d059-f62a-5057-80e4-54cc17d7f408",
+      "hashes": {
+        "SHA-256": "f522fe57036fd9d5563b00688221158ffeb66ca3e10fa4990998582729249c33"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ecbcc571-2208-5d75-a579-5f1eee68f5e5",
+      "hashes": {
+        "SHA-256": "f8ae1b5944b96622f3f0d26f67298779c2540a01145ad19a18c921703d109a9d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae850db4-3b44-5451-a08a-05d1b2083381",
+      "hashes": {
+        "SHA-256": "fafdd87991351ff0fa2b888a9d22fc058f1a08a6c08651d7ee0164740c70ec51"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e99f666b-51f1-55d7-bd9a-f1f812e48e94",
+      "hashes": {
+        "SHA-256": "fb13f1443013b5a4108b79253487506b9fbf572cf9c7fb1dc8c098da71545edc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b5483bc-a797-5375-98c6-339221a3fcab",
+      "hashes": {
+        "SHA-256": "fcfd78f9c5471d2ecc90338c27827ffa70fb0324355be7b91be48805c00b1bf2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66b5d146-7778-5d31-a90d-0e0fb79f37d3",
+      "hashes": {
+        "SHA-256": "fd9c64bc502873090d94022832589fc7904f9b071e2fb0881d79a6edbf941c8c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7bcd1d4b-3f8d-54fc-9676-2ae5214ee1ed",
+      "hashes": {
+        "SHA-256": "fdbbeaa4431ad3c4436a8eaec4e9fcaae03cc9ac20c135cc29ad637f7357b7ac"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--479df538-4f13-5c83-b470-8e4afd450b31",
+      "hashes": {
+        "SHA-256": "ff7c3ebcd8cc98132ea7e06e72c73e0e5e60fc9b05c235b3ac105c9d83c64c97"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9293942f-7144-58b4-9259-3c9798a1c3d8",
+      "hashes": {
+        "SHA-256": "143b3adcb01d337cd9d919d90eba0bb87e38fb169c3e72d5074c9ef55abcc8c8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb1df7fd-a985-5648-acc0-d4e69f9f40b0",
+      "hashes": {
+        "SHA-256": "9c4e1f52f354a73b6a8cd7091f7338c3567d6d510c8971a749b9d608abd105b6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34000361-70c0-5cdf-8aa6-afb7102e1b28",
+      "hashes": {
+        "SHA-256": "53bf13d2c4a5ec074dd8a8607b2b771a6ee16bf6d5caef120143f76cac083f5b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87710596-2c86-5b72-b941-9f81e544955c",
+      "hashes": {
+        "SHA-256": "c15fe5e6fbddff903837a08e70da7d7bda57e003561df11420009461af621536"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d03231dc-644e-5294-b5f9-74d91338fc53",
+      "hashes": {
+        "SHA-256": "1d8673e3293e7f87d73e7bce176f562343297cf0f88c13f92402b73c9eda0fba"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8046efa3-0c59-5e8b-bc9f-6c422249829a",
+      "hashes": {
+        "SHA-256": "c2191d815d4fb2d9785ba67ce149af0f6749574bf8b4f7b3ab4881fbfdcf1afe"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dda98114-ea79-5e12-8f6a-e0ecb949132f",
+      "hashes": {
+        "SHA-256": "f666229e2893ba8b4f687ac81b3a34a372347137405ce3fe38bbf7516612aa90"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ea2e105-b3d3-576b-9488-a746ff05d3fc",
+      "hashes": {
+        "SHA-256": "14e8ce52f228f9398ba357fa4c4e7aaf3a33dd79948636c8aceaf829475040cb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--007a6ac7-77fc-59c7-bdd9-a5054a92fba0",
+      "hashes": {
+        "SHA-256": "2fb3da959196da5f5972b40e0e7a57571a42f4972a57f586d43318caedcde56d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7603b3f-88fe-5072-9aed-c020dcc24256",
+      "hashes": {
+        "SHA-256": "40c618788ae9c62899614a39975515500c0f3f2620d536233a4b2976c42b6980"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d94eb784-599b-5b89-b105-47a1be324415",
+      "hashes": {
+        "SHA-256": "678fd0c9e3eb849db27b2e005af7c1015adfdd77fd1e4d7a10ce45bd26490a4d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be4d2bb5-ef16-527c-b93f-36c59fc61afc",
+      "hashes": {
+        "SHA-256": "87bb816cb95827fc2617039f07deb9b0f0fb1f90d3ae57f33c3372c998276d7d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d47bee5e-c0ec-5fc0-a447-e8df5cbfac04",
+      "hashes": {
+        "SHA-256": "8ac71c7562494dc0d6c3b8318cd32932240cd69620470694f695a2075579fcfb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ae71162-b627-525a-b766-740c1921c7f3",
+      "hashes": {
+        "SHA-256": "b3882d70f17a0ed12a5705810c72438b9fd0b1fbb7d81c2abff4651ae91629f0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e426c5d-343b-5c1b-98e8-c85814f814b2",
+      "hashes": {
+        "SHA-256": "dfe1abe2c591590f0f3b931aa439e966c380d5fdc6a9e74e6012f47f53eca699"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8357c14f-5c3d-5155-9cc5-f3a7b5573185",
+      "hashes": {
+        "SHA-256": "eafc954cb541b7d3c3aee2b9afeef470b58b19d94774501cc3675ac52b9e113d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1ac400d5-5da2-562a-8cda-c554ab48b7af",
+      "hashes": {
+        "SHA-256": "fda2abd24764809fb36d4d2ee7ab5f6e8c06381fe6d9bb191bde62411c96ba92"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59c7751f-c50e-59e6-a6d4-0f54b31d06bc",
+      "hashes": {
+        "SHA-256": "4eab39d0ed20d70b8a534ffe370285100a77107e87c326a45a49c65b4037c7fb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f88bf259-71c4-5683-bf84-2d8fa1790163",
+      "hashes": {
+        "SHA-256": "cb8bda0768f75671cf49fe5669d1253729e48a45b1c31dd92d9f28612837c485"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86f34426-eb02-5c1e-ab86-fb5b92692027",
+      "hashes": {
+        "SHA-256": "5f9c156ac89f910b527a71ae3395006cfe2c8d2fce6ba4712b324149f0707f1f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10168979-312c-5a7e-af27-341e46c93a28",
+      "hashes": {
+        "SHA-256": "92aba7c651b8cfd923a9a56e6cfe4d9ccded591e897a415e7f5594a94a8fb561"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2218f55c-563a-5f3c-a6c3-953f0101ed1f",
+      "hashes": {
+        "SHA-256": "3a5e3ce50c994518cbecf2b65175a50444c4aae0893cc08a7c98b1b7b393e2ee"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bf1a89f-c979-5185-92f9-67850e66a8ae",
+      "hashes": {
+        "SHA-256": "5d881d14d2336273e531b1b3d6f2d907539fe8489cbe80533280c9c72efa2273"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37044e75-2a89-55e6-82da-bb5f320f2ec5",
+      "hashes": {
+        "SHA-256": "61925bfd71b4d2be670b0bd373b33645d6af062e5d41cb2b6f6c984acbd69de3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--13d95987-9e73-53fa-b5a8-02686421232a",
+      "hashes": {
+        "SHA-256": "00f0dd868985d99193730621e6b1138d83daac0ee0934fe8ea37190c24cf9af5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--edbf8c3b-fb26-568f-9af7-95ca50963105",
+      "hashes": {
+        "SHA-256": "0136cc97bb63176b9e1615a9d552b619931fcf2b332511578f7a8d5e82598d40"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35158417-1ce6-5cb1-b4db-620591092601",
+      "hashes": {
+        "SHA-256": "040fd4dd34c3d372d1ed41375a8c27c7ec17bda9e4a2d05a6dd9b3a3e2111ddc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4352c449-ef7a-57a9-b9a6-86a9ec9935ae",
+      "hashes": {
+        "SHA-256": "06ceadc86262215a62d01a860e596fd1e7d76d93b712683bb750fe030f0c51d4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6d827de-a1b1-54c3-bdfa-bfa2fa4931f4",
+      "hashes": {
+        "SHA-256": "0737fa0b403fab17331c9835497a4f3b2955543e2fac85009dcc66df41a015f8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0003b44f-2544-5938-afa3-5637d82f25ff",
+      "hashes": {
+        "SHA-256": "0842f86cbc502c279ed5fbdca472a373720d5eed1bb05d8878a578f512dacf39"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1070d7ad-3bad-5e1c-9f4a-f6ccd8aa1e26",
+      "hashes": {
+        "SHA-256": "09e7f7428e6ecc68ef036c0751f53985882f6760cf3892f1d26af44f3b9730de"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ed24b47-d715-5bf0-bf3f-b7b16d019c63",
+      "hashes": {
+        "SHA-256": "0ab19bbc26cc7470f6151c09300ea6998d29ccb03dab4265f342af88b3f92068"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--931ba17b-5211-5ace-80a9-85bd88a0b253",
+      "hashes": {
+        "SHA-256": "0f880e89384b2203198c2a9012ea0fd774c4cd316d5c0862ec6ec650744464d0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b73739c-570a-58ed-8ff0-69535f1a4cee",
+      "hashes": {
+        "SHA-256": "15287c2e2b3d5ae03c15eabf1b78b814502f6654e1ae9b9db3aaa34a69549540"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ccb39ec1-8021-500e-b8e0-ffee904ab91f",
+      "hashes": {
+        "SHA-256": "1b924153518efd3da8d0504e3743d7ac8b9df391ab6df57fbc2468c718fe3122"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b664c395-b9c1-5f17-96e0-180821d452f7",
+      "hashes": {
+        "SHA-256": "202ce2355b1064459c88daed93bdcc39bea2f0c86aeeba6c72889bcf137769e5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4023d7b-b9b2-5e15-b42b-f92ff0a9a9f4",
+      "hashes": {
+        "SHA-256": "2118c5b95d5d57492b2e8b8c0403e23b21acc4ff50282f8b6007ba89adfaa992"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d108b071-5da4-5c39-9fcd-36b64d568a1c",
+      "hashes": {
+        "SHA-256": "231c2762d2e2ba3d2d18d22c6fcd86528fe51435db57e26458f6351a380f0152"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--537cb76e-741b-5fe9-8e1f-3027415ec16b",
+      "hashes": {
+        "SHA-256": "27d6114488074e064ea7ba6524683a7037a67c55fae1beebca412c304a781a5c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a2977ad-9037-5f9c-9206-836f95565e94",
+      "hashes": {
+        "SHA-256": "285248be52ad6d59a7250c048c91a3cf31adf3a6b9d1967de595e4545e34323d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d99c5626-fc62-5034-83e8-3be631ea3f9a",
+      "hashes": {
+        "SHA-256": "2b026343214c3d2c10fdfa9b04b7694e57ee8d3605fbf9a2e127fe6fa9a58309"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b77926c-07a3-5ca8-89e8-ee53895213bb",
+      "hashes": {
+        "SHA-256": "2d52b8bbe1af82a599cd155494c73eb1fd2adbf8920f280d46b9ff29bfd4d139"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad360fe7-cd8d-5f06-bbc6-d7258128ab02",
+      "hashes": {
+        "SHA-256": "2f2c4affbbc92bb3dd14c8c3a202f05caa3faddf2dc235ccb3ec8ce577526ba8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--317afc67-d6e1-56be-ad6e-06a258e6f276",
+      "hashes": {
+        "SHA-256": "302f30d2062d5e1e0322ab5a0f047be27bd1b1715ad257411ca1cd7bd4df6633"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b719dd50-6432-56fe-b32b-2a4640cd4d52",
+      "hashes": {
+        "SHA-256": "3584ca9c1e7e0a38e47f59bb16c21203a60833d0f826294d535a98e7ca76d9c1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb0a76e5-ec8f-5b70-af9e-06f18f053c4a",
+      "hashes": {
+        "SHA-256": "484463c464111eb6cca5f2463ffefe0a16d57e4919fc74713adcb55e26fb59bf"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5a7d6ce-b54f-585c-ab69-68c34494d085",
+      "hashes": {
+        "SHA-256": "499a48d50ec19ebe6f40dbad033a8067d3d0e5b3311a8832721ef0c26d8cfc42"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ba2e031-7dd1-5504-8b93-ed3753f140ca",
+      "hashes": {
+        "SHA-256": "4c6c79daae20f9b97095a08110ae91eafd87452524a537b2f8c0520055ed54f2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc17782c-96d6-504e-9097-cd46c7b410e0",
+      "hashes": {
+        "SHA-256": "4d2c373183b07dcbfdbd812ffd010e569d17b97d69ab4e82e57efc8a0c71c98a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb4713c3-9200-5493-9b91-9f58faa6ee05",
+      "hashes": {
+        "SHA-256": "4d342e60d65e89342f46683acdd0cfd40d9dba9a9ac337df64641dd757814c53"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--866403e8-a60f-5291-a127-8cbe89197c96",
+      "hashes": {
+        "SHA-256": "4d9274cfe7a2bd9a125352271d1634708e1f9b1d70b056d1c1950cb98b8f91ff"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3053b52-97ae-5772-b6db-3d625be7691d",
+      "hashes": {
+        "SHA-256": "4f153dfe5f594a305abda5ec32ca158217231ab4a8f1e6722be62d38d87caed6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aeb73608-1315-5f4a-a5c8-5faa4ca340ce",
+      "hashes": {
+        "SHA-256": "4f52b4a2a781f366ed534d8c4b2fafef48a7848c4c20b4229b98747ca8ab06d3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2ecb0ea-75f3-5bf9-852a-bda3ed9bb867",
+      "hashes": {
+        "SHA-256": "4ff60df7d165862e652f73752eb98cf92202a2d748b055ff1f99d4172fa4c92f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17d97f69-886e-5ad5-9f86-e3c89740b854",
+      "hashes": {
+        "SHA-256": "506d409ddde519031c4866b1d6c582ef59de476f4c001716c6dfca4715ee875b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82f8c56f-b141-535a-97d9-6c3399ecb693",
+      "hashes": {
+        "SHA-256": "57b598a67e80efa4b2564e7319f3a0851d104234dbab55426140e7049a42e305"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5136b1f4-a591-5b2c-ab09-b6f83ac744ec",
+      "hashes": {
+        "SHA-256": "5872bb7848f6be37f47188a6c28e5e8204b868909bf1df16369e4a376f4d5595"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75a71951-c0c2-522a-adba-cd236042ce8a",
+      "hashes": {
+        "SHA-256": "5d7308cc88668337c12188f7b1597114fcfc737c6ef5353ac7a4b31303dbf662"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09696532-097d-57fe-b5aa-4624f8127e7c",
+      "hashes": {
+        "SHA-256": "5fb093a9348fcf4a81befda978c948796a8319fcabe7899c2cf5ba1419ec9d35"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c1ec9dc-297a-5e71-80b8-10820aea5bd5",
+      "hashes": {
+        "SHA-256": "6397376b99e8c8f7999df75eb88c379e5065529b827ad84f4a677f29bbe26c89"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff68ba13-27a5-55bd-b0e0-3fabb85fa880",
+      "hashes": {
+        "SHA-256": "6727b168e1f6f47455d68bcc694b11a4eed88572637e270f3d507ad2128f2cbe"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ba6d2a9a-7a90-51a8-8744-a0dc5f99c427",
+      "hashes": {
+        "SHA-256": "68325268b75be1a1435e012364c0c10a4bd460b43e276f5973865425ba298737"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc2a9d23-2ccc-5fa1-aea0-926db11c29ca",
+      "hashes": {
+        "SHA-256": "68e1caf530366b1890993185157c01161b3d625063d75a41c88d2d1bb8edfe02"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e5ec8df-e4b7-5416-a489-68addf0a8d65",
+      "hashes": {
+        "SHA-256": "6d7a94b7551f15732e193a07357375b98b463f0dce6b1fed871a42fcbdde9f48"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a96def4-e181-5bd5-89bd-181d336410db",
+      "hashes": {
+        "SHA-256": "6e892aa13cbd4b71a1c476207abddb1ef830be04999809b4ef569488a37e47e0"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a570c72e-c009-5a04-88cd-4ca15c768234",
+      "hashes": {
+        "SHA-256": "7551c09f44dfad5e66a148e9cb410ee8b7c66ef75a6062e64773bfc74f1a0882"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3af1f573-402a-5743-b30a-13f759d0e4fe",
+      "hashes": {
+        "SHA-256": "75db4709428310c76656bf76f5de267ab490e43284312b374baf7582108300a9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae9b59f5-e432-5bcc-97b3-d31dc8fe15f7",
+      "hashes": {
+        "SHA-256": "78eb9d6019066636d069d3a3b49e46f6c59db4e4a0131d752b381981aaa9e605"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc932c0f-a604-503a-868a-73a070645c96",
+      "hashes": {
+        "SHA-256": "7dbebb7c76511fc063b5ace0a9359b655f66a55a494200b8fd11905c78b5fb90"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2457126-0043-559f-908e-5a0f862b527b",
+      "hashes": {
+        "SHA-256": "7dff08656413a737483ecee2a50e412338ebfee3d36a1a5c04e74b25949b2306"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3cec383-1a4e-5757-8973-479146da8792",
+      "hashes": {
+        "SHA-256": "88102f0a4d32b84c312282f0bdb95b52c6ee20cdc988b843f322392443a50a7d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee0d79e0-ca22-59dc-953b-dbe3e523bc6b",
+      "hashes": {
+        "SHA-256": "8b02958c34c861285bfb221cb75f83a0ce628311591f8160cae309bb67bd4513"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94012ca5-c36c-55fe-8e3b-7cfc78d0858e",
+      "hashes": {
+        "SHA-256": "8f7a90b540f38712c9c1a5359c6333bbe1091102d6f621b22321e08352c84cfc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a914fba8-bf75-5595-9709-ff41351b86bc",
+      "hashes": {
+        "SHA-256": "93a215b08cce42249341816df7a85edac12d4bcef166b15da64bb238637f6e76"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d303523-c190-5361-8788-cc8692243b61",
+      "hashes": {
+        "SHA-256": "93f7e95461c18aee7b56651069104710c76f9e3d6543a0b3248a21b236859d99"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--860bf5e5-10b1-585e-8e4a-6e245baa3c99",
+      "hashes": {
+        "SHA-256": "96212917b7b0dc881332db7ece0bacfe21d9ac713af1abe078f6d3e74baacd01"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7cbe7611-c1b0-5609-bc8e-dc491d456d71",
+      "hashes": {
+        "SHA-256": "96465ce935015f6b1ddcfbcf378a8ec5b314ca9034210c6ec908ea38283fa2f7"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07b8758d-a726-5262-bfbd-e900f1b4ccf4",
+      "hashes": {
+        "SHA-256": "966137fc7db3f3596601f70e4f0518dc461ef780025f86dbe4d32a9fe298cd4c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--371f0ef1-57ef-58ac-9474-9c7f7b4c24c1",
+      "hashes": {
+        "SHA-256": "99878eb949f92b1df3d0b3071edc5c1391dbb5f979d69637fe64a23a104604c9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f409e0fd-e98e-540d-99b4-c562b0f69984",
+      "hashes": {
+        "SHA-256": "9fc48724cb9f70f774f7ed9e809e49979bd089dfd641896d8d5e3026f049b0af"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--682b27b2-041f-54c3-ab63-a1ccdc3b07b7",
+      "hashes": {
+        "SHA-256": "a557f891f4d50e458d745c7eaf7d0be3eceea36f0398097e977cd3f6ec463875"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c158895d-0836-5d54-bf5f-ea85aeab81d0",
+      "hashes": {
+        "SHA-256": "b21b51d73369355bd32901c1e73021f01cb088556d32a6cdbf46821e78e90432"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88c0ae3b-71db-57ca-895d-a4c42789680c",
+      "hashes": {
+        "SHA-256": "b9185338cae8a11d86f15adec1f5d9be7ec4e03bc8128971aa2892b86b70c8c5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--468f9bc2-0fd8-5c49-920b-e1d25c84ed43",
+      "hashes": {
+        "SHA-256": "ba3fa920708db856737a66f70e2c7e86bba73c73836f7f30c2ce42cd70d0c5bd"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e220db9d-c874-58f1-8b75-aec6de27c817",
+      "hashes": {
+        "SHA-256": "bba10bcb1fc8fab16c3bbf52a55961f1b02434f8ba94a9707ef86ecfe5c2a25a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fa295e8-ad85-501d-88cb-30fd7d0df3d6",
+      "hashes": {
+        "SHA-256": "c122596e25a4dad1d46d4ab983f4ef15bfa7b65582b7c311f404036766498105"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f6cda6d-b747-58f8-90da-b1f85dc44c5f",
+      "hashes": {
+        "SHA-256": "c172abd808cc6216b309bc307fe69b821c7eaed35f874fd4684ab33b4291f95a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1c605fc-6c81-5d9f-9fbb-8b297b165081",
+      "hashes": {
+        "SHA-256": "c29379f23439cf047d4839072856b4d5c598a0d06061347c535514a4c0f8cf83"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a546991b-cde8-58e6-87d9-da13664b6a12",
+      "hashes": {
+        "SHA-256": "c2ee8889a71ca9754cf4b0b7851e9db50f5c9097b1283ffdc5c87433244269b9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a5b27c2-204a-5356-ab05-7cd92170abe7",
+      "hashes": {
+        "SHA-256": "c4e8bbfa30ed64b57cf5b0b3733c84efe0170057e3f4382c8b2606681db46f21"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6578d707-1732-56b2-93fd-a48927536556",
+      "hashes": {
+        "SHA-256": "c6af21e4f260264279190d2a042809c8342ecadbc4cc3d6882e6105a58fead3b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d7db05c-f831-5304-bb7e-2d4833cb5fd2",
+      "hashes": {
+        "SHA-256": "c935b82862464a7821ae3605d32506226dc70e51dbd75b7ea98c4fa4e06a7f15"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f951f89-a51d-524c-bd1a-37c156b32830",
+      "hashes": {
+        "SHA-256": "d7af61987667498e6f49c334e4f2c98438079d9beec6378a7e00b2f6bdb365db"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97ebd465-bda0-57bb-a6a4-2dd5c8da52c6",
+      "hashes": {
+        "SHA-256": "db265ea1732935f61e8d0f7a20a8adc54e20af71b3cf4a737714cd3377c838f6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fdc79d9b-cc8e-544b-8b20-9fa96b43b8d7",
+      "hashes": {
+        "SHA-256": "dded6630fd552de8ad1e2ee56435e9538c8005128deeb935e33122e467b7e648"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e6c8911-410b-5050-8fe1-3b4c38e867c6",
+      "hashes": {
+        "SHA-256": "e8979741f0355a47dae575ead8c829df47f282b4533ec1be4d63086515f9c449"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f5a6db4-8dc7-59d2-a8d8-a2abb1c789f1",
+      "hashes": {
+        "SHA-256": "e8e76b851fc78d87fe58ad7d29bc6356a8965236d1b96c5f572334dd695d5de9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40f3b344-7f39-5ed4-8801-fc6f0033fac4",
+      "hashes": {
+        "SHA-256": "e929332d89b093125296d34c9bafff2fdfab75ac1b949ef4003d210b1b65946f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--738b7470-c4f2-5e65-8b91-7874807775a4",
+      "hashes": {
+        "SHA-256": "ed1d7d8f9ddd9a6e17325c60b75ea7a3ac3d70deaec789a4ff29fc50ea24cde5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--451db3f4-e5d0-5af6-bea4-3331dd8ed4e2",
+      "hashes": {
+        "SHA-256": "f7965de629197d244a42d126ded05b3749ee6b39eaa19210ca03bc43a3557c9b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5fd7274-be4c-5677-ae86-571b3683c599",
+      "hashes": {
+        "SHA-256": "f8fc9b40b946b742d6044f291914439727e1a7f53ea87562446f682b26cce65a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7fa9d067-266e-5491-b8ac-24f9fb7732cc",
+      "hashes": {
+        "SHA-256": "fad25892e5179a346cdbdbba1e40f53bd6366806d32b57fa4d7946ebe9ae8621"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4714b2db-a537-51ec-9b4e-73d0c58106bf",
+      "hashes": {
+        "SHA-256": "7d225fa2486a16079542adc6e3682ad6420fd26472679d68f5b753494e222106"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b78bea01-228a-5cc4-9d28-22e2655a9e7f",
+      "hashes": {
+        "SHA-256": "f6bfb065ebe1443fea656d03dbcb91abee90620f59deb645e61165b0647bcccc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6d246ae-43c7-5071-9d37-483928ba2e70",
+      "hashes": {
+        "SHA-256": "00dedb250301a3639bd552acbb03f145c7c36b5c5b89a6a8336593b475bd5ab8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5d1a1a6-f748-59fa-90f3-fe6f428a4eab",
+      "hashes": {
+        "SHA-256": "0454f88103ec28a7e5257540ab70135b82214354272e50f4e4c957923b3c7e0f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72c2ae82-f162-5f15-a5b3-1d01392a3a0a",
+      "hashes": {
+        "SHA-256": "0551101a6be6b0432f965d6a070871759ae79c1feacfc04d382a632a4566d35d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f3af0649-3b8b-5fa7-907a-3a43a1a402e1",
+      "hashes": {
+        "SHA-256": "0bcb2701a08bed8d577d3667ab8322464f0c6a5505496ed5cd2ec085f63955dd"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47b2beef-9eee-5b65-9363-883ade8182ae",
+      "hashes": {
+        "SHA-256": "22bae1e1d7d3897a6ba983e0d8c55cbac7cb49ea90760ba71bc0c1470efbf1ec"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4e4558f-cf9d-5c39-8255-35920e859f89",
+      "hashes": {
+        "SHA-256": "315de897b025f9b77fc6cd1d91fc3172f1fd68f79373dab02d1428b6e4f724cf"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f74c12f-a78a-51ff-a08d-ddd4a7e140f5",
+      "hashes": {
+        "SHA-256": "3536f2ec65a6459dca56d3146c29359b422027bc446c3759d74c49c0e229ccc3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--729489b4-9f8f-53a6-948d-7524859b22e6",
+      "hashes": {
+        "SHA-256": "4d501bb98bd6338c0c3a7986aae4dbe1e9d436b69a6a0bf4881e0f5355898795"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aff48e95-67cc-5235-9831-28dd687c34a2",
+      "hashes": {
+        "SHA-256": "53ac258fddd0aa1c0b13518c4ae7eee145360c73bfbb61ed9fd71ca775d27d09"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38d5d25a-9d34-5594-8c25-9af4f81daa6a",
+      "hashes": {
+        "SHA-256": "570347bb7de5d391c57abca86d6092944e7e4b2b17a1645bdbb8c3d143096d98"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16005914-9fb9-5e97-b0fb-212c76587ab7",
+      "hashes": {
+        "SHA-256": "58f0839d429c0aba51420e113c44889f248ede5bf44318dcab59d09642e73f56"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37aa7be5-450a-53e6-87f8-ff58f6d1e8ab",
+      "hashes": {
+        "SHA-256": "674d7c224094184c8ba0113b94819c51402f396a65b2eb684a9198f6e69dbd60"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53c39f16-2373-5d08-ade2-f5bc5d1eeeae",
+      "hashes": {
+        "SHA-256": "801b529ea3173ca504af6c8ee1b48f731c5d83c4771677b0752af779a0f3d0a4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37ea6950-130a-5934-8b17-62eeb7975e8e",
+      "hashes": {
+        "SHA-256": "84aaafbeb7656207f9ff6dcb7e9804cf6a8c490dc60305759746827ff0235c8a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfbe2646-ed8f-532c-bcf7-4eb39340a466",
+      "hashes": {
+        "SHA-256": "88e0a270764afac00d5d82476d9bc6a683bf5bf23de749496b1c309cb9522b25"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83301c1b-f280-50ee-b8fc-5320a68a171c",
+      "hashes": {
+        "SHA-256": "89dc50024836f9ad406504a3b7445d284e97ec5dafdd8f2741f496cac84ccda9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0927343-32e9-5cc1-8725-b1f061403db4",
+      "hashes": {
+        "SHA-256": "8a038d42f1ac477fb6013d92326c362f33f4d315b6477ca0647958493f909aa1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--afefa751-8616-59c0-bc6c-008eeb2f44e8",
+      "hashes": {
+        "SHA-256": "8a2edeef9978d454882bfb233d9cd77505618b854f7899b27aeb095ff8ebb3f4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42c1e0fb-27a5-5f72-b13b-05c40b07d3b5",
+      "hashes": {
+        "SHA-256": "8ed02792a35827502abf017c6f2406b9bb6ff33869e995a5dcaa3746dee0c76b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a34987b-3578-5d0d-ae03-d94563af86fe",
+      "hashes": {
+        "SHA-256": "93874aedb277292457e11b91acc41e0d31f9f695a13325ccb279e1e835c9c89e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ced9d75-01fc-5ccf-872d-32ae432ad605",
+      "hashes": {
+        "SHA-256": "97f18268b17e76ed76e2c0b67b9aa1a15d4f3a7a07adf5c274fcbb8df210e456"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d59c3e7b-7d17-5c06-9ff8-8330545cf24e",
+      "hashes": {
+        "SHA-256": "980b3b2fbb864eafdf0979040dbe2cbb8aa47c3ae3c35d3dbe4747164a1e051d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df5f77d3-2afc-5800-b306-fd0262f82567",
+      "hashes": {
+        "SHA-256": "9f1babaa14639b38d21283856887f68d943ce4336f89cb6b900f948998df3e39"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--180deecf-80ac-5055-8e91-79cce70b11e7",
+      "hashes": {
+        "SHA-256": "b025e37611168c0abcc446125a8bd7cb831625338434929febadfcc9cc4c816e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ff4ce9a-c64e-547e-b651-783d8af9f3db",
+      "hashes": {
+        "SHA-256": "cb3542fee954da4218471287154be9b09236f2099a0d65c07a5b742f8539f2ed"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99669c11-0e40-53dc-a879-03f919fbac83",
+      "hashes": {
+        "SHA-256": "f66e87f4bcbe9e28f77d39a3f46db9e47ffb422510be160276ef80a93ed674db"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47f7a8d6-b642-5e32-ba1f-05b58ba41ef8",
+      "hashes": {
+        "SHA-256": "faea4ccd802391bf9a6d71bc6052f269b6ca370c124bfe4d2faae55b43a5c0c8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56dbe97c-74db-5afb-b533-aea028e34bf6",
+      "hashes": {
+        "SHA-256": "0ede3cbe821e4f083fc119274f069c77e64a6a7e8a2c16530317b826a0939979"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd0ed516-9515-5c09-8acc-f03e0c2275df",
+      "hashes": {
+        "SHA-256": "17ddc339b14845bc9d67c5c3cd9a0e617387cc0569131ff3641035d82043effa"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f98fc05-c19f-53a3-85d8-04c1f730d73d",
+      "hashes": {
+        "SHA-256": "7cd19784b1099e07063e70f9e7455920d4fe94f62f374a25017b480df938fd4a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e45eb3ac-b5d6-589c-a1c3-d306bd14e4c9",
+      "hashes": {
+        "SHA-256": "9856b816a9d14d3b7db32f30b07624e4bcda7f1e265a7bb7a3e3476bfd54a759"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e392977-225d-57ed-9fd8-54e304019dee",
+      "hashes": {
+        "SHA-256": "379d66833203af4b057306437671e50b9720f6f5e6a86843c3d766ba26570473"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--778a856e-2b38-539f-9c45-24db05fa3c79",
+      "hashes": {
+        "SHA-256": "ab30baabbf795728863b02eaf649b389fcf91ec7262565059de1b1cd57f68537"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--135526fd-164c-53f7-8715-d23f64f8d26a",
+      "hashes": {
+        "SHA-256": "0f0757d1baa3bd0341d282bb0afcdbdb522676db05814a3c3051c08829151b52"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63b7ae26-370e-5d05-8094-241eb490d923",
+      "hashes": {
+        "SHA-256": "3a950d7e6736f17c3df90844c76d934dc66c17ec76841a4ad58de07af7955f0f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05c0d78e-7c49-527d-89f0-aa7a3dd1e265",
+      "hashes": {
+        "SHA-256": "513e17579b0b155256d134940ea03d8ab7a0d1f71ebe188954e2450cdc6b7d99"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8863ffd7-0863-51c3-8116-96a5c099f105",
+      "hashes": {
+        "SHA-256": "5becad2dcfad4b96563b2cc9da05eec3a6511cb5f6f0072c967144ce6459cb29"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b06f680d-a55b-5324-950f-a1d55be15369",
+      "hashes": {
+        "SHA-256": "794d6f72c25d52964dec11d638751728806a5dcfa98d49ba68830f38b438b439"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34fb9096-ed78-54f9-943d-cfd310860bdf",
+      "hashes": {
+        "SHA-256": "90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38d22085-44bd-5024-ad22-6953c523c4b7",
+      "hashes": {
+        "SHA-256": "94b8ab735d503884585fdb5a735b3ea3485b6b19c1899939a5b2c0a80616400a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d7e2521-9536-5efc-8170-15f888c0ac8d",
+      "hashes": {
+        "SHA-256": "9c27405cf926d36ed8e247c17e6743ac00912789efe0c530914d7495de1e21ec"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0063f50-b107-5afe-90c2-3ab7b3f6d43b",
+      "hashes": {
+        "SHA-256": "af56db1df2063d34711b826d47929086933568781d34f6152b122dd7d08d0e67"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc30904f-0238-58f5-a46b-1fb507761282",
+      "hashes": {
+        "SHA-256": "b9dbe9649c761b0eee38419ac39dcd7e90486ee34cd0eb56adde6b2f645f2960"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4c477b0-e430-5622-ab5b-e4f37c976791",
+      "hashes": {
+        "SHA-256": "bed5afb1bbaa3736166e03893e27a54c5effd4ab414e948c92dd348c6b01e19d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b3937e4-9379-5eee-83fc-1047edda087c",
+      "hashes": {
+        "SHA-256": "c1abb495a5e3c1355c441cb3e11dcbe17f51d39e81e5699b963c5e08007ac384"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--719c3d33-c416-5597-9151-48b3d7c5e39c",
+      "hashes": {
+        "SHA-256": "e054153819d00712c4e34319b4021fe64ccf85c1f472816f4ca2251175e74b5b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f1bc57b-de1a-5b37-bdd1-74985431df4b",
+      "hashes": {
+        "SHA-256": "ee1e5b80a1d3d47c7703ea2b6b64ee96283ab3628ee4fa1fef6d35d1d9051e9f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c146e5ef-d9aa-5f7d-89a7-2e410e2f9971",
+      "hashes": {
+        "SHA-256": "f5bf914415faf7587958bbdc3312536fd9abea647f1541d44d2e757f0e683650"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a57b0138-90e9-57b4-a1ab-bb1163d22264",
+      "hashes": {
+        "SHA-256": "ff5e40fc794e56fd78feb6eb6b30794970f7cdb4a767c4095e2d20a90bb0efe8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37b5475e-bd08-54f6-b3ff-8fe454f6616f",
+      "hashes": {
+        "SHA-256": "34a88c22ab8ffde7228629911fef336c3c175a4c0688cfa5f64586472892225a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16583715-e98d-5d16-ada4-653eeb2debff",
+      "hashes": {
+        "SHA-256": "25e24385719aede7f4e0359b389a9597cc26df20e1b3a6367bbc04d5d4982fe6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1d24b96-a7f9-5e97-9720-aa86ee80a2ab",
+      "hashes": {
+        "SHA-256": "214540f4440cceffe55424a2c8de1cc43a42e5dcfb52b151ea0a18c339007e37"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90c73107-371c-52fd-a437-b2289512ed31",
+      "hashes": {
+        "SHA-256": "021921800888bc174c40c2407c0ea010f20e6d32c596ed3286ebfe7bd641dd79"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7975a49-061c-5ac7-b862-220c24a0fa5e",
+      "hashes": {
+        "SHA-256": "28738aac83c5534b5c3228ece92abc3b12c154fdad751a2e73c24633a4d6db71"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--828f89c4-df69-5c55-993e-82238a70a887",
+      "hashes": {
+        "SHA-256": "617709e9e728b5e556ef7f98c55e99440d93186855b4a09d59bc4526a6fd82ae"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be19a368-0707-569e-b80c-7518167bd773",
+      "hashes": {
+        "SHA-256": "86ebfe9d8b3c928fcf80642e88ea3b195b2ba23c6a5c17fdb68de13baac75cd1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ddc7a4a8-3e3e-5fca-aa2e-380b4bac5652",
+      "hashes": {
+        "SHA-256": "a7504addd9879ff171030b24a35c7454a39a997021a6056f4d58314529e07268"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffcd7ba7-1f5d-5f34-834a-62d55bbfe636",
+      "hashes": {
+        "SHA-256": "a59707803f3d94ed9cb429929c832e9b74ce56071a1c2086949b389539788d8a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e56a96e2-e77b-5895-aa6c-9cf4a0a09828",
+      "hashes": {
+        "SHA-256": "fd108ed07aa34cf1abf3b6b0b77128d4d03d5b572aee19aa4b062601a856c4a8"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bef9097-19be-55e6-b318-dc8740c85a9e",
+      "hashes": {
+        "SHA-256": "0205997723697f8a60c04dcd7475f1e0a9959f3f7a26110beee6d303ad618168"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c145007f-3d68-58bb-a27a-82bceee60974",
+      "hashes": {
+        "SHA-256": "80edceafa37bfceab49851b072f72321e2744c64779d5d688b6f34b23c811069"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f01ca05a-f8a0-58a1-a677-cfba14a66d6b",
+      "hashes": {
+        "SHA-256": "ceda57b3613c2f45dfd8a1dba6934bd2ae32baf565edf752b4044c6d03339e51"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d8ea77b-4917-51fe-8cbf-1e5ae4f1ff1f",
+      "hashes": {
+        "SHA-256": "0d185ea3b0a49c2fa65bfd2757c9d0705657f0639fd36f196ac394fcd38c361d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09bd1429-7bb0-5b31-90d8-28c448d6a6d7",
+      "hashes": {
+        "SHA-256": "11d2dde6c51e977ed6e3f3d3e256c78062ae41fe780aefecfba1627e66daf771"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bb10ffc-2104-51da-b881-5b779c67556c",
+      "hashes": {
+        "SHA-256": "18303e4b327cb47d131b0a3f3859e4e90d8fa0c40cf961bad7a34b550160e919"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2add7c5-40da-573d-853f-87c5bdf9a04c",
+      "hashes": {
+        "SHA-256": "28a56ea1847ea41d63ec52dc576cc4d2925d56c8674ea65d46d7d29f87d1a279"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6bde834-1fe1-5969-a549-1b1c83350a20",
+      "hashes": {
+        "SHA-256": "626f50c73b3ddbfabadef6a5523e1c0b9285e8cc11cb2cc0bb84bb712720d069"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--476ca86e-4ad4-5dfd-ad86-040ac76dcc07",
+      "hashes": {
+        "SHA-256": "6a67cabf6058aa8a2d488a6233d420658eb803cba9da04f14b76e2b028ab30bf"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc9d0702-ece5-5b6a-8188-2e15512ba58e",
+      "hashes": {
+        "SHA-256": "723d65282654f712d54a9174ff56379f10a74f2a2d759ea49b8b2b66970cb7dd"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3688ba7e-6e40-5ca1-aaad-4336d5617694",
+      "hashes": {
+        "SHA-256": "8501e14ee6ee142122746333b936c9ab0fc541328f37b5612b6804e6cdc2c2c6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff1d9a9c-f90b-533a-a920-856b711e3d5c",
+      "hashes": {
+        "SHA-256": "9a8847168fa869331faf08db71690f24e567c5cdf1f01cc5e2a8d08c93d282c9"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5912298b-3da0-5daf-814b-5c109927ede8",
+      "hashes": {
+        "SHA-256": "a7563ce92657f350f78789a63bd1f6fe837536a0ac37b945b5bb820c4c8b3de1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9553d286-1ecc-552e-8d05-169904061aea",
+      "hashes": {
+        "SHA-256": "ae35666999bd6292bdb0e24aad521c183bac15543d6b4ca27e0c8a3bcc80079c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--471c1cec-acf6-5e6f-9c56-966faa5234e5",
+      "hashes": {
+        "SHA-256": "baa9171650c7d1f24e51e70416005a9068db6bcaf0c7aa756bec39f87c86a07e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1562a22-8232-5ec7-9327-f7bf144fdf18",
+      "hashes": {
+        "SHA-256": "e396716fcb268502143a94a4563f9c514ed24a39531e1d57e4046316bc102f66"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--937d95eb-eac0-586a-bb13-e2b10c2049da",
+      "hashes": {
+        "SHA-256": "e59534a7d111600139b3ded6d4dd04d9aedba9a0a4fbab3c8ff4bb1a95d01526"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6aa1705-9a9d-50e6-8983-88301c253ae8",
+      "hashes": {
+        "SHA-256": "e840809d54e39e4896f573395e186c7cb87b7772ea64661e86616d3e368960c7"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d543d313-b72f-5663-94f1-cc8a37e03a2c",
+      "hashes": {
+        "SHA-256": "fb20fc4e474369e6d8626be3ef6e79027c2db3ba0a46f7b68c6981d6859d6d32"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9eca9516-06dc-55ca-8704-08c705cff59a",
+      "hashes": {
+        "SHA-256": "4d0ad334ad00318b71122eafc0269db6d5cd63e7fe6f2889a5c46cbe37ed6592"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--054a0267-ac19-55cd-99e6-59d2b4bd6f60",
+      "hashes": {
+        "SHA-256": "04ac22d83d8f0f26c1f73e59fa4ed386698533130a9b76ad1a78c64d86a91037"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94321110-740e-5e90-b0a8-5923076cad00",
+      "hashes": {
+        "SHA-256": "6191f417f6fd4f18af1b2ad592ced0d5658d214bdaeafa94dcd2b83979d8b77c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7c90112-29ce-5af2-823e-270799722225",
+      "hashes": {
+        "SHA-256": "768aa58c7e2395868a5a80008dab980cc44a05eb557db3071773f5358e9c8d6f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d32122c-e536-54ed-a65f-e46d55d75c84",
+      "hashes": {
+        "SHA-256": "12094a47a9659b1c2f7c5b36e21d2b0145c9e7b2e79845a437508efa96e5f305"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbe88a10-effb-53a6-b533-37ed149aa43c",
+      "hashes": {
+        "SHA-256": "02536d95f6b28f7bbeaa9a2dcfee44272d4d304c40bbf3e5b67e6124f724753c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92e7c319-a5fb-5ac5-af3e-029d81059933",
+      "hashes": {
+        "SHA-256": "02ad28baee8ea9a31f32d8abb73bc979900d4844e880c59d084369829a31b6b6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c2267e91-6680-5ca2-a7d5-abe4d9cd111e",
+      "hashes": {
+        "SHA-256": "02b617be7df8b017c2bd62a07a822b1c00fb357b9f79dd503ffcad91b19c7695"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f090d9bf-7e52-5936-837c-2a9c9fa1146f",
+      "hashes": {
+        "SHA-256": "068cbd45c48718a36730cb3ba91fca2a659321516a4f57286f21369ac8d2631d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86afad18-2a1a-5b19-b337-e5882df5e7bf",
+      "hashes": {
+        "SHA-256": "0cb924f8ec2c2c7aacde92b9ba77c1e02ca49a7957f71de6f2ebe6cbcd221bd5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f5164aa4-791e-53cf-90e7-95ea4ca31fa4",
+      "hashes": {
+        "SHA-256": "13ca1445f252cfd3d31708e1d110a0bd0234b56b78a4e2c18b550ac8113ddd71"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb17f6e1-4f52-530e-b178-596531cd5d00",
+      "hashes": {
+        "SHA-256": "15b65cce1b662600baf0995c766f301ee6aec500925a0576fc1b7219a7a36a9c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4914a482-a4d1-5d76-8311-a9d4572c6366",
+      "hashes": {
+        "SHA-256": "16ea0323c740dda2dae2f9dec15b86942aea8f9032a6c7035709edb9880c7f48"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--033bca50-fe59-5643-94d9-a9e1ffd2beac",
+      "hashes": {
+        "SHA-256": "180255b13cf2100dc91e2b0bc45ebcd6dc8b2b58d4e1fd5e60802a23b02467ae"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e687728-a6b0-5d75-9863-11df25907557",
+      "hashes": {
+        "SHA-256": "1902ac59e680d6d338c09e68fbd7181a3a4fda9ed9ecd88751eec0e04741ddfc"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c16dd625-9799-504c-9ce4-d7ee695398e9",
+      "hashes": {
+        "SHA-256": "238dcc5611ed9066b63d2d0109c9b623f54f8d7b61d5f9de59694cfc60a4e646"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12304106-3c8f-581d-b5fa-82c6d70389ab",
+      "hashes": {
+        "SHA-256": "24da03a449dec4cb42ab051913d1187bb85ea5ac2870271c54d2b1e2c2afeeff"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9011c1d1-b558-5917-b032-4441efc771c2",
+      "hashes": {
+        "SHA-256": "261a07a99230b34e215997ebe1c12abacd92aea2eb222944dc1d4965f7b9434e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--85570dda-e5d6-595d-84eb-64e1c769b5b9",
+      "hashes": {
+        "SHA-256": "28d318a64d06bd5c86c11002be6805ebd114600b2f1e28f136924668b915e77b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ce803da-74bb-571e-8097-7beaeec047a6",
+      "hashes": {
+        "SHA-256": "29e5978e5e9f8156005fd7ede90d31b4e436803e1a92d2aa5fd5a1de3a5e1782"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a393eab-db29-553f-a21e-83f74c44af0e",
+      "hashes": {
+        "SHA-256": "3028bb7bbb0ee74ec59322a6e00f44c52d4d06c23296a8ea2c78e2ba16b8ebc5"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2147819a-782d-54a7-9606-4660b6824c62",
+      "hashes": {
+        "SHA-256": "311a2300281d2a6234dece639dba335e7c6451685ddfa683ef3bd767331bc1e3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55527446-c1db-5549-ba3d-4bb5400099c6",
+      "hashes": {
+        "SHA-256": "326a84702468acaaa4b6aa0eecab55dcb8f443ddac5a6dfb66a4120a4e42ab49"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a9ffe74a-4e08-59e9-8ae0-c794ea25d443",
+      "hashes": {
+        "SHA-256": "38358dcb68df0e12ab3b068a56aead03800bb6cacaecbabadaca18c37e13a52b"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1c509e4-6c55-5b3f-947e-155cbf703123",
+      "hashes": {
+        "SHA-256": "3a6886d07c120fbf501abfa40f763c05d3e8c374e1391d9f8ad1364dfd52c8a2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--965568c7-65b6-5fde-8a3e-28557ab3a29a",
+      "hashes": {
+        "SHA-256": "3a8c5efd2a0aa42c1cd0dd264242fdb1ec466b585504cd7bbd032737956ebb43"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2dc0aee3-86a5-54ee-a49f-ee2e03b0b853",
+      "hashes": {
+        "SHA-256": "3b9d0641932d1a50d008c339bef637d84f0c8a8d67e3d52b62745f24b1db2a31"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--768bdce7-fe40-52ec-9402-29054595557e",
+      "hashes": {
+        "SHA-256": "3cfedcb5187a7f9d5a2a2498e06f649d1fdacc1f78b8b7702ddf6624485d3ca4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--68ae707a-2a4c-5f47-afc8-a448b3948a4d",
+      "hashes": {
+        "SHA-256": "43a3fbb1c0a7b5885eca1df579077db3ec8cbf672985b17e6372a69c80326520"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59cdfe4e-0109-5063-a9e0-56160a8cbf14",
+      "hashes": {
+        "SHA-256": "4786daa0dd9fb810aff225d752e6fef24f91fbf1071d8e814315ab9bbe78b502"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--469969ec-71f0-56ab-9985-c38a6e0c8623",
+      "hashes": {
+        "SHA-256": "4c1efb66c263e391086bc2a59eee7b1a4e2b47d850aabaeb0adc76e709e14d75"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2518f0f2-9717-5447-b491-e26008ecb5ce",
+      "hashes": {
+        "SHA-256": "4c6b54a9eef6fb238f01c2fc97c9fc09a52db0a110732d9c046822511f79a1fb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb6cf132-1230-5318-8671-f375cdc46293",
+      "hashes": {
+        "SHA-256": "508b33fe10057ec4e03b0ef5a4bd7dd6ffaf6579f822839fa0b85faa5e71c53c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3114b10-cc88-538e-a5b0-844e28f7a1bd",
+      "hashes": {
+        "SHA-256": "52cace55b98328553c36a62bd288b737c66a2412524286b8bcf751fc14f634a6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a548cba-5804-5f75-8e43-6fa56407dddb",
+      "hashes": {
+        "SHA-256": "54e1c8b4d18b6b7e986ab989b47e0abe35c1045e5b61f8beb984acee7f09c7ba"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a7fe57f-d3c9-5230-a671-8a17364fcc6d",
+      "hashes": {
+        "SHA-256": "63e589eeeaf22d2903778e9c42e41e4d67d9bceb8bb07f3491a1ada741408c35"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b631c02-18d5-57db-a2b1-4e99e73ee1c6",
+      "hashes": {
+        "SHA-256": "653a8d9f8233baeb4907a6c0030c6be64689d2fa4c80ff22d8c06e49de1f91af"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c09d8975-5eb4-5233-8f07-f09869602c41",
+      "hashes": {
+        "SHA-256": "66ee017ecd7196a00940503950bf4882dec3c61c1ddb3d8be2f87675c72fadf1"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1648870a-3d2f-5937-b151-a3300c1be156",
+      "hashes": {
+        "SHA-256": "67c9b66f6845b5a7f6b32d56bccb420502fb901bd460f0f19ac548f30abf53c6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fafda684-791a-5472-a16d-979499268e1f",
+      "hashes": {
+        "SHA-256": "6ed0478ddc8cbe4fe99236a6960575e39420bde28bf79c3b8858940d806bd455"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8bd823f-95d7-59c5-9f56-a0dab6159926",
+      "hashes": {
+        "SHA-256": "72ea8e468aff56cb124844f3916c2b5b91639e65245f53e2875620e35f1557ef"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eee75450-4860-5145-95c8-38eb35f814ae",
+      "hashes": {
+        "SHA-256": "7502eaf57d05fd06b7d8161f16dc67b3d156cb1c723b7824cf6759a2c77d3394"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38555283-71db-5665-9220-b6a7aa5cb22d",
+      "hashes": {
+        "SHA-256": "7eab72e3aeab30a0eb219dd975a21aa5f3bd7d416ddd92d5b71f1eec690ea7bd"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3c4025a-a010-5fce-a22e-4c53d3280656",
+      "hashes": {
+        "SHA-256": "7ee8c73eba7c4b78d9dc8a270fbc7634f2159ca50eb6ffcb462079a4f261cc8c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0836bc06-77aa-5684-a514-bf15f18d2aa4",
+      "hashes": {
+        "SHA-256": "7f5f9eb144478aebb4665c675fa41429abe70c82af15815b027ff7fc19993a0e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--39f4f8ed-665a-5c7e-944a-c3cd09603e6b",
+      "hashes": {
+        "SHA-256": "833463eb043b206d9006535e3db749a02e3d68c260594d96a1b798b665d93cee"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e34657e7-9d4b-5dd3-9a56-38fd190f1df5",
+      "hashes": {
+        "SHA-256": "8910550c45d5943d4d61d94ac4747b6f2a8a910e8c37dc480598686e3dcbad78"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--082fec69-ddd8-5ec7-b027-43fc65fe7c2a",
+      "hashes": {
+        "SHA-256": "93f6b49806d6b05eacd787c25325b788c51d09f21e018b2794554364e5f091fa"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--beaedff3-232e-5beb-8f84-5df686dbca61",
+      "hashes": {
+        "SHA-256": "94a6d70189a393ce905525e04fee0f6fe011ab8acf89273c9315d0fea75bb12f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3cffccc-ae43-525c-8818-5ce023f1d8c5",
+      "hashes": {
+        "SHA-256": "94cc8b757164067fd4e7290ad491b8eb9bc8a7b4da79c1a71b7bac28e3e16c4d"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de207758-49df-57e4-9159-09908f41f4a3",
+      "hashes": {
+        "SHA-256": "97ba5eeeebfd5e2bc6dffdba7fd2100498eeb494092b3fd4a6c98ca98d18fdeb"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59728551-7a95-593c-b15b-a5e4f5148cc2",
+      "hashes": {
+        "SHA-256": "97d6b0703a5a9e1ded6aff722c8a77c275268b40c18c424e4f007bd6238d1482"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7eefd6b-c116-56cd-aa06-f303dff1b642",
+      "hashes": {
+        "SHA-256": "98734d3ad1484aaa9405652bf8952e5f429e1298710647d6be3f9a2a53dc48ca"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ef70ab3-841d-50b1-993d-fdb798138783",
+      "hashes": {
+        "SHA-256": "9a3cc5c5751da0bd60baad3bdb18f9a730bab009c8724228ea2ffdc933377bb3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--805a87eb-bf4c-5472-b10a-70f29ba1404b",
+      "hashes": {
+        "SHA-256": "a83f6e7a71d300c1f5dd457d848a9859eebef336b3447e5623c37fc8077fa42f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--390a7ac2-d36e-57ee-a1fc-2514fc350efd",
+      "hashes": {
+        "SHA-256": "b6e56b2d1d48fe9ba93a8ba5063a9a232a37f6bd1e8eb63e3fc711d95a89b5ed"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8a44ba1-7845-5023-89f6-6531ce5653f4",
+      "hashes": {
+        "SHA-256": "b8fff702a96c25105a0c2d375a69bd379c6441a2cb138ae2fea94e2d6034d551"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1dedcbe-4df4-5d07-ac5c-4ab0045572fa",
+      "hashes": {
+        "SHA-256": "b9c74fa7a1df2b36657a889be96c1783f0cb5a4b9778d33c51926af767f2fcac"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee273e17-d78b-589c-aa89-6df09e47959b",
+      "hashes": {
+        "SHA-256": "ba68161393c1f32446b07f0cad103f1fed3bf73dff2c53c2e7a3283901fa96cd"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6917cb17-2510-5204-a0c9-cab73e23779f",
+      "hashes": {
+        "SHA-256": "c4f7e8d339aa588d30f2169e67aa33113e9778f7b22c7d2fe080e3ab6ebba5f4"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e946516f-cc23-50fd-93b3-44587d76cbc2",
+      "hashes": {
+        "SHA-256": "c97afa425b4aaf68c3441cdef9d40b84019b73270f2cef2b208b34da4640eb76"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3293b79-697b-51eb-8dfd-e20af0485a2c",
+      "hashes": {
+        "SHA-256": "cfad6ed582b6ff693ace379d528a7a5d7eacf7260b610205ad42034589e0ff40"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf39a839-cc93-59da-9fec-fd9376610536",
+      "hashes": {
+        "SHA-256": "d1b839ff226453091b1e90711b36dd2630a8664432f3742faa1cd24521257c65"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--146227a5-24a4-547a-b25b-56c1116cda55",
+      "hashes": {
+        "SHA-256": "daa63ff5c21ea27e498f4761232593da00180e72b512de133d9a880805d1bed6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10a4ee70-5e2c-551d-8079-7d3920cc90f1",
+      "hashes": {
+        "SHA-256": "dcbbe31e1100edad1738c3f997543c5085b5b2a5b610dd08ada35427827c1231"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--354feadd-2495-594a-9b65-8b869fc93dfd",
+      "hashes": {
+        "SHA-256": "dd2b6e3aa75de8460730862f2dc739537734a7dfc9e673b6a23ee58430348ddf"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--832fc464-db89-54d8-b361-42703188dab5",
+      "hashes": {
+        "SHA-256": "de11292975a66e8e95e0d348bfcedd9fdd30d7b2d6b37e385908d12f1d35473a"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4790194b-03ab-54b4-8c82-e17777ddb84d",
+      "hashes": {
+        "SHA-256": "e245bfd31e4933168488fc0708f090cfb3717c13181170701d6cda201d5cb986"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df0963ba-6b8c-5030-8aea-ceefffaff220",
+      "hashes": {
+        "SHA-256": "e310ee1e1d64de20d8c77643225c9334cd9249af33533be6bac9e1331a8fd747"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ccd98fc0-2add-5a1e-be8d-4a595fbed7bb",
+      "hashes": {
+        "SHA-256": "eb0f8d6767d6a7ec48448554aff219de8b19d717761ede54836b3a8e290d4640"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73a8e3fe-3cf2-567f-a76d-eb032c59bf54",
+      "hashes": {
+        "SHA-256": "eb8f76efb2f9bf4e84f1f2a54671ed891886e698ad05cf08b061244f5affa6e6"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--54a89880-9687-5b7c-9be2-d1ed7f819d44",
+      "hashes": {
+        "SHA-256": "f07a8ce68fd76d6a7d0d878ac11f72630b746f1f33df1b5aba4ef717ae36edbe"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79a07df2-d4e0-5532-b0c2-e6de01ccc55c",
+      "hashes": {
+        "SHA-256": "f33dd2435d3d9c2158d65bcf5e0563efb07e9646917c56c7cca8d721e7d8fc24"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1c19e86-8887-5914-b1df-6c25b58c611f",
+      "hashes": {
+        "SHA-256": "f6a07d4163ac30f76760ddaf26938bd3134094e409d99d8f788f885be5852f4c"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--012b54fb-2948-5a31-93b1-c780fa5dc2f2",
+      "hashes": {
+        "SHA-256": "fb8e3ef19f0a3ad298b8d315a716aae1151332c1f097296962a3a04017f940ae"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af651f21-ad51-559c-ad18-0333b70a1b16",
+      "hashes": {
+        "SHA-256": "fcae624d68af2ab0c47c1d8a1983d20301a17bc81fccc88fea8c44612f6cb412"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a70006a-2e42-570d-88ce-d0b819561102",
+      "hashes": {
+        "SHA-256": "fd8ff76d72e4dee7c4c58e7edd3a3fb1325251b868bba2ffdc8874c0e14bc2e3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b38174ff-abf7-505a-98d8-712de5acbc4b",
+      "hashes": {
+        "SHA-256": "fe229d6d580b0838a58082bfebabf8ff3285e643fec476262c012776bcbecca2"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f016141-b420-51bb-b1e6-a86d18720bce",
+      "hashes": {
+        "SHA-256": "feb418e7eeeaba19070b713f704ed4d5d68452b8dc854c7f8dcc4cad61bc1a68"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4326a7b8-fee5-5edd-8ac3-86784e68d8d1",
+      "hashes": {
+        "SHA-256": "4372aaa1b6d3a95dbd74efb6cd0b19a9de9de829b6cab96b827ab0342ffcf549"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd7434ca-b302-5a0d-a67a-8284bcd3d682",
+      "hashes": {
+        "SHA-256": "048e04a9c02d041edcc6ef18d16f1d6dec1b608ca27202e4fd410cbe6af0d9ec"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb334a62-9db4-5aa3-a96d-681ae8903829",
+      "hashes": {
+        "SHA-256": "11d437174b38cae5ff70223c5ed7018945019b3caf8fdf127a8d705bcf57234f"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--000dd343-5948-56f4-93b1-1978d6dde291",
+      "hashes": {
+        "SHA-256": "2b54e08741771d8d859030402647fcb2e765bc2313bfb559c58154ad2ff9eb30"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ecd0f90c-0f6c-58bb-b735-3bbd5cbac06e",
+      "hashes": {
+        "SHA-256": "2fa2588d455fb9e8cd582e47fa6d37e15d61b8dab9a56998fd19ef1f32e9c5e3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f7d7fce-5800-53cc-9440-f43f73ba2d98",
+      "hashes": {
+        "SHA-256": "43b8db8162375a1d73192d45beb0199f959cd8404f3d409d3015bb71c10982cf"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--317c043a-d904-5cc9-9df3-289ec33ee2c5",
+      "hashes": {
+        "SHA-256": "72e0fcfa4cf6766f88df74da16a71ac04e78f6219804037d9d3f1639a81ed066"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7863e66-9dac-54e6-841e-3150b5254334",
+      "hashes": {
+        "SHA-256": "73774861d946d62c2105fef4718683796cb77de7ed42edaec7affcee5eb0a0ee"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a85bff36-cb99-51f9-b9ba-262908c38989",
+      "hashes": {
+        "SHA-256": "953ba5f2beb3948bae7311a3b8730ea0f5a3c4a2dd0a83805261c4fe089c0697"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9cd5f42f-5b1a-5142-9891-281e6c655031",
+      "hashes": {
+        "SHA-256": "de163b4595169d92d7d4738f7fbb45ecf3513c390c060ff518cd8ea8fd3d048e"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--773e1464-bc1f-568b-a726-a3a4e05561ea",
+      "hashes": {
+        "SHA-256": "e3ce6070c719b35ad72d6bc47f3f015fa6d67f3a292c0290e3ff3f928d1df4a3"
+      },
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--285d70ce-14cd-5895-89bf-7f0d5ef1fd7c",
+      "value": "http://45.95.11.217/share/info.msi",
+      "x_opencti_description": "2404 impersonation campaign.csv"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "type": "bundle",
+  "id": "bundle--09a7d430-31b8-4fd7-af24-9fc808053286",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--688ef862-39e8-5578-82be-f15e05ee5bf7",
+      "value": "https://news.sophos.com/en-us/2022/04/12/attackers-linger-on-government-agency-computers-before-deploying-lockbit-ransomware",
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--19e134d7-2d9e-5391-839c-0ee2940a6bfc",
+      "value": "blobal.com",
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31c0d216-98a8-57fd-85e0-35bce16b8586",
+      "value": "aapu.xyz",
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7dfea37-316b-5809-a01f-4fa5395a287b",
+      "hashes": {
+        "SHA-256": "6684e1df360db67719f65bcd39467cc88bbd7bb910636d03071245b622e7cfa3"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bae48ece-b3fb-5e75-afa9-41521ce0081e",
+      "hashes": {
+        "SHA-256": "87bfb05057f215659cc801750118900145f8a22fa93ac4c6e1bfd81aa98b0a55"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--119676c6-f319-5db1-9e61-5f1b93debb28",
+      "hashes": {
+        "SHA-256": "4a9dde3979c2343c024c6eeeddff7639be301826dd637c006074e04a1e4e9fe7"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e6cde4c-c147-5861-a56c-a0207b46373f",
+      "hashes": {
+        "SHA-256": "db385ea6858db4b4cb49897df9ec6d5cc4675aaf675e692466b3b50218e0eeca"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d43c627f-5385-5970-8199-683c7dcfd1c1",
+      "hashes": {
+        "SHA-256": "3d0e06086768500a2bf680ffbed0409d24b355887169b821d55233529ad2c62a"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--044d533a-e7de-5b37-9750-23ccdc02a19c",
+      "hashes": {
+        "SHA-256": "0d31a6d35d6b320f815c6ba327ccb8946d4d7f771e0dcdbf5aa8af775576f2d1"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d30c6d0-1940-5aee-b014-cb0fd4709eae",
+      "hashes": {
+        "SHA-256": "83d7f6eaf7fe075503ea6a0bc726633c34595a6eae7edd7deab95ab4d4a66fd5"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3a18ca0-a0c1-52d5-934f-92357bc84d16",
+      "hashes": {
+        "SHA-256": "46367bfcf4b150da573a74d91aa2f7caf7a0789741bc65878a028e91ffbf5e42"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4951f03-768f-5f4e-91e3-faeb3076546b",
+      "hashes": {
+        "SHA-256": "89904c4d3b1ebbdfd294b1a87940400a2db2ead01b3d6e3e2e151481faae95bd"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23cc79fe-01d0-5e77-98b3-e00f3bacf493",
+      "hashes": {
+        "SHA-256": "ffbb5241ed488b98725013185c80f40156d32884a87d6898d53e2aef28f1c3f8"
+      },
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41e244e2-6741-5dfd-a565-5c4da86301a9",
+      "value": "mimilove.exe",
+      "x_opencti_description": "Ransom-Lockbit_20220412.csv"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "type": "bundle",
+  "id": "bundle--ab9fb5b1-f58b-4f2a-a2df-81bda983faf7",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8375f4c7-2f10-5d15-a394-a70dd29fdc9b",
+      "value": "107.181.187.132",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d95c086f-ec05-5a60-80fe-41214e86f175",
+      "value": "83.97.20.83",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2dc42be1-0667-5f3f-84f7-f8efe2174ab6",
+      "value": "185.10.68.123",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--88926d9b-d797-5972-8b66-1fda8d3609cf",
+      "value": "83.97.20.81",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8375f4c7-2f10-5d15-a394-a70dd29fdc9b",
+      "value": "107.181.187.132",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8375f4c7-2f10-5d15-a394-a70dd29fdc9b",
+      "value": "107.181.187.132",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8375f4c7-2f10-5d15-a394-a70dd29fdc9b",
+      "value": "107.181.187.132",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--88926d9b-d797-5972-8b66-1fda8d3609cf",
+      "value": "83.97.20.81",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3bb4a35-7c3d-55db-b6cc-a9c460126f67",
+      "value": "dns.msftncsi.comeu.minerpool.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a3dab86-decf-5fda-9f78-577f61256203",
+      "value": "eu.minerpool.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7d8abef-863d-5ef6-8f67-991826d13e48",
+      "value": "asq.d6shiiwz.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--237023b0-02d9-5b1f-aa6a-01f94151831e",
+      "value": "eu1.ax33y1mph.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f08dfb2-4229-510d-b3cb-827e98c6e0a7",
+      "value": "pa.kl2a48yh.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--941a87d3-f4cb-5bb0-902a-7dd0ab7e73d0",
+      "value": "asd.s7610rir.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--afe7b6d7-d63a-5881-804f-0324db72f752",
+      "value": "asq.swhw71un.pw",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--172a027b-c015-5697-a330-a4c41e68dc01",
+      "value": "https://qm7gmtaagejolddt.onion.to/check.hta,check.hta",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--799c236f-5c0b-5a8b-965b-de79264a6393",
+      "value": "https://pa.kl2a48yh.pw/upd.hta,Persistence",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42e66a2d-df9b-5642-80ea-3bfaebab6cf7",
+      "hashes": {
+        "SHA-256": "b3af7ce4b4ee2f0fc8f44a6011cf35817bd82d6fcbb9ff15cb364f075b140e6a"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--afbb0a4e-7d6c-5b4d-8802-43c99bff1e11",
+      "hashes": {
+        "SHA-256": "413997e04e573b6035709852d7e82e25f7510ab9744e69eaea9edf17db546cc4"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a24fda6-994a-550f-821c-1e33587b91c7",
+      "hashes": {
+        "SHA-256": "b78571cdc8e361703fa144b9d1625d9f198bd85725cca70a70fccff6ab04477c"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5044c85-a041-5222-a1b7-f91be47ba665",
+      "hashes": {
+        "SHA-256": "c1fc58d49031e17317613a2c29013253492a8ce63d126f6588f4345be41bc779"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d430af8c-b22c-50ac-bf13-31c6863acf2a",
+      "hashes": {
+        "SHA-256": "bdae90d511ca8b0be15fb05efd6ff4e530c945333ab8b4938c3d5c38143f2d6a"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fb6f789b-045a-54c2-a9ce-5379315f96f7",
+      "hashes": {
+        "SHA-256": "cdb0e63ea62e96836cdb6096b90bf812909cdc323ba3d98ee4561fa067a28030"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--229458f2-1073-5de9-a763-0679c09ae469",
+      "hashes": {
+        "SHA-256": "19fed775072fff292c8905473b7ca8fa072e29ecc8ea54d0373d1988d8f595e3"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70656730-2de4-5fb7-bc99-7bc526d48830",
+      "hashes": {
+        "SHA-256": "2e215eaa2f75db97677d10feac7b2f0c4b231f2729190d209964be2adddd1acd"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b51126bb-5b0f-58af-8761-219214657044",
+      "hashes": {
+        "SHA-256": "2bc17d049db076d9d590dd7fee6d2695e818de8a863a2281c241f2608d0154b2"
+      },
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f41b1cc-38a9-50f3-b138-ac7b55cd7bd1",
+      "value": "java.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f41b1cc-38a9-50f3-b138-ac7b55cd7bd1",
+      "value": "java.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f41b1cc-38a9-50f3-b138-ac7b55cd7bd1",
+      "value": "java.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6cd2d4b-5c6b-58ee-bc70-6f3bd118ed85",
+      "value": "v1.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bdee96ef-57ba-5219-bf3e-e11ff1f26ffc",
+      "value": "http://107.181.187.132/test/32.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--574f0692-7c94-5146-9577-80d3711fbb54",
+      "value": "http://107.181.187.132/del.bat",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ab2fad01-e3de-5677-8d4d-35ae5abb01b9",
+      "value": "http://107.181.187.132/test/64.exe",
+      "x_opencti_description": "Miner-Tor2Mine.csv"
+    }
+  ]
+}

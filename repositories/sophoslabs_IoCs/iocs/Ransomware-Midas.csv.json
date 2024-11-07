@@ -1,0 +1,109 @@
+{
+  "type": "bundle",
+  "id": "bundle--fff04388-ffc4-416a-ae1a-f3070023ede0",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3731ce92-0ecd-5b3a-b61b-d59e4b320a07",
+      "value": "5.34.178.211",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0528e244-2d79-5a7f-9b8e-fbf2fabe193a",
+      "value": "185.16.40.78",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ec320fb3-ba50-52d8-8a93-4e8fa538a6fa",
+      "value": "https://github.com/monoxgas/sRDI",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--705de0fd-ab11-5251-a507-e9fe914f4987",
+      "hashes": {
+        "SHA-256": "fe5e26ee2e15cbc10970fc3f0d249b02bbbc79b8dbc7adbd41340f3c0a4afd8d"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3a64df0-8fee-567b-9a4a-7c2ee6aab112",
+      "hashes": {
+        "SHA-256": "3d779d02a0c7061caa8b412119a27b39692f3ecba80aa5e070434b95cf24b436"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--980fd90c-f8c3-5eee-9c84-03f791162d82",
+      "hashes": {
+        "SHA-256": "4823f478e5fb68be06ba987539c3e1c52e2597b0b35edc5b66fcedcef66fb1f6"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3b3c783a-42d1-517e-a4db-8578b9d1d696",
+      "hashes": {
+        "SHA-256": "0d43eca3777f98773314e04870bcbe76d6c5eb0694356509cd9f698d9a169f76"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd80a48a-8d28-50fb-a96f-b377930f5207",
+      "hashes": {
+        "SHA-256": "de58d52374108d5ee8bd12b09034d4fa15ea5789b191e64ed1a559915ea393e8"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc4182f9-177f-5d90-8655-ce543d3cc40a",
+      "hashes": {
+        "SHA-256": "73d62f5989336da3809c150861bac08c13547a9992181fec1c51741b53aeb2f3"
+      },
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63364cbd-a94d-54b6-bb04-30e07c91c296",
+      "value": "dism.exe",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27682654-dc37-564a-9919-e30f4aa8b26c",
+      "value": "dismcore.dll",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27682654-dc37-564a-9919-e30f4aa8b26c",
+      "value": "dismcore.dll",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63364cbd-a94d-54b6-bb04-30e07c91c296",
+      "value": "dism.exe",
+      "x_opencti_description": "Ransomware-Midas.csv"
+    }
+  ]
+}

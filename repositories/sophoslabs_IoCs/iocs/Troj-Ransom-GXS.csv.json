@@ -1,0 +1,45 @@
+{
+  "type": "bundle",
+  "id": "bundle--ef9372b5-4083-49b7-b15d-7c792e1f6b23",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9d31c71b-e010-58fd-af5a-44c608e053bb",
+      "value": "179.43.154.137",
+      "x_opencti_description": "Troj-Ransom-GXS.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9d31c71b-e010-58fd-af5a-44c608e053bb",
+      "value": "179.43.154.137",
+      "x_opencti_description": "Troj-Ransom-GXS.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9d31c71b-e010-58fd-af5a-44c608e053bb",
+      "value": "179.43.154.137",
+      "x_opencti_description": "Troj-Ransom-GXS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4f92c0a-94b9-58bf-ba1b-c4bb8ff79152",
+      "hashes": {
+        "SHA-256": "3da31ee0a6c6410b3c66aad41623d05aac61a4dbb85045eb89f5810ffdc93066"
+      },
+      "x_opencti_description": "Troj-Ransom-GXS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60b4f615-3ee9-5066-bedb-d2e66cd038bc",
+      "hashes": {
+        "SHA-256": "f15a0f660ef0bd9e116ff19b433451d403ffedea9469a095c2f429227500e87a"
+      },
+      "x_opencti_description": "Troj-Ransom-GXS.csv"
+    }
+  ]
+}

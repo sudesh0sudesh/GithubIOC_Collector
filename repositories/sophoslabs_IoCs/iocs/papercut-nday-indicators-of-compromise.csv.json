@@ -1,0 +1,359 @@
+{
+  "type": "bundle",
+  "id": "bundle--a4386772-c16f-49e0-b397-37c44e5b0af2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--794a0294-c702-5492-9dd2-d8b10dc4d9ee",
+      "value": "192.184.35.216",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e4fcfb2-c3c4-5c27-863e-04cce6d672a1",
+      "value": "216.122.175.114",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cccf9b-f6e1-56d0-85be-4a0eb3ca4fc7",
+      "value": "137.184.56.77",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--566a4bb2-79c8-562b-af70-c30540173c2f",
+      "value": "45.159.248.244",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c5fe49d6-33a3-5b9d-8186-8d3d6c8e0b75",
+      "value": "185.254.37.173",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--35aeb576-d7c7-53c5-b319-1f816d817550",
+      "value": "185.254.37.236",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--12c80293-c175-562a-bd41-9862a35ec474",
+      "value": "23.184.48.17",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ba5458b9-f02a-5a40-96e7-c023356a858e",
+      "value": "50.19.48.59",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cccf9b-f6e1-56d0-85be-4a0eb3ca4fc7",
+      "value": "137.184.56.77",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cccf9b-f6e1-56d0-85be-4a0eb3ca4fc7",
+      "value": "137.184.56.77",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--566a4bb2-79c8-562b-af70-c30540173c2f",
+      "value": "45.159.248.244",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9d1cd192-659d-5728-b800-4d73e5e3dc3d",
+      "value": "159.65.42.223",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c5fe49d6-33a3-5b9d-8186-8d3d6c8e0b75",
+      "value": "185.254.37.173",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--35aeb576-d7c7-53c5-b319-1f816d817550",
+      "value": "185.254.37.236",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--794a0294-c702-5492-9dd2-d8b10dc4d9ee",
+      "value": "192.184.35.216",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--794a0294-c702-5492-9dd2-d8b10dc4d9ee",
+      "value": "192.184.35.216",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--12c80293-c175-562a-bd41-9862a35ec474",
+      "value": "23.184.48.17",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--12c80293-c175-562a-bd41-9862a35ec474",
+      "value": "23.184.48.17",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38ef671b-f664-5800-984a-a6842a81ad6b",
+      "value": "study.abroad.ge",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58181fc3-2c26-5805-b955-c1b3a46eb885",
+      "value": "upd488.windowservicecemter.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16d72ecb-1d10-5852-82b3-85229497616f",
+      "value": "4.tcp.ngrok.io",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9364012-8b4b-5b2c-b1bb-7bcb6e1d2ca2",
+      "value": "upd343.winserverupdates.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6875eabf-fed3-5b12-92f7-8f4b23a69176",
+      "value": "ber6vjyb.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82d9c96c-bb0b-5bdc-892f-4741db22c8c1",
+      "value": "backdl.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10d1d37c-c7c0-5244-b28f-da6b8da90386",
+      "value": "Jojojovan1.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08c87647-ef1e-5646-9eab-05ca6ba853ab",
+      "value": "Jojojovan2.com",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37c3c08d-a441-5730-8ef8-1771d28c12c5",
+      "hashes": {
+        "MD5": "8a293f2ddb634472a3e8b1ede4e81577"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e7d05df-0680-52d8-89a4-3ec2723d3108",
+      "hashes": {
+        "SHA-256": "0ce7c6369c024d497851a482e011ef1528ad270e83995d52213276edbe71403f"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--020014fb-93c5-5dc5-9631-33ce02648e70",
+      "hashes": {
+        "SHA-256": "38d2f150616fa1b2a989a3b97edf07bf13948441f49709f8c2605b0e3d881b44"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b45e012-a892-5907-817a-2444077466ff",
+      "hashes": {
+        "SHA-256": "1097975f1dede47a8ef80bab26c6fed7e3db70f033ad86ec77567351379dadd3"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d135433c-5690-57a5-9e63-cb8ae30a98c8",
+      "hashes": {
+        "SHA-256": "00ec44df6487faf9949cebee179bafe8377ca4417736766932508f94da0f35fe"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06218d1d-c63a-5811-8913-bc5b1284e243",
+      "hashes": {
+        "SHA-256": "d8d49f34f57ce54da60a0d2edf8c7924525b1dd1dcccdead18273a97282ffa94"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a708bdba-b1f5-5573-b0fa-860a6ccec0a4",
+      "hashes": {
+        "SHA-256": "f9947c5763542b3119788923977153ff8ca807a2e535e6ab28fc42641983aabb"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e7d05df-0680-52d8-89a4-3ec2723d3108",
+      "hashes": {
+        "SHA-256": "0ce7c6369c024d497851a482e011ef1528ad270e83995d52213276edbe71403f"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e3c5419-5f02-57d5-8d5c-6749911006f3",
+      "hashes": {
+        "SHA-256": "582b72bb0f0088aaad17f3aeab98654ede6fed18b5c7f48c1a593e4ec0076a4d"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99dce927-52f1-5bfd-b385-134228e99fc9",
+      "hashes": {
+        "SHA-256": "3b326a3e4f0a03db859feeed7e4e3a832acdaeaf8b2cd69ecc0dce73c1a225c9"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f548286-0b9f-5bc3-9643-25434e80fe30",
+      "hashes": {
+        "SHA-256": "45729491ec4ae2065672e6d93a3aa7533a8058cecb8fcdb79ecd5d10cfa2aeca"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c3f81d1-207a-579f-bb32-c64f2101e5e0",
+      "hashes": {
+        "SHA-256": "487d47985cddf204a94cfd41bd2d89798cdc03c4df8a582ecfe885eeb374a8ae"
+      },
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--24a255a7-edb3-5aba-843f-ca28d94406d4",
+      "value": "http://192.184.35.216:443/4591187629.exe",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--24a255a7-edb3-5aba-843f-ca28d94406d4",
+      "value": "http://192.184.35.216:443/4591187629.exe",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8de725f2-e1aa-5530-85b5-825dba3e8224",
+      "value": "setup2.exe",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--49993a1f-e0cc-5100-b0ad-93e8ac6dfcdc",
+      "value": "http://23.184.48.17/bootcamp.zip",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--49993a1f-e0cc-5100-b0ad-93e8ac6dfcdc",
+      "value": "http://23.184.48.17/bootcamp.zip",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39b612a1-126d-55df-a9d0-18bfa0cf7871",
+      "value": "bootcamp.zip",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8965f055-6db3-5ee8-8066-037a638a2148",
+      "value": "me1.bat",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ee7b18f-b159-5cbf-8333-3faccb94a22a",
+      "value": "me2.bat",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6fc52cd-2b6d-570e-816e-545b7abf348e",
+      "value": "winlogon.bat",
+      "x_opencti_description": "papercut-nday-indicators-of-compromise.csv"
+    }
+  ]
+}

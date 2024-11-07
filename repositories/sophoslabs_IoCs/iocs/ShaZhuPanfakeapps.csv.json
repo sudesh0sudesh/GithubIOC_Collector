@@ -1,0 +1,3521 @@
+{
+  "type": "bundle",
+  "id": "bundle--224bf65e-869a-4c38-b6ca-c40b4016bc64",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--79ac583e-5eb4-529f-b4ee-92723905a60b",
+      "value": "https://news.sophos.com/en-us/2023/02/28/sour-grapes-stomping-on-a-cambodia-based-pig-butchering-scam",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5df430a-05df-5f64-ae97-1a6cd7624ea0",
+      "value": "eth.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e11b10c-f5e1-5696-8d3f-3bbab7eb5fce",
+      "value": "eth.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7fd02595-dfc8-5c11-a9c9-a20f6bb1095a",
+      "value": "acerc.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4f65196-dded-5484-b7bf-400e888dff5d",
+      "value": "aceth.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fdcbe05c-edfd-5ad5-b1da-191bb306b256",
+      "value": "acexh.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c315d42-91df-5750-82e0-d0b3bcd92a8b",
+      "value": "app.bfiyerdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37f8eee1-385b-5343-b180-a4787254c17b",
+      "value": "app.bitopdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be9743d7-3e27-59aa-96bd-cecf0c5b8ed3",
+      "value": "app.bittrading.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d08a46a-b028-5cd2-99d4-2dc68d25f460",
+      "value": "app.btccdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3173cb71-b748-5926-a7d8-a6b7c4bd599b",
+      "value": "app.cncoladn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee5c983e-d330-5ccc-9f73-8f5b9bee4323",
+      "value": "app.easycodn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df1ca5bf-e268-56e2-9257-df6132f32caa",
+      "value": "otc.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--611b62ef-7f0a-5f38-ba77-e52d9540bc05",
+      "value": "app.ovezjx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70743842-064c-56c1-a6ea-b209de6807d5",
+      "value": "app.snapexdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be40c75d-5970-591a-a721-8e4bd54078f5",
+      "value": "app.tdviewdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bafd9fd6-f150-5c91-aecf-c74ad3452eed",
+      "value": "app.thbtaxdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5766b2e-696c-5feb-9614-0e8199eb4568",
+      "value": "app.vaneckdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d9c77422-ed36-5753-a8c5-eadc46200366",
+      "value": "app.xkqnqz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94976a6c-82c0-5c7b-ab26-ad2ba99b5d8a",
+      "value": "app.yzfdn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b971e42-69d7-51ed-8be4-19606448759f",
+      "value": "app.zmyoiq.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e22a0f5-4f6a-5dea-a363-107e1b8c25be",
+      "value": "asdbe.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--30c9eb6d-5c25-586d-b342-60fe6b1d6967",
+      "value": "atfepro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--619b5c52-c908-5f94-91a4-e8c8f4603e11",
+      "value": "atfexpro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3189fbe6-bdee-5929-a9c5-598d0b1f3f44",
+      "value": "axaxtc.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a243a1f-c855-5e85-aa05-3d98af54b864",
+      "value": "bankcext.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fdceab8f-36ea-59a1-9998-fc20cef0fae2",
+      "value": "cc.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c694622-336c-5762-9989-ddf0ea304e9d",
+      "value": "erc.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe1b37ef-8fed-541e-a1fc-24e2dfd603b7",
+      "value": "erc.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1843eed5-44d2-5f91-a602-b5ddfeaf94f2",
+      "value": "eth.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2b23182-9a40-5b50-a1d3-dec9f889a816",
+      "value": "eth.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f01f3446-be16-59d6-a976-c4f8d37822a5",
+      "value": "bitdbex.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6e41e68-03e3-5f4b-918a-a7d4a4d03887",
+      "value": "bitspionex.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--89686213-387f-55c9-8525-e0f24a8847aa",
+      "value": "bittrading.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c2fe45e-709d-5e23-b161-f0c19cd4369a",
+      "value": "biuuex.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de5551e2-d25e-506f-b584-462ab5391dbe",
+      "value": "biuuex.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2b2c9a3-d8a1-5814-83fe-d77743d9de9c",
+      "value": "btankcex.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57f01bd8-248e-58e4-be50-52bdd50ca667",
+      "value": "btuxt.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6770b987-649d-53cb-ae87-5022784ee126",
+      "value": "bullishx.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de9bee8f-8f4e-57f6-b652-1ad14c1e2696",
+      "value": "buratf.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94e50c9d-2951-51c2-a524-c06a7e51d940",
+      "value": "buratf.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--87dbaf1d-8605-5fe9-b8a5-5855c3a257a7",
+      "value": "capfinancedefi.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a8a1f1b7-1ba5-5141-9315-13ffa7ae59a7",
+      "value": "capfinancedefi.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e50ac1f-5c66-5fa6-9e36-7ba8b1301a94",
+      "value": "bot.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7552d429-ac92-561e-98d1-59e344d6d2f3",
+      "value": "coinbasedapp.co",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--814b0d1f-40d8-5342-88a5-de3e9d1e5b2d",
+      "value": "coinbasedapp.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f56c0e4-e4b4-5cf5-b885-4352a71ce981",
+      "value": "coinbasedapp.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11189b90-088e-5b3a-84d0-bb97df825338",
+      "value": "coinbasedapp.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eb263e38-d832-5e5f-9bfe-2d90c93f63af",
+      "value": "coinbasedapp.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ec3ec23-3f10-5684-b043-7450509d5b7d",
+      "value": "coinbasedapp.us",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c3c468b-2c4a-5220-b108-08263ae326d3",
+      "value": "coinbaseswap.org",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df232a7a-7969-5210-8449-7d3b31829d80",
+      "value": "coinbaseth.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1843eed5-44d2-5f91-a602-b5ddfeaf94f2",
+      "value": "eth.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9052887b-cf26-5644-9c28-e8a1b00e45f4",
+      "value": "coinjab.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be4ba858-9feb-5c3a-b2e5-f6a9c32a5ade",
+      "value": "coinjab.co",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ebead206-d128-5601-a49a-a5720a5b357f",
+      "value": "coinjabs.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa3f10fd-8d28-5807-bdde-f49399903e29",
+      "value": "coinjabs.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d7fa3432-4711-59e3-b17f-50662158833e",
+      "value": "coinupys.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90657094-3300-53c3-b944-6555ec270e6e",
+      "value": "coinuuex.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5df430a-05df-5f64-ae97-1a6cd7624ea0",
+      "value": "eth.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ac90dcd-6e1b-5bbc-9742-2fdcc66f8eb9",
+      "value": "dapplelight.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--36260e0b-daaa-56e0-82a9-685b6868e9e9",
+      "value": "dappre.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08797d76-0b0c-56ab-a77f-d7e33426c886",
+      "value": "eth.in",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5d9e175-1583-50f2-ac5b-e8a2e8035b29",
+      "value": "dbexbit.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b23858b-9e75-5e5e-9a98-af2b6a416570",
+      "value": "dbtsex.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--04295a51-4dac-5099-b4a1-1c066beaa753",
+      "value": "dcmvue.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df710e8e-937c-5701-8c16-a06ea37cf63a",
+      "value": "ditrecta.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef0c6092-b8e2-5989-8c18-b1ad3ae0c4be",
+      "value": "doexpro.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca9947a1-2d15-5482-baa1-6d637eff99f7",
+      "value": "down.paxfulx.co",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51366111-ab00-5853-a888-16cd03636cc4",
+      "value": "ftxdefi.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b93acdf4-925a-5aa8-82ba-1005e4040cd6",
+      "value": "erhauadd.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53b44222-b5f5-5486-a607-41953f9fc61e",
+      "value": "dapps.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d887aa3-c3a4-567a-8429-5fb6a87662d8",
+      "value": "finance.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93eddde2-2d4f-5882-9b11-b02e04741a03",
+      "value": "finance.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--edb8f28c-9da2-5c9e-a7f6-2ca0eaa60847",
+      "value": "mining.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14895552-56de-527f-89ac-cc2a69e617f8",
+      "value": "mining.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dc6f61d8-e037-5229-93cc-a72b6b631d71",
+      "value": "mining.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d9bda57-a8f0-5fd2-add4-019cfd362db6",
+      "value": "ethpools.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0185061e-db01-5177-9942-5fbb4f93abe1",
+      "value": "exche.xinhptw.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e30a427-4d54-5abd-bec8-1dd7d13e61d7",
+      "value": "fasteth.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e11b10c-f5e1-5696-8d3f-3bbab7eb5fce",
+      "value": "eth.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73eb820a-1c4f-5c16-ad9a-30a38fc1303f",
+      "value": "mining.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0bb977d-c036-502b-95ca-b1eefe61c209",
+      "value": "mining.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--edb8f28c-9da2-5c9e-a7f6-2ca0eaa60847",
+      "value": "mining.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45e574d5-b2f4-5f34-b34c-287f78f09e2a",
+      "value": "mining.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14895552-56de-527f-89ac-cc2a69e617f8",
+      "value": "mining.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c0f0bc2-ffa5-5e20-8c80-c74c9f5ac792",
+      "value": "ftxdefi.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdfdf578-d80f-5a94-8177-080ea0b375bf",
+      "value": "gimyglobal.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8414d70c-d0ae-557a-a974-44276a0fbcd9",
+      "value": "glbtex.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d82dfdff-a643-5b1d-add7-0eb7aa297b0b",
+      "value": "defi.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--095beac0-fe60-573b-831b-3bdb87ec7862",
+      "value": "defi.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa93ea2a-9e9a-57df-b67a-78ddc3f88625",
+      "value": "defi.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad488e67-947d-556f-9957-c11f1760dc35",
+      "value": "defi.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2bc89045-ba71-57c5-a502-026280f825fa",
+      "value": "defi.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f1ef7d0-3a7d-5cd8-83f9-191d183367eb",
+      "value": "goedefi.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0bc4f73e-58d2-5d18-b296-01665d75d4c3",
+      "value": "goexdefi.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79350991-d532-5996-8bdb-644020c7a746",
+      "value": "goexfe.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc07fd77-8a82-5cc1-bc39-f4926878a648",
+      "value": "gtjamu.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61db2177-d212-50e3-86fc-aaad28b75750",
+      "value": "gtjaos.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85f2cb40-96cb-5ae6-9de0-980b62f73507",
+      "value": "gtjaus.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f935db9-4c51-5961-9eec-e717f158ffaa",
+      "value": "gtjavt.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e37329b-5e26-5815-a5ec-0120df6e2550",
+      "value": "h5.aexbitpro.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3b6e2c0-7044-52f5-a392-25f073bba272",
+      "value": "h5.ammdx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33d04c5a-fa93-51fa-b70b-403a50da60ca",
+      "value": "h5.atfepro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50508328-a51d-5400-a891-691d5dd38648",
+      "value": "h5.bitavatrade.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57645c72-1213-5a2d-a70e-238722ed26d8",
+      "value": "h5.btcumbap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6274e6cb-93ea-57cd-a2a9-67eaa887bbdd",
+      "value": "h5.bvproglobal.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a0303ae-f252-59ae-882c-f917c87d72c4",
+      "value": "h5.dappre.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac05808c-eb06-5520-95f4-746e7e7c1ffe",
+      "value": "h5.espro66.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13989bea-e5cc-588c-a957-8b6d1e906466",
+      "value": "h5.glgoa.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5018987f-b9e9-59d9-b3f5-da563e2fcca0",
+      "value": "h5.ifmexpro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d618e46-de26-5d4c-abb6-9384b9914c71",
+      "value": "h5.kbcoin.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d023727-9f90-5ebb-b300-c595ae9894ab",
+      "value": "h5.kingtimetek.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--296d9a46-0d07-5c7e-b16f-8e9cc1450cda",
+      "value": "h5.ndaxf.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d8b72fa-1c9f-531d-ba94-397ab8dcfaf6",
+      "value": "h5.opensoilx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d126745e-4c29-55aa-8023-30da0975fdfb",
+      "value": "h5.tmsfin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddb14c6d-6643-5fc1-9282-81d944a79ad4",
+      "value": "happynewyear.nqxd.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d542ed07-9634-5b7b-b507-4adfddfd704b",
+      "value": "hkex.dr74.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--248abda6-e46e-5bfe-a146-1bbeca7220a1",
+      "value": "insnag.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e8c586a-ef53-5438-a5f0-f0b25f567f12",
+      "value": "iosalbank.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21f86bb3-a6d0-55a7-bf07-b029e264801b",
+      "value": "ioslbank.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0eec5b04-591c-5aae-9f44-105bb1a000f3",
+      "value": "kacofin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e35f7990-7308-5008-9515-aac8d9e0ca14",
+      "value": "kacofinance.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5dec86cd-8d3b-57dc-b86c-d350538186be",
+      "value": "kacofinance.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--300dcf6b-6c95-59e8-a64c-ecb50ff0c2e3",
+      "value": "kbcoin.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70758239-671f-5d32-8c66-b42cbc3d8667",
+      "value": "kbcoins.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0341b85b-6a79-57c4-9fb5-a47241a5a679",
+      "value": "kubcoins.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf8f4236-2221-5e9e-9927-d9c0ee653bdd",
+      "value": "kybdex.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c6039a56-da11-50fd-8b50-c0bc1005075e",
+      "value": "lbankebit.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--572de338-4a11-58af-9b33-a9f960a1973d",
+      "value": "lbankex.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--027f14dc-d8fe-5ddf-b278-f72d2dac5ca6",
+      "value": "lbanktx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f2b0f45-796a-5303-9734-213cf3490e3a",
+      "value": "lejerx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--917d99a3-55d6-51e8-a4ed-355194a03d42",
+      "value": "m.bitdboss.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2113c266-7bb7-5bf3-91be-707d408ed57b",
+      "value": "m.bitrjtrade.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78267568-2fb1-51af-ac9e-2e3223d8f220",
+      "value": "m.extelepro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--948ef04b-df56-5ee5-acb8-935caf12656d",
+      "value": "m.rjbitex.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa7641fd-c00c-5676-a8e9-7f2e9c5c1fe1",
+      "value": "m.rjexglobal.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b69115d-0dca-525d-b266-6011126bae9b",
+      "value": "mdappb.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f5d3c82-e6ae-5805-b4bb-e36ca73f6023",
+      "value": "mdexwap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8100b11e-ae5a-5646-b500-da48312ea326",
+      "value": "eth.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1757ea48-60db-57ad-b757-51330612c2b2",
+      "value": "metamaskmin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--30e304fc-e629-513a-aac4-2a85f8b5d103",
+      "value": "metamaskmin.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e80e8dbf-7e61-53ad-875f-dba921d9f196",
+      "value": "nano.nanotechos.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1188888-cf19-5edd-9832-6b236f76cc12",
+      "value": "neocrypt.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bb68d4e-1136-594e-a8c8-e154a68e84e1",
+      "value": "trade.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf29095e-32a8-5963-b0d6-9ae16f45aa5a",
+      "value": "rexness.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1cd9d872-92d0-5149-94a2-99cb6a154fd5",
+      "value": "erc.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea49e627-0e2b-57dc-99eb-1cf23b56a0c4",
+      "value": "stakewise.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94d876f2-f87e-53be-9524-eedfff81288e",
+      "value": "tescoshoppingmall.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--978ce9e7-acb8-5886-aac3-f56fb35fce3b",
+      "value": "tiger01.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5564e19-75c5-55db-b04d-551b5d1c961b",
+      "value": "tmsfin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0980dba4-935b-569d-9945-cab30b2e45a0",
+      "value": "towerresearch.co",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9c9d8b4-7141-5543-b108-616f19a11a8d",
+      "value": "towerresearch.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c17c4f1f-924c-5503-a2eb-18195ab709fe",
+      "value": "towerresearch.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--282af243-1754-5a95-87c1-69d0c74969d4",
+      "value": "tscoints.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9eac248a-6c09-57cf-af24-8b1286c721cd",
+      "value": "uuexcoin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5032319-85e4-5ea4-9783-7115d55bc678",
+      "value": "uuexpro.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6d42717-e76a-5364-8fb4-bbea695b377e",
+      "value": "eth.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5248fa62-80ec-5f3d-8809-16f54b4e016f",
+      "value": "virgo.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a0aa0af-12ca-5672-b16b-9dbfced8ae1d",
+      "value": "wap.acyap.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c2336678-3e76-5da5-bfc1-defa96d8b88a",
+      "value": "wap.ahqap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1700bfa-d940-5995-aeba-a655691157b9",
+      "value": "wap.alinamoney.cn",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e2115d8-c3e4-59fc-96e2-b3cde33c4a6b",
+      "value": "wap.ameritdap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55aac2e2-ddc5-54c8-9a03-cc612081614b",
+      "value": "wap.ba1260.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--25af54a7-0249-5da6-baba-a03dfca1c416",
+      "value": "wap.ba1762.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0171df77-e6ce-5eaa-a74a-e3762cd1a0ba",
+      "value": "wap.ba2308.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--658d48f6-58d6-5f18-8c4b-8d6425c4009b",
+      "value": "wap.ba2992.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2a6309b-981e-5d3f-9883-3adb8c37496c",
+      "value": "wap.ba3113.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d35fa5da-8157-504a-bde2-7f4a28e692ce",
+      "value": "wap.ba3289.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9fd4459c-a49e-5200-b89d-3781c5d01694",
+      "value": "wap.ba8733.space",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--868502ff-65e1-5a9a-948c-8bb584d3ac7f",
+      "value": "wap.ba9988.space",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c41437d0-7efb-5c3f-a7ba-0157de66c906",
+      "value": "wap.bcmap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1e1d291-72ad-5f7c-84da-f0b7b04f020d",
+      "value": "wap.bitaysp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85819e5f-cddb-5a7e-a72b-d0c5322655de",
+      "value": "wap.bitayssa.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85819e5f-cddb-5a7e-a72b-d0c5322655de",
+      "value": "wap.bitayssa.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fcc25b1-1fdc-5977-8457-a998326c2ab2",
+      "value": "wap.bitexsap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac942d68-47d2-5ef8-a589-6e5624875341",
+      "value": "wap.bitpp.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82ca4a47-621a-54c8-aed3-9b67123a1e07",
+      "value": "wap.bitseap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--018424a7-49ee-5af7-8862-d10d764ff8f5",
+      "value": "wap.bittrexap.space",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--605722f1-8076-5f51-b642-4dcde1e851ec",
+      "value": "wap.blockpap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f86275fb-76b3-5d60-95d0-67840e0a1fa3",
+      "value": "wap.blockpros.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9833c3e-5040-592e-bc2b-b6ac3a7904d9",
+      "value": "wap.blockprp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fc7b1d7-ef5b-5fd7-8292-c1e1e0324c50",
+      "value": "wap.blockwap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b162254-c12a-522b-a7d3-e2cca16b404c",
+      "value": "wap.bmexglobal822.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95be1699-ffab-56bc-9f09-8072622d1c97",
+      "value": "wap.byteap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3fb6c0a-bd77-5d52-bceb-a5cc335f5c2f",
+      "value": "wap.bzuap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46e79965-df83-5e45-9ba2-b4c167b3d3cd",
+      "value": "wap.bzuuap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bd3eff29-be46-5513-bc6e-991aabd6c4ef",
+      "value": "wap.capitalap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c5169f5-1908-5dbd-82b3-0b0c5e2e9955",
+      "value": "wap.capitalonewap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--870b9836-0a72-5dae-8dfb-0a36d03120b3",
+      "value": "wap.cbccysap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91e8f3d7-9c5c-5e94-a04f-9536bdb76984",
+      "value": "wap.cboexap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ecceca6-86cd-5728-a6ca-5cd9609f5ffd",
+      "value": "wap.cbons.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--315f0e17-b86c-5ffc-b7ef-382d132e5451",
+      "value": "wap.cbous.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7dcee75-894b-50b9-9845-55087d95121c",
+      "value": "wap.charrajp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9780a2b8-6732-5d50-9c67-5f1d2a16e0ad",
+      "value": "wap.cmegba.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--930fab9c-a471-5c76-8371-3ad34abeedba",
+      "value": "wap.cmegraup.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--80d8ed09-aa80-578c-ab8d-49e8ee85a5f5",
+      "value": "wap.cmegroap.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bc7aeb06-9afa-5c7e-9db2-cd04fdafa39d",
+      "value": "wap.cmegroup.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f06391f-1c28-55fd-b648-2415755d740c",
+      "value": "wap.cmegroup123.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e36ad027-f6fc-5d8d-b7d7-13b5579a7071",
+      "value": "wap.cmegsap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90ea6381-20f0-5654-866e-a30d03bc6d35",
+      "value": "wap.cmegss.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63f12cf6-0778-5744-8806-a8b44b955625",
+      "value": "wap.cmegwap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d7659195-0cc7-54b0-a7e7-720b307d5fbd",
+      "value": "wap.coingateap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd9c140d-216f-59ec-bc50-2edbc9f8b7fd",
+      "value": "wap.coinworldap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7759e849-43fa-520c-b3a8-3e392e546717",
+      "value": "wap.colaap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682a6479-2d02-5f5f-8794-4ea648d0a201",
+      "value": "wap.coworldap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0071bb09-bcd7-5721-947f-48471d9fa872",
+      "value": "wap.cptmap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1041afcc-2636-5341-873f-1ae9fd981103",
+      "value": "wap.cptmsp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79f170cf-ca7d-5663-b5a4-0099eed7c59d",
+      "value": "wap.dexcoinap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99d9a835-256c-5edd-94fb-c7d97eaa95a5",
+      "value": "wap.dggdpp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f969cf85-090f-59c4-884e-1d6011c7ca59",
+      "value": "wap.dggdsap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae5f94fc-2f53-58ce-a4d8-9c66afafa954",
+      "value": "wap.dgwet.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c107743-59b3-5f77-b806-955084f16c0e",
+      "value": "wap.digitalfp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53127c72-b3b6-5eab-8e2b-aab3408f8f54",
+      "value": "wap.eer9.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c43da3b0-bac5-578e-baba-8cf3aa1b366d",
+      "value": "wap.eminim.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bdf42393-574d-5711-980f-39b2d9d55ba4",
+      "value": "wap.eminimp.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba072583-dfc3-5464-acd9-426c8ba1059a",
+      "value": "wap.forexfxwap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d01f0d69-260f-5ef9-adb0-04dc3263acb4",
+      "value": "wap.ghcap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7927d779-d7d0-59dc-a290-a2113eb78dee",
+      "value": "wap.gml678.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c03b1892-92b0-5f68-b2bd-50e798100b14",
+      "value": "wap.hantecap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a6af26b-7137-5007-93e9-ca937b304269",
+      "value": "wap.hopexpp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1abe8751-e7dd-5260-a3e0-03e6dd78b970",
+      "value": "wap.hotbitwap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a20337dc-0f97-533a-9d56-19ed341f5352",
+      "value": "wap.hotcoinap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8729f9d5-bd7f-5217-90d7-95cc000869e4",
+      "value": "wap.lmaxexap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f92df177-1e38-519c-b8f2-f9a6513cfa56",
+      "value": "wap.lmosexap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca985cd8-8790-554e-9086-97abe22467e7",
+      "value": "wap.mathms.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--edf550b3-6a20-5816-bbbc-8b357085b9d0",
+      "value": "wap.megamwap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa0d5ec5-7eb5-58b2-a503-a2d1b65e37e7",
+      "value": "wap.msmca.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cc8d164-5c39-567a-98a6-6eb5bd4e5520",
+      "value": "wap.nexap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e0a01cc-9c04-5a88-9c67-d0ffe95db893",
+      "value": "wap.nexcoba.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e0ee7671-35ec-5038-979e-c1d60ab07766",
+      "value": "wap.oamdiap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--685146c7-d31d-50af-882e-a5ef05ce12cb",
+      "value": "wap.okcoinap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d93871b7-2bc5-57f2-9245-032904eca31d",
+      "value": "wap.orangexx.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ef52276-f63f-54c8-aacf-4155dd1c48f7",
+      "value": "wap.otcprousdt.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3894ad6c-2256-5bbc-9ba7-0906fdc1f35c",
+      "value": "wap.otcusdt.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a7703cc-a227-5a9f-a14f-624a974876d6",
+      "value": "cotta.cn",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83ed44d7-fac4-5719-879b-b61bb676d952",
+      "value": "wap.paxtunap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca35ec60-613d-5605-b77f-33e045aebe30",
+      "value": "wap.pbpb.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b412b005-808c-5e69-a733-0661a7a850d7",
+      "value": "wap.poolednw.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d75d5bdb-6485-5938-b728-d67160f99de7",
+      "value": "wap.pooledwap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--538263d8-841c-5726-bbb5-90892ad2df9d",
+      "value": "wap.prcbrokerap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa1bf922-4e41-5cf0-a5a2-1a62ff94abed",
+      "value": "wap.robinhandap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--01a73d92-f103-5597-b7d1-dd16c52c4310",
+      "value": "wap.robinhs.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec5c0d21-6f51-561a-bcc0-3058e8a0cb32",
+      "value": "wap.safeg.com.cn",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab78abad-4fcc-5ea4-9598-cdcc8258e1ce",
+      "value": "wap.sdudwap.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1361be21-7396-5674-beb7-126dafd5f277",
+      "value": "wap.starfishap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b540b811-23f5-5fea-936a-edd143917c9b",
+      "value": "wap.ucoinap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2db968f5-1826-59e9-b992-ba788d48c880",
+      "value": "wap.vantgap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8fb5ad4-1b73-5b37-8b4f-8d7138280f42",
+      "value": "wap.vbn23.xyz",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--151936ca-09a1-5886-91e4-ee24e597b3bd",
+      "value": "wap.wbfexwap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5944e721-21ab-59ac-bbf4-7ac488fac891",
+      "value": "wap.wejnt.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3a62188-00a9-5bb5-bd62-8cdb52549695",
+      "value": "wap.windsorap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0cf9788-c1e0-5f73-a3a0-cc49b4d84855",
+      "value": "wap.witech123.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cbb069ea-1069-535f-9a93-0a1c228554b6",
+      "value": "wap.wwfap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--89be030d-e83b-54a7-a0a5-74d8e48d41c7",
+      "value": "wap.yibitap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--30f92bba-a559-57ad-a62f-43fc7c581f14",
+      "value": "wap.yibits.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--959d6fbb-82ad-5f55-aaf5-f32ba9114467",
+      "value": "wap.yibits.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08917ed5-5f99-5b3c-ae28-ebf27207909c",
+      "value": "wap.zbap.space",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ebe1e37-38c5-5f36-ba35-516528266f80",
+      "value": "wap.zminv.top",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c41fe739-bd96-5f0a-8292-24ee5887e67f",
+      "value": "winwincoin.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a452ae44-c139-54d4-b476-d46b2da59cce",
+      "value": "www.achainps.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11241552-8d03-5fb4-a86e-5e8414d65b34",
+      "value": "www.actradeap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4fc1d90-b058-554d-87c7-efa510fb098f",
+      "value": "www.actrades.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b96f55f-6370-5314-8bd7-60f3d609a2d9",
+      "value": "www.amerioss.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d9030e53-a574-5399-afdf-5229faf96638",
+      "value": "www.ameritr.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bb82626-15fa-5dd5-a5b7-7992b0267cb3",
+      "value": "www.asndems.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1872509b-19b6-5ed8-80ac-6c9a78fa8171",
+      "value": "www.avatraap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1872509b-19b6-5ed8-80ac-6c9a78fa8171",
+      "value": "www.avatraap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7223b65c-439e-51bc-8920-aa9f4997f3b0",
+      "value": "www.baktta.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b8938b7-3a24-5f28-9a0f-137f45d9e197",
+      "value": "www.batcipe.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15320f78-af10-5534-a993-629cd9874815",
+      "value": "www.bbitftpp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2cf9691c-297b-5852-993e-319cc1f6a332",
+      "value": "www.bbitftps.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c03d3f56-a4fe-555f-befc-1ced7131b346",
+      "value": "www.bcgroupji.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8fbb5aa-03d2-5b9e-8b28-9a330bbb4736",
+      "value": "www.bearblx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfc75243-07a6-5052-b980-a4b0c0c5e93a",
+      "value": "www.bflixyl.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8b61456-ce7c-51cf-86e3-15b52b52e367",
+      "value": "www.biankcex.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--553bcda7-b532-5546-8a1c-54ad69112acb",
+      "value": "www.bikaep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d1ddad0-c557-5bbf-8616-15eae1348410",
+      "value": "www.bikaz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fdceab8f-36ea-59a1-9998-fc20cef0fae2",
+      "value": "cc.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3ca07cd-4b53-536e-a9e1-517aec5ed504",
+      "value": "www.bitexnag.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--698eb36c-4087-5280-a554-98e9e97da2e6",
+      "value": "www.bitmoxap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--268d56b1-2337-5b58-a6e1-5c65664163b2",
+      "value": "www.bitops.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--348961e1-ab2f-5ff5-bd3f-f598327d8d54",
+      "value": "www.bitruepn.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4335664-8514-5944-a2af-c5d2acc22db4",
+      "value": "www.bitvavoji.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--64163719-12a2-525a-8595-9053d88f7802",
+      "value": "www.bitvavosp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ccf127c9-4b8e-5f55-a3eb-6fdbe02f9174",
+      "value": "www.blackrocks.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b08edd13-03d8-5fe7-a4ab-67dd972e2f2e",
+      "value": "www.blackrockx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b930076-5191-5489-aee9-5887989e0f2a",
+      "value": "www.blkcenpz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b095c6ed-4182-5d99-97cf-8531c527abb3",
+      "value": "www.bltsoe.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7125808c-cb68-5165-ac60-f4bd7b93b331",
+      "value": "www.bltsop.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7558d1ca-575f-5b9c-af64-2db4539afab3",
+      "value": "www.bmillpv.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df0e028c-1d28-5cbe-87bd-5ef311da0185",
+      "value": "www.bnexp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0d0a0c2-f72e-53fc-9bc2-75e899d877b9",
+      "value": "www.bogbop.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--42edf354-8d5b-5272-a492-960300a336de",
+      "value": "www.bogep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8f181472-f152-5beb-9833-6cdb6daef196",
+      "value": "www.boggp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3fd21a4-e706-5ab3-9b8d-75378729ad69",
+      "value": "www.bogip.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b763d3de-392b-5afe-933a-0c1dd83047fb",
+      "value": "www.bqbap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fb1540b-5bef-5b97-b90f-930d4fda4663",
+      "value": "www.bqbss.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90c3f08a-f0d7-5a52-9653-0a059013d4a5",
+      "value": "www.btccx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2da63873-8d21-5754-bd4c-7795a6dd33c7",
+      "value": "www.caponepp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6124c234-394a-5bd3-8714-28fa75382866",
+      "value": "tw.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b83abdd-0186-54e0-9811-c41d83f1f626",
+      "value": "www.cbxp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c70c9a21-cbfe-5b9d-92c5-b668f53a5f9d",
+      "value": "www.ccdfu.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4044c87-db3a-5c6c-b1d2-284385b09e26",
+      "value": "www.ceggap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2a0976e-ba0f-5c96-9475-ff22760b8cbb",
+      "value": "www.ceggcc.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ede3b19-0e1e-5064-adce-9d9c0e5c8409",
+      "value": "www.ckbap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1711313e-0e92-5ce3-8b88-7f2cd2fdd15b",
+      "value": "www.cncaps.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd3c9b19-af3b-52cf-8277-e83a859a94cf",
+      "value": "www.cncolapi.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1e39a6ce-c81e-5713-b93e-a91ad86b11e8",
+      "value": "www.cnexkz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d442d88a-9cf6-51c5-b68c-d593967ee1ad",
+      "value": "www.cnexlf.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfc0182c-72e7-514f-9a5b-e7c2ef7c5a66",
+      "value": "www.cnexs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4581d99-9f75-5d76-98a8-8ed2b75173f7",
+      "value": "www.cnfieldap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1464c31-1174-5158-9c26-a9c1a084ebfb",
+      "value": "www.cnflexh.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7825bff1-e960-52a7-950b-68a0c546c01a",
+      "value": "www.cnmarkap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2032448f-4a8b-5e49-b5a8-27197796edf9",
+      "value": "www.coexxap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4cc6117a-a5d8-5f81-95b3-c523f8899466",
+      "value": "www.coincoot.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7369aad0-b468-5bd9-854b-7bb6e3cc6223",
+      "value": "www.coineggdp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae35f5e4-1815-5763-b49c-3c116d575934",
+      "value": "www.coingaot.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d7518ce-363c-59dd-9f0f-bdb0bdabe225",
+      "value": "www.coinmex.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--214e31e3-12e4-5064-9c8c-70cacdd7ede9",
+      "value": "www.comketpz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8436ffb5-8552-5e76-b6a9-e614e50887ad",
+      "value": "www.cryptosp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd5d8a65-46d6-5ba8-8534-99115ec3d528",
+      "value": "www.cturkp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc64cb1e-7463-5451-a657-30630e1d5dd5",
+      "value": "www.cwgmanap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc64cb1e-7463-5451-a657-30630e1d5dd5",
+      "value": "www.cwgmanap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7cf24b9b-96c0-5c42-805b-b911952dda05",
+      "value": "www.cwinsp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94b202bb-7a4f-5422-9a83-f702a43ebe56",
+      "value": "www.cyxet.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8adc5106-74a7-55ac-9b43-ee05c0812b24",
+      "value": "www.dcexx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ddddf3a-db1f-5967-831b-2513a4618ab9",
+      "value": "www.difundap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2cb304e9-e1aa-5f92-8622-95c41e63d1be",
+      "value": "www.digitalf.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--db8ca1a0-8c93-5a73-815a-e5b0667825be",
+      "value": "www.digitalq.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16009fbc-42cf-5e1d-b933-b56c498d647d",
+      "value": "www.doexpro.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44c0a3df-37e5-5e64-8708-0cc34b1f5c7e",
+      "value": "www.dxdproex.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0849fe8b-07db-521f-a65c-b7dddaa40250",
+      "value": "www.dzengot.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bbc9052a-1175-5251-b0a1-8e9506ade8a8",
+      "value": "www.ebcap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--42fab8f1-9a0f-5a95-91a5-f7960e8feede",
+      "value": "www.ebceplus.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe6e5097-d941-5e09-a03c-3f2f712ac2d4",
+      "value": "www.eightcapp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6317217-2e63-512c-8473-521f961e709c",
+      "value": "www.eightcs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--edb8f28c-9da2-5c9e-a7f6-2ca0eaa60847",
+      "value": "mining.info",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba7de96a-274d-5480-af0d-59678945a43c",
+      "value": "www.etorout.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a794452e-4ff8-5ebd-b695-95e9afc777ba",
+      "value": "www.exblockin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d471c84f-868d-5f36-9e1e-ef5bb1e3ed45",
+      "value": "www.exkcqs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6134a1ad-36a6-58ae-b884-d7cd06af923d",
+      "value": "www.exnowap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6035d82d-fb63-5d2b-b87e-d0faf683e97a",
+      "value": "www.exnows.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e714aef6-9d03-54ec-9968-e47cc3dfec15",
+      "value": "www.falcnpz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73eb820a-1c4f-5c16-ad9a-30a38fc1303f",
+      "value": "mining.cc",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0bb977d-c036-502b-95ca-b1eefe61c209",
+      "value": "mining.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14895552-56de-527f-89ac-cc2a69e617f8",
+      "value": "mining.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74b28ff6-a713-56e5-92a5-a623e219077c",
+      "value": "www.ftxcap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0518db0d-9dc8-51b4-9787-b0a745bb01b3",
+      "value": "www.ftxssn.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06fc4f73-5911-583f-9d19-e84d57da6e39",
+      "value": "www.fuconap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54217622-3a13-5d04-8eba-58efdefa183f",
+      "value": "www.gdaxss.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7069c0c-1faf-51b6-be44-ca50335c55d5",
+      "value": "www.gefwts.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ba0b332-e130-5caa-ae84-12e33d2b05ec",
+      "value": "www.goedefi.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba3d0448-8729-553a-a525-51d6d8def97f",
+      "value": "www.gohexs.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd5dcb9d-cd63-5c64-8afa-b1a81c78375c",
+      "value": "www.gventurep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9949f2c7-5481-503b-9783-96b09cd5edf3",
+      "value": "www.hmexge.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8fada4d-8cdd-597b-8ead-0711c2827a68",
+      "value": "www.hopoop.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78a9b208-0923-5a67-951d-4c95740b8a18",
+      "value": "www.hotbits.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--feeed4b3-354a-53f5-8c87-0a78ca292a1b",
+      "value": "www.hotcnap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bea3ce0-3670-5a3d-8703-913fc79c2a85",
+      "value": "www.hxexnc.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2cf520f0-e154-55d4-b378-cb4580f0035f",
+      "value": "www.jobeedl.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2c0d72e-ea8e-5a5b-8ccc-f068b6764bdf",
+      "value": "www.jobeeds.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ebcde4aa-13a5-55ca-a8b1-ac40472be886",
+      "value": "www.jobeeji.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c5c0925-6804-540c-b096-4f8cc81239ed",
+      "value": "www.jobeema.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--034df6f5-d8fe-5dcd-a5c0-66abbcadd115",
+      "value": "www.jobeete.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--148d5250-512f-50ae-81c1-1cea8e12c60c",
+      "value": "www.jpexs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f00c264-c3ff-5d7d-9763-77e3c3233e13",
+      "value": "www.kacofinance.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1cd8bbd1-f911-5abe-8e06-6527871a8914",
+      "value": "www.kbgr.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15dda040-2164-5e61-a620-a28da096a48a",
+      "value": "www.kczwup.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a5068ea-7d90-5afc-a83e-87b53b2e419f",
+      "value": "www.kjsjjdbqweva.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f9019c6-8f5a-5695-838d-f6993ef6137d",
+      "value": "www.kkenproap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e8a2134-e059-5bb4-a88b-5736de6fff76",
+      "value": "www.korbitap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d6f663c-30a6-5142-9b97-aacb1ccb3120",
+      "value": "www.kscmkttp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a4905dc-7afb-532d-915b-0acf29e50775",
+      "value": "www.kxevzf.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06fe9332-f13a-557c-b493-d1263651c1bc",
+      "value": "www.kybbitap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4de347f-2d8c-5410-b1aa-7adf96ad612d",
+      "value": "www.kybitap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c2c1fdd5-a0d2-5a96-944d-76680820c1ca",
+      "value": "www.kybnets.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a7c1812-7b18-5767-8ad8-7d2439d9933c",
+      "value": "www.limuu.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b901ae8-a99c-57a7-ab5b-ce44c332bb87",
+      "value": "www.loksi.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a962964a-a1fe-5964-8d22-f6a1aac86827",
+      "value": "www.lunnocp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--327f3c33-ad7b-5f39-8f22-e99606387c98",
+      "value": "www.lunnowq.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4911f4e1-506d-524f-bad9-66988f732328",
+      "value": "www.lunox.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b460eb4-9b77-5ac2-9be4-7d18600a83aa",
+      "value": "www.luonoap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75264f73-27ca-5d27-9de5-04178e09606e",
+      "value": "www.lykkexpv.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--856084ea-4e74-561a-b3d5-5814745294e9",
+      "value": "www.mbitvnex.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--309a7d25-1242-5066-ae5d-bc5355d3ab27",
+      "value": "www.mecadrw.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--962f6b0f-9ccd-5b4c-a94f-da6e7ceb79b3",
+      "value": "www.megamilap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03f375bd-2475-5895-a1e7-2fd381c977ed",
+      "value": "www.megamildp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3be803f9-8e0f-537c-a80c-e81b9696f74b",
+      "value": "www.mercdiv.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--77c77fb2-8e64-5eb4-a93a-9f940fcbbfa5",
+      "value": "www.metamaskmin.pro",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24ab6015-772e-5106-9f2d-b830efa7bb9c",
+      "value": "www.msfst.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ca874f6-c92f-5218-b920-9d41205cdc31",
+      "value": "www.nagaxap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5605c34-de5b-562f-b76f-79d5288669ab",
+      "value": "www.okusap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2253cef7-959c-5de2-aed6-24ae443cf9af",
+      "value": "www.okxusa.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--01c90ce0-b4d7-52a3-b188-6f1705c3ac69",
+      "value": "www.okxuse.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52d829cd-0bb7-581c-8a5b-204611a6adce",
+      "value": "www.okxusee.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--89a1cf8c-0eb6-5881-83a8-2c981bd7080b",
+      "value": "www.onecopi.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f56e42b0-803d-5c40-a851-9006a209c6c7",
+      "value": "www.pbrokerbp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46cdaa94-b0fd-58e2-a1d5-12d78d9ca895",
+      "value": "www.pexccpz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7116f510-2aec-5229-b832-8eb7d18e65bc",
+      "value": "www.pexccsx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--954c7a5e-8259-5b10-99a5-5b4f3e544087",
+      "value": "www.pitbears.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f53d619e-22f4-503d-8e8d-3cfc51564767",
+      "value": "www.polonxap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a92e2e52-fa2d-5ec4-9f38-08f8c026f7b2",
+      "value": "www.polonxg.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--acdcc9cc-9432-557f-969a-3f41e349a4af",
+      "value": "www.psexap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4b02890-7f2e-58f3-982a-2c76b93014d6",
+      "value": "www.royalcop.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6149005-43db-5ac6-8d13-e29fa46e2afc",
+      "value": "www.saexwa.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1cd9d872-92d0-5149-94a2-99cb6a154fd5",
+      "value": "erc.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27dc3abf-efce-5187-b9d9-c8137ee6ce36",
+      "value": "www.safepalas.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a61a3ca4-76ee-5532-ab50-01b1619f54e7",
+      "value": "www.safepalrl.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--592db8a5-485d-59ce-86a2-689539278d85",
+      "value": "www.sconme.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6605eb3b-cf5e-599a-b0bd-af656efaf6bd",
+      "value": "www.sconwp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f4306b0-60ee-52be-b73d-0f53dfdde28f",
+      "value": "www.sfpalio.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67792ad4-3a55-5f43-b13c-d3853d2e62eb",
+      "value": "www.shejlo.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79f2e7a1-66b1-51a9-910a-c8a882ed728c",
+      "value": "www.shswapep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c77222da-1482-52ab-aeed-d58ee7f72464",
+      "value": "www.skusdtap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--634ba2c7-1371-5a4b-b670-1a17329814c6",
+      "value": "www.snmew.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b50b6e7-665e-5ccb-a1f6-11007defcd93",
+      "value": "www.snpeac.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--337b017c-ee58-5c93-be14-bd5c6fe3b229",
+      "value": "www.sswapap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d2c5b8b-8aaa-5919-a8e0-5be089d5cc08",
+      "value": "www.sswapep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7de7a5f-bab5-5653-9863-c23c7a52be55",
+      "value": "www.stakewise.net",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae1e5d47-e91e-5c92-b5ee-8a287c3a8630",
+      "value": "www.starkw.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b45e3be6-8a93-5d19-acb1-cd4f5ce8737f",
+      "value": "www.stidebprom.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d662282e-ea2a-51f7-8cf3-b5c038bf38bf",
+      "value": "www.susisasr.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ace9d2cd-bc96-57e0-be28-a780dd9179dc",
+      "value": "www.tbitap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0dd0dbaf-a4a5-51ee-9349-0794435ef873",
+      "value": "www.tbitz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c9ac41a-ac8c-575c-91a6-f37aecf02f2f",
+      "value": "www.tdvies.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b1063d8-52cd-59f7-926e-041640737e84",
+      "value": "www.tdvieway.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bb78bd07-ccb4-530b-88f9-b1bdeaf9df70",
+      "value": "www.tdviewwb.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03d6c28b-6017-574f-9b91-2fbfa4602bec",
+      "value": "www.thbtaxs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17583194-62eb-541b-9482-316844924a46",
+      "value": "www.tidebitpros.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6814422-e8af-502e-8659-87fdee880e0b",
+      "value": "www.tidexwowe.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--356d20f3-c62d-5800-9393-8ac7651056a5",
+      "value": "www.tkmillp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5277c63-7bab-52a6-aff5-9cfbd36d3260",
+      "value": "www.tmsfin.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dfa653a3-93ad-5639-bba5-4b149b146aa0",
+      "value": "www.toroenh.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ebb35a11-871c-56ef-996d-832df13c3959",
+      "value": "www.toroeph.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f7efe16-7a2c-5f9b-ad70-3395180d19de",
+      "value": "www.towerresearch.io",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9528e54c-a4bf-56dd-8984-a04985f628b6",
+      "value": "www.towerresearch.me",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16753720-35d8-54c8-9d00-1def86760f3b",
+      "value": "www.traviewx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--078cd292-c7bf-5f03-ae74-4c977c09fb73",
+      "value": "www.uhmext.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a25c8503-633e-5742-a167-e42764826eaa",
+      "value": "www.vanecks.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb9c46a1-3aa7-598a-a2cc-df7fe96aef4e",
+      "value": "www.vbitexp.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5123a078-96cf-596a-b6f6-d008ab596ea9",
+      "value": "www.vexep.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1bd13ea8-77be-5b96-b4ea-3abc98a384f1",
+      "value": "www.virtues.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74ff29f1-51f3-50d8-a77b-296ffc199bda",
+      "value": "www.virtuya.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c46b91e4-e21a-57c5-a9c0-63c89b08db82",
+      "value": "www.wbexcd.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3be1299-c069-5417-990e-123a5aa18add",
+      "value": "www.wbexdk.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d53f05c9-c2a5-54f9-a0a4-2e650d6b79ac",
+      "value": "www.wbexio.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b050ce5a-8fde-5d98-902d-6c89e194c133",
+      "value": "www.wbexqi.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e1e24bd-5e04-5a5d-8920-d6ac77877513",
+      "value": "www.webswaps.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8035fa2d-1edf-5fe2-957b-3bc8f292cefc",
+      "value": "www.webullxa.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1e68a50-fb8b-5ef8-950e-b57059e70cfd",
+      "value": "www.whitebitx.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd79bc2f-d28f-5e19-a8a4-0774ed2fa1bc",
+      "value": "www.wirexsrj.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7385df8-ebb9-548c-8433-4d9644f224b7",
+      "value": "www.wisunomkp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08243cac-a1bd-51bc-8830-7be84509995f",
+      "value": "www.wodkbv.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58dd7612-820e-519f-9c63-445c2c3bee8b",
+      "value": "www.xytap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--370ecadf-7302-5e6e-a132-91b26d4e43d5",
+      "value": "www.ythdttps.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2516c26d-9a9a-5355-a745-67a58068a661",
+      "value": "www.yzfsx.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f422ccee-7b08-5ed7-a243-6d5ed0fbc497",
+      "value": "www.zbap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d5af296-68a4-5850-9f8a-614c99bc2adc",
+      "value": "www.zbgrp.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13d97d29-e7ae-5fe0-b14a-e6e64d6a1625",
+      "value": "www.zbob.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f803413-c964-5b91-a58e-e4263f86acea",
+      "value": "www.zbxs.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f05bdd8-63d5-5e9a-86aa-72568a290615",
+      "value": "www.zcmarkap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0fe9a6b-822d-5606-9993-7cefe064e677",
+      "value": "www.zcmarksz.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef3032e4-33ce-5754-95d2-57aa38969d15",
+      "value": "www.zengoap.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--422b30b0-033a-523c-983d-1aa9e55da601",
+      "value": "www.zengoap.vip",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24e7f45b-e603-5c36-98c0-b1aec8dc9c72",
+      "value": "www.zengous.com",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0313e77d-891a-5a34-b2a3-a8cc34c6a357",
+      "hashes": {
+        "SHA-256": "040f8e516bc4b3510856d18a8eba341cfedb05be1f1e9b0b47a9fc09036ca40a"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb963a48-f996-53a8-a79b-e0d9e3434d5d",
+      "hashes": {
+        "SHA-256": "0bb1c728d75bcdba69e5ed0560234f6eaa46d5533d6dd388e1d89bc20b6415e2"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26c09701-9cb2-5c68-8669-f57232d7cf64",
+      "hashes": {
+        "SHA-256": "15f068f2f607076fe2dbdf4de72b45af8d6d53e948bcccad6a92abea077e7aab"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7e22ee5-c9a1-561e-9fed-862163f8fdec",
+      "hashes": {
+        "SHA-256": "1cd60c1183ae3c4b43a56cf9cd16c53ea2e031ca597c2fc5a1c06ae7e601cc9c"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e1fe8069-3c24-5878-a4df-d2312d0dddd0",
+      "hashes": {
+        "SHA-256": "229c06c350b73601da01399f0fe0c14c57908a032c7d7b9b2b833defef96ac98"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9f1fdea-8642-5928-9fbb-9387a1105142",
+      "hashes": {
+        "SHA-256": "28b0de5783628ebdaa296cf75b09db3b86acfdfeb1749be38a97b50421d841b2"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86bb82f6-8f13-551b-aaab-d016b5ce8764",
+      "hashes": {
+        "SHA-256": "3bdb798cf62878c176eb0f2a5395fbd4c869e67ac21e1a6a99afa3bd5755c7d5"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8fb6d02-06ab-571f-8698-d95e7032477b",
+      "hashes": {
+        "SHA-256": "3d49f28d5384002fc877e6ddc628bb723d8afeb9afbc978e71ec4853463073b1"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2f1a6ea-26a8-5c4f-a4d3-299ea3ec6b7b",
+      "hashes": {
+        "SHA-256": "4e706e1b1d37cd71d09e3419fc28c9489dcdfa3fd6bf9638eac639bc64a32f63"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1185f9cc-28b4-5991-998a-b64ee8c9f290",
+      "hashes": {
+        "SHA-256": "630ab5eec96e52f4bd991888722cbc61d4e0bde525be9e572e85e5416918bb65"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6d3215f4-e69f-59df-a7b8-aaaee4f9975e",
+      "hashes": {
+        "SHA-256": "6747f718fcc2e63d8178057ce975e20a22c6ce374da8f846301951346d29e23c"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe75cbbc-8025-577e-ba6e-6fbe5f2e96e2",
+      "hashes": {
+        "SHA-256": "6e73f1e51c01ab1797fe67475d9bda7b32fad97366bd1a810695e0739304c863"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61424592-a607-5a1b-9965-3dfbd6de3220",
+      "hashes": {
+        "SHA-256": "85d0533e2624d6a626b51f97e1b398f99ec3285c428447285277acacf3af6ecb"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a35b47b-f1b3-50f6-b1ea-1b15c0d763de",
+      "hashes": {
+        "SHA-256": "8f40c1c8dd281d63ca60e38d0b533a68aaa4122967d42339c2ca00ea9ad1ecc0"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be7edd78-1508-5549-a684-42523673b1f0",
+      "hashes": {
+        "SHA-256": "9d98a119e332586d0d69a303285246246df939e92d1d72ff2e3dc86a9baca677"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a164bb8-e97a-59a4-b286-c7ddd2dd5a85",
+      "hashes": {
+        "SHA-256": "c9e179fb0781a015bea4f3fd34fa27e67c5cf532d20596822df8374cf131d766"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0736ea29-a029-5756-8852-3dbc7dbfc08f",
+      "hashes": {
+        "SHA-256": "deabaa3b9b02d8b8f7bb8315ce0d54531502ccfcb78d64241bc9b3642f6b33ee"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--197971a2-3fa9-5af9-bd4d-391be25fe05d",
+      "hashes": {
+        "SHA-256": "eda389a626d9e54c48498800a614e74a335cffd26d807a0737bb95e28a3e2a33"
+      },
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--96031384-e70b-5647-b5d0-5908b4b630c5",
+      "value": "https://app.btccdn.vip/BTCC.apk",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--847bb63b-ac29-5411-81b1-de71b61ab22e",
+      "value": "https://app.jlnrbc.vip/Exmo.apk",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--80f654bd-3561-5703-be3d-5efad0da4574",
+      "value": "https://app.ovezjx.vip/BearBitFTP.apk",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1170a2fc-dd04-598d-bab6-7910723c6c8f",
+      "value": "https://app.xkqnqz.vip/Kyber.apk",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3ee62b25-6c77-5ab0-b814-624674792fbc",
+      "value": "https://app.zmsepi.vip/Bearku.apk",
+      "x_opencti_description": "ShaZhuPanfakeapps.csv"
+    }
+  ]
+}

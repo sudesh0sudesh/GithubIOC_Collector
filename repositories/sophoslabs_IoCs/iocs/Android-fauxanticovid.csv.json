@@ -1,0 +1,148 @@
+{
+  "type": "bundle",
+  "id": "bundle--38b92010-1b79-438e-9b80-88598ce784ef",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a81ec987-f676-51bd-b4de-1db97ae28b58",
+      "value": "8.208.96.239",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--38d766d4-aa0f-582d-9e1a-d0b35424e4d2",
+      "value": "8.208.103.115",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63988edd-3ff3-551f-a8a6-04ead2d7373b",
+      "value": "47.254.175.73",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--55a1fdcc-5b97-525e-ad32-6fbd3954ae40",
+      "value": "47.254.146.169",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6d361a98-7b17-5421-85c0-5dea4d216356",
+      "value": "https://news.sophos.com/en-us/2020/12/18/fishy-french-covid-contact-tracing-app-is-a-data-thief-pest",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0db3d3f1-6a24-5b5e-8a9d-91ca4459037d",
+      "value": "newwaystadium.top",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be6b302c-9f4e-5ddf-830b-8e46345a5f57",
+      "value": "bandofdna.top",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--501a7876-c57b-5884-b814-07c26d194b81",
+      "value": "clubmasters.top",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--651dfdc8-20d9-599f-bbfe-624320f68df7",
+      "value": "jrdonnald.top",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--827ca90f-9b19-5105-ba59-c72dfb69848c",
+      "value": "differentplayers.top",
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af625902-3c68-542c-8614-8da8d332a2a6",
+      "hashes": {
+        "SHA-256": "4bbca6222f38ba4996a85bbc38c1ce6cf03e4a417dca28513c24c5799388add2"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a9f2e68-d1ba-5fce-9ab3-f3d253d2e706",
+      "hashes": {
+        "SHA-256": "7d7a99bb0893762b0b520666c55871614cfb6ffa5159ca5862d70c048d92889e"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49416105-236b-5c31-8fbe-9606cffe8230",
+      "hashes": {
+        "SHA-256": "0ab6112b07b5c5c9cd0399c202b55c781ddf07539b13f90e12659e209d623500"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d3604ad-87fc-5273-ae4e-16f003f18b18",
+      "hashes": {
+        "SHA-256": "4fe6e62eed2ba12104e19ccc691e157a38d7f8f60acfbfcb5ca2184624256df7"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e3670a7-4617-511a-b43a-5635d12e5217",
+      "hashes": {
+        "SHA-256": "c1dd9c26671fddc83c9923493236d210d7461b29dd066f743bd4794c1d647549"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d996d98-945b-51c3-93b0-9bd89277865b",
+      "hashes": {
+        "SHA-256": "72d5e65c99d24da89431fd445a57c7ed7aa34d4b97a4084cc7ef51b1a49e3cd9"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a0d619a0-c2e6-5c13-9a3a-5724d255a169",
+      "hashes": {
+        "SHA-256": "5a4b556ab46d9e1e86e9cc1f7a233d53c589ecd3ba820ee7255a488f1c145311"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21d99e6d-490f-57da-b58c-c23868b92943",
+      "hashes": {
+        "SHA-256": "c34367f5395f513b8ee0dedcd5502aed69172e71004a80c1f896ca97e05f4f62"
+      },
+      "x_opencti_description": "Android-fauxanticovid.csv"
+    }
+  ]
+}

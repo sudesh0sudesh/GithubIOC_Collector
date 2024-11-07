@@ -1,0 +1,173 @@
+{
+  "type": "bundle",
+  "id": "bundle--cc4fcdbf-8a94-4582-a6db-2219b820b696",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0070bd6c-ec13-55d2-bc1e-6f090d71478e",
+      "value": "104.244.42.129",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f303de12-bff6-50d4-800c-0d288ece893d",
+      "value": "139.60.162.19",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc592022-8dd7-58e5-8877-0f56a3dbd26e",
+      "value": "143.110.185.84",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c356535e-09dd-5c55-b5bf-2f6cde34bf28",
+      "value": "185.162.235.61",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0f8a7f2c-0791-576f-9d79-9e2ad50161e6",
+      "value": "206.189.56.140",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a4d8e454-8a63-521a-82a0-d8f16786a847",
+      "value": "31.13.93.174",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6a43fac6-baa2-51fa-b894-017471ad92c0",
+      "value": "31.13.93.35",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--36453e1a-d221-5304-b28b-1753bddf375e",
+      "value": "52.204.190.157",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7cdee41-ffc9-50e1-ac05-c8dde412ddcf",
+      "value": "https://news.sophos.com/en-us/2021/03/31/sophos-mtr-in-real-time-what-is-astro-locker-team",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf45863d-daa0-5f27-a741-8bac258f63de",
+      "value": "supercombinating.com",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf45863d-daa0-5f27-a741-8bac258f63de",
+      "value": "supercombinating.com",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83f98229-846c-593e-8985-448a7d3f06c1",
+      "hashes": {
+        "SHA-256": "30ff38e859a849b6776dd7b0f299ba83605858f661297f39585bcf928769feef"
+      },
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ee2eee5-3303-52f4-968d-07fab0e74c48",
+      "hashes": {
+        "SHA-256": "5606c92af263869268a11eb730eb32d5fd770896530b23e42d2390d6ef230d61"
+      },
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b219c1c7-eab5-5147-99c0-eeab95a9eacb",
+      "hashes": {
+        "SHA-256": "864930113d66c413bab705e79add3659efa95126449bfad05abf99c6d7e8ae00"
+      },
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--067b1764-b6cd-5c17-a7bb-a2242c7ba0ae",
+      "value": "yesc64.dll",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--090642c2-bc2f-517d-b3b6-0463b9ecb7ae",
+      "value": "Keatuxnf.dll",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea1fb86c-fd84-5cd3-bf55-93bfc0533be0",
+      "value": "niicok.dll",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "Ransomware-MountLocker.csv"
+    }
+  ]
+}

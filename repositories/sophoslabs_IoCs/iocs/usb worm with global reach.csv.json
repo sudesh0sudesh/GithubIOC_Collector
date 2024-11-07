@@ -1,0 +1,116 @@
+{
+  "type": "bundle",
+  "id": "bundle--544e952d-b25d-44d9-8576-4697c8451ae0",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--49315cad-080f-5124-8471-121779d2912d",
+      "value": "45.142.166.112",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--503620b6-9559-5fe9-9b44-d61f35d49730",
+      "value": "https://news.sophos.com/en-us/2023/03/09/border-hopping-plugx-usb-worm/,Indicators",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0437c29b-1485-54df-b82d-2ad91499ae1c",
+      "hashes": {
+        "SHA-256": "352fb4985fdd150d251ff9e20ca14023eab4f2888e481cbd8370c4ed40cfbb9a"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bcd1b295-f5de-55eb-a28c-5820479d4d61",
+      "hashes": {
+        "SHA-256": "5b807629ab299abec70f88f861487c55a6795d6e27e5d85c64080f072132558c"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bcfa9963-e322-585a-a59c-e0aafd45a4f9",
+      "hashes": {
+        "SHA-256": "6bb959c33fdfc0086ac48586a73273a0a1331f1c4f0053ef021eebe7f377a292"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6acf6f0a-9d26-5bd0-86b3-94780d182dbf",
+      "hashes": {
+        "SHA-256": "e8f55d0f327fd1d5f26428b890ef7fe878e135d494acda24ef01c695a2e9136d"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40d0f9ad-b2bd-509f-a1bf-a75ff66648ea",
+      "hashes": {
+        "SHA-256": "edaa8b62467246d9a43e0f383ed05bc3272d2f8b943a79d9d526f8225c58d1e6"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d7bf238-fbe3-5fd9-ae0b-9c05429d40ed",
+      "hashes": {
+        "SHA-256": "432a07eb49473fa8c71d50ccaf2bc980b692d458ec4aaedd52d739cb377f3428"
+      },
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f89c482-81ba-55f8-9eb4-469dfd0fccd2",
+      "value": "wsc.dll",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f89c482-81ba-55f8-9eb4-469dfd0fccd2",
+      "value": "wsc.dll",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f89c482-81ba-55f8-9eb4-469dfd0fccd2",
+      "value": "wsc.dll",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f89c482-81ba-55f8-9eb4-469dfd0fccd2",
+      "value": "wsc.dll",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f89c482-81ba-55f8-9eb4-469dfd0fccd2",
+      "value": "wsc.dll",
+      "x_opencti_description": "usb worm with global reach.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90f12432-372d-577a-bd62-355f9f18e512",
+      "value": "AvastAuth.dat",
+      "x_opencti_description": "usb worm with global reach.csv"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "bundle",
+  "id": "bundle--4462850d-ab5a-439e-91ef-2eb976e4e800",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--731896a5-a1f2-5b2c-9e0f-ec55171299bc",
+      "hashes": {
+        "SHA-256": "435f48667b32c3ab8bb806a8783c0fc40af86e6c5cbf6f621d6e1a3f331483ed"
+      },
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--830df1fa-610f-5f71-9c12-b43485793cf4",
+      "hashes": {
+        "SHA-256": "ea781eef1da03ea2c3b5250ce26b00445d8a5123bbb0575c583211cca53c61db"
+      },
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f422d07a-ec9f-5317-87e8-a9cbf37a6511",
+      "hashes": {
+        "SHA-256": "9a7e79d4ff235feb12672979dfc073d2b4572233772ae500ef6b69c670a9820e"
+      },
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fae34dd4-22ef-515b-964e-b223e2b3877f",
+      "hashes": {
+        "SHA-256": "5f2c97499943878d853332da541138bd6ccbafca7e00d6f90d06545b27b66ca3"
+      },
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--72b3c5e7-4f62-54a4-98b3-0e24f630cd0a",
+      "value": "Services.js",
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1d9d5875-305a-57c4-82d6-884e194e76c6",
+      "value": "selling.dat",
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0137dde-43ca-5373-82d5-64585ffbab95",
+      "value": "Tactics.js",
+      "x_opencti_description": "gootloader_cats_iocs.csv"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "type": "bundle",
+  "id": "bundle--42c0e3f9-15fc-4978-a2fb-c8d672458083",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ecca3f69-23c4-5399-ab48-ef8b76a6061b",
+      "value": "103.117.101.231",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1f8f6cb-eac6-5680-ac0a-ae026402b456",
+      "value": "103.135.248.52",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e91f0620-4439-5372-8953-1e852d3ee098",
+      "value": "103.135.250.83",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8143fb94-8680-5bf7-9e86-7bd2f4169b68",
+      "value": "154.3.37.174",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b10ba4f-2fee-5c96-88d3-59093f6a46d0",
+      "value": "45.207.26.139",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--97850f4f-49ef-541c-9cbe-ce0be235b565",
+      "value": "219.83.52.46",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c6f66528-fe97-5792-a2ca-d02d37ba3619",
+      "value": "47.246.22.112",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5bb38e1-f83e-50a2-bcf7-2540e8cf8e82",
+      "value": "8.25.82.165",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ccc09889-bad2-5e45-b798-7fa36a680e74",
+      "value": "216.83.52.46",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b8e549bd-1b9e-5744-9d7d-851b929c6d36",
+      "value": "216.83.53.28",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--23dbe37e-8e5c-5d63-9898-82a2a5a02f3c",
+      "value": "206.233.131.113",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ccc09889-bad2-5e45-b798-7fa36a680e74",
+      "value": "216.83.52.46",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--23dbe37e-8e5c-5d63-9898-82a2a5a02f3c",
+      "value": "206.233.131.113",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93bd4e21-04c4-5b28-8a7a-357286a7ebbc",
+      "value": "all.rcufgmj.cn.w.kunlunea.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f67413f5-7585-5756-889d-5403b4b8313e",
+      "value": "https://twitter.com/Alicefd1314,Scammer",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ff3ded5-a256-5e28-b3bc-2e85ce7c1dcf",
+      "value": "mebukiltd.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8d190e4-36f1-5eb9-84c2-b44691b1ef76",
+      "value": "account.mebukiltd.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f94f9fd-1059-5c45-8e78-ab560f37add7",
+      "value": "mt.mataquotes.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1f9927c-7baf-5049-a5e1-7b015bd05948",
+      "value": "mebukifx.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a275dc15-dd0c-5d35-bb66-0a7598743563",
+      "value": "account.mebukifx.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--471895f2-4026-5ddf-b0ee-acc7b0191e2d",
+      "value": "spreades.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b89d38b-25a9-5dea-9bf9-5461469b8d35",
+      "value": "billionmt4s.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3281c54-50bb-5533-9b21-435cb526a93f",
+      "value": "tickml.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--850ad733-8924-5cc6-8891-e1a9d46e4e89",
+      "value": "eur.net",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--262b776d-aa58-537a-813a-0ea6f0c69b20",
+      "value": "fx.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f94f9fd-1059-5c45-8e78-ab560f37add7",
+      "value": "mt.mataquotes.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f94f9fd-1059-5c45-8e78-ab560f37add7",
+      "value": "mt.mataquotes.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f94f9fd-1059-5c45-8e78-ab560f37add7",
+      "value": "mt.mataquotes.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f94f9fd-1059-5c45-8e78-ab560f37add7",
+      "value": "mt.mataquotes.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ff3ded5-a256-5e28-b3bc-2e85ce7c1dcf",
+      "value": "mebukiltd.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1f9927c-7baf-5049-a5e1-7b015bd05948",
+      "value": "mebukifx.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96ed2562-2e89-5aed-8305-972b5c40d6bc",
+      "value": "accounts.Mebukifx.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d664b920-0f84-53f7-98e1-48343ebd95be",
+      "value": "app.homebar1.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--636c9979-bbf7-5601-b157-67c44ce52678",
+      "value": "rowe.ydukgb.cn",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--471895f2-4026-5ddf-b0ee-acc7b0191e2d",
+      "value": "spreades.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1ae9bb92-1c63-5c24-97d3-0e7dd9bef593",
+      "value": "https://account.spreades.com/login",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--471895f2-4026-5ddf-b0ee-acc7b0191e2d",
+      "value": "spreades.com",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--02ddd093-8ba7-595a-9cc1-81bc03e03f76",
+      "value": "https://billionmt4s.com/en/,fake",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--49c46af0-3c4c-5056-a957-e1bd8a0092d7",
+      "value": "https://tickml.com/en",
+      "x_opencti_description": "FoolsGoldMetaTraderShaZhuPan.csv"
+    }
+  ]
+}

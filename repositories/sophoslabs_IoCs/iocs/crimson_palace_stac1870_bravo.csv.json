@@ -1,0 +1,118 @@
+{
+  "type": "bundle",
+  "id": "bundle--bec5ebcc-916d-4e30-9c3c-727a1b122d2b",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--eed3a0e0-ef05-5fc0-87bc-4fae4e4f0d26",
+      "value": "146.190.93.250",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--274d1734-37ce-55f9-ad31-c8b457623ee4",
+      "value": "message.ooguy.com",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--302c6852-9d8e-5c7e-80a6-aef309047809",
+      "hashes": {
+        "SHA-256": "92e2dafb6d91ac7bc725e680d53cfbfcc854033d14f6e4807fd0169c605324d2"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cec8de46-d336-5786-bd77-f21a3181000f",
+      "hashes": {
+        "SHA-256": "DCC938AF8FB2964A1F35ADFB221DE76FFC0BD0CCAAC91455B3638FD4DC33E8C0"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dc90ac3-a39b-51e1-a904-18c416c9c6b2",
+      "hashes": {
+        "SHA-256": "0c3baa012cdb518982ec4ae954b395f3d6b9544ead8e050370219fa584f74f3c"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9cb5e246-9a95-5ef9-9b87-2fda38fff886",
+      "hashes": {
+        "SHA-256": "c679a2453697c51776b8a64d59fb8bf4172906e9a4f91b3872774bd05378d28c"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5e81a7f-7932-5c2e-b308-de58e15d74d9",
+      "hashes": {
+        "SHA-256": "edd0c859424ab953a92ef20cfc8b938f469253122485915d6de80d314b18b08f"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c17ddc9d-b5b0-58a5-b67a-4b5281920446",
+      "hashes": {
+        "SHA-256": "55277d86c0707459500dbb16915665ae611d3a4e4597d51599ea8b8fe6f85f29"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3896db5-4f2a-576a-be36-eef5cc391de4",
+      "hashes": {
+        "SHA-256": "a70e8317a608dd6ea0ad8564b089a153a7e3ab7ef763899d3d806141e820148e"
+      },
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1e60f95-b21a-5e33-910b-563efd93bafa",
+      "value": "EvtxParser.exe",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18fb9d9a-0cc5-57a7-9aab-8cc2ab2b2094",
+      "value": "mscorsvc.dll",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18fb9d9a-0cc5-57a7-9aab-8cc2ab2b2094",
+      "value": "mscorsvc.dll",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e00f5357-37bf-5d7b-a775-0bd9ade34a80",
+      "value": "ntpsapi.dll",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6105dd80-a835-5ae3-877f-53dc43662ddd",
+      "value": "ntdll.dll",
+      "x_opencti_description": "crimson_palace_stac1870_bravo.csv"
+    }
+  ]
+}

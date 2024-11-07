@@ -1,0 +1,658 @@
+{
+  "type": "bundle",
+  "id": "bundle--fadf99fb-27d4-4e65-bf37-6f365cec3d31",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--59513ac9-8845-5df2-bad0-2fa6bbe12131",
+      "value": "78.138.105.150",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2ca441e7-17b0-5f77-aa1b-a8064f007d99",
+      "value": "183.110.224.164",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--222205bb-a32b-5cc1-ac93-e5f58c448a3a",
+      "value": "27.102.66.114",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--825a9b1f-0e4b-5ae6-a6f3-deb785022479",
+      "value": "123.45.67.89",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f30f8909-83a9-579a-a326-d84739cca991",
+      "value": "169.51.60.221",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f63ac54c-ad84-5b4f-9cd4-b241c32f8512",
+      "value": "27.102.127.120",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d616cc1b-b7cb-56c1-941c-f956328fd13f",
+      "value": "45.77.76.158",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5274f8ea-4ed9-5256-b142-f245eb81816c",
+      "value": "190.144.115.54",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--25a59b40-901c-5906-a2cc-8f6f4d79bcf1",
+      "value": "195.201.124.214",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--59513ac9-8845-5df2-bad0-2fa6bbe12131",
+      "value": "78.138.105.150",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f30f8909-83a9-579a-a326-d84739cca991",
+      "value": "169.51.60.221",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f63ac54c-ad84-5b4f-9cd4-b241c32f8512",
+      "value": "27.102.127.120",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d616cc1b-b7cb-56c1-941c-f956328fd13f",
+      "value": "45.77.76.158",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5274f8ea-4ed9-5256-b142-f245eb81816c",
+      "value": "190.144.115.54",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f63ac54c-ad84-5b4f-9cd4-b241c32f8512",
+      "value": "27.102.127.120",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f63ac54c-ad84-5b4f-9cd4-b241c32f8512",
+      "value": "27.102.127.120",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f63ac54c-ad84-5b4f-9cd4-b241c32f8512",
+      "value": "27.102.127.120",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e29e90ca-6dcc-5310-a64a-cee862614fa5",
+      "value": "secretsdump.py",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c700f11-28fb-5c65-bdbc-9e22397a68b9",
+      "value": "checkvisa.xyz",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6788c3ca-0181-522a-a38a-d0299b5ebaa0",
+      "value": "srv.ml",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--afb81809-abb1-56b9-b1bb-b04731974f09",
+      "value": "https://raw.githubusercontent.com/c3pool/xmrig_setup/master/xmrig.zip,XMRig",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f654fb14-f48d-51db-9082-430de810bf4e",
+      "hashes": {
+        "SHA-256": "7793b3b3545da61a7a073e64ac22c60fa38df8fbf0bbc95721a814992857c67a"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e436cc0-f176-5130-bf45-520f0a5472d9",
+      "hashes": {
+        "SHA-256": "48c6d499618d81280f7aa3acf6aecc2f37983f527f4a729b133ae6fca20ec8c7"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50485bdd-5e61-50a5-8eff-7c61759dbaaf",
+      "hashes": {
+        "SHA-256": "91854f69ae78f5b5627c9e8800a1e5ef6f56b47a0193f03e260e362905770052"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--650ef5bd-8a2f-5d8c-9c4e-46a096dd38f5",
+      "hashes": {
+        "SHA-256": "07e1e386d8ffcc5b5ef1e55d6fb31a210522e2d9f1955dc24ba5c43523813612"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbc42446-c800-5e47-a090-9565d0c128a4",
+      "hashes": {
+        "SHA-256": "6a4729fc8fc796318b44841e322c1f3bee37b2737e359e5e5b777d8855b370a6"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1287d6ab-fd17-5b3a-bfd5-78bed4da8faf",
+      "hashes": {
+        "SHA-256": "09a0caadc4df3d4278368f94f52007894c2b51d3785d985cb8e42646e8a33b68"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92f74ce4-ed50-591e-9ace-0d08b9d5d3b4",
+      "hashes": {
+        "SHA-256": "ca57391cdbac224f159e858425d231d068aa76316e0345cb8d58c716b9eff587"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a566745c-1875-5422-ab59-a0ea58d39967",
+      "hashes": {
+        "SHA-256": "3037956db905355f66cbd02ad9778f86551b0c34f386ee0adb7c2feb941a0e30"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b51b061b-0b1a-5b10-804d-0ad634faeaa8",
+      "hashes": {
+        "SHA-256": "e9a096c886ce42c2dec0fae1492c2943a2e321fcff2a5697d1689ff146f4b4b6"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcf0aac7-1e38-50b3-9320-2e641238d25b",
+      "hashes": {
+        "SHA-256": "654ad61bc4de2b9ad07add2dc7a6de22d24436f699bdb7923c7f510ee67b7e0a"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ede99d39-c2ed-52c1-9a67-3cf45b38a30f",
+      "hashes": {
+        "SHA-256": "952476a3ead7a97ff9c4906a2801ad993e4850a3e10c4350bbd44ab2eeabbb02"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6abf58d3-82f3-5a8b-8221-e4fda7bd993e",
+      "hashes": {
+        "SHA-256": "ceec3cbb3a97c6be2c0446fcd74134ab8feec66f985bc50f17fb41350494c6ef"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--056db8dd-a498-5bed-aaeb-422aa6871c5a",
+      "hashes": {
+        "SHA-256": "1a186d51bb4e4fd18acad387b2872d164e3a772e935b26c9fc673fdf53ccb533"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f7a66de-119d-5364-82ab-eb31037f29b7",
+      "hashes": {
+        "SHA-256": "8327eb8465d62959a40ea487c0fd0da178a8857e4b49a1594c5a2df3631ca179"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd3c5568-cd8e-52e8-8077-27b16ab29e86",
+      "hashes": {
+        "SHA-256": "0bd68bd1e4567f15bc81c31d37971a71fc870781acb4cab0f51c675dcd779b5b"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41dec4f1-fe7f-5cfe-951c-3da60e1eba68",
+      "hashes": {
+        "SHA-256": "d415ac7805edf8d634fbe6ac913e1e53a0d2ea0fce5146e0054056458a2a8f96"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f72d592-1055-5159-b904-d7eba14c7479",
+      "hashes": {
+        "SHA-256": "cd7c9f1bd77e304a913758e95597d96399f823d887d7787fd8e9d8ec7a921d38"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d37344b-cd53-53e9-96af-c3978f36dec0",
+      "hashes": {
+        "SHA-256": "e54d9a45850786f52b8169eceb1be0a4e21d5d000b933dda470b00d17c8fb169"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e4445d5-b13f-5517-a236-d87da37cbf1f",
+      "hashes": {
+        "SHA-256": "31eb1de7e840a342fd468e558e5ab627bcb4c542a8fe01aec4d5ba01d539a0fc"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ccbc960-347d-5a37-84b0-32a79f1497af",
+      "hashes": {
+        "SHA-256": "c3405d9c9d593d75d773c0615254e69d0362954384058ee970a3ec0944519c37"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2cafee10-0bbc-5bf9-a0dd-02dc20f89213",
+      "hashes": {
+        "SHA-256": "14f0c4ce32821a7d25ea5e016ea26067d6615e3336c3baa854ea37a290a462a8"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2cafee10-0bbc-5bf9-a0dd-02dc20f89213",
+      "hashes": {
+        "SHA-256": "14f0c4ce32821a7d25ea5e016ea26067d6615e3336c3baa854ea37a290a462a8"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c959d272-662d-540f-9916-51f02e8a042a",
+      "hashes": {
+        "SHA-256": "3bed84f229f5e8ca22c3768a7430ceb5e6e9ecb611df55691f07039e618f265b"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b30386ad-129c-5266-a98b-75cbfe0fb0b4",
+      "hashes": {
+        "SHA-256": "c3757e7f49bd40012ef9cd320568c401bad1ba1843a4055b11bebc2f10bd83ca"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f3c2c6fd-2f7e-5acc-94b7-991ea0370fe3",
+      "hashes": {
+        "SHA-256": "1767cb41af0bbedf8554c5ddf7968cc1e039a06b7e4b7f9cd42ed4dd301bf02f"
+      },
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a79cabc-4d8e-54f4-ae59-2db2f3047689",
+      "value": "main.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fba5e69b-fa73-53e5-9e05-8443956cc3f7",
+      "value": "filter.txt",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fdff6223-4caa-5ea0-9864-85c46ef53568",
+      "value": "r.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--acadf27f-aeb7-5879-a7de-49126dca6e61",
+      "value": "config.key",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b79ef478-e7e3-5198-a1fe-ddd6c7c098a1",
+      "value": "RuntimeBroker.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9d14c0c-4d57-57e6-a3e9-8cb3f7822b52",
+      "value": "RuntimeScheduler.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f4c7594-41a7-51b0-97eb-a6210c0f8fce",
+      "value": "kbview.bat",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af2e039a-ac88-59c4-8e2c-62094772ab86",
+      "value": "wincert.bat",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bce0e199-0da2-59b2-a3c0-b652e26de14a",
+      "value": "pl.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6fce869-d2e3-5ade-9324-889698d82e99",
+      "value": "plin.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e8dc09c-e390-5fd5-ac1f-85d138bcc8e3",
+      "value": "BCWipeTM.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e0b6c9f-fa66-51aa-b3da-a7c7b9a7fea7",
+      "value": "BCShExt.dll",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b80edabc-a7c4-5889-bcf0-ca8acc32bc43",
+      "value": "BCWipeSvc.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c03f6739-e8af-5eaf-9a0c-58991b66b4d5",
+      "value": "bcupdt.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb98b90b-a926-5aa5-924c-00b48ad3f563",
+      "value": "bcview.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfe308bc-9728-5cf5-8e09-513c9e1cf324",
+      "value": "bcwipe.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--04396cce-a187-55dc-8bae-53de24e51899",
+      "value": "bcwipegui.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3946ed6d-f3b7-5ff7-b010-483f7f2185c1",
+      "value": "insbcbus.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--04f7656b-1743-5c60-9cd0-ea3bfb12fc32",
+      "value": "logview.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bc06751c-6569-55ca-8cc0-e0ee404c1273",
+      "value": "taskeng.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984a9ef5-2be2-589a-956b-ab1e8c3f042c",
+      "value": "mimikatz.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--665973ce-4714-57f0-9f67-1a7ca81f5bc2",
+      "value": "secretsdump.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e29e90ca-6dcc-5310-a64a-cee862614fa5",
+      "value": "secretsdump.py",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--496c0ca8-acb1-5eba-b338-b16149bf1870",
+      "value": "wmiexec.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--87557047-d9a9-5793-84bb-22a11c883935",
+      "value": "nm.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6db26f9-19c9-5573-8052-f818380cd287",
+      "value": "tmp5FE0.tmp.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e870cf8-f752-51bf-b22d-05fd188a4f92",
+      "value": "0.93.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15af89f9-0fab-5ac6-a416-29b038575417",
+      "value": "TxR.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--094eb6e1-bac3-5011-a419-ac3cd4f73c6e",
+      "value": "nssm.zip",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1b25ad4-167c-5b38-9bbf-90a094be6147",
+      "value": "peview.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3fa0565d-c181-50a1-9eb4-7ea210a26c31",
+      "value": "ProcessHacker.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df9b3078-48ac-5cee-af2e-97654b61b686",
+      "value": "GoogleChangeManagement.xml",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eeebc18c-a998-5201-b4a5-8caae9fd7a7c",
+      "value": "MicrosoftOutLookUpdater.bat",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3a9d953-a9d3-59d8-b1a6-8deeb776e801",
+      "value": "MicrosoftOutLookUpdater.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22afa3f7-89fb-5ee0-8da4-dba760dba286",
+      "value": "MicrosoftOutlookUpdateSchedule.xml",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fb8296b7-20f2-5d16-b41b-58e0a043d9f2",
+      "value": "http://190.144.115.54:443/mine.bat",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--67947ea3-44d8-5dbc-952e-44b7c5ee4977",
+      "value": "http://27.102.127.120/x1.rar",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bf360680-9cbc-5868-8235-d2e0a2032100",
+      "value": "http://27.102.127.120/x2.rar",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6fdf0371-1fac-51f4-b746-5a06d0145341",
+      "value": "http://27.102.127.120/r.exe",
+      "x_opencti_description": "ransomware_memento.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3300ef65-2961-531a-8056-c492b5a9fa44",
+      "value": "https://raw.githubusercontent.com/c3pool/xmrig_setup/master/xmrig.zip",
+      "x_opencti_description": "ransomware_memento.csv"
+    }
+  ]
+}

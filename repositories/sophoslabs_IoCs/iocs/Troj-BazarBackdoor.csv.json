@@ -1,0 +1,677 @@
+{
+  "type": "bundle",
+  "id": "bundle--cb34c187-a6e9-479e-80ec-b0d212ab72f2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b2e30258-6f39-5f9b-97c7-fae55b417424",
+      "value": "1.2.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b0e6fbc-c050-55ef-b947-5cd4bcceafc7",
+      "value": "1.7.0.0",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--59515cfe-90b6-5147-945c-bf3d327efb37",
+      "value": "https://news.sophos.com/en-us/2021/11/11/bazarloader-call-me-back-attack-abuses-windows-10-apps-mechanism",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d52d913-a0c8-57ef-af24-96dc0339c8ef",
+      "value": "asdlfkasklf.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--747182c1-936d-5688-aff2-79d685da6cdd",
+      "value": "aslflasf.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1480b2b-f3cb-5665-b860-d6daf3134fa3",
+      "value": "dfgerta.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--671c7518-b9a6-572c-bf49-fa3a4c2b525a",
+      "value": "falomana.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57bb3e2f-0a37-5968-88ed-af7709afc6b2",
+      "value": "gakosafd.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2291b33-543b-5fcf-9e5b-0c3d28bb1e78",
+      "value": "gasdfasdf.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6339cea-16cd-5113-83b7-66b681b4f9f7",
+      "value": "hansdfps.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2919a132-585d-5a8d-9763-f68f49f25be5",
+      "value": "hastrama.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6bc4b3c7-59aa-57ad-8254-4b661cdf3f6d",
+      "value": "holarty.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33e447e7-e03f-549e-ad9c-f09107f2e60b",
+      "value": "holydolyna.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71a81229-fba4-54c5-ba20-af46299d4d8b",
+      "value": "jaortamnana.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8981df45-1972-5201-b1ab-cb6329d4ed7b",
+      "value": "jaratymanr.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--baf60a43-298b-51e4-9d4b-b0987db31266",
+      "value": "jarghan.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1580a6fd-72df-5f48-9393-0f7606a8b0e3",
+      "value": "jhabv.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d999f8f2-27e0-52af-a5c7-094bd9ec67cc",
+      "value": "joramanmnb.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f0d6c11-0605-5027-b099-3d4efaf74a89",
+      "value": "joramanmnbman.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2b291db-646c-570c-9050-2ece8247d92a",
+      "value": "jptymana.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17a86929-3eb4-5dfc-a93d-be75bf90b329",
+      "value": "kartynab.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c970faa2-84a7-5edb-8edd-d336ad85b650",
+      "value": "kjraeiba.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--243c25a5-a612-5e44-b026-2885065f1eed",
+      "value": "koralaba.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a20ec11-f80e-5ec8-8402-94698193caf2",
+      "value": "koratanaba.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d6fdc3d-898b-5f50-8209-11a7486ecd16",
+      "value": "koratyma.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cee87652-acb6-550f-9599-e3039ef53e4e",
+      "value": "korayaba.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6887293-5657-5f16-8efb-e302318b75e6",
+      "value": "kormala.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6dd65660-67ab-5842-82db-707e40a8d64c",
+      "value": "lolalvatan.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12b68fd7-9c14-5372-b79f-6ed78a38f4e7",
+      "value": "maratanab.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa28135d-0ef6-563b-85c9-b510b0249336",
+      "value": "nanbaora.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa3e768b-543c-5d97-8f17-d547665f2919",
+      "value": "naratymena.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7653064-c578-5463-b331-1df22178bc33",
+      "value": "olagamanas.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8864cec8-fb57-56c0-8ea7-94fa7a125d97",
+      "value": "qwasdfp.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d841e367-bf15-51b0-b45b-4f9690431dcb",
+      "value": "romotara.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f7d7088-5e8c-5e23-b439-c22a4de5f668",
+      "value": "zxonazxc.com",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f5db1208-f733-5d0b-930f-bf325b5afff4",
+      "value": "adobeview.z13.web.core.windows.net",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92910c0e-673c-5d35-a1af-8f3bc78b84c3",
+      "value": "adobepdf.z13.web.core.windows.net",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5584ee4-a46f-5e42-8528-df3452960909",
+      "value": "view.azurewebsites.net",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--991fa5b0-8fd7-5501-951e-532e8ad7c11a",
+      "value": "review.azurewebsites.net",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--925d795f-9715-57fe-8523-69fa28b8a067",
+      "hashes": {
+        "MD5": "309368b122ab63103dddd4ad6321a82c"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d683f77-92e5-5554-8d6e-07343cb0e93f",
+      "hashes": {
+        "SHA-256": "c268bcfc1a86038c6e3239f9c180bfb7b64070bd5f5705aa8c78eaf48a1d0879"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a850a32-a9cc-5e38-af2e-3ad5635eb9f3",
+      "hashes": {
+        "SHA-256": "9cc1eb38573dab0f77bf68ade1c405202a5eaa348f71fd17475e382ec686464f"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50a68c69-1f1d-5a84-a240-76b735896b8c",
+      "hashes": {
+        "SHA-256": "5814f2fd96f79f8bd036a5897c12aa2d46bd707007f8b212a7a6e2220fcc206d"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d5c14fd-6b5b-5f8c-96f9-ed491629e7b1",
+      "hashes": {
+        "SHA-256": "3da7decd89b75a0394e4ea2dd457eb50c58d99323eadc4e2b45b2664a4c57f1c"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8af4440a-0cf0-59cc-9f28-3cf4c55af1c2",
+      "hashes": {
+        "SHA-256": "17d76d6066c983e94d9a83a8e274c2e94d4f1bb4fbe14837bac3287357e02550"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e06ad76e-927e-5291-a4f9-1be688b2efbd",
+      "hashes": {
+        "SHA-256": "a5ce2bdd42fb0c9f51e218c879cc1d492a02cc096b3f0776482c98a63f6a3061"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a8cc4b9-0ec8-5d98-b11c-d38ec63f8c08",
+      "hashes": {
+        "SHA-256": "f7872201d5d1047b13210efcb7c4e339e87a5be614609d9d031b5e72afdac16a"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e54ac06-9259-5f78-ba69-cebb94414a0a",
+      "hashes": {
+        "SHA-256": "06e2545b339a3f79f663988450970cc058f5061f4e0e3a57c172dc1b467ede98"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22b78e40-94dc-54f8-ab0d-5a88b3a8bf55",
+      "hashes": {
+        "SHA-256": "4f5d04dbfdcf0417a1a684905bd63f6d84318379cacdb327b0ee938e51a6338c"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff4df205-fb42-51e2-ac4b-04a67b7efdc7",
+      "hashes": {
+        "SHA-256": "3acde97a7e72bec3154e52db25c0e6bb5039be8194f5c1c51385307e72be174d"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eabbc396-7098-5d0b-9778-a3509a638104",
+      "hashes": {
+        "SHA-256": "241c65c57f3d554ca9c65e03c9fab6fcb9856636e25d2ec34cf43a2df5c5e743"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e801b06-a6a5-50cb-9012-24decdd443b6",
+      "hashes": {
+        "SHA-256": "f35146695e848765a89c69439732fbd72a784288ff7e898d34c729cdc83442dd"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f629515-e8c0-528e-8003-747139a8f75f",
+      "hashes": {
+        "SHA-256": "f88fb86ed586f75897e7ace07228f55e9261ff8ae9ced2725b4b67aa8dfcae10"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2aa13e2-387c-5328-94ae-15f8a119bec0",
+      "hashes": {
+        "SHA-256": "ff158e1e58beb2059747936fbc47c45450bc3429a582376594d8662ff8edf024"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d14ab01-0bcd-5fcf-ab53-dabbe8856b8e",
+      "hashes": {
+        "SHA-256": "e0e2d3b1ca9bfedc671a1f1a7f274b399287c112671ef02d7eeac12a822aa2dc"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4094c270-9fae-5bed-a2eb-41497196129c",
+      "hashes": {
+        "SHA-256": "846752d746a8fa749fa27d11190a43f5bebde4925ca2e767a7d231b8ffd6d0c8"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ac1b07e-2053-5fb6-93f6-3d20fd597433",
+      "hashes": {
+        "SHA-256": "8d96965c940c90b1d8b865cf7774a4e6b4f54f686f07fa63479f591e3ded4f23"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d50b763e-9afb-5672-9535-e90a396f561b",
+      "hashes": {
+        "SHA-256": "6c424efeb2b528ba5396c903fcef1fc8f2f04452deea5160d149723473528db9"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6cc0610-41c3-55f6-8e88-76bc0de68d46",
+      "hashes": {
+        "SHA-256": "9f3cc120479a68b3ddee7dc0dbffdc9e598968ec53b623a222b3ac7c49661bf1"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4a08ff0-5e0a-50ed-9dcf-ba177cf31306",
+      "hashes": {
+        "SHA-256": "b275d8fbc140c8ee81b357cc1691d7da86987bf864d618634191b54c3e2b192d"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--575581ee-c850-5949-a4ff-d1d936009a4b",
+      "hashes": {
+        "SHA-256": "b20c155f9f13d31b79ae5da6df0a14677c26408c5f65b84b68a40a1fa9808863"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d272ee1c-9a01-5d59-9f40-07afbb34d3a3",
+      "hashes": {
+        "SHA-256": "6d0b343d692fc6441c49cda331e259d51d1543824526090aba89d987bbbb6924"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec4cbdfc-72a6-5e7b-a8ee-31ee7efa6ce0",
+      "hashes": {
+        "SHA-256": "b6ebc8664a09388d2cc3832a1c702eb8eb41f619f7933f1912d5e10c1fa4444e"
+      },
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704b8d75-2375-59c5-bbee-30fdaa154eb3",
+      "value": "data.dll",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a605aee4-21f0-5baf-821a-31a6dd1b337c",
+      "value": "DragTest.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55101ba2-938f-5903-9875-147dd9c4872a",
+      "value": "SecurityFix.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55101ba2-938f-5903-9875-147dd9c4872a",
+      "value": "SecurityFix.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55101ba2-938f-5903-9875-147dd9c4872a",
+      "value": "SecurityFix.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55101ba2-938f-5903-9875-147dd9c4872a",
+      "value": "SecurityFix.exe",
+      "x_opencti_description": "Troj-BazarBackdoor.csv"
+    }
+  ]
+}

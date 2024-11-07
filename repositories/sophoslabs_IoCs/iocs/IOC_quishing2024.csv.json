@@ -1,0 +1,108 @@
+{
+  "type": "bundle",
+  "id": "bundle--c6aa9e5a-cba0-41a2-a1de-a813f6998e05",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ad17c90b-308d-5167-bc0c-21d01eddbdf9",
+      "value": "https://news.sophos.com/en-us/2024/10/16/attackers-leverage-qr-codes-in-pdf-email-attachments-for-phishing-on-mobile-devices",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2595970e-2063-5d32-b250-97ddd811f031",
+      "value": "login.banowash.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--19fa27de-3ab7-5810-9a47-6756877ebe2e",
+      "value": "banowash.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b73931c2-6e68-5609-90f2-76b8757a348a",
+      "value": "login.khoshnaamcc.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca229188-ee7f-563d-be90-ea3cd4f9522a",
+      "value": "khoshnaamcc.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f13b45f2-407c-5bf4-b2bf-e90e37289398",
+      "value": "erispub.it",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f266194-d566-5e4b-88fe-05cd57cead01",
+      "value": "driv.sharedfiledrive.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e865b8a-fd3d-5436-8aac-9400e9fa4876",
+      "value": "sharedfiledrive.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f363f83-c76a-5cdf-812a-2e87744d211d",
+      "value": "uAa.iancendit.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2b962a0-17a5-5e6e-a779-6c72f083e673",
+      "value": "iancendit.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4ac3013c-9730-5610-b4e6-543c5e11eac0",
+      "value": "lbts.doclawconsultant.com",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0913ac5e-1509-5022-8d98-a21ce6ef4c27",
+      "value": "https://erispub.it/wp-admin/user/reset/?mail=[email",
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cd5468b-4519-5208-9897-66ec3ea446ee",
+      "hashes": {
+        "MD5": "4d4edb0d119c468c81820c36344b6d98"
+      },
+      "x_opencti_description": "IOC_quishing2024.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cd5468b-4519-5208-9897-66ec3ea446ee",
+      "hashes": {
+        "MD5": "4d4edb0d119c468c81820c36344b6d98"
+      },
+      "x_opencti_description": "IOC_quishing2024.csv"
+    }
+  ]
+}

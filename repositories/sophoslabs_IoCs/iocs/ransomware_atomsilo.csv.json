@@ -1,0 +1,220 @@
+{
+  "type": "bundle",
+  "id": "bundle--2c5d275c-0a88-401e-b113-3e1ab985d8eb",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--617ab0c9-728f-54c1-90f3-6f2a02c16b27",
+      "value": "27.1.1.34",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8c5472b8-b18b-5c27-97c2-52394bb6d687",
+      "value": "41.226.2.178",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8a161729-6dd0-5a79-96f1-11d6fa043132",
+      "value": "213.152.165.29",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6cd46a8-3f98-563c-92f4-070a2d93e595",
+      "value": "213.152.165.30",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--617ab0c9-728f-54c1-90f3-6f2a02c16b27",
+      "value": "27.1.1.34",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f65abb30-65cc-5068-a1cc-3361be41b01d",
+      "value": "222.122.47.27",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b86bc826-9810-5e6f-833b-bb6de972af35",
+      "value": "139.180.184.147",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--67f92ef3-ed15-513e-82dd-c3623694888d",
+      "value": "https://pastebin.com/raw/iL4qbi4S,Coinminer",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c89ae814-b66e-56fe-a6a4-3b78b55d7c1e",
+      "value": "https://update.ajaxrenew.com",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6f15bd5-0a4a-5d0b-9084-0244031fc325",
+      "value": "update.ajaxrenew.com",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f219c95-3ce2-5285-9a16-aad34643c9a0",
+      "hashes": {
+        "SHA-256": "7335dddffe5d932f57752f9bafd7e57aaf2a9be1b9fa29f549e4e36d9b9dc876"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09418a19-b924-501f-bd57-1fe06bea731e",
+      "hashes": {
+        "SHA-256": "233e5fb47b9046c14732d0d777096ac3704352c7ee68dab66dea1f5a4a1c81df"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c4e49b8-2463-588c-b752-76dd17210cef",
+      "hashes": {
+        "SHA-256": "d3a2d4ba16add4a2c961fc907355ac994dceedd4fb56aa1bc2d76b9bdef77bd8"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cce7e4ef-1406-5cb9-b402-50395bef0167",
+      "hashes": {
+        "SHA-256": "c232b3d1ea2273b8ad827724c511d032cda7f2c66567638abf922a5d5287e388"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f4170d1-cf58-5590-88ab-64a4d2f97f23",
+      "hashes": {
+        "SHA-256": "1ec631ff331f3177fb8f8da635f789ef02b90cc4ec0abf9d0122e0bc2b400151"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee4c8d4c-d3e7-5f12-8b8e-0f547fc01c0f",
+      "hashes": {
+        "SHA-256": "3abcf9ab068be27ffce12bbbb9b5cd161a1beb312e639e72242f60bb6df9bc8a"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8bcb513c-e9e0-5355-9d35-292ca2fded41",
+      "hashes": {
+        "SHA-256": "5fa490668a9963e97d956f9a3b0c746b1d16eee9a73dfba875c9a3dc0e2c0d1b"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18e48fc7-0080-56fc-b085-44d8706bdbaf",
+      "hashes": {
+        "SHA-256": "7b7b967a0f3de70c84f0f318de6f2c6382ebc4f4037e0c1b5f6c3155c263efe7"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8cf2e00-8c04-5bd9-ab90-fc380df7f453",
+      "hashes": {
+        "SHA-256": "eca9fac6848545ff9386176773810f96323feff0d575c4b6e1c55f8db842e7fe"
+      },
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--605083ad-ce9e-59ce-854c-57b15c1ead82",
+      "value": "mfc.ini",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c251db95-1513-5349-a6f4-744dd8b1e93f",
+      "value": "autologin.sys",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78cef91b-8fb2-5ebd-bc69-d842afc30214",
+      "value": "2.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a276a3a4-dbfe-5781-9c9a-3efad19d8cd8",
+      "value": "FuckGPO.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa37f32e-71ec-589e-bf7f-f4542d6dc8c0",
+      "value": "autoupdate.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fcbc0b7-d829-5f37-b896-e4dbc5eb8c85",
+      "value": "autologin.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d350c13c-50a8-5333-b1b6-cc25d8f17c0c",
+      "value": "zy.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4d16b57b-40a4-5735-a433-ba0c95f63643",
+      "value": "http://27.1.1.34:8080/docs/s/wi.txt",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2df56845-0e2f-5967-9e7a-814e4f826acb",
+      "value": "http://222.122.47.27:2143/auth/xmrig.exe",
+      "x_opencti_description": "ransomware_atomsilo.csv"
+    }
+  ]
+}

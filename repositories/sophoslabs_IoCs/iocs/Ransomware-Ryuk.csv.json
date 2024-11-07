@@ -1,0 +1,226 @@
+{
+  "type": "bundle",
+  "id": "bundle--fce933e5-4e30-4e98-9acb-e9e5cdda01f2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6faca2b2-a04e-5870-a45f-6ecbc125a5a6",
+      "value": "104.248.83.13",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--083a5cde-9359-56a4-a66f-69bca12f4ab7",
+      "value": "https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41063620-b658-51ad-9c6e-56dda5bd6f51",
+      "value": "chainnss.com",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6fbeb32-0972-5767-abc8-70d480144fdf",
+      "value": "fastbloodhunter.com",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bbc64a09-14dc-5919-9e1b-b94d5487a3fa",
+      "value": "mn.fastbloodhunter.com",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--835918e2-27e4-53c6-90e8-7eee565d57a5",
+      "hashes": {
+        "SHA-256": "0856b3c06805d3935b1db325c4e9c9131572b4cf09f07d989911495807775cab"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5dd8f907-ced2-5649-b7cd-3eb494c225d8",
+      "hashes": {
+        "SHA-256": "0d6a7a2c2d9ae89bf54f199fb63c67424d6e242777060971ee53b62dedad4096"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e56892bf-2661-531a-ac91-7c227a20fb2b",
+      "hashes": {
+        "SHA-256": "21cb81424dc1921344bd1cd9ad7c870fbcaadbe2e9f499d7863e9a06d7de6ee0"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4b214ca-d21e-51d9-8e96-12e4b3a72ce1",
+      "hashes": {
+        "SHA-256": "32e51accf5a30da12e43b3c7f83867577fcd6fb363d7773a743ab1bbb9653d06"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d484d9b0-3b3b-5ad7-923c-8298b521b85a",
+      "hashes": {
+        "SHA-256": "3f58610586c87bb8b9f2e93768c5f289fe39ca8570902165df5d340bedc62247"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d484d9b0-3b3b-5ad7-923c-8298b521b85a",
+      "hashes": {
+        "SHA-256": "3f58610586c87bb8b9f2e93768c5f289fe39ca8570902165df5d340bedc62247"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d56bb3d-17ee-54b3-a881-0d3b799e47a5",
+      "hashes": {
+        "SHA-256": "4685e91b859b372b955c11d8d68fd562fad478520a2f4a05c46d1fe6fb991b61"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb164441-569c-52ba-b45c-a36371bf6d7a",
+      "hashes": {
+        "SHA-256": "6c7f43434e5db8703c0a47dedeeab976159d8704bfbe2e4ff65405f38d508e9d"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86d0631b-eac6-564a-888f-fccb414cb1af",
+      "hashes": {
+        "SHA-256": "92f124ea5217f3fe5cbab1c37a961df0437d5a9cbde1af268c60c4b3194b80ed"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--999bd5f1-18e2-5830-b6b6-b4eeabd0de02",
+      "hashes": {
+        "SHA-256": "9a11e1b2a6821857e1990a004447e35692d04e5b7d237697fbcc90b5198e3719"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--09436b6d-55b1-54d7-884a-2cccce6c6152",
+      "hashes": {
+        "SHA-256": "ba2a96dae66324df5bbb0751a04c538722ad49daa12d51625f8a1890608b1168"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed381e1b-9249-5bbb-9576-3fc7dec86d20",
+      "hashes": {
+        "SHA-256": "c1f753047a0a5679aea0f675846364ea2f1fc4f9370f6caa89d0bfb1feb561f1"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef7cc005-a4e5-5a0f-8718-f0ba8c5cf2cf",
+      "hashes": {
+        "SHA-256": "c8076d0aa251a8c767e5f4c32c29588d46ffbed1709acaf9ca38b9d02ef7e276"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51d23cf2-e4d5-5d46-b44d-976de5c72992",
+      "hashes": {
+        "SHA-256": "c9b06152ac1c851eaed84ee052c374341ed89d9a6e5a5d97bd0e4b941c01a274"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5dd52b4-9e6a-5816-bfec-005f53662b67",
+      "hashes": {
+        "SHA-256": "d0d7a8f588693b7cc967fb4069419125625eb7454ba553c0416f35fc95307cbe"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9089c8e5-bf9b-5ff2-b805-bdfc6b7bff23",
+      "hashes": {
+        "SHA-256": "D7333223DCC1002AAE04E25E31D8C297EFA791A2C1E609D67AC6D9AF338EFBE8"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--74493f46-2db6-58da-9938-d8b3bd4444b8",
+      "hashes": {
+        "SHA-256": "e8a3e804a96c716a3e9b69195db6ffb0d33e2433af871e4d4e1eab3097237173"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--15ff4fdd-74af-5f2a-a412-7eb55a39ef1e",
+      "hashes": {
+        "SHA-256": "edd0675e0fcce16ae7cbb1f10fbb8407ca5e0a188eab9682f43744c95e09f1c9"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c2bbcfb-0117-5c19-aca1-5ec3dec64338",
+      "hashes": {
+        "SHA-256": "ff5e6fbf14c5eb35c1b4f24e4b08b30ba2e512a4b25ab7b652f0567edb94097e"
+      },
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2731b30e-5aea-5e69-bd00-272c13fbc896",
+      "value": "3iue88e0.exe",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17bdbbb0-6fd9-5ede-9ce1-0540247586fa",
+      "value": "P64.exe",
+      "x_opencti_description": "Ransomware-Ryuk.csv"
+    }
+  ]
+}
