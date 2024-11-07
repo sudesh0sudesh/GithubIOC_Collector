@@ -1,0 +1,83 @@
+{
+  "type": "bundle",
+  "id": "bundle--414999ca-53eb-4bfe-baef-6a53e9567583",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cf811590-b85e-532c-b0f9-0d013580f0e8",
+      "value": "217.79.243.148",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9be7b5f8-eca4-5e4f-896c-812aeb0e2a87",
+      "value": "38.135.122.130",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d55b6509-c6ba-5627-b874-c7e50a3cae84",
+      "value": "179.60.149.28",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--458f08c6-5daa-519f-923e-e2b64506d136",
+      "value": "141.98.9.4",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6543e6b7-a520-5df2-94ce-1e0d376c61cd",
+      "value": "91.191.209.222",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--761ac31e-eda1-508c-bf44-b41d8960c8b0",
+      "value": "104.238.187.145",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2adf61fa-c64a-5614-b02d-313c87d3fa05",
+      "value": "45.77.101.240",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e422a88f-f298-55b9-972f-56a36b820f7e",
+      "value": "192.53.123.202",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6c1a2fc-b40f-5990-8c93-d541f5a0be74",
+      "value": "206.125.147.98",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--20a18040-33ca-5c9e-b9b6-b0ffa2e63e4c",
+      "value": "https://news.sophos.com/en-us/2023/03/15/observing-owassrf-exploitation",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba02b77d-8956-57ad-ac45-988dbcf3097b",
+      "value": "devoterfo.com",
+      "x_opencti_description": "OWASSRF IOCs 2023-03.csv"
+    }
+  ]
+}

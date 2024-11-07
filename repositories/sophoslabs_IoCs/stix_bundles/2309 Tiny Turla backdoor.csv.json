@@ -1,0 +1,83 @@
+{
+  "type": "bundle",
+  "id": "bundle--e7f2828f-7b34-407a-819c-95b87872f294",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0c2bcaf0-4399-5e60-ab07-25351b2fb2b3",
+      "value": "https://cache.chartbaet.com",
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b4ae2bf-0383-56fb-bfb9-91891fca22dd",
+      "hashes": {
+        "SHA-256": "0409c9b12f9d0eda86e461ed9bdabeefb00172b26322079681a0bdf48e68dc28"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b4ae2bf-0383-56fb-bfb9-91891fca22dd",
+      "hashes": {
+        "SHA-256": "0409c9b12f9d0eda86e461ed9bdabeefb00172b26322079681a0bdf48e68dc28"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99cb7702-460f-548a-96d4-82806e7ea9b2",
+      "hashes": {
+        "SHA-256": "2a2501121b69c63c8e11fe581b5cb57487ed17c386b6376a16c6eed590f1d40e"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99cb7702-460f-548a-96d4-82806e7ea9b2",
+      "hashes": {
+        "SHA-256": "2a2501121b69c63c8e11fe581b5cb57487ed17c386b6376a16c6eed590f1d40e"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e1b5867-8bfc-5b91-89c9-4b828edf313d",
+      "hashes": {
+        "SHA-256": "5f4f01d97cce1f12c312be676dba3a8800881d89544117d83feed911d8968dd2"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e1b5867-8bfc-5b91-89c9-4b828edf313d",
+      "hashes": {
+        "SHA-256": "5f4f01d97cce1f12c312be676dba3a8800881d89544117d83feed911d8968dd2"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9ad97a8-4c3d-5662-9655-8cb453705428",
+      "hashes": {
+        "SHA-256": "d205fcadadf33d3d0ed7c0399861ce67f58c39b83ea27043a47d20575ff68873"
+      },
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3628f86b-5189-51da-a259-d9058c989a8f",
+      "value": "Smphost.dat",
+      "x_opencti_description": "2309 Tiny Turla backdoor.csv"
+    }
+  ]
+}

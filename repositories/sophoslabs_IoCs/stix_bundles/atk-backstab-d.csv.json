@@ -1,0 +1,140 @@
+{
+  "type": "bundle",
+  "id": "bundle--ebc02a41-c4cc-4914-b8c5-26f68c9167b5",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--880972c0-2d4c-5358-8464-872fad5c99fb",
+      "value": "https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver,Indicators",
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4891980-d6c9-5364-8464-c525150b0eae",
+      "hashes": {
+        "SHA-256": "1934b4641ca540ac4fd39c37e6f8b6878ddf111b5c8eb2de26c842cb6bd7b9b8"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a75d2d3-70c4-54f3-8faa-e6a290f7c401",
+      "hashes": {
+        "SHA-256": "83a17f3fda45b00e34934ddd0d5ed72c479170cb39097938f07a5dc6e92068c3"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a19722cd-1cbc-5f25-8559-687ee5e5c1cc",
+      "hashes": {
+        "SHA-256": "761330a5e5b16f27fef971e1f41d309ee9f5f158dd09e81b2b31cda6dafa59f0"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e2a2c31-4ee8-548d-825e-b246c0bfb565",
+      "hashes": {
+        "SHA-256": "08a248de098e0f9edec425ce37d13c827eaf4c54c93182f4ddf1c5b3801cf540"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4bb0ffc9-771a-5cf1-bff9-f7b241b7c656",
+      "hashes": {
+        "SHA-256": "a780972312e2644f29555ec9275053eebce37befe038eabaeb783443209bc921"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6820e94-55f4-5001-8d0d-b26e05d0f212",
+      "hashes": {
+        "SHA-256": "7bca36f037557b0f84412a666ef76dee8bfec1bc7754112b95f34634b8b72fed"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1072506b-1a64-5808-a744-8dc411fad40f",
+      "hashes": {
+        "SHA-256": "d579b1853c528e54464c2607e559591ee01b0ab75bc016c14de1c38068328a81"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7642660-8986-5112-9fc6-344e9fc2f352",
+      "hashes": {
+        "SHA-256": "db0b5c434ddc7c97505a8be24431e9fbe484c2113df4ddf061aee91c35eab8b6"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de6140e9-de4b-5ed4-9dc3-1d8efd7da110",
+      "hashes": {
+        "SHA-256": "52b9a7b44154bbb9d81a581a7de4902b1c661559ea87803d9cb85339805bd6ca"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65b277ed-596b-5a72-9dba-eece01da6674",
+      "hashes": {
+        "SHA-256": "79357c9248aea61fa25f0641f2eeb13bb259da645ab2e8dd696b702ed4fa976b"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--874fabc2-b8be-5ebe-aa2c-d36e05620def",
+      "hashes": {
+        "SHA-256": "cdfbe62ef515546f1728189260d0bdf77167063b6dbb77f1db6ed8b61145a2bc"
+      },
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec21b5c5-c126-5c04-a764-da2e04d9b1d7",
+      "value": "WindowsKernelExplorer.sys",
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec21b5c5-c126-5c04-a764-da2e04d9b1d7",
+      "value": "WindowsKernelExplorer.sys",
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91dc35e8-e6e4-58b8-92d4-e95ace0d3df2",
+      "value": "WKE32.exe",
+      "x_opencti_description": "atk-backstab-d.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9cb70d99-a9e8-5d26-b17e-5a9696e5f6bd",
+      "value": "WKE64.exe",
+      "x_opencti_description": "atk-backstab-d.csv"
+    }
+  ]
+}

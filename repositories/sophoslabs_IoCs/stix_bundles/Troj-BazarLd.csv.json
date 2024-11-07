@@ -1,0 +1,250 @@
+{
+  "type": "bundle",
+  "id": "bundle--37a35f7a-d6a3-44f0-9cee-9b691bf21966",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2017c1d2-d722-5eb9-a67f-33945edc99a8",
+      "value": "https://news.sophos.com/en-us/2021/04/15/bazarloader-deploys-a-pair-of-novel-spam-vectors",
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e716c04-37f4-5472-9f84-f48554b71d56",
+      "value": "amadeamadey.at",
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ed34dbb-ccdd-507c-a48c-8964797c8c40",
+      "hashes": {
+        "MD5": "21807bf30699429100f07c674e9f52f0"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c40c8644-0c7f-5feb-9993-acf5b6d112fb",
+      "hashes": {
+        "MD5": "441a9b57a778665b0689986265a59caf"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--62900b32-57f9-566e-96e1-6cfe702ca42d",
+      "hashes": {
+        "MD5": "494e8dc63210ed59ab012ebb5be1a283"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2bc3119-a6f6-514f-9249-9c961840a563",
+      "hashes": {
+        "MD5": "c941c4a83663fa976cf0367844900bc6"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7081ea01-dd39-5e42-9184-aad1338f5edf",
+      "hashes": {
+        "MD5": "c9ea53bdb7010f189f3c4566a854c543"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b1597fc2-db71-5c3f-8905-87fd3686efb2",
+      "hashes": {
+        "MD5": "21e3cae5b77c41528658ada08509c392"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a0cdf77-5fc4-59f6-b9d0-f80d65499461",
+      "hashes": {
+        "SHA-1": "E53166CA0F09AD46795CD8F5A1C9A4A2D5B21415"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc8c5a54-6778-5ae6-8780-a1d6171a5408",
+      "hashes": {
+        "SHA-1": "634892C91F5DDFAB0891FE7E004E50E46FE60CEF"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--074c21aa-7f85-59e6-8fcc-4898661998ad",
+      "hashes": {
+        "SHA-1": "165403FD23EE320564B9B455F234B60B02BA1FF8"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3eacd880-ae2f-50b5-a8b5-6449ad519671",
+      "hashes": {
+        "SHA-1": "52458F4E9449A66235486CD8ADB52FD2DE332814"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--abe53d1e-c846-53fb-b3a3-5b5847f7bce8",
+      "hashes": {
+        "SHA-1": "8A487C189EDD6E3CC32CEE7709AA4E0C21D07491"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3eacd880-ae2f-50b5-a8b5-6449ad519671",
+      "hashes": {
+        "SHA-1": "52458F4E9449A66235486CD8ADB52FD2DE332814"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--072f385e-afe0-56c3-9d6c-5a046ba1524d",
+      "hashes": {
+        "SHA-1": "D86639B31A7EB172C064C72788D1FBF4DC1440E6"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aa3fea72-656c-594d-9ee4-546e0b6c49f2",
+      "hashes": {
+        "SHA-1": "D3213224DAD1803840F7878BCC1DF85CA38DEED2"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--949e3c07-68d8-5584-922b-58f34601cf0b",
+      "hashes": {
+        "SHA-1": "CF0FCC2C856E800B360E545359FCA9A367489424"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc8c5a54-6778-5ae6-8780-a1d6171a5408",
+      "hashes": {
+        "SHA-1": "634892C91F5DDFAB0891FE7E004E50E46FE60CEF"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--704a8c75-9ad3-5526-99d9-f25b4ed6ca54",
+      "hashes": {
+        "SHA-1": "3B52CC3F5C58316827C183D664E21344993A5502"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8824b5c-4973-58ee-bcb0-4be64171110b",
+      "hashes": {
+        "SHA-1": "E0AEF96555318BAC394065C9721C0310CA0DF091"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--704a8c75-9ad3-5526-99d9-f25b4ed6ca54",
+      "hashes": {
+        "SHA-1": "3B52CC3F5C58316827C183D664E21344993A5502"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4f09e25-9be0-5802-8b2e-25c65be1dc40",
+      "hashes": {
+        "SHA-1": "BDB0E0889D3EC7AF0398B08ECE2F45ED1844D85D"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6695894b-d169-54ba-8d02-01ccf72bd67c",
+      "hashes": {
+        "SHA-1": "06765c5f039002c614a35d36a14597e86ef20370"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc61a25c-ecb7-50cd-a169-1cd5fe8d8fd5",
+      "hashes": {
+        "SHA-256": "44c15c76277adcfa5fa07b746c7083a4ee874751b678091edd56a003b0312c9c"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d16fa92d-02d5-5fda-97a7-400aeba72f13",
+      "hashes": {
+        "SHA-256": "71CD6CB93FCF508761B72FAC05BC96A07697718EB928C72FC7731DAB457B3606"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c9c88071-d7bb-57eb-adec-e14a49ed715a",
+      "hashes": {
+        "SHA-256": "52bbe09c7150ea66269c71bac8d0237fb0e6b0cae4ca63ab19807c310d6a1a0b"
+      },
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2b49ef67-2ea2-5c72-8ad4-941fb38fcb66",
+      "value": "AnnualReport.exe",
+      "x_opencti_description": "Troj-BazarLd.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "Troj-BazarLd.csv"
+    }
+  ]
+}

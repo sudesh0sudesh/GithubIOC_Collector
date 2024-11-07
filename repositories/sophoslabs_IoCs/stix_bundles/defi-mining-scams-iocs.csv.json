@@ -1,0 +1,2232 @@
+{
+  "type": "bundle",
+  "id": "bundle--8585a0ff-4b88-4ed8-b2a3-6d3ef41e2fa9",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6a5c5bcb-0a62-559d-8976-7bbfecb4c78e",
+      "value": "75.2.21.224",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4288b88c-a9ab-5a39-a831-6944f42b8e5d",
+      "value": "coin.info",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f80dfbf9-63f9-51f8-a9b3-c4b4a763fdd4",
+      "value": "defi.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d605888-f4ae-5ed4-af4d-89bfc193ad16",
+      "value": "allnodes.vip",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bc53496a-9822-5c5d-9cb1-2394a2e26fe7",
+      "value": "allnodes.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9338838-e7d1-57ab-8dbd-3b04b908e0f2",
+      "value": "binance.vu",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb7d3358-5400-5853-a132-c524160f2ff0",
+      "value": "binanceaa.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b477d5ba-db06-5d97-8efc-10db2962a7fa",
+      "value": "binancebb.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56a9264d-52ea-5f93-b383-62584657c032",
+      "value": "binancewk.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--276f8453-a228-569d-a352-566ecf800382",
+      "value": "blockexplorerc.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b60eae4-d9fd-5999-8f91-1483508aa1da",
+      "value": "bnbu8.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3fd16331-7f8d-5b08-8343-a767dbf5fd29",
+      "value": "bnbu9.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9329cf65-b085-54e6-bc5a-01c0b5f8f28a",
+      "value": "bnbusc.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--97f5fe2f-431c-56af-9348-1da891aab54f",
+      "value": "bnbusdtk.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--26138c0d-d5a4-5766-a498-e6a1222ff8da",
+      "value": "liquidao188.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--475b4ec2-1501-5c1a-befd-d5d7084693db",
+      "value": "bscusdtp.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f159cf8-0788-5534-89f8-223e2d6bc537",
+      "value": "c0in8.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37405c85-c512-52b4-8b64-6aa46d010e59",
+      "value": "cointrxb.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de418c66-837b-5c6f-a272-ec4d0e6652b8",
+      "value": "cointrxb.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--997ea1ff-c5b0-51cc-bf85-443e38635e80",
+      "value": "cointrxf.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f228a46-a3f1-534e-8e06-9287193c5537",
+      "value": "cwmining.biz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18664a7a-ab9c-5b98-838b-0e9d296829aa",
+      "value": "cwusd.biz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05a06704-a6f5-5283-b253-14effaa862be",
+      "value": "defi55.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--68c5b7c9-cd4e-521e-b723-c31b14d26a65",
+      "value": "defi77.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--646fadcb-bb7e-58f7-93a3-8aaac61a13a0",
+      "value": "defiusdt1.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a759476-117a-5b5c-81ff-a87dee54bab3",
+      "value": "defiusdt3.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d93cbf1-6973-55a5-aa32-0f77b8e30abc",
+      "value": "defiusdt4.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3904763-336b-562d-a40c-1c7fd4d4fb40",
+      "value": "egac.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c954395d-45cb-5387-8a8c-76b1b1b91c12",
+      "value": "ephae.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fcc7a6a-3a90-592a-bebf-fdec8aa2dc53",
+      "value": "ephaq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54ca9bf2-72a5-59b4-80f4-bb21a4d6cffb",
+      "value": "ephar.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53bd3776-122f-50d0-8f87-36a07f5cf115",
+      "value": "ephau.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9fc89431-b537-5139-bc8c-4c33da80b164",
+      "value": "ephbd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79035912-6503-5a6c-b03a-edb60524b855",
+      "value": "ephbm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--957b8e7c-3d38-5d03-a23f-46eda95afd0a",
+      "value": "ephbq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--073356d3-fb73-583d-98d9-f57f41650ec9",
+      "value": "ephbs.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74a0bb01-ee7b-5c55-b018-6917a091a92e",
+      "value": "ephdb.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be966193-67c4-5cf4-83a0-20c9900cc09d",
+      "value": "ephdg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ada5e89-4301-501c-8543-59218ba93ebf",
+      "value": "ephdh.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6a95cd9-23b4-51f1-b5f4-3da7d7c1f14f",
+      "value": "epheh.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53afc567-194c-5e02-9284-979ea790efb3",
+      "value": "epher.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7109c3a0-dfe5-5756-9961-0e9d260c8c24",
+      "value": "ephfo.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ea05007-99f3-5ef6-8d26-1e4a5c8816e7",
+      "value": "ephfr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48af0d07-e21f-5014-ad79-bb5ffec45654",
+      "value": "ephfz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b618db63-166a-5d88-89d8-de1fd04201fd",
+      "value": "ephhg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b950a02c-0bba-5803-987f-41aee401e242",
+      "value": "ephhj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--080fafc3-e7f9-5163-98fa-b755af53da4b",
+      "value": "ephhu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3575d1e0-a6de-5b28-b23f-f62d30ae4b8f",
+      "value": "ephij.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5918c752-62e8-513c-8219-6ab2c4127fec",
+      "value": "ephiu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--286eb2c7-4346-5456-9825-0f9e4bb99cac",
+      "value": "ephiz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8f95eebe-7505-512f-afde-6e40fe0962ce",
+      "value": "ephju.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbbbdf37-8ca9-519f-b290-9c28d8247dea",
+      "value": "ephjx.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62cc70b1-1dfb-5a90-a144-e0d5cf56ee4a",
+      "value": "ephkl.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0c3647d-0de7-575b-81f2-ad15ec030ddc",
+      "value": "ephkp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5f523d5-f9cb-552a-b4d4-789de25d7fd3",
+      "value": "ephld.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8de3844e-67be-5538-b4b8-340e2c9001e2",
+      "value": "ephma.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--72f1f0bf-99b3-56b2-9571-6c201ea7b38d",
+      "value": "ephmf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5a1d0a0-f144-51fd-a403-c816b04cf23b",
+      "value": "ephmr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee2e5c9e-e4c1-5f02-931d-87c4b6d442cf",
+      "value": "ephna.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3775d817-d261-5a8a-81b8-fd2fa4f94d26",
+      "value": "ephne.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ddac506-5cd2-5bd8-ac8c-4029df30bab4",
+      "value": "ephnq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--04be7aee-3050-54d2-8b93-159af016df50",
+      "value": "ephns.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09a9922c-2f8c-5d92-8a98-45c1b8b0e66b",
+      "value": "ephox.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50aef186-1b8f-5aaf-8e04-8bb64f2e6f0d",
+      "value": "ephpd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8fecb00-e39e-5bc8-88f3-ad942702d257",
+      "value": "ephpk.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b9a9a3a-af0e-501d-ad2c-59f709c0c875",
+      "value": "ephpv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--afcadcee-1332-5a3e-8ecb-56367b651bb0",
+      "value": "ephpy.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e80449a-e325-5503-acb9-6053b6516833",
+      "value": "ephqk.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7eb77d74-52c5-51e6-8562-845ce1344809",
+      "value": "ephqq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c12806e-9c24-56ed-9615-72a63e9d0ed2",
+      "value": "ephqs.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a48fa04-a595-511f-8ac2-92fff267b7f9",
+      "value": "ephri.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2b2414ba-a277-5aa2-9132-ec9e506674a8",
+      "value": "ephrs.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9107f18e-6826-5e92-a873-61d40d44ec71",
+      "value": "ephsl.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a3d19eb-dd2d-5cfa-a064-7bf13d359eaf",
+      "value": "ephtg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ada551d-e536-58b3-acef-117616919bbb",
+      "value": "ephus.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3d326c5-3c70-55d1-bf3e-7ddc489afba5",
+      "value": "ephvg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd5813c9-5003-56d0-9906-84f234414567",
+      "value": "ephvj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c52c541-fcd6-578c-8e90-d23f016eea09",
+      "value": "ephvm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca50f506-9300-5b66-806f-b56b426870e2",
+      "value": "ephvq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08f501e7-4fa4-56b5-ba4b-96fef9909775",
+      "value": "ephvr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e3ac49c-4047-51e8-a41e-98f6764e6baf",
+      "value": "ephvv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bb622ab-19aa-51a8-8374-9c659646668a",
+      "value": "ephwz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63b0bf5c-8cb7-58b5-900b-b21bb05cac97",
+      "value": "ephxe.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b72599a2-a983-564e-a6d0-2d1d33138e46",
+      "value": "ephxt.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d40fb4a3-a306-5d86-9e6c-cfcc6aef3791",
+      "value": "ephyo.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--363db2c7-dc0c-5d7d-a5b1-53ea43d08c18",
+      "value": "ephyx.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a5c5614-e066-5f9d-bca2-303ed34514a9",
+      "value": "ephzb.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d1cd5cd-3047-5ee7-95ac-c51e391192b6",
+      "value": "ephzl.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9407d866-0c98-5ab2-a9f0-c3f40c6f7b1f",
+      "value": "ephzm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff44ad5b-200d-546a-b00f-f975a04154ba",
+      "value": "ephzp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6aabfacd-9a7f-5240-a008-51dcd820498e",
+      "value": "ephzs.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--863c8f8a-0621-5c06-b49b-d5469eabb96f",
+      "value": "ephzu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f40d881-576e-5dbd-a67e-eec56d4ec01a",
+      "value": "mining.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cc2273d-3e23-56fe-8948-b316fbb202b7",
+      "value": "ethereumfour.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca85485c-917d-56d8-a716-627d9cb336f1",
+      "value": "ethereumseven.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3bfdce2c-f8d4-5e3f-8fe6-f4452bbe0d14",
+      "value": "ethereumzz.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f5364486-b237-5969-b191-be5d27e3b751",
+      "value": "ethhon.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f2d101c-c7eb-589a-8b42-9e275d97248f",
+      "value": "ethtonx.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3eb962d8-5968-56dd-8a15-daaee7358410",
+      "value": "ethtrx.info",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a18a72e-46e4-5ffe-b6b6-ddf8cc68913b",
+      "value": "ethtrx.xyz",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46ae7528-d55c-546a-915a-a294a2080dc4",
+      "value": "imcoinbasera.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--195b8e10-5e91-5783-b842-9db231f5108a",
+      "value": "imcoinbaserb.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd49e02c-8dca-5cc4-b6c1-1808a40b87fc",
+      "value": "imcoinbaserc.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0eec2039-f595-5e8f-89ce-bc2ab4bcbbc0",
+      "value": "imcoinbaserd.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ae66a2f-a4aa-59fc-aea7-a3264148670c",
+      "value": "imcoinbasere.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--592d3436-b4a8-5444-96da-43dec6df1d16",
+      "value": "japgu.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07919da8-41aa-5594-a9d1-fa8141280324",
+      "value": "joanmurphy.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1a0105c-a1b4-5253-b349-f3c8e91396ca",
+      "value": "leufrv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a919349-ba74-5e27-b677-f53690948a73",
+      "value": "leuukj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b079b8a-2feb-559c-84bc-dc35c1c06f4e",
+      "value": "lhuvtz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a8a594c-cdcf-56ab-afe0-5107a6e268d1",
+      "value": "liufpp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1354d84-4857-5238-8eea-7103ea23dc4b",
+      "value": "llukpd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--021f67db-f7f5-56c8-a91e-06d1a25c9c6c",
+      "value": "lpuamc.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3dfbc58-071f-5161-90cf-1861386548f6",
+      "value": "lruaor.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d53ad10e-a9cb-5b3c-b499-5c4cbf6ded99",
+      "value": "lsugoq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f4ff6b95-3c9b-517b-99e6-008f03786bd4",
+      "value": "lsuhul.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75ab21f7-90da-53bb-81c7-6758e62fbcf5",
+      "value": "ltujxi.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5868f3a-176e-5bb5-8e25-a4225d151057",
+      "value": "lucky661.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da63f131-795c-5170-885a-713342f8b3ea",
+      "value": "lvuyft.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62c26886-6e9c-5581-a041-e221959ed6e5",
+      "value": "lwuvwv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f048147c-49d6-5768-a646-6a51e3d11fce",
+      "value": "lxuqfd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ccd56af-b552-504e-93c1-2ac1c9e89177",
+      "value": "lyueex.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c075fdf3-cf9e-512a-8403-85667f4ebd05",
+      "value": "lyxfqh.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c093dec-819e-548c-811d-f2792b7b5dcd",
+      "value": "lzuaqi.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cad81cf7-b67d-58ec-9218-da30ea840139",
+      "value": "maderasfe.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a26545c1-3f48-59d6-ae1c-0288e4ea33b0",
+      "value": "mandala95.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12b6df14-6402-5800-bd6f-421cae2583d2",
+      "value": "mice5.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ea9209f-169f-53d1-bd97-6a34b2a2bcd8",
+      "value": "12.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5aabf7da-c447-54b4-97bb-873631642ed1",
+      "value": "888.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--334896e6-ed3e-5017-b1ad-f97d60944b57",
+      "value": "mining.xiasix.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e89eb7c8-3e85-5aac-a02a-0ee574791311",
+      "value": "mining118.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7ab6211-93d9-57e3-b9dd-cb39f84d543b",
+      "value": "mining13675.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c6e5c7a-6234-5f02-85b5-4f2b378e1460",
+      "value": "mining198.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--01979496-0bb7-5a40-94d4-4d9599320dc3",
+      "value": "mining66.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cf28e0e-2542-5a18-94e0-9aa62c4b0153",
+      "value": "mining822.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7827d2d-2620-543f-9c09-f78d795efab2",
+      "value": "mining997.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e50226d-2f26-52f1-b1ff-ad7810924aa9",
+      "value": "miningggg.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5fb9d43-5539-562c-b72e-c08f3194f3ae",
+      "value": "miningkt.cc",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b62998ae-9c5d-58fc-aa34-626734aadca3",
+      "value": "miningpoob.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--653ecf87-b5a1-5f09-9e48-ddc016e1139c",
+      "value": "miningpooc.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0e0fb14-0da9-5499-b8c7-1a279e20ba64",
+      "value": "miningpooe.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71f7ba6d-9778-511c-9c09-b97048b6012a",
+      "value": "miningpoof.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88db756d-4682-5bd3-904f-b8df52486193",
+      "value": "miningpook.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1d95b55e-6349-5e8e-9043-610e40acc39f",
+      "value": "miningpoop.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f3aac21-ad05-5281-85c2-e980e4651c83",
+      "value": "miningpoox.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--089170da-a84a-5a54-b172-432bc86d233b",
+      "value": "miningus.co",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3415523-3c95-590b-8d44-bf58929a9214",
+      "value": "miningusd.pro",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--062ffc07-57f1-576b-8839-e2ce03cc9826",
+      "value": "nbvpo.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f8783f8-4a94-53e9-8007-b0695de86925",
+      "value": "8898.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--353598e7-a91e-5936-b9f9-c30e86c5e719",
+      "value": "newcoinweb.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe2de7a5-612c-5cef-b157-cb88d3288d5f",
+      "value": "cakedefi.vip",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2a875cf-628c-5aff-be7a-76d927684e2a",
+      "value": "papclu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--513c3866-868d-527d-84d0-dea1333d535b",
+      "value": "papenc.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--db6f8bf0-f459-59da-879a-486159841f42",
+      "value": "papicf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f8cf8dbc-971c-5287-896b-e7f628e8926c",
+      "value": "papkdx.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--550df8e4-19a8-550f-bf1a-281b084b4d9d",
+      "value": "papkwt.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--459b39ff-a1fe-5eb2-9f8f-1d3f28e8e6ed",
+      "value": "papoca.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aee4b4e8-ee9e-566b-bc26-cefdc42071a1",
+      "value": "papojv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--890e1ed5-d474-503b-9548-9dc43d12e1d7",
+      "value": "pbpbwt.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca070618-00d7-500f-bfeb-ca11c0c6d61e",
+      "value": "pbpbxe.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dc0275ff-46f5-5faf-96f7-f26fcbeb715c",
+      "value": "pbpels.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4ff14cb0-c6f2-59be-8338-2c7f215522b7",
+      "value": "pbpvfn.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abfb8268-e7e9-5111-96c1-255635ef23c7",
+      "value": "pcpgxr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc98d6f5-af67-5bfb-97cd-d73663c44b80",
+      "value": "pcphxk.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6460d8a2-7118-5450-8b05-de9bfabbb503",
+      "value": "pcpjuf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8f7a709b-7ca9-5a3f-a570-5aab13557683",
+      "value": "pcplci.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b539951-1439-55ea-8cba-129e2c943ef7",
+      "value": "pcpvey.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1222217-c365-5a41-897f-7fd7355897d7",
+      "value": "pdpjmu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eba65647-bbe2-5287-b011-699933955c02",
+      "value": "pdpnvj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c2e53403-bfe4-5662-af84-94386129661c",
+      "value": "pdpoxa.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e79c56a-9016-5ac4-aa9c-9d4cd4b732ef",
+      "value": "pdppyv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff743740-b95d-5288-afbe-fb9e52e44fa8",
+      "value": "pdptsr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67c954d1-36b1-52b2-9832-ab07ee5c0e20",
+      "value": "pdpwmy.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f67c2aec-4a9f-52ca-add4-32637382aa11",
+      "value": "pepgde.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb38292f-8e2b-592e-9b71-dd21e65b347b",
+      "value": "pepida.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--303b1662-a397-5139-af7b-89f68dd48737",
+      "value": "pepiol.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d9f8ceb-89f9-5f8f-8578-5bc479aac300",
+      "value": "pepowz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--643f44bd-478d-5967-bb09-e17bfb228664",
+      "value": "pepumf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ecd86b6-25fe-5bde-b782-feb16296f72d",
+      "value": "pepwyc.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c147dacf-2dbf-5235-9d89-3a67bf68a0ef",
+      "value": "pepzpg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a45d0ced-dc58-57f9-af4d-7e063e2b343c",
+      "value": "pfpwvd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--142262e9-a7fd-549f-a82f-a432c4323904",
+      "value": "pgpsup.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c5104d6-6570-5b91-92e6-1eee0420f37a",
+      "value": "pgpuaf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9349e807-0748-5b31-b6f9-b75194671543",
+      "value": "pgpvvv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7c61494-eecd-5291-a306-8b8dfaa7e314",
+      "value": "phpsqo.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b946209-bbdb-5619-a3fd-81553b5b940e",
+      "value": "pipeaj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0e0883e-9a0d-51e7-b98f-2f5b0b8a48b5",
+      "value": "pipnut.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d939b975-55bc-5b36-a94d-47fb0816e833",
+      "value": "pipqmz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7331b266-e5a1-5b54-8967-91be025e731c",
+      "value": "pipyqk.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--257bba1c-95df-52cb-951b-c5eb3a80892e",
+      "value": "pjpcpm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35ad7e48-a3ec-51d8-af96-f58da88c3ea4",
+      "value": "pjpltj.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1bc8d7d-66e1-51fa-830a-3e6ea0887402",
+      "value": "pjpndy.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06dd4b8e-d97e-5e5f-9ea4-4f82ebadd449",
+      "value": "pjpooc.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7346d1b8-7782-5ac1-ad79-9c362930ef9a",
+      "value": "pjpxof.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ebe2b443-da60-562c-8409-c9ec8133b946",
+      "value": "pkpnzf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da8ef24b-e772-5f32-a911-f51f71a66564",
+      "value": "pkppds.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5a3b8e2e-e630-5d7e-ae39-56ef1218bf6e",
+      "value": "pkpsru.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0e31889-86ea-512b-83d2-afb6a4f4612e",
+      "value": "pkpzde.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ec92531-a88a-57fa-b0a7-b56fdc41617d",
+      "value": "plpabw.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8fb779b-ed50-5e24-bfd2-3e7271053075",
+      "value": "plpobv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a7917a3-a703-5e59-9acc-7d92a72446fe",
+      "value": "plppaw.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f2e0a02-c7c3-58d6-8113-ba0acb4cb623",
+      "value": "pmpddz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11e44218-8449-5a74-9520-13080d942f49",
+      "value": "pmpivp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56fc9294-d4cc-5c89-8bf6-5c67027f126e",
+      "value": "pmprcd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9b912404-d985-59ab-882a-09d19d4a4216",
+      "value": "pmpssi.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d94b434a-00de-5d6f-8f47-848919ef4c8d",
+      "value": "pmpxlg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da95fadd-6062-5366-b9e8-3afee5a6f7f0",
+      "value": "pnpcll.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--694aa4b1-e8b3-5cdb-998e-c1b5b5751088",
+      "value": "pnpcwp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6577a35a-c0b9-5fdb-ae98-4b6bef0b86e9",
+      "value": "pnphna.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2df64190-e4b6-51ea-b884-851200845d9e",
+      "value": "pnpmpz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1207390-5967-5cbb-a756-05f7309799f5",
+      "value": "popaqm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9047f46-1d23-5e55-ad5c-fe3f7ad90599",
+      "value": "poplvi.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0276063d-dccd-5b3b-8550-11f5f6564c41",
+      "value": "poprpf.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90677599-7d35-5837-af77-ca60fe776169",
+      "value": "popxys.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--431a15ef-37df-5071-8068-e86b469b86c7",
+      "value": "pppcks.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ae88344-8632-52ba-afd6-8af4eb039778",
+      "value": "pppczu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--724b2a1c-d248-5a4e-ba1c-d56e907041d7",
+      "value": "pppuyg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--538af99a-b83e-5050-937d-bafc2d236da3",
+      "value": "pqpaop.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2519cae2-36ce-52fe-80ee-1c0186177b0a",
+      "value": "pqpdvp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11cf3671-a298-59f3-84e7-7864c5304fd4",
+      "value": "pqpejd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1ea78d0-d669-57fa-96bc-dfaf17b51762",
+      "value": "pqpicn.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c05dc543-5798-539c-a780-7e315f251f14",
+      "value": "pqpivu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--586d399a-09fb-569b-b606-9af332a877be",
+      "value": "pqpndv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55c24861-81e4-50a2-8a5e-ed0cef99b81c",
+      "value": "pqppfr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--613e7f2b-60e7-5f1d-9e33-4e1343651b47",
+      "value": "pqprrx.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d035fb36-320c-5dc0-847f-b25bd68f6145",
+      "value": "pspiit.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e70f277-721c-5f5d-832f-47656d2fa145",
+      "value": "pspqnv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f512ba17-ad18-57af-a867-34c055c7550f",
+      "value": "psprub.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ed503d0-12d4-55d2-8ad0-8c7cef17a1b4",
+      "value": "pspziv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f291eee-d65f-5f43-bb40-7b02e8f9c49e",
+      "value": "ptpemd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5217dca-cacf-506e-b2a1-06090b9efd24",
+      "value": "ptpeuc.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1eaaa5fc-ea92-52d3-a668-9d3049e0615d",
+      "value": "ptpnmx.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d69c8470-2360-5eb4-971e-cb2bf89f9352",
+      "value": "ptppeg.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9340e01-2db4-536c-a691-47ec8ebd870e",
+      "value": "pupcyo.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc79c397-ebef-5e9d-ae5d-530f1c32b7d9",
+      "value": "puprtd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e83188d3-7607-52f0-9280-8ac6ec2cdb75",
+      "value": "pupvgk.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b120bd7-3907-5d62-9b6d-d1a8c56c0dea",
+      "value": "pvpasm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bcd8c3c9-fdc1-5eb3-867c-91a3a2684f0c",
+      "value": "pvpbbr.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78c0d2bd-0a25-5d1f-82b1-74805a944b57",
+      "value": "pvpilm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ad84445-2466-5fac-9cf2-d199df3bdbb4",
+      "value": "pvpnma.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba2d41a0-f0d4-52a4-8b1e-811906c72d58",
+      "value": "pvpoci.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--803bacef-b29b-53d7-b5e0-f38b9ea4344a",
+      "value": "pvprgz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5fad1831-e4b3-51f0-81e6-4ed215134c4f",
+      "value": "pvprii.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18edba12-62a1-56d9-9670-fe596d3a738f",
+      "value": "pvpsue.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5492fe4b-4700-5447-87bd-99e96ddf8cbe",
+      "value": "pvpvpm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99dc642e-801a-5952-b2e2-9dd91652f8e0",
+      "value": "pvpwbq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae1fa270-d315-5d83-88d7-ed8edd53c956",
+      "value": "pvpxjz.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d05a3ea9-2ad6-5847-a771-a098f2d7839e",
+      "value": "pwpqmm.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c6c91d1-7073-5256-a4cd-d2fc146f6270",
+      "value": "pwprgv.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--47175ae3-2a05-5fe4-8b93-511f5bab6a67",
+      "value": "pxpczu.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52d26886-998f-53c1-b011-74fa8b38a49f",
+      "value": "pxpfrd.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94802cc9-74ab-5aa6-a39d-7836832e7a15",
+      "value": "pxptnp.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d9b9d2f9-a862-58af-ab6f-0dae406ea740",
+      "value": "pxpzcl.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9eb9a010-33d1-5619-892d-846bbd994108",
+      "value": "pypbof.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95144ea7-efc2-5f27-a95b-e2ea6507efe6",
+      "value": "pyplfq.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61b511d1-ebaa-51d2-9216-8c36a87916e0",
+      "value": "pypwud.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11eade6f-747d-5f8d-951a-e4f33db22f9b",
+      "value": "pzpinn.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a396199-6b73-57b6-866d-b39a7f12cb9d",
+      "value": "pzpray.top",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74608eb2-47d2-5d37-acd1-eb83004c4974",
+      "value": "tbtrc.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49e4981c-c86a-561a-8a14-8d4eecb71a6f",
+      "value": "tclink.net",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c46f05a9-8b2a-5812-8699-f09dcfb3ecfb",
+      "value": "tknpo.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91fe0da3-c6c7-5d30-a53d-93a85131ebc2",
+      "value": "tronbet.co",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bc41481e-75cb-5fff-88e5-54febd2d3d29",
+      "value": "tronbet.net",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0bb977d-c036-502b-95ca-b1eefe61c209",
+      "value": "mining.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--04e4024c-0b5a-577d-b072-9e9443c45078",
+      "value": "pro.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12e93f2f-85e4-5c76-8973-0754f4ac38f5",
+      "value": "tronixnode.org",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee3fe405-e3da-5480-997e-a2f3e8531c60",
+      "value": "oke.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d16e9a94-e89a-57e7-8b7e-3297df3484ac",
+      "value": "usdt.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--168b6da2-5f0b-5f84-b6bd-d1557e405bdc",
+      "value": "v2.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5322c008-5fd5-5c00-b585-83452066c1e0",
+      "value": "trxbscg.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28afd8f3-fd2e-5e1d-8abd-cd1685e481c2",
+      "value": "ttqhb8.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4160da2f-ded0-560e-b823-f29e16577b38",
+      "value": "usdmining.info",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1d50f34-0a96-597d-a5a4-c1aa9c4f4596",
+      "value": "usdt3.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa6758e2-f8ca-5c2b-b9bf-236859aac682",
+      "value": "usdt8.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94d75795-4484-59f6-b8ad-7fd94b628429",
+      "value": "usdtbnbs.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f526b152-aea2-5762-bdcc-b1153e3cc007",
+      "value": "usdtbs.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b5e9125-759e-5f5d-8244-42393a968ddb",
+      "value": "usdtmining.org",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7a62ac6-98db-5f7e-ab7b-26ccf32e6510",
+      "value": "usdtmining.vip",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d765c0bc-977d-5f9b-846a-4accc642402e",
+      "value": "usdtmining1.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--469e876d-bf3a-54b3-b038-eac0abe63093",
+      "value": "usdtmining12.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--694f9dc4-7e66-540a-8846-60cde9e0cc4c",
+      "value": "usdtmining13.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44386511-a31d-57d9-816c-d167dee9012b",
+      "value": "usdtmining15.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7031c289-1aa4-5399-be57-0c318018cda4",
+      "value": "usdtmining16.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5b90986-b880-51a1-8404-d23fe0682a3a",
+      "value": "usdtmining18.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e407eb5e-d585-5852-82ed-0c14713cba1d",
+      "value": "usdtmining3.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d76b0e5-fc50-5f63-adb4-aff211c31a50",
+      "value": "usdtmining4.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e2fc410-c994-5f9c-8873-1916effc5c5d",
+      "value": "usdtmining9.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--714f52c3-733e-529a-b964-19d0903bd70f",
+      "value": "usdtminings.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ba8c8c8-b88f-5995-bf35-d403de41cc41",
+      "value": "www.usdtmining20.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4592ef6b-f7b7-5ae6-be26-479ba7531c67",
+      "value": "ygalaxy168.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28afd8f3-fd2e-5e1d-8abd-cd1685e481c2",
+      "value": "ttqhb8.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4160da2f-ded0-560e-b823-f29e16577b38",
+      "value": "usdmining.info",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1d50f34-0a96-597d-a5a4-c1aa9c4f4596",
+      "value": "usdt3.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa6758e2-f8ca-5c2b-b9bf-236859aac682",
+      "value": "usdt8.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94d75795-4484-59f6-b8ad-7fd94b628429",
+      "value": "usdtbnbs.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f526b152-aea2-5762-bdcc-b1153e3cc007",
+      "value": "usdtbs.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b5e9125-759e-5f5d-8244-42393a968ddb",
+      "value": "usdtmining.org",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7a62ac6-98db-5f7e-ab7b-26ccf32e6510",
+      "value": "usdtmining.vip",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d765c0bc-977d-5f9b-846a-4accc642402e",
+      "value": "usdtmining1.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--469e876d-bf3a-54b3-b038-eac0abe63093",
+      "value": "usdtmining12.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--694f9dc4-7e66-540a-8846-60cde9e0cc4c",
+      "value": "usdtmining13.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44386511-a31d-57d9-816c-d167dee9012b",
+      "value": "usdtmining15.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7031c289-1aa4-5399-be57-0c318018cda4",
+      "value": "usdtmining16.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5b90986-b880-51a1-8404-d23fe0682a3a",
+      "value": "usdtmining18.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e407eb5e-d585-5852-82ed-0c14713cba1d",
+      "value": "usdtmining3.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d76b0e5-fc50-5f63-adb4-aff211c31a50",
+      "value": "usdtmining4.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e2fc410-c994-5f9c-8873-1916effc5c5d",
+      "value": "usdtmining9.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--714f52c3-733e-529a-b964-19d0903bd70f",
+      "value": "usdtminings.me",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b335c6-619e-5416-8c9d-375f2e98bef2",
+      "value": "eth.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ba8c8c8-b88f-5995-bf35-d403de41cc41",
+      "value": "www.usdtmining20.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4592ef6b-f7b7-5ae6-be26-479ba7531c67",
+      "value": "ygalaxy168.com",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c523e855-b9af-58a8-b9b9-f0058fb50b1a",
+      "value": "923bbe149dd9.png",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--faa94a7e-9c44-50a6-be66-4033af4e8493",
+      "value": "vendors.a28ab9c9.js",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6e9c5ae-7452-5fa2-9174-6555e4eb375b",
+      "value": "33e58a61de5f.jpg",
+      "x_opencti_description": "defi-mining-scams-iocs.csv"
+    }
+  ]
+}

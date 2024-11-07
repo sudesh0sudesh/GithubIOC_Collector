@@ -1,0 +1,917 @@
+{
+  "type": "bundle",
+  "id": "bundle--18c2d2f2-7e23-4096-8bb8-2d67a81b179c",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f311931-0c4e-5b3e-a88d-d4a5090ff07b",
+      "value": "145.239.225.15",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e17b5e73-bf5f-5573-a946-ec01f0d2e47b",
+      "value": "54.36.10.77",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f311931-0c4e-5b3e-a88d-d4a5090ff07b",
+      "value": "145.239.225.15",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f311931-0c4e-5b3e-a88d-d4a5090ff07b",
+      "value": "145.239.225.15",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f311931-0c4e-5b3e-a88d-d4a5090ff07b",
+      "value": "145.239.225.15",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e17b5e73-bf5f-5573-a946-ec01f0d2e47b",
+      "value": "54.36.10.77",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e17b5e73-bf5f-5573-a946-ec01f0d2e47b",
+      "value": "54.36.10.77",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e17b5e73-bf5f-5573-a946-ec01f0d2e47b",
+      "value": "54.36.10.77",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7c970fd2-935f-5b6e-818c-645a09de3871",
+      "value": "https://news.sophos.com/en-us/2021/01/21/mrbminer-cryptojacking-to-bypass-international-sanctions",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e8b2118-6d9e-574f-89f7-f3ea2019710c",
+      "value": "vihansoft.ir",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62b88b79-4389-5c61-9b16-de81af8e0cbc",
+      "value": "mrbfile.xyz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16a02c6f-8a0c-5189-9efe-821109ffb528",
+      "value": "mrbftp.xyz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e085458-f213-5e71-9e2c-439c3803a139",
+      "value": "mrbpool.xyz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14867feb-2ed9-54d5-882f-cc21c9366fc4",
+      "value": "poolmrb.xyz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e8b2118-6d9e-574f-89f7-f3ea2019710c",
+      "value": "vihansoft.ir",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--711d3bad-357c-52ac-adfe-b7e748a3af0a",
+      "hashes": {
+        "SHA-1": "06052037bf8505bbc0f9dbbeb5ded23c742c21dc"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05a9312f-746a-5370-9bd3-3ec58714dc3c",
+      "hashes": {
+        "SHA-1": "1149d9360a80a1723cac36a34c5e61af6ec0a1f4"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a046c43-d85f-55c9-b435-f496ae348c02",
+      "hashes": {
+        "SHA-1": "16c2fc6cea484b8eef3dc984992d1f2d4a328300"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7855fa22-de36-5719-b29f-742c64b94abb",
+      "hashes": {
+        "SHA-1": "171d361344d8fe86b4cda379f4f56175efb30561"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f22e0be7-9f8c-5f24-9dad-6bc20675feb6",
+      "hashes": {
+        "SHA-1": "213956d187ba1bf429362bd60ace89ea39fc78d4"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7fb664e-c343-5cbd-9272-0c4de234796b",
+      "hashes": {
+        "SHA-1": "2238a2ca85e2017b16361317f68d8ee8566dd3eb"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbbdc0f1-6723-58db-a0fe-b58d2115ddfd",
+      "hashes": {
+        "SHA-1": "26ebb2593878fd667b73ee92bd49ca0db735b652"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3204cae2-3cda-5b08-8bcd-4c1d4b29ce60",
+      "hashes": {
+        "SHA-1": "2e0735bc403b2df432b6f8de649625d9d0c18340"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3204cae2-3cda-5b08-8bcd-4c1d4b29ce60",
+      "hashes": {
+        "SHA-1": "2e0735bc403b2df432b6f8de649625d9d0c18340"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36bb753a-f093-58cf-b376-60330a02bb18",
+      "hashes": {
+        "SHA-1": "324f678744e2d0eaa305a6efc6b7121e7730f5d5"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36bb753a-f093-58cf-b376-60330a02bb18",
+      "hashes": {
+        "SHA-1": "324f678744e2d0eaa305a6efc6b7121e7730f5d5"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72c70138-195b-542f-8651-799d3a0e754b",
+      "hashes": {
+        "SHA-1": "32988daeb08736a9a3982eacddfbd7efb447f678"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--916b7fa7-47a4-5e5b-994a-b8a3b07a04cf",
+      "hashes": {
+        "SHA-1": "366892fb08a0bd15248a256bc28d3deae1deb317"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--916b7fa7-47a4-5e5b-994a-b8a3b07a04cf",
+      "hashes": {
+        "SHA-1": "366892fb08a0bd15248a256bc28d3deae1deb317"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7bf2d77a-f68c-5ad7-8a4a-d27b8cd15805",
+      "hashes": {
+        "SHA-1": "37c72bfd7fac968f31ed3f7b0db4b395249d72d6"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bae5ae5f-5c50-50e7-b417-6cf10418e993",
+      "hashes": {
+        "SHA-1": "3b814debba2f063c24e76e49d18e43e5f3ef012a"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bedeef68-4a33-59dc-87f1-685fe48211f8",
+      "hashes": {
+        "SHA-1": "431159bea4ee95ea35bdcd9a9413dd3079d447f8"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7601051f-12f2-5e8d-a547-f9a232bf7a32",
+      "hashes": {
+        "SHA-1": "4fbdaddec288b6af10621ef527d89dc82db88fa4"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b589ad6a-ba11-5e8f-a9e5-7f9c12995b38",
+      "hashes": {
+        "SHA-1": "53f63e6b0e41b1ebcb43feeed23aa4fc7b4fa827"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6628a9e2-ac94-5617-a42f-78705a5716b7",
+      "hashes": {
+        "SHA-1": "65bf885571ec5d934d7e1fcdeee121ce02c20cb2"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91888a5f-1d15-5c77-a452-2d8bdd71532d",
+      "hashes": {
+        "SHA-1": "68b0b699fe55a5d802745298b366403a08249bf6"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed67585f-c3fe-5bfe-9574-eb98950321c6",
+      "hashes": {
+        "SHA-1": "7369c59499db291759b20b10eda2502408ad4ede"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56d3e150-c3ea-5089-9e30-08a8071e9b57",
+      "hashes": {
+        "SHA-1": "80ed476aba352c37c7d75b94721b471e17667a18"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b4cccf9c-2152-556f-a197-6d836c596678",
+      "hashes": {
+        "SHA-1": "925ad7bea193d4a19d053c41a9ab12f2996cd2a9"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bdd18f9-c023-50c7-b3e7-a7a17e72a91f",
+      "hashes": {
+        "SHA-1": "976950d86215709cb6fe33dbe7497ddc7e0684a0"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47ccb20b-dc3f-5934-ae39-9e229bececce",
+      "hashes": {
+        "SHA-1": "9976681f4c77fdf3566e8ad20dbc4cc5e8a332cb"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bdd18f9-c023-50c7-b3e7-a7a17e72a91f",
+      "hashes": {
+        "SHA-1": "976950d86215709cb6fe33dbe7497ddc7e0684a0"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec39e865-646d-5f0c-b793-1769e44295b7",
+      "hashes": {
+        "SHA-1": "b97c739713ae05a6823974c972d7b49e2b5cab48"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac26d4fd-f649-573f-a91b-b53f8bc5bd86",
+      "hashes": {
+        "SHA-1": "a21c84c6bf2e21d69fa06daaf19b4cc34b589347"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e5a1eb5-3e11-5a89-9f89-43647aa1b562",
+      "hashes": {
+        "SHA-1": "a94d9db3046ec3c9a9278ea5f1f4d93afb043b41"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aed351ec-9d81-5ce0-bbed-314b3b8a9b10",
+      "hashes": {
+        "SHA-1": "aa143648ec22bf05762fc96f5acbf4fe5d6d5dc6"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91be1d73-d083-5089-b895-5e00de046a68",
+      "hashes": {
+        "SHA-1": "aa3b9ff3a458c7b9e13eac11e1d172ccf5ec9492"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66ab3b15-cf4b-5732-a1d1-ef7042aa7112",
+      "hashes": {
+        "SHA-1": "aa56debae96df8ad4a3287db3e4c20b0bf6ea073"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e28c384d-3513-5a55-a9c8-90c74d8a9c05",
+      "hashes": {
+        "SHA-1": "b241e489452568d15cb4672f2108a63dfda75201"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ba00fe6-ca34-56ba-b201-638bd2725982",
+      "hashes": {
+        "SHA-1": "c246db1ae246e16b1afa95e6c90fefaf0c1d0592"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6756c2cc-ed5c-5a51-8d07-c1861df6cfdc",
+      "hashes": {
+        "SHA-1": "f0972e86d8fbbca91f409de4bfe8efc3208b7a42"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6756c2cc-ed5c-5a51-8d07-c1861df6cfdc",
+      "hashes": {
+        "SHA-1": "f0972e86d8fbbca91f409de4bfe8efc3208b7a42"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d16852f-0dd5-58f7-8f68-842214c0542d",
+      "hashes": {
+        "SHA-1": "f634dd1f9f8ad37eb03f303a2645886acad6ed0e"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2520b53-2c02-5ec2-9e89-1292f359275c",
+      "hashes": {
+        "SHA-256": "1fdbd98e98ef5d6486b48542047d9c7d10421404692eded90ec892d39df35e78"
+      },
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--72de5548-a83c-5b95-8a9b-aa9b3acb393d",
+      "value": "assm.exe",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3836824-8317-50af-879a-8163384175dd",
+      "value": "hostx.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--189aca98-f3ee-51cd-b49d-514b435a2886",
+      "value": "linuxservice.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c65603f3-4542-5ab4-af53-48ec71161d50",
+      "value": "win.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--189aca98-f3ee-51cd-b49d-514b435a2886",
+      "value": "linuxservice.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--794cf1f1-0acb-5bc9-a05d-9d530e6ee22d",
+      "value": "xmr.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ff68990-a03f-573c-b49f-60a47f79e183",
+      "value": "vhost.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24142513-0319-5cbd-9f6a-70ca4fd05188",
+      "value": "os.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--005c510a-abcf-5bc2-b33c-325cfcb560bd",
+      "value": "sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfe285ad-af18-5b24-8473-00035e4685cc",
+      "value": "sys2.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ac60e5a-cc7f-5234-9af9-101a18400bbb",
+      "value": "Hostx.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45a30ed6-6e99-5162-a9f3-24a927672891",
+      "value": "hostx2.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff9e14aa-64fc-5591-b8a3-e7eb3cbd830a",
+      "value": "agentz.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--005c510a-abcf-5bc2-b33c-325cfcb560bd",
+      "value": "sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfe285ad-af18-5b24-8473-00035e4685cc",
+      "value": "sys2.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7c6f613-be95-5e78-bb31-c932780f856b",
+      "value": "hostx2.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12af3f13-7f81-5026-ae9b-0cc56cc0439b",
+      "value": "d.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca8c714f-6cf2-5f9e-be3b-991a91849fcf",
+      "value": "hostz.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b49e6c2e-9c3e-5b81-8827-8bb030f24abc",
+      "value": "sys3.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bec24599-79df-58f2-8061-e7ea6dcbc5f8",
+      "value": "agentx.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3c0873c-9973-59a2-9459-b1c4c8c776b2",
+      "value": "syslib.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b53813a4-1412-5a77-8df8-761946402f9c",
+      "value": "armv.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e4200c7-2a53-57e0-95d8-fb526353dcf1",
+      "value": "arm.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d5ab75f-9364-5381-849c-18096fe64c23",
+      "value": "p.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--005c510a-abcf-5bc2-b33c-325cfcb560bd",
+      "value": "sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d5c43c6-e297-5877-9dba-684b25e79663",
+      "value": "pack.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c34f89a1-782e-5954-9a0a-f7b48cafaff4",
+      "value": "kprocesshacker.sys",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2454b321-4796-57fb-8528-ff7ecb0dade3",
+      "value": "agentx.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9eef72ef-abff-5e11-824c-7b2a09e271b5",
+      "value": "SqlServer.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--db1bf98b-ed34-51ea-84d8-d0860071cbe7",
+      "value": "host.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6bc36224-6ab4-5e7c-b4b1-aa34dd6ddf09",
+      "value": "osx.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfe285ad-af18-5b24-8473-00035e4685cc",
+      "value": "sys2.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff7b4a67-0457-5473-b95e-3e1f8471c29c",
+      "value": "Agent.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--005c510a-abcf-5bc2-b33c-325cfcb560bd",
+      "value": "sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8d5c36c-e98e-55e1-9110-c0f4dff21467",
+      "value": "sys.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6375f971-f5a5-5114-9b61-58fb33a6dbd0",
+      "value": "http://145.239.225.15/linuxservice.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--68b7dad7-da93-5cb9-ac80-6098124de524",
+      "value": "http://145.239.225.15/vhost.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1230d213-7e73-5596-a049-1a0902195d40",
+      "value": "http://145.239.225.15/xmr.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a4a1ccce-8648-5c39-856f-d7455fc85644",
+      "value": "http://54.36.10.77/35/sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--19f25ce6-7e31-59f8-a42c-b464eaafe950",
+      "value": "http://54.36.10.77/sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--54f8f697-9156-571a-b537-e6496da96d69",
+      "value": "http://mrbfile.xyz/35/sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ddce0b34-ee36-570a-8941-3cade6b7949b",
+      "value": "http://mrbfile.xyz/Agenty.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--40d63bba-c143-5eca-be28-df16c00d3f36",
+      "value": "http://mrbfile.xyz/Agentz.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--852b77c9-4365-5cd8-ac78-11e5199c6b39",
+      "value": "http://mrbfile.xyz/Hosty.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d6cede2c-2e9f-5881-beee-d908d3d3b716",
+      "value": "http://mrbfile.xyz/Hostz.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--977de31e-eaaf-5096-a2bc-9f57ae85a254",
+      "value": "http://mrbfile.xyz/PowerShellInstaller.exe",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--61c1c4ae-887a-5413-b645-499a164ae1e1",
+      "value": "http://mrbfile.xyz/agenty.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dae0d716-f88d-58ea-9602-47ba8e08b4e9",
+      "value": "http://mrbfile.xyz/agentz.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--32bb7422-7352-5de0-a08c-3ea30380afc8",
+      "value": "http://mrbfile.xyz/sql/SqlServer.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3d72248b-a253-53f3-a7f8-05eeaecf8937",
+      "value": "http://mrbfile.xyz/sql/sqlServer.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0724a322-d891-5545-8c21-88283552ac00",
+      "value": "http://mrbfile.xyz/sql/syslib.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dd96aa23-93e9-5add-a32f-7c634e4e7664",
+      "value": "http://mrbfile.xyz/sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e94038e8-df09-58f5-b6b9-394d075fa837",
+      "value": "http://mrbftp.xyz/sql/syslib.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--894def15-f5a4-5916-9e71-d00f4b42bea4",
+      "value": "http://vihansoft.ir/Agent.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--78a63e06-7d33-59ec-8952-3fad61d12bb1",
+      "value": "http://vihansoft.ir/Agentx.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b2af08bb-8b7f-5da7-a873-14549ca4c904",
+      "value": "http://vihansoft.ir/Hostx.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--05e60773-94c7-532a-8267-e7d9790cc69a",
+      "value": "http://vihansoft.ir/P.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6c204e85-dd98-5c93-8687-5cbac91cd43e",
+      "value": "http://vihansoft.ir/d.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2407ac72-9318-57c2-b55c-ab456723d64d",
+      "value": "http://vihansoft.ir/favicon.ico",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--21179e31-f82d-5f1f-b387-a32fce23bc66",
+      "value": "http://vihansoft.ir/host.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--455f04c3-4790-5667-8901-3895a15469c3",
+      "value": "http://vihansoft.ir/k.exe",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0d60c338-ef44-58e3-8eec-1597f1304d93",
+      "value": "http://vihansoft.ir/p.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--27f4445f-591a-5fa0-a1b5-26177dc99116",
+      "value": "http://vihansoft.ir/pack.zip",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c80d5d9a-1c30-5591-849a-8d7b1b6aa55b",
+      "value": "http://vihansoft.ir/sys.dll",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c06021fa-2923-54fc-a06f-56b9383eb02c",
+      "value": "http://54.36.10.77/linuxservice.tar.gz",
+      "x_opencti_description": "Miner-Mrbminer.csv"
+    }
+  ]
+}

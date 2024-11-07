@@ -1,0 +1,1423 @@
+{
+  "type": "bundle",
+  "id": "bundle--7040a108-7f84-43b8-bc47-5f36e1810412",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--27667e4f-24a2-54a2-94f3-ee7ec5a4cfd2",
+      "value": "23.225.147.227",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--93ee00be-f22a-5b5b-9d23-41e4170c3477",
+      "value": "206.233.128.103",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45334977-4087-5052-bfae-da6af494aaa5",
+      "value": "nsjdhmdjs.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fee2a04c-26b6-5452-9dd9-1b7f665e6e8a",
+      "value": "123.nsjdhmdjs.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--188a1064-db8d-5b9c-be63-75e1ba1d5f03",
+      "value": "2.nsjdhmdjs.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--923d0831-ef9f-5185-a544-676ebfc8d944",
+      "value": "ac2.nsjdhmdjs.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90b1ded6-e785-571e-8198-eb9e0e926724",
+      "value": "a.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2191a7f9-fef3-5065-bc52-ddbee1762d31",
+      "value": "b.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b9e401e-3674-59fd-a33b-923933ad801d",
+      "value": "d.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b611c40b-3afd-562d-a27c-fdb8cf3c90e5",
+      "value": "l.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dab20f05-7f75-5f17-9fc0-7fc551e54992",
+      "value": "l2.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c6fdcaf-992f-5a0a-9a20-783f03ef6a52",
+      "value": "t.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--361c7159-03e6-519e-8990-85a292fa876c",
+      "value": "v.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b96916b-99d6-5e2c-bd91-079206d54b9c",
+      "value": "v2.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--927f9de8-d96e-5e59-aadf-aa60ea8b0bc4",
+      "value": "w.pic447.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--32bdd07b-7c65-520e-8f71-091b0cf761d4",
+      "value": "j.pic6005588.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5cb5095-b1d0-506f-ad28-9da60cd89782",
+      "value": "potatouu.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69dc2722-bb09-560e-8e63-3bf3534f1c5c",
+      "value": "2.potatouu.com",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79f70c45-692e-59cf-95dd-0bf8837b457d",
+      "hashes": {
+        "SHA-256": "097899b3acb3599944305b064667e959c707e519aef3d98be1741bbc69d56a17"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a8f4008-92d0-52e6-8160-f387414c3011",
+      "hashes": {
+        "SHA-256": "34c4eda45c782e74a5f3b179961659b472c053b63eb48318a2441db2bcbbb1dc"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e71417c7-cd52-5b42-9afc-9112ddb274c3",
+      "hashes": {
+        "SHA-256": "48a35466b1a08711abcdd2cd5564164265a4ee4e2082700f2eba69e1f3bf111a"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7841a6f-27c1-56a3-ab23-394a317010ca",
+      "hashes": {
+        "SHA-256": "1c4ad390cf903e78571fe9c3dbc0f9ff63fda7cae449d81f743a6011e8287caf"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--14b9093c-ecbf-5e8f-9464-61378a571b05",
+      "hashes": {
+        "SHA-256": "695e0312d6612201af4b3c6d4f50f67df8614cae69e35ce2a72e68d0c587de54"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b225075-8110-5239-954c-8b82bae29363",
+      "hashes": {
+        "SHA-256": "9c4f42124ff130e0ff61846b2cb3d1aa6d618d65b141e466613533a350bdf278"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--43e7135c-6465-5e10-9c84-8450222ddfc6",
+      "hashes": {
+        "SHA-256": "bf19222b9eac87650db9206cee05c695b1df22499bcac310376734197ee5457c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f1fd19d6-65fa-5f2c-8df4-2ce027255d61",
+      "hashes": {
+        "SHA-256": "e414fc7bcd80a75d57ee4fdbb1c80a90a0993be8e8bbbe0decfc62870a2e1e86"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--793071e8-9ebf-5076-a21b-b93a58195652",
+      "hashes": {
+        "SHA-256": "530f01699688ab8c2bb25349a6bc398907b2adb5164d7602c28152c66851fa43"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9818c35d-4e22-5d0b-b444-4b44436ecab9",
+      "hashes": {
+        "SHA-256": "04db8e4dfecfc300a86614a2393bb768861196b18f17845b5765d06e1ba692c4"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6815957-1ae7-5c7a-bf96-4975b6dc9133",
+      "hashes": {
+        "SHA-256": "324bbcae91d4287e481ece09abe8d6d123b0c2f8ae0355c416924e4f8371661d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4531562e-12bf-5df7-b21a-bd81492783c8",
+      "hashes": {
+        "SHA-256": "484fdf350c4a10c8bf0c495abf696a09f0a25258d39e81884122cb75e4432191"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--85234f1d-4084-5745-a5db-a940c7d1d47c",
+      "hashes": {
+        "SHA-256": "60f6fa45809c39ecdff4161d5925e6e8f491adedb7ed8ac67d772cd3c212b1cf"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0353a3b9-5115-507b-8b0a-bfeccbc5575e",
+      "hashes": {
+        "SHA-256": "af04147945915737f3f2eed7df222c0b45d7b911bf82f6176df6856514e58c08"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c1fe640-b916-536a-8ce8-2b8e767ea963",
+      "hashes": {
+        "SHA-256": "bfb44fb2194e25eee516b431fd84892a6073735dbf510a70dfa3a344526ade97"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ace0130b-98ee-55b7-b06b-542e864d4fa2",
+      "hashes": {
+        "SHA-256": "cdb645ea97980e63b9c165ca842bad2751ce2728cc5c55329ba04e96bab3077b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c73b10c-b1e1-503a-9aed-d1bd5c6d84e4",
+      "hashes": {
+        "SHA-256": "fe8c97f1ca9aab32b0ff4d46559f22677b3dba3c6d73c8b5d2fe9dd07c8ec64a"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76309515-de2e-5e57-9207-c0a00c7403ae",
+      "hashes": {
+        "SHA-256": "0b85cc5a583e94ba793a88a5184c68658eb7543bcc41deb4cf6aa633c67e538a"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--957cab4b-3f05-5939-99a2-b25ea0574c49",
+      "hashes": {
+        "SHA-256": "ad7ff3ffcf4276219830228de0c0454310710011f5274f3d2436a4b699af7030"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97f32c1a-f212-53a8-bf1a-795455368b2d",
+      "hashes": {
+        "SHA-256": "c936f1598721a9a92d7f31c6c13b55013b8a2a344e3df4156e5b033006336544"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a27c6d02-20e9-5483-a0e0-607076681335",
+      "hashes": {
+        "SHA-256": "31d2076066107bd04ab24ff7bbdf8271aa16dd1d04e70bd9cc492e9aa1e6c82b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--982e4306-2cc1-5ce2-9a46-25d2a2af1c55",
+      "hashes": {
+        "SHA-256": "769d59d03036af86c7a9950f03ebc7b693a94d3e2f8ecd1d74cf5600ab948105"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4faf67cc-66ad-5a9f-9ded-217da14635ab",
+      "hashes": {
+        "SHA-256": "03b1df2b08999262c772b67a7bd65e9e8f6058036b5e7a382f06d3aa672854d0"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca8444d3-8ee5-585a-b11a-41c6317e0fd0",
+      "hashes": {
+        "SHA-256": "a8a09d4e1ddbe4de188100b285a53b53b10677e4fbc93014e07211cdaf532e7b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de1275ef-9e94-5fca-838f-ae4f6ebeaa92",
+      "hashes": {
+        "SHA-256": "0ed0f8476f0c7d7cdbdfb8935c5c012463ce2cf1e00c8fbfc1ad202366539b38"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6984933-8a2e-55be-9492-d0cb1b090b64",
+      "hashes": {
+        "SHA-256": "49aca2efaca973d9dea2e01c2ac63cea7cd1e0cf12aa45d98653eea46b7593c9"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7572cfba-d5a1-5d76-a46e-76d7e52ddb63",
+      "hashes": {
+        "SHA-256": "4bf6b4544c8584fe933eec269568d8e3dc259110b36a9376d6956980fe43a37d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3643c6c-632c-56ff-ac23-7357d2a3f98c",
+      "hashes": {
+        "SHA-256": "4c3899f2b7be819620b5eeb6f35643043141a2e51223d56a54840b1268a6893d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d894b3b-8b31-5aeb-a985-df9fc7cb6403",
+      "hashes": {
+        "SHA-256": "5e19f77df4d5241985e94e2770b94ed6f7fbaa977d516f44bb24f2cff1bca827"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6a9fb46-0ba0-5194-be43-dcda2fd2aacf",
+      "hashes": {
+        "SHA-256": "79bcd6e9dadf67b771a530821abff5944a2f40019bc5e57c59cc037edebfec51"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6bcf792-5868-5c6c-9ba3-814c2e20eb42",
+      "hashes": {
+        "SHA-256": "ae2e145b36ab2ed129a2d34de435b76a1f4e5a4820d9d623e7018b87f24d0648"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e489eee7-30a5-583f-afb5-b39e9b7a2f41",
+      "hashes": {
+        "SHA-256": "dc41b8e22c725ee4f8e04f55851b3129f0b8b6b5c2c16aaf893bfe92de440503"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--78168c07-a94d-5c4c-ac5e-2042148767b9",
+      "hashes": {
+        "SHA-256": "7fcba1dc809f39fa6b36e923af22fc7c576f3cfb49aaa7248a98d32e9bc90991"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--234e07ab-dfb3-5f7e-ac63-5dd761aa83b8",
+      "hashes": {
+        "SHA-256": "d1652c5153171fb5420a7c647888b23ab43c286eb2331ec661162cc37fb527f3"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53648e00-cf0d-502c-bcbf-612235f07cae",
+      "hashes": {
+        "SHA-256": "849d9e694d3e5d3f0eabcae4b722c2bbed31168d161a4f5d668f351bfa169743"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7841a6f-27c1-56a3-ab23-394a317010ca",
+      "hashes": {
+        "SHA-256": "1c4ad390cf903e78571fe9c3dbc0f9ff63fda7cae449d81f743a6011e8287caf"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3fbd3e1c-36be-55cf-a1f3-8496f22a26dc",
+      "hashes": {
+        "SHA-256": "be061c8bb82cd52d2f76aeb1e3ba2448c1a3230dd7eda1250d272648af4669ca"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbe37d30-dd6c-59ba-a8c9-fcbcc879831e",
+      "hashes": {
+        "SHA-256": "9a17c5a4f48367557f06dacd3aefaa132214cb4163bc6b6cf43e06041936a69e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7c2a72d7-22e5-5428-9ac8-fa2ede5ab437",
+      "hashes": {
+        "SHA-256": "99f6932e3de96d6558f37030fce5007a13bed9de8617935dcad25e7be551b2a2"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc850516-992a-55fd-bd4c-d2c1c2aac39d",
+      "hashes": {
+        "SHA-256": "11359b92b062c426d58fcf738b4f92644c7bdd7e9f47a3ab9e1cb54ad29e6dc4"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64bcd667-dc63-589c-adab-4bf6edcd425a",
+      "hashes": {
+        "SHA-256": "49a1826a70ef6a373910ebf43bb441213ec195e68c9a242e4bead60f7e04609b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73407869-7c86-51dc-a4c5-89d48e5ba5c1",
+      "hashes": {
+        "SHA-256": "1b32c531aca954a7812c65ea41b85941e199aa78ace782f17d9307f5f51f4e43"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9df824f-c24c-5801-b402-8397a7e48428",
+      "hashes": {
+        "SHA-256": "3fc9405cfe9272323bd96aacfd082c16b392fea6e0f108545138026aa6f79137"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99bb6a1f-8274-5f0f-8712-d812c955854d",
+      "hashes": {
+        "SHA-256": "831b6a78bc193e5bb3a112aecc385ae00a2c81b963e126d2b949140b6acf333e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ae156a4-d67b-5f69-a51d-6371333710e9",
+      "hashes": {
+        "SHA-256": "e50e72bf4684b2543b55234f798e728b02cafb27a70fa6f4459e68d99b988f3b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77cf5617-bea0-507d-b758-5abab3625cde",
+      "hashes": {
+        "SHA-256": "f05db80e4676ffb4b4df68982f1f22b38e8054070f78b21fed1baf51e62c6853"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff030174-dee3-56cc-b6dc-11f7fce53bf1",
+      "hashes": {
+        "SHA-256": "229011ca0351dc3461b19e427b1910990dde9f268f2a361e92f728171544b589"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e68876bc-6c55-538d-882d-d40a94857a80",
+      "hashes": {
+        "SHA-256": "87528e65b5c10c699edce279516f8c41c603d2382261d2d7601191e97666fa57"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f91ebe9b-946c-5cb9-ad09-659d536839bc",
+      "hashes": {
+        "SHA-256": "a21f66260427b18c5db840dca84f33a762d4089a23ff293c4ae9dcf4ef2cb90f"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66be5f17-cb09-54e4-a5aa-46a45137d3c4",
+      "hashes": {
+        "SHA-256": "a3e4747f878fa1959b54874d239c6170d8d3dde29b5bfbe7bfdf154a51cccdee"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c03f98eb-872e-5a0f-814d-18e02fa97653",
+      "hashes": {
+        "SHA-256": "0e73131b428f45aa10a36e48fc8d5b30643a404125b95f9b179dd3756c6e023d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73c25956-f1ff-5361-b2ac-f9a7650b6f6b",
+      "hashes": {
+        "SHA-256": "4cb3ebdc53a10c0c911fa79dd156f2d8b6c64c37f4f7c71a5ac002fd4fc8f3d5"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a02a8857-5f47-5430-8097-7f0e0ba3f46b",
+      "hashes": {
+        "SHA-256": "7cd096bb8e2edd384b9cf149916b67653d07804bc0024973ee1e2e02c8d5288e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed8087c4-e0b4-5882-8d5a-9b8daf2586c9",
+      "hashes": {
+        "SHA-256": "df1ef7db4e0c54de1f9362c873b21bc1c07710fd7106a7e0312c64aab807168b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ab2a6ed-6277-5ba0-80cd-0299f8979bc1",
+      "hashes": {
+        "SHA-256": "f3ea4862b50ca8d0a360d05460a97bf7eb855c004a70323884396ef98be1bdee"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e88185a-e849-54a3-9cc0-11aa8c1a1c5c",
+      "hashes": {
+        "SHA-256": "fb9e192c418655704e86cc0ba606828a87a97a9fd3409791ae5e40200ee0205b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20eaf91f-fd52-500a-8105-e29796999c34",
+      "hashes": {
+        "SHA-256": "ff16e3b2a3f380de41b5fac6f6d2da7aebb3f1e4fc527490de0147e5ad18036f"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92ad1036-9e7f-5432-b573-5a61da677cba",
+      "hashes": {
+        "SHA-256": "4fbab28e76b3e58b4ddc04e7494e73c84b5264e03195dca01f0809f957e9b70e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--284ffae4-b03e-5f11-9d00-0fbd350bf88e",
+      "hashes": {
+        "SHA-256": "6e0bdffbaa91dd9360a638988a9231a2ac81b8935b14d285b2aaaca13bbd49cc"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f6a8f69-d9dd-5d34-85bd-fe944a14ce57",
+      "hashes": {
+        "SHA-256": "0400b20492be1fcf6d2128b5b8d50a6011279341394fafce1da1e69482e7a750"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b4cc3332-8422-53be-aa3c-59d61d79c8d3",
+      "hashes": {
+        "SHA-256": "464cce4295016c57b0af90d7621e4f358b58c2385377dcf77294383b246b7037"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--536b16fa-eb8b-5d41-8293-0b0be05fa587",
+      "hashes": {
+        "SHA-256": "b95909f153ed99a279fc8e3b04bbc3416662bc755032fb886b93a18f23312e77"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a646cb2-817f-5771-80f6-e034daa4081b",
+      "hashes": {
+        "SHA-256": "88edf471eed533e34fd18fa1d234f2cc3c6769f1e6456961b5b094cd6c934b0d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd4eccff-4856-5901-a5b0-602815141fc8",
+      "hashes": {
+        "SHA-256": "283426bb17d23c9b80c3f4c93666b6225caa50af8b004c5913b2e8ed386ab023"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95685480-2ee2-57dc-b809-a17c7cc75f7a",
+      "hashes": {
+        "SHA-256": "8bf79d037d2f6d422730b95407ea0de15ce119527083a06dfa18268cb8c95e04"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61d35b90-7d9d-5520-9f46-5607122c09e5",
+      "hashes": {
+        "SHA-256": "6966a13c71badbf82357d3108ed8f3a921c1f8e8cba47194ccfdc446765faeb4"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e304f9f5-d8db-540d-ae62-05a82365d26c",
+      "hashes": {
+        "SHA-256": "74efdf66302cda73060903ee07957cbae32a2c68416ed5cfa3c1aa7bfc1ed475"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3dd36a3-0340-55d6-b85d-be2edd9305b9",
+      "hashes": {
+        "SHA-256": "00a9101514b7cf8fd974a7f3b4ebf6c1768ac9a257848cb9df95874cc984ae55"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80cdb560-0693-51d6-aa37-5013372ce470",
+      "hashes": {
+        "SHA-256": "02e7ede9b7bcc19506a4fa36fa66ecde2b8638422d7e711d525fb4a4fedc2f82"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--892764fa-ab53-5918-a28e-e55d2664a4b1",
+      "hashes": {
+        "SHA-256": "0b2b9da3685db339ab0bf7380fe39dd7a3f5ce004edb98fa4e1244b3eb35de25"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e77f95cf-7890-51cf-a4ef-6fe241711ca2",
+      "hashes": {
+        "SHA-256": "187edeadef737db0733f7abad0f8a471f79d9fbd4bc39fea4d3475a19cea9d8e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36f14966-a8b5-5635-86e0-2624ac3ee931",
+      "hashes": {
+        "SHA-256": "1cb279f73e354ba6caff8aa69cbd7dde2182746a459dbe9bf4529f9890182ea6"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06f3ca15-ffa4-5f60-b32e-b0f46c744ea1",
+      "hashes": {
+        "SHA-256": "1d4ccdda1c3ee0770a0eaf3e401d816949d1abfa4e26c6e6bb1daf1bfab90124"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35c081b9-f71e-50d8-ac62-9bb7f552b76d",
+      "hashes": {
+        "SHA-256": "21388b23d5faf37632518c3309d44e721aa2d83911ab092272fc4526db34ea75"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c649a54a-fc95-5614-b339-a004890c5e50",
+      "hashes": {
+        "SHA-256": "274fcf60280fbf9f2f21c8a529738e7839d412b5c98eedfbbbc8e967bc15900e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8f24d43-439c-549d-a6c3-06e6ce261435",
+      "hashes": {
+        "SHA-256": "2839b91b46b3d68b6a0355b580d282ecd511a5fc9cd3a6f4250ca4b22af8511c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6aca64d5-1388-5204-a76e-c113bfe94554",
+      "hashes": {
+        "SHA-256": "2f6c5fa76ddfb7ad9aa08aaa98305ac729fe742193bf3c6db5212cc651df851d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5afb7155-f742-5835-94c7-69fb08573c74",
+      "hashes": {
+        "SHA-256": "33a1216f3d1b1299d7227aef12eb91af7247e77f2bd52f29d8e82df89c0bc460"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b81c30da-a549-5deb-9b86-49f829ec3bf2",
+      "hashes": {
+        "SHA-256": "45023fd0e694d66c284dfe17f78c624fd7e246a6c36860a0d892d232a30949be"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6cc39af5-91f0-550f-b221-64e6b0300c0f",
+      "hashes": {
+        "SHA-256": "46b1c4848ba79be3d90542bd8b9537e72d9f96bd983d9cf793e455782e273807"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83aba9aa-fce2-513b-9d55-a86c0b4ebb15",
+      "hashes": {
+        "SHA-256": "489e121909baf86c725fda439838b7c4cc7da19038ab21df5bf041a4125c6405"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0b7a778-7c09-56a9-a82c-fabeb3909ce7",
+      "hashes": {
+        "SHA-256": "49c1dec7843c186e434718818311d3fc693eefe26c2d2a068bdfa7601d118781"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2703c699-4553-5388-b125-e051d492ffee",
+      "hashes": {
+        "SHA-256": "57a5ca04980f24e71bc08eca42d2da23ec17ae6dc0897649520b0b0f4e4fcf40"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c035fb31-0684-512d-96f1-ca10633e7168",
+      "hashes": {
+        "SHA-256": "64613eadd91a803fe103bef5349db04ddfc01b8d115ba7a24a694563123d38ad"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--000cf360-dbe4-5f5c-a7eb-1725304eeaf5",
+      "hashes": {
+        "SHA-256": "659fdd90ec33b0809d1b037f06c864ec02d785178ba6acfa02533661195d5163"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e464242e-9b5d-5638-b7fb-87f9265220e9",
+      "hashes": {
+        "SHA-256": "687f682f6ddfb9786e4905ec367fe4fb55b9adfe1112c4e6aaab43ebfa52de5a"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2db031b6-ae7d-5a79-bd21-856e7ac3dcdc",
+      "hashes": {
+        "SHA-256": "73667daa2716b33a672b05658ac3a3393c1d26f9bf9b94186f7c54c2d0a18468"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66344644-39c3-529d-977c-537828d4ad2c",
+      "hashes": {
+        "SHA-256": "749c6874af94ae263221e3d1261acf9a19b0599d247be3080c6bbb33a1fe687d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc5b7eaf-a619-5bec-8264-2968a917e359",
+      "hashes": {
+        "SHA-256": "7e45c502e7ba61c2ed583c441cd41df24a6ca16405ceffa0fcd9e27c9a98ca1c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ff60364-d1e4-57ae-b3f6-c9ab1caae657",
+      "hashes": {
+        "SHA-256": "7e5b4dbc4b3db7a0e85bfa55e255260cf5426b8483c4f1d8365a3824b928886e"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f41af875-343d-53a5-b1d9-ab725b066fde",
+      "hashes": {
+        "SHA-256": "7f79408634879cd6c752340ebf2e609476512c2b8d239707e081cd1d1085209d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffb8ef0f-b72b-57ef-bd2f-b4a5e042a51a",
+      "hashes": {
+        "SHA-256": "86959372cb04eb9c178cfe5150801774e5b8a3fe3876dcfda98a26c40a20e46c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0897e860-677d-5f86-81d2-544af529ab5e",
+      "hashes": {
+        "SHA-256": "882746f97d4cad4424735035e6fa45f96a849da63737cc1eeaca4ff459ad9d30"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7ed02bf0-02ba-5aed-bbf8-5d07e59e6bc5",
+      "hashes": {
+        "SHA-256": "8efcbcff36c0dfed3e4966e1ecafe9f56532a9c1cceaeb76b5dd3033b4ebb5f2"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d23838e0-e2f1-5ae6-b7c7-181639fd1f63",
+      "hashes": {
+        "SHA-256": "93ce3af0ce4374aa1d5f5ba5258f03ec540ab4a744b57b20ecda72a03e0b648c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7485d49-d947-5051-981a-9788266e8fda",
+      "hashes": {
+        "SHA-256": "971389ff8acd1d883068dcc2c32c4bf0122c7d468f389a41e75f499b04e95c8b"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eda485b0-b465-5900-84b5-47b511fb091e",
+      "hashes": {
+        "SHA-256": "9832b185d9b6d93f0ddb0ce62cd109ca64fffc5142fd4872b36d1d42635c9c81"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--caf5343a-42cb-5af1-ba26-97fa796c38aa",
+      "hashes": {
+        "SHA-256": "beda51527ba522bd4b033c3d0c10028acffe5bc7a1ab51c373109a45cf3707e6"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--258b4262-09e8-5433-9355-751b2fc2c772",
+      "hashes": {
+        "SHA-256": "c55d501f880425330b84c7a6594662e055e898df6a978cca2c8b2eff588bf2c1"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ba32170-047e-5ebe-b2fb-67d7123c005d",
+      "hashes": {
+        "SHA-256": "c84fed7e05b1b1cf2bff72ee3e96ec923929741c77fe6d97996664833bec1f00"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3b065f63-74c6-53fd-8454-6f5ff42371b7",
+      "hashes": {
+        "SHA-256": "c856930a4e67c36cba866401c5acda717eab636fd6648292b23cbd75d8f0f816"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6504a6fb-1aff-54d9-a838-d334b77770fe",
+      "hashes": {
+        "SHA-256": "cb8714989882b6756aadf4ba1b1e3deb2b1f669cccf799a5ff423ecfb6467d0f"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--449a30b8-c948-58a9-b20f-2c888ff2381c",
+      "hashes": {
+        "SHA-256": "cc011a8487698bfe463d9ae6d615246349a8a61f980f497c53ef17e973e0a2d4"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50a94aec-35b9-521b-9645-38b0bdd21b72",
+      "hashes": {
+        "SHA-256": "d58de58c55b55779ad9d45347337e2d5ebb94846bf38c29c4519cb0c7bc75557"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5f0de42-8630-5e15-8a46-b96f27059480",
+      "hashes": {
+        "SHA-256": "d5a438d6f59f91d546ada978e842e47622b2f3ce1837248c0243fa19d750a114"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f08fb719-608b-5ca3-96fc-1c8dd7581d45",
+      "hashes": {
+        "SHA-256": "d86f1292d83948082197f0a29fcb69fdec9feb4bf3898d7b8e693c7d5a28099c"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3da5dff-b963-5735-bf7a-a29ab25ef61b",
+      "hashes": {
+        "SHA-256": "da1d66610e0253a82c7ba3f2cc3e4c50d23bccee71f7a61f18f8f99937d04bdd"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76118895-554b-57df-b54e-147eaa7ea882",
+      "hashes": {
+        "SHA-256": "dc758f11e768a829836e27fa265993c937fd2bb4575a3dc18c12ba4b69baa953"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--33dd21e6-ba39-539c-9703-48f3973e4779",
+      "hashes": {
+        "SHA-256": "e07113850a83ebf58816f619f14ce142187d7e27af4025ff44bfe611e1d68820"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a3b3de6-8361-529b-89cc-b5c2db61fb73",
+      "hashes": {
+        "SHA-256": "e1e0fba8c5c14bab3d83ee18f266385d56c91b347e509cd090bdb3ef4168d91f"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e7ce373-b8ac-5e01-b40f-936c7b4b8e41",
+      "hashes": {
+        "SHA-256": "e744f4d6ea7b88bc5e8d432f0c11b7c5cf86c0e4d22809f2df159608baf586f7"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f1891ba-5ad0-5fce-ada6-f89ce12ef453",
+      "hashes": {
+        "SHA-256": "eb5b72a8a40123dfec2341414196ee11ec13c404125bb5c5ada9d70c0b2cc015"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c2a71e9-4b2d-5825-88d3-f4b20f8e17bd",
+      "hashes": {
+        "SHA-256": "ec9083eb656234b4eb3dd5df1882046e605870975fa67ecf04bbee454a4d44ec"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aac1decb-3b3a-5fd6-8639-acde0cc93381",
+      "hashes": {
+        "SHA-256": "ee07de81fd6b8896bcd128dfe9db53e9e987b9bf42e865e1f1aa7dc5b27f373d"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2c0942b2-dfa5-54f3-b8e9-181825794197",
+      "hashes": {
+        "SHA-256": "ee927ca55d06406b6dd266b286d3cfe0626308ec4193d98336e00ad509fe44e2"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b47cdcd4-156a-548b-8195-683512748f5f",
+      "hashes": {
+        "SHA-256": "efacfe7cc34c5807f88296a373187a5c9324f59f476cbf07d219b6373d014f3a"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3bdb3ff9-d3f1-5125-974d-df6eab7b95c3",
+      "hashes": {
+        "SHA-256": "f8bdd7ab540033de65a93c5329f9b1dacfabaca0b05b06f5abc797c336d20cfe"
+      },
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d29d238f-54e1-5aa4-b461-ebd3a05b3704",
+      "value": "LetsVPN.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03b76f8f-391c-50a4-b6ec-27418a217439",
+      "value": "httpswww.telegramos.orgdownload.html.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4f0bd4c-efd6-5f95-acc3-84cc86f4de6a",
+      "value": "Telegram.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4f0bd4c-efd6-5f95-acc3-84cc86f4de6a",
+      "value": "Telegram.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4f0bd4c-efd6-5f95-acc3-84cc86f4de6a",
+      "value": "Telegram.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4f0bd4c-efd6-5f95-acc3-84cc86f4de6a",
+      "value": "Telegram.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24521672-538c-58da-a5c3-78f576e3cea4",
+      "value": "Application.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cd0dc88-903d-5ca0-abaa-4c27a41c90ac",
+      "value": "XLGame.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75031b48-73e6-5716-877e-b65f9fb830d8",
+      "value": "libexpat.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--affd4eb0-944c-5c26-a63d-42f1c0364174",
+      "value": "XLGameUpdate.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--affd4eb0-944c-5c26-a63d-42f1c0364174",
+      "value": "XLGameUpdate.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--affd4eb0-944c-5c26-a63d-42f1c0364174",
+      "value": "XLGameUpdate.exe",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7507fd78-a24c-53aa-91c8-929457b6983a",
+      "value": "BASICNETUTILS.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6224ac3-fad0-536b-9d1b-a3b83098bdc2",
+      "value": "UNITYPLAYER.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6224ac3-fad0-536b-9d1b-a3b83098bdc2",
+      "value": "UNITYPLAYER.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6224ac3-fad0-536b-9d1b-a3b83098bdc2",
+      "value": "UNITYPLAYER.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6224ac3-fad0-536b-9d1b-a3b83098bdc2",
+      "value": "UNITYPLAYER.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6224ac3-fad0-536b-9d1b-a3b83098bdc2",
+      "value": "UNITYPLAYER.dll",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b96672c1-54dd-535d-bc77-7643be23f50a",
+      "value": "templateX.txt",
+      "x_opencti_description": "double-dragon-breath-iocs.csv"
+    }
+  ]
+}

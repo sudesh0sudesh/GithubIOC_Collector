@@ -1,0 +1,517 @@
+{
+  "type": "bundle",
+  "id": "bundle--475c4407-a78c-4705-85ae-1e021f6a0f1f",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6dff16b7-dcf9-5321-9283-58a62c2b0e2f",
+      "value": "https://dropmefiles.com",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6dff16b7-dcf9-5321-9283-58a62c2b0e2f",
+      "value": "https://dropmefiles.com",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--529227df-9fce-517a-9d0a-d3567a19a553",
+      "value": "Kernel32.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3d8f213-6da6-50ab-9a31-3ad5fbc7660d",
+      "value": "user32.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984a9ef5-2be2-589a-956b-ab1e8c3f042c",
+      "value": "mimikatz.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0678452-cc15-504a-a528-6f692977fbea",
+      "value": "mimikatz.log",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984a9ef5-2be2-589a-956b-ab1e8c3f042c",
+      "value": "mimikatz.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76bbf40d-abc9-5781-ac2b-491e448cbe49",
+      "value": "mimidrv.sys",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f8d72e11-80f4-591d-9d3f-5d3a1dd4d2cb",
+      "value": "mimilib.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fe99279-e442-5d6a-9844-68460be8e303",
+      "value": "lazagne.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fe99279-e442-5d6a-9844-68460be8e303",
+      "value": "lazagne.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0cd8f65-54b0-58a0-8718-dfb98703ef4f",
+      "value": "appwiz.cpl",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a92bf3af-fb6c-5f4a-8378-1eeea381889b",
+      "value": "gamer.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2e00bb6-e561-5be1-ad32-4dff42bfaf9d",
+      "value": "PostgreSQLapi.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da70418a-96f3-53f9-ac4b-9c6fcb79fac4",
+      "value": "sdelete.bat",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17d8592d-d153-5825-acc1-f3784dee6708",
+      "value": "mstsc.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fed2bccf-52d1-5058-9995-6fe49806a2d4",
+      "value": "taskmgr.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ca4d777-e730-5dc2-8b6d-586352e3ba36",
+      "value": "rdpclip.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--529227df-9fce-517a-9d0a-d3567a19a553",
+      "value": "Kernel32.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3d8f213-6da6-50ab-9a31-3ad5fbc7660d",
+      "value": "user32.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984a9ef5-2be2-589a-956b-ab1e8c3f042c",
+      "value": "mimikatz.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0678452-cc15-504a-a528-6f692977fbea",
+      "value": "mimikatz.log",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984a9ef5-2be2-589a-956b-ab1e8c3f042c",
+      "value": "mimikatz.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76bbf40d-abc9-5781-ac2b-491e448cbe49",
+      "value": "mimidrv.sys",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f8d72e11-80f4-591d-9d3f-5d3a1dd4d2cb",
+      "value": "mimilib.dll",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd0760e8-2409-576c-9375-80fcfd22844b",
+      "value": "logon.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fe99279-e442-5d6a-9844-68460be8e303",
+      "value": "lazagne.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fe99279-e442-5d6a-9844-68460be8e303",
+      "value": "lazagne.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c5cc3a6-e636-514f-8392-ef9af630bcc5",
+      "value": "laZagneLog.txt",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0cd8f65-54b0-58a0-8718-dfb98703ef4f",
+      "value": "appwiz.cpl",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3ee8e5-ff7d-50d9-a326-b96e35e5377a",
+      "value": "setup.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a92bf3af-fb6c-5f4a-8378-1eeea381889b",
+      "value": "gamer.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07d766d-4f04-5361-9434-1bdea9ce01bf",
+      "value": "ProcessArchitecture.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2e00bb6-e561-5be1-ad32-4dff42bfaf9d",
+      "value": "PostgreSQLapi.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17d8592d-d153-5825-acc1-f3784dee6708",
+      "value": "mstsc.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fed2bccf-52d1-5058-9995-6fe49806a2d4",
+      "value": "taskmgr.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ca4d777-e730-5dc2-8b6d-586352e3ba36",
+      "value": "rdpclip.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "Ransomware-Dharma-console-history-toolbelt-script.txt"
+    }
+  ]
+}

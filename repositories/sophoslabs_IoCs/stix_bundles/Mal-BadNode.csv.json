@@ -1,0 +1,190 @@
+{
+  "type": "bundle",
+  "id": "bundle--d243cb99-edee-4868-8d84-e59086b45196",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--063a0916-06e2-5147-8327-e5fd0a557f4d",
+      "value": "159.148.186.228",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--063a0916-06e2-5147-8327-e5fd0a557f4d",
+      "value": "159.148.186.228",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--497eaf00-7502-5435-b332-b6c8c511852b",
+      "value": "194.76.225.46",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8ab4edb3-8f44-5ad0-868d-7a6ea48fc0aa",
+      "value": "185.158.250.216",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--52fd2f7b-cb63-515c-b2e4-b11fb9815456",
+      "value": "45.11.180.153",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--50bd8c0f-b1c3-56e8-827e-cd0bd34de689",
+      "value": "194.76.225.61",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46532058-d767-5f5a-bdf0-7be0fcb9fcae",
+      "value": "preinstall.sh",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6db34c1c-cded-5904-9a18-5d775e760330",
+      "value": "https://citationsherbe.at/sdd.dll,Malicious",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd69bc46-d459-5efa-9886-c6f261a39dde",
+      "hashes": {
+        "SHA-256": "30ee628504faea18dc99602971aafbc05a0b05dc964797edf49633f67cd178e2"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a71c344-c369-511e-869b-9c474105a354",
+      "hashes": {
+        "SHA-256": "e6cba23d350cb1f049266ddf10f872216f193c5279017408b869539df2e73c83"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21e186dc-2812-5417-ad3e-bc9373d77cba",
+      "hashes": {
+        "SHA-256": "f4c800066e56dd32d20299c451fe6a2b60a3563f7f1915f8ca8db9916d810b5c"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6e155c5-facc-510b-b6bf-1a004cec5d7b",
+      "hashes": {
+        "SHA-256": "21e68b048024ba0cc5a2a94ecbc3a78c626ec7d5d705829a82ea4715131d0509"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03aa7ed4-4d5e-5e5b-8e7f-6b9f0c93705c",
+      "hashes": {
+        "SHA-256": "7f986cd3c946f274cdec73f80b84855a77bc2a3c765d68897fbc42835629a5d5"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--abee6bb4-bb6c-5e24-ad60-b9353205e516",
+      "hashes": {
+        "SHA-256": "2a3acdcd76575762b18c18c644a745125f55ce121f742d2aad962521bc7f25fd"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--666c4adc-0625-526e-a018-ff7ab0088025",
+      "hashes": {
+        "SHA-256": "ea131cc5ccf6aa6544d6cb29cdb78130feed061d2097c6903215be1499464c2e"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4663b474-c2e5-5d0d-82bc-b65254620ef1",
+      "hashes": {
+        "SHA-256": "bb8ccdcf17761f1e86d8ebbc1a12b123929c48c5eea4739b7619bd53728d412b"
+      },
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--889af485-31ab-5e01-a378-604c8d700e47",
+      "value": "UAParser.js",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a80939f-4196-50fb-88e6-733ae433bce7",
+      "value": "preinstall.js",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--acce715c-511b-512b-9dd2-e3f69ae304d0",
+      "value": "preinstall.bat",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46532058-d767-5f5a-bdf0-7be0fcb9fcae",
+      "value": "preinstall.sh",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e81fe246-8f34-56e6-a6a4-70837b36fcde",
+      "value": "create.dll",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24d0514a-2480-5e2b-9f01-b1567a2e5033",
+      "value": "sdd.dll",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1f4a043b-f347-56da-8223-99544218c987",
+      "value": "https://citationsherbe.at/sdd.dll",
+      "x_opencti_description": "Mal-BadNode.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8056be52-29a7-5e68-8ea3-bbb1e6247683",
+      "value": "http://159.148.186.228/download/jsextension.exe",
+      "x_opencti_description": "Mal-BadNode.csv"
+    }
+  ]
+}

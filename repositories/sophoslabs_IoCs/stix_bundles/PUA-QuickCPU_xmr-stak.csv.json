@@ -1,0 +1,93 @@
+{
+  "type": "bundle",
+  "id": "bundle--900f07ec-b1fa-4196-8a95-5b87212099b7",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9889d820-e746-5363-877b-be5ee5cbaaa2",
+      "value": "https://news.sophos.com/en-us/2021/04/13/compromised-exchange-server-hosting-cryptojacker-targeting-other-exchange-servers",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b9f4061-3cc1-5b4a-b8cd-5cd90f903899",
+      "hashes": {
+        "SHA-256": "54a37cc18dae575965f73cc260cedf5b2d4e356ab53070cc3577c6d0bf125211"
+      },
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7fb1a38b-5fc9-5702-b325-5e973956e9de",
+      "hashes": {
+        "SHA-256": "4324ba1ca3a4db940dee5de14644e31268df081047b2681b8e33a1f3da7bae9a"
+      },
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c25d3d1-bd10-5d18-bda7-62e1308c3535",
+      "hashes": {
+        "SHA-256": "3dabd3bf16f5856d504d0ae20d3d3c9c6c74ccee562964292bb4565dda91a0e8"
+      },
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6064b2e4-a459-5b89-b344-caa0e875cbeb",
+      "hashes": {
+        "SHA-256": "6539bbb8cbf33b050d544283f51ccc52ec040b62e3c706d20bd0fe4e221212e3"
+      },
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1f8fbd5-eb63-5628-b1bc-4ec76183087c",
+      "hashes": {
+        "SHA-256": "3ad9da14e7f7e68e31d6cb6a8cab13e1eb45cb147371edbf0e4ed3e5262b9f51"
+      },
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--587d481e-dc2c-50f8-ad03-9d003fad8317",
+      "value": "QuickCPU.dat",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad12a340-ab27-5df5-9243-f6d6e33c317e",
+      "value": "QuickCPU.exe",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad12a340-ab27-5df5-9243-f6d6e33c317e",
+      "value": "QuickCPU.exe",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b8ed2aa-d729-5185-be11-b4ed6ddd49f8",
+      "value": "run.bat",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b8ed2aa-d729-5185-be11-b4ed6ddd49f8",
+      "value": "run.bat",
+      "x_opencti_description": "PUA-QuickCPU_xmr-stak.csv"
+    }
+  ]
+}

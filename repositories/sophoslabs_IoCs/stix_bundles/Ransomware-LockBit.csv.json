@@ -1,0 +1,173 @@
+{
+  "type": "bundle",
+  "id": "bundle--718f9eb3-8838-426c-92f0-bd1c000fa6f2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7f52a493-23ba-59de-b94e-649cf3866472",
+      "value": "142.91.170.175",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4839ba97-0eaa-5c9e-a395-47c77be447b6",
+      "value": "142.91.170.6",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c09d1290-77d1-5e51-bbb7-dd315c3bd90c",
+      "value": "https://news.sophos.com/en-us/2020/10/21/lockbit-attackers-uses-automated-attack-tools-to-identify-tasty-targets",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4ab13d64-a268-5497-b0f9-7d6b2aeb09a4",
+      "value": "https://docs.google.com/spreadsheets/d/11C7pdR3r_VeOPQXpRCGtUEJoftKO1wB7ZFfX0t94XTw/edit#gid=0&range=B1,LockBit",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bbcae6d-146d-569d-a0fe-a44b69096464",
+      "hashes": {
+        "SHA-256": "0b6cb591f1a0db7d74d8e802000fce9a61bfe520922eefbad1166d1f7c13d222"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--afa7a219-f00f-5384-ac8d-3aaa3a143c29",
+      "hashes": {
+        "SHA-256": "397138156bb09696045398ca709bcaa73e0fe7cc48be9b6654f29bce0c535015"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab7ebb07-0f3e-53b3-852b-a867846bfb26",
+      "hashes": {
+        "SHA-256": "4250172289cf5e82f5decd7b72d3455538faf7dc26c97abfcfa243aae2a66d8e"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7a03292-b7d6-595c-afba-8f21e127e368",
+      "hashes": {
+        "SHA-256": "443cd5c871a7e0e75284c10c279a9d19156c44d2a038f35c3abd83ecd52cb14c"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f5ca2bd5-1aa6-5361-9db3-f7e47c28a5ef",
+      "hashes": {
+        "SHA-256": "49614c9b05cceea11c341e790283ee75606bd304dc0c9899a1d4a036bda33f8a"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52d78633-b17d-59be-87b6-f6ab76ab637c",
+      "hashes": {
+        "SHA-256": "560f5444461de30e9b2f00a8cb37f4c6d736bb35cc9fb85894b198c59508cde7"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2200b645-4af6-5b9d-a329-61965bfbb7b9",
+      "hashes": {
+        "SHA-256": "5819b1d4ee001e387223a7a6fc1ad4a476e45ccd75b354932108073985c05b95"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ed41ec3-0b80-50bb-8361-69beadd03713",
+      "hashes": {
+        "SHA-256": "af5511fd2bfda3970d7ed82d0138ff9388f17f55fcfbbee0ee37e9608c91bb65"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3cfd4ebe-8a8d-5157-b711-ae051d064d99",
+      "hashes": {
+        "SHA-256": "e6f11f2dd14c5fde7695a3b6185fbeb1bfc7376ad58597d6969c0307585858b0"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31672e09-5305-5e26-aee1-4ed85478da23",
+      "hashes": {
+        "SHA-256": "ff61e09fbd4515297004a025b0ef1d502548a9f4a1ba3bf25ebfb93ac18fbf27"
+      },
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0edbd53-f4e2-547e-9d08-2711ef78b6a3",
+      "value": "PowerShell.exe",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44aee9db-8267-57df-abeb-40d329216e96",
+      "value": "Connection.lnk",
+      "x_opencti_description": "Ransomware-LockBit.csv"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "bundle",
+  "id": "bundle--9b7016a3-5c9a-459e-8757-3937aad81414",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8edf8eef-2846-5d94-8f49-75e8a05ec531",
+      "value": "https://news.sophos.com/en-us/2023/04/12/tax-time-smishing-campaign",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38c5297d-fb36-5a34-944e-038ff46d3715",
+      "hashes": {
+        "SHA-256": "89a6f49ff5eefb8d1065b3a42b58e3361794206f44eb2e3d1e10d31d15aeee6d"
+      },
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da777b35-c07e-5578-a4af-be1bd85c9c96",
+      "hashes": {
+        "SHA-256": "5d95237e102f850310562299ff18eb064246a20f5fccc73a4becb892d3b0bb1f"
+      },
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--33e27d83-89c7-5006-a5b1-5109baf0fd09",
+      "hashes": {
+        "SHA-256": "bdf1a3778284abb232133ebb4563b8282c2b444561405a6a2f8bb0dd6b7e220b"
+      },
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d5062a1-b16c-5e3e-b8b8-d07194e926f1",
+      "hashes": {
+        "SHA-256": "45578ac91668bb68d3c9a55c41adf7d8fb17e402667d6aecb315e54fbac48d8a"
+      },
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c979d921-9ea6-5684-b837-63526b2c1710",
+      "hashes": {
+        "SHA-256": "f6cc5757af6a02532ad03fbfd8783118edfe3a4902ed94406f7c4085c6a8353a"
+      },
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2478318a-63e8-5c09-bdeb-125f41072f5d",
+      "value": "onc1.web.app",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5636ca6c-5dbd-5775-8219-a660daef3360",
+      "value": "ygsv3.apk",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fd58a3b-d6e9-5d42-8314-819f4d835ec2",
+      "value": "kyc.web.app",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c434223-1306-5a9e-9502-c2cb87454b6c",
+      "value": "BANK.apk",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--806d2068-ca4c-53b0-a657-1ed83c932967",
+      "value": "http://allkycverify.web.app",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce9d64d5-6b96-53a2-8f8e-cadf4a9e85ce",
+      "value": "v2.apk",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdc9fe04-a031-5e2b-80d9-7d3d5f490d13",
+      "value": "1fyv.web.app",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83070e84-783a-5fbd-a2ef-25cea3052e0a",
+      "value": "askv.apk",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f567727-9cba-5f02-b566-16609359c3f9",
+      "value": "ji4sas.web.app",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b5769d1-7c6d-56ad-a641-2bfb237b1daf",
+      "value": "yv3.apk",
+      "x_opencti_description": "smishing campaign targeting Indian customers 2023-04.csv"
+    }
+  ]
+}

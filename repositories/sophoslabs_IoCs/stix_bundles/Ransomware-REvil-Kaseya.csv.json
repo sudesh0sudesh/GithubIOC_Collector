@@ -1,0 +1,311 @@
+{
+  "type": "bundle",
+  "id": "bundle--95fe2346-e367-428c-8a71-96892bf53443",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb6b51f8-82f6-5644-97fb-eef4c04e3836",
+      "value": "ncuccr.org",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f761afc0-907c-5277-bf55-8616d41dbe85",
+      "value": "1team.es",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e1026d8-a0ff-54bb-a780-0378a06c8b91",
+      "value": "40konkatsu.net",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddd72c44-ae1b-568e-b0d4-02466e99c639",
+      "value": "123vrachi.ru",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11695c48-707c-5f93-9fc1-cfacfac4360d",
+      "value": "4youbeautysalon.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c477445-6f72-50a2-8033-67bc85179e05",
+      "value": "101gowrie.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9475c598-f992-5ce2-a848-5b41e39d469c",
+      "value": "8449nohate.org",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6427c7e6-69e4-55b2-afb8-694d77031a92",
+      "value": "1kbk.com.ua",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--625842a9-5bd2-5682-87a8-e78ce5784b72",
+      "value": "365questions.org",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d7a4a6b-2011-5957-9d41-2f4befb90900",
+      "value": "321play.com.hk",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5d0c439-600b-5a5f-84de-01c84cc19935",
+      "value": "candyhouseusa.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e40705e-2a39-5028-9e84-42e345a60315",
+      "value": "andersongilmour.co.uk",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67ac4995-f5a6-55f8-8e57-6e878ec78064",
+      "value": "facettenreich27.de",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6167ef84-2d64-52d6-86b1-798b869be583",
+      "value": "blgr.be",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c382452b-be17-5181-9e56-0401c0e41a78",
+      "value": "fannmedias.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2899758a-e1a5-59ce-9137-3f1c0b3ad618",
+      "value": "southeasternacademyofprosthodontics.org",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f61e72a6-71bf-52d7-a6bd-9f6f531efd8f",
+      "value": "filmstreamingvfcomplet.be",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98e26548-810e-5093-9ea7-38f652c0abea",
+      "value": "smartypractice.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--615c4697-981b-5dfe-b410-9b80907a4035",
+      "value": "kieber.de",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56bd288d-f905-54f1-aa65-dd05a9f5393f",
+      "value": "iqbalscientific.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71fba708-e303-5f3d-ba3f-b8323b89be33",
+      "value": "pasvenska.se",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eee0a1eb-275b-5de1-8676-3824f7d748f4",
+      "value": "cursosgratuitosnainternet.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--26160a15-9311-5a3e-ae14-05794e44a650",
+      "value": "bierensgebakkramen.nl",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d64b2f6e-142a-5fce-97b4-354f75c54395",
+      "value": "poitiers.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f32d472c-6c9d-55d6-8a75-7614ced6bcf9",
+      "value": "gonzalezfornes.es",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c7086ed-4108-5ee5-adac-81c513ce079a",
+      "value": "tonelektro.nl",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3cd3777d-d70c-51a2-914b-a4ac77a54a75",
+      "value": "milestoneshows.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3962bd8d-8ed9-574e-9bbc-a5aad846a26f",
+      "value": "blossombeyond50.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10154e44-42f5-5da1-9e10-2ba8fa65baad",
+      "value": "thomasvicino.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52e727bf-85de-585c-86ad-4554e0036b8c",
+      "value": "kaotikkustomz.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd93af69-bdee-547b-b5dc-72a900674aab",
+      "value": "mindpackstudios.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13671b3d-24d3-5145-bed5-bcce2e4ea6e4",
+      "value": "faroairporttransfers.net",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35d25ece-49f3-55f5-84e8-d52a2598757b",
+      "value": "daklesa.de",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b0fa25a-cb09-581d-8203-e09f686df508",
+      "value": "bxdf.info",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f34f6387-3c9f-5397-82c4-4abc9d37d1e9",
+      "value": "simoneblum.de",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d28940a1-f265-534a-9b7e-3d4a7b29e098",
+      "value": "gmto.fr",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b97b0e58-2ade-58d9-b26d-884e41600c7b",
+      "value": "cerebralforce.net",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae4f146a-a76f-5200-a1f6-02361332b79f",
+      "value": "myhostcloud.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e1207c5-f1fe-5b59-acd2-494ac00b708a",
+      "value": "fotoscondron.com",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d3a5fec-0d92-57f8-a9c5-674f3282d75b",
+      "value": "sw1m.ru",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ae4f78f-aab7-5428-897d-a7defdc851e8",
+      "value": "homng.net",
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8249d43-3572-5230-b777-65ccdf220d6a",
+      "hashes": {
+        "SHA-256": "33bc14d231a4afaa18f06513766d5f69d8b88f1e697cd127d24fb4b72ad44c7a"
+      },
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea456ec8-0eda-5ca8-b6e9-54eaebedd519",
+      "hashes": {
+        "SHA-256": "8dd620d9aeb35960bb766458c8890ede987c33d239cf730f93fe49d90ae759dd"
+      },
+      "x_opencti_description": "Ransomware-REvil-Kaseya.csv"
+    }
+  ]
+}

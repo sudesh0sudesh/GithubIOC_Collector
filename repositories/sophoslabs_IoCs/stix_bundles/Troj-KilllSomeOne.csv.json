@@ -1,0 +1,65 @@
+{
+  "type": "bundle",
+  "id": "bundle--156f3fd4-4fc7-4597-ac9f-8828df4f91a7",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0d1f7554-f10e-55b9-8095-d9dcb1047b1c",
+      "value": "160.20.147.254",
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--67074526-4735-5ebe-99fc-4a2e35bd203e",
+      "value": "https://news.sophos.com/en-us/2020/11/04/a-new-apt-uses-dll-side-loads-to-killlsomeone",
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf1a22f2-29b1-5e62-a483-328595378aa9",
+      "hashes": {
+        "SHA-1": "085d67b6051e1ed53d20b8602d4d0f98ecd35f7a"
+      },
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30e6a0c4-9651-5235-b4bd-a6545074f332",
+      "hashes": {
+        "SHA-1": "1c45ea4338bcb17ce29f0efae6dea0944ea768d3"
+      },
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b3230c7-d669-5ae6-8730-cdcc27a1403b",
+      "hashes": {
+        "SHA-1": "be8a9509e63110cc5659ba2a8dc03c3bfbe0a10d"
+      },
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71391016-978a-5476-b63e-da4731198003",
+      "hashes": {
+        "SHA-1": "bf22ee46c7953040c00d3bfa63b52c3cff20b9fa"
+      },
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d4aec79-b0ca-5eb2-bc41-8e469e86fbc7",
+      "hashes": {
+        "SHA-1": "9c959ffa4b5a2f75b3d50083b6dbf0cd21c140b7"
+      },
+      "x_opencti_description": "Troj-KilllSomeOne.csv"
+    }
+  ]
+}

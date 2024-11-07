@@ -1,0 +1,149 @@
+{
+  "type": "bundle",
+  "id": "bundle--dd5d5ee8-199d-4015-9edf-841f1212bfeb",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--02713046-5408-55e3-80f0-068d306c4e59",
+      "value": "88.99.66.31",
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5e09c0e2-c419-549b-afde-802b8d2db87c",
+      "value": "https://news.sophos.com/en-us/2021/08/03/trash-panda-as-a-service-raccoon-stealer-steals-cookies-cryptocoins-and-more",
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44ce5cba-6be8-5d3c-a22d-d1b1a6eebd02",
+      "value": "cheapdealnow.top",
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--012b5dfc-acb2-50b3-96db-e87980363ad1",
+      "value": "f0473248.xsph.ru",
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56146d8c-bfc5-53c7-bc7e-6f04e42ba0ea",
+      "value": "xsph.ru",
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94215396-9c6e-5dc0-b715-0b1c8ab2d632",
+      "hashes": {
+        "SHA-256": "be351f0654045ac95d35f21dc94576adfcd8ee976f48f430db9be75569cd95f8"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6595579-d81f-57d6-a370-435129e322ae",
+      "hashes": {
+        "SHA-256": "71f97ec74c9d00a4c22c2905692dd1933c0ec86afa8fe7800fcb06a92fc933ee"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28538956-1f07-5663-81a7-e58dc0839143",
+      "hashes": {
+        "SHA-256": "f15ec4e938667248ae7ec3f0c754bafa8b1978cd5ee043755854783d78d06ab9"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2df77184-0c35-5410-952d-4a7d6afbe583",
+      "hashes": {
+        "SHA-256": "1935d92f1fbc8a6ef85e72c7b25d80dabe8ea7db42c42446a3c01076c3aad750"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d0ea1ca-5114-5f39-af9f-b220f7fa2598",
+      "hashes": {
+        "SHA-256": "38b605f9fac77ac0bf9b13067a13fe02ac76ebee5fbd11a0e0ca869f268a6b3c"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7bd82ef-2df4-5145-b075-33975a6f354b",
+      "hashes": {
+        "SHA-256": "5caffdc76a562e098c471feaede5693f9ead92d5c6c10fb3951dd1fa6c12d21d"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f0d037b0-a140-58e1-8f17-82239e1fd938",
+      "hashes": {
+        "SHA-256": "14c7bec7369d4175c6d92554b033862b3847ff98a04dfebdf9f5bb30180ed13e"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7bd82ef-2df4-5145-b075-33975a6f354b",
+      "hashes": {
+        "SHA-256": "5caffdc76a562e098c471feaede5693f9ead92d5c6c10fb3951dd1fa6c12d21d"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--648d8dd3-24bb-5705-bef3-184df793ffec",
+      "hashes": {
+        "SHA-256": "e10a97b02915dc3b2962603b9d173043906c4ecb865c7a8a64c6dcee66d30967"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a75f876-dca1-5610-8125-2266781f65b0",
+      "hashes": {
+        "SHA-256": "ea50f0afe88df5256b2f596b8ecde1f12779f496cd9a7d482d2182d6f789a57f"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c055cba7-521d-523a-b09c-f667a92cf41e",
+      "hashes": {
+        "SHA-256": "d9bb8e2ccfb5f98ca1097224493dc4f166291ee7b11fd13eaf9d0ef3cd379807"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b05cb7de-36cc-5ab5-808d-0acba9bbbaf5",
+      "hashes": {
+        "SHA-256": "e950dd74f002df712925abe0c8ed18cc0cf38c53e5cb57eb68610e00da14c0f3"
+      },
+      "x_opencti_description": "raccoonstealer.csv"
+    }
+  ]
+}

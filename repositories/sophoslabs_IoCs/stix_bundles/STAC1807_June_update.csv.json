@@ -1,0 +1,59 @@
+{
+  "type": "bundle",
+  "id": "bundle--9b21eb41-8847-4be1-9d8e-2652ff0df74f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea6f153b-677a-5f84-98a9-ed6135e4cc1c",
+      "value": "188.166.243.83",
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6cf0de5-5d04-5d22-b4c6-d3c2b909d79e",
+      "value": "68.183.224.50",
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a9e5b9d0-9840-5f6f-bdf6-cac0083edf3f",
+      "value": "128.199.144.251",
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--30ff9bf0-bea1-5a4c-af23-75287e4ab45c",
+      "value": "https://www.virustotal.com/gui/file/8781f2d85eec49205b29aa4bc09b1d7d1dd9e1a650634393e3adbc5354738a51",
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e57c4d18-30b2-584b-80d6-528d2a73537e",
+      "value": "https://www.virustotal.com/gui/file/11c7728697d5ea11c592fee213063c6369340051157f71ddc7ca891f5f367720/relations",
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f549cd0-7692-5741-b514-0cf5f08b0746",
+      "hashes": {
+        "SHA-256": "8781f2d85eec49205b29aa4bc09b1d7d1dd9e1a650634393e3adbc5354738a51"
+      },
+      "x_opencti_description": "STAC1807_June_update.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6dffa227-5ba6-5603-8d08-bebf87ef59e9",
+      "hashes": {
+        "SHA-256": "11c7728697d5ea11c592fee213063c6369340051157f71ddc7ca891f5f367720"
+      },
+      "x_opencti_description": "STAC1807_June_update.csv"
+    }
+  ]
+}

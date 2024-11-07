@@ -1,0 +1,229 @@
+{
+  "type": "bundle",
+  "id": "bundle--81cb99ee-f4f1-4deb-97cc-59c793ebf2c4",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--55aac5c7-6524-572f-8e24-17a5e6f15fc0",
+      "value": "5.181.132.169",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--088288a5-8516-5769-a563-ce3ad4d48023",
+      "value": "45.121.147.227",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ad5c30d0-0661-5f26-9d0b-558637701720",
+      "value": "103.75.191.90",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--16befe04-5cbe-54e7-a1e5-102e4c8b457e",
+      "value": "103.169.91.16",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--59821251-22b4-53b2-95f8-5bdc891ad6ce",
+      "value": "https://ilha.tw/images/top_product05.png,Stager",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f26af0c8-2d95-5aa1-8992-b50a7e3224e3",
+      "value": "https://www.sibody.tw/images/pic_brand_00.png,Stager",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a7110721-8744-548f-af10-b30c412233e2",
+      "value": "https://www.sibody.tw/images/pic_brand_01.png,Stager",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3552db79-2cd3-53f8-96f8-067e3a39fe10",
+      "value": "https://ilha.tw",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6124c234-394a-5bd3-8714-28fa75382866",
+      "value": "tw.com",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e3a9c85f-1764-5525-ab1e-b344165e3492",
+      "value": "https://www.sibody.tw",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63652272-14a0-574d-8c09-c772c0178bc9",
+      "value": "api.holencity.com",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74be5ee0-83e8-5703-a582-ce1cf5730d80",
+      "value": "solar.chatgroup.org",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--728f1a7f-03c3-508f-aa01-c4b7b2c58b29",
+      "value": "www.cloudchatpc.com",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7f4d639-0e2c-5c30-8e3d-8706088747ae",
+      "hashes": {
+        "SHA-256": "74212e85ce765cbabb16395834de85d1882fb5fc6c98a67e7b9092969b999948"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--39410cf7-4cb0-5b16-bbf6-52eec13741ee",
+      "hashes": {
+        "SHA-256": "f7c139534459bbebab8a919bf9f2bac233caffcde5d072d1b10bc82ce233d875"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--355e329d-a549-5c71-b3a7-3c467a641143",
+      "hashes": {
+        "SHA-256": "89b91f421e2a7b151e55583fb9182f74738b5eb1105143e80fb2f0b6fac9b7ff"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90a38b51-8797-5a3b-9582-3fe1e9ceb143",
+      "hashes": {
+        "SHA-256": "ece0e08568fe8e8614de830ea07c0217187a347c18c27eb7b18915573f2f76b8"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--250e08cd-b002-5af9-b3db-c980edf084f1",
+      "hashes": {
+        "SHA-256": "f8103fbbdf94b4b00722fa78b343735c124663d53ca61bbfa2f57ed1c7675786"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1d95b9f-c87a-5479-a61e-06b4a4d794d5",
+      "hashes": {
+        "SHA-256": "17b31898c3613d6e86d06260c7e6f7738d3afdf0f0a4010e2f5259c502d38b09"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3c5c4c67-d93b-55ef-a911-2df2713f388a",
+      "hashes": {
+        "SHA-256": "1aad361237d0960758bb26ee7bbe3c20cccabb1744bb91874198c68dbe6e14ee"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--15cdd7fc-d6f3-5ec2-ae60-9eedf8b6fba8",
+      "hashes": {
+        "SHA-256": "23604a06b0720a430f8d6f6b14b589d850e4cfd291a47f22f199324f21169c1a"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4dcd664-5781-5c9b-a90a-b317e0c4194e",
+      "hashes": {
+        "SHA-256": "8823cccd97d261053a89cc9ebdfafe8f828f2b811c722914156f28d8bd239970"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2363ad6-1c39-554f-8dba-48f024acefac",
+      "hashes": {
+        "SHA-256": "8f40e019a09dc2b16ac3e9c3902844313d4c75df35c3d40c4376d14c320f08c3"
+      },
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1284b195-c982-525b-a6c4-3421272f27b1",
+      "value": "code1.dll",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10f08a48-d3e0-5b7f-ae46-af8e35703d54",
+      "value": "d3lib1.dll",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--163f58dd-7980-57da-9d09-560fb6f3cf8c",
+      "value": "code3.dll",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0ce1d696-56ae-5679-884d-e8ad87acb5bd",
+      "value": "https://ilha.tw/images/top_product05.png",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3c9da314-a24a-5a66-831f-cc307a4a189f",
+      "value": "https://www.sibody.tw/images/pic_brand_00.png",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--96817692-52cf-5f47-83f0-0b38f53f624f",
+      "value": "https://www.sibody.tw/images/pic_brand_01.png",
+      "x_opencti_description": "CloudChat-IOCs.csv"
+    }
+  ]
+}

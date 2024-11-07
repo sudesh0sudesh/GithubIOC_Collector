@@ -1,0 +1,320 @@
+{
+  "type": "bundle",
+  "id": "bundle--9db9d8de-8b6f-4685-bf73-269a269f1279",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--df74d08e-4020-588a-9a53-723333186c7c",
+      "value": "https://news.sophos.com/en-us/2022/11/30/lockbit-3-0-black-attacks-and-leaks-reveal-wormable-capabilities-and-tooling",
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--45b9bbf5-806b-5fd1-b354-24602115439c",
+      "value": "https://www.opswat.com/products/oesis-framework",
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8825d091-b491-5c5f-9a26-41d2a00f7026",
+      "hashes": {
+        "SHA-256": "0d38f8bf831f1dbbe9a058930127171f24c3df8dae81e6aa66c430a63cbe0509"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b9ed7cc-90dc-549c-8659-8cdf425fe0b9",
+      "hashes": {
+        "SHA-256": "168ab5ce440d53ca7397cf3da86d68a67264c6bb0e3f6c8f2066132d6d129bdd"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb39e83a-6ad9-59b8-becd-b8be93ffd5af",
+      "hashes": {
+        "SHA-256": "18f0898d595ec054d13b02915fb7d3636f65b8e53c0c66b3c7ee3b6fc37d3566"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9853586c-f902-5514-85e7-70e4681f8014",
+      "hashes": {
+        "SHA-256": "2308cef810b30ccb5be11fc664ce51b41bb6cee703f09d0a348771cf11f4dc9e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90791685-7dad-5548-b8b2-73eb365df4ec",
+      "hashes": {
+        "SHA-256": "307eb30c7d3640ca11f564b1dbbb7a133236c3c9b45192ddcb317477a9f54b59"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86d52aa7-a249-57c9-9513-e90d73602add",
+      "hashes": {
+        "SHA-256": "33987ca88cf48f7f9cfd46610f2c46e104f7c13f0285b5c6c2dca2c6290d9df5"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd54a69e-9c4d-5560-b2e5-55815a8e7d42",
+      "hashes": {
+        "SHA-256": "35f971f9f84af8f4a42c97d6258c251e213f99741c1cfadfabbd5f1204e5658e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9695291-881b-57a5-83da-6023e60e8e33",
+      "hashes": {
+        "SHA-256": "372d6d866798495d12b0ce745038fa2da575f22c30b061b948804cfdd8d11224"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0ac47f1-048c-5e9a-b86d-9720ca27f550",
+      "hashes": {
+        "SHA-256": "391a97a2fe6beb675fe350eb3ca0bc3a995fda43d02a7a6046cd48f042052de5"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a990fbb1-0833-51b2-9f23-8d76b865b91e",
+      "hashes": {
+        "SHA-256": "39c363d01fb5cd0ed3eeb17ca47be0280d93a07dda9bc0236a0f11b20ed95b4c"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2922988c-71b1-507c-9c62-200f47668e47",
+      "hashes": {
+        "SHA-256": "4f61f20fa1edfd0ce1de2ca8110c725c9d9c16a9680748c12042a3302054fc72"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7934dc71-f7f6-5ec6-86c8-de06a13431f9",
+      "hashes": {
+        "SHA-256": "5043e94612cc5111c07f30968e7bc78e96e277f55262064207a9cd87bc23a343"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5271d442-ccf8-5ac5-aec4-eb74c47b311b",
+      "hashes": {
+        "SHA-256": "506f3b12853375a1fbbf85c82ddf13341cf941c5acd4a39a51d6addf145a7a51"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84e0a6cf-5d97-5edf-adec-812f4181a86e",
+      "hashes": {
+        "SHA-256": "7d58338f7e5b4b77459835a2e057a07f81f72991a0e282d079fd5e227f68b5de"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3847e6a6-0725-5d40-aa1b-f60cf644b5a9",
+      "hashes": {
+        "SHA-256": "80e8defa5377018b093b5b90de0f2957f7062144c83a09a56bba1fe4eda932ce"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50508940-5737-534d-8561-830d48c43aba",
+      "hashes": {
+        "SHA-256": "8834c84cfd7e086f74a2ffa5b14ced2c039d78feda4bad610aba1c6bb4a6ce7f"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59b090b0-0204-5ef0-8813-a7a660779a3b",
+      "hashes": {
+        "SHA-256": "90235e199dcb2cd6fa2e68fbfc46f1aa649f2438210fd833b8e7e748b6428ba4"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf9d94ea-eb7e-5744-a147-dd0cd1a775ca",
+      "hashes": {
+        "SHA-256": "986a88c4053d398624c7736a5f60d2561760b7a532677fc251c8c3dac8f3f60e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9208b2fa-7648-5425-9142-bb57e1a2744e",
+      "hashes": {
+        "SHA-256": "9a34909703d679b590d316eb403e12e26f73c8e479812f1d346dcba47b44bc6e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9d947da-a2a7-5edd-b2b3-188ef1e50819",
+      "hashes": {
+        "SHA-256": "a56b41a6023f828cccaaef470874571d169fdb8f683a75edd430fbd31a2c3f6e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--322e6327-e2b0-50d7-8c18-92afa397f52d",
+      "hashes": {
+        "SHA-256": "c6861032317562532c21e373b88efacdc1307c8a3efce8c8992584171157ebed"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9467534-9ba4-5be0-9846-ceef281b0b47",
+      "hashes": {
+        "SHA-256": "c6cf5fd8f71abaf5645b8423f404183b3dea180b69080f53b9678500bab6f0de"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d9b0cbe-ee9f-5dfb-bf71-0de4762e2c75",
+      "hashes": {
+        "SHA-256": "d61af007f6c792b8fb6c677143b7d0e2533394e28c50737588e40da475c040ee"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--74493f46-2db6-58da-9938-d8b3bd4444b8",
+      "hashes": {
+        "SHA-256": "e8a3e804a96c716a3e9b69195db6ffb0d33e2433af871e4d4e1eab3097237173"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed0b2d55-b927-5f4b-9f24-e14e46f89e96",
+      "hashes": {
+        "SHA-256": "f4ab473dcb45beb8cb01ad616422c05a45134c6b028f310f06543e2c33584cef"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3d37e01-fd83-540b-a3ac-24c516f75d7c",
+      "hashes": {
+        "SHA-256": "fd98e75b65d992e0ccc64e512e4e3e78cb2e08ed28de755c2b192e0b7652c80a"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b9ed7cc-90dc-549c-8659-8cdf425fe0b9",
+      "hashes": {
+        "SHA-256": "168ab5ce440d53ca7397cf3da86d68a67264c6bb0e3f6c8f2066132d6d129bdd"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5271d442-ccf8-5ac5-aec4-eb74c47b311b",
+      "hashes": {
+        "SHA-256": "506f3b12853375a1fbbf85c82ddf13341cf941c5acd4a39a51d6addf145a7a51"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9853586c-f902-5514-85e7-70e4681f8014",
+      "hashes": {
+        "SHA-256": "2308cef810b30ccb5be11fc664ce51b41bb6cee703f09d0a348771cf11f4dc9e"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90791685-7dad-5548-b8b2-73eb365df4ec",
+      "hashes": {
+        "SHA-256": "307eb30c7d3640ca11f564b1dbbb7a133236c3c9b45192ddcb317477a9f54b59"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb39e83a-6ad9-59b8-becd-b8be93ffd5af",
+      "hashes": {
+        "SHA-256": "18f0898d595ec054d13b02915fb7d3636f65b8e53c0c66b3c7ee3b6fc37d3566"
+      },
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8732b7af-649d-5f51-8f04-dd74f7f5a2a6",
+      "value": "ardrv.sys",
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--827c8bf8-54c4-5e2b-9081-efed9a2fbc83",
+      "value": "master.zip",
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--827c8bf8-54c4-5e2b-9081-efed9a2fbc83",
+      "value": "master.zip",
+      "x_opencti_description": "Ransomware-Lockbit3-IOCs.csv"
+    }
+  ]
+}

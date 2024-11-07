@@ -1,0 +1,370 @@
+{
+  "type": "bundle",
+  "id": "bundle--e6f23826-2787-4992-8ab1-d50386147f23",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--98a346a6-6479-521c-87b0-647a1be4ce8a",
+      "value": "185.20.187.20",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a555abc-cb75-5e55-a1ce-624e147a393a",
+      "value": "GdAgentSrv.de",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c166296-9cc6-5b68-a9dd-90f469100d06",
+      "hashes": {
+        "SHA-1": "1bfb9bf7a00b8b6e9a0a7eb8fcf9c69738562d3f"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aca6a549-ac0f-5990-933f-d6f50a4feda4",
+      "hashes": {
+        "SHA-1": "b7dc961e4485c967f43f1be6fbbe067a81cc2181"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0f0cb33-5f05-55a2-aa77-8bb44f5f663b",
+      "hashes": {
+        "SHA-1": "23ef76d2e4cec624821c9ca087376c2a4584db45"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--256caf4a-2405-595b-a828-8a1834aa9525",
+      "hashes": {
+        "SHA-1": "4576efe2b713b1fd1a967b9beec57bf66a6cdbf8"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07e31001-0db3-555f-832c-eed007e40702",
+      "hashes": {
+        "SHA-1": "e5f3330884a48c5fa462e0299f4bff261b4dbc80"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3b36633e-3b52-5b3b-b5c9-eed9f3a496b8",
+      "hashes": {
+        "SHA-1": "15d4894e73dfe5f63061462a1bf6a9b5976457c2"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee261f79-0715-530d-99a7-2d6f6955abc9",
+      "hashes": {
+        "SHA-1": "6fb1fb1641c1faf65b5d7c786b7ea0df0be14b4b"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4103f73d-aaf2-578d-bbda-fb74fd3e6e95",
+      "hashes": {
+        "SHA-1": "1eea0f017bffa0a868605f373efa74b4858e1c37"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--44ae2ab8-e470-5a32-ace2-f7f9d70bb1a0",
+      "hashes": {
+        "SHA-1": "629c9649ced38fd815124221b80c9d9c59a85e74"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8d1210f-663b-59af-8fa8-a19385bb1b8e",
+      "hashes": {
+        "SHA-1": "5adfa3cc0480795406f69170f9fcf2b34a5984e3"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e181d8c-774e-533d-a2ef-753a2581fc65",
+      "hashes": {
+        "SHA-1": "5ac57e3d0e94e87f9ed14a7351c770932c4b7d08"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fb9d7aba-1197-5fc9-a14a-dbe2e4940459",
+      "hashes": {
+        "SHA-1": "55e1e325d3849dff0daf50bf330ce28155ab7e51"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92a6666a-81ea-55f6-94ff-c6af5494d2a3",
+      "hashes": {
+        "SHA-256": "1cec5e4563e2c1570353e54a4ecc12ab4d896ab7227fd8651adcd56b884c0c1c"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f95aa009-13cc-5fba-8a76-a5f601b8f366",
+      "hashes": {
+        "SHA-256": "28042dd4a92a0033b8f1d419b9e989c5b8e32d1d2d881f5c8251d58ce35b9063"
+      },
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fa0537b-f4e8-5bbd-ae55-894244f6cf46",
+      "value": "rdpv.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e90151f1-c5ca-59ce-9dbe-0f80e38755d6",
+      "value": "winhost.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d43a87c-5087-5ff3-805f-c89a61e34787",
+      "value": "ns2.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--707a8511-df4b-5efb-aeef-8137de408992",
+      "value": "bulletspassview.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d33e1fb-a37b-5266-b640-682b2c9a8cb0",
+      "value": "chromepass.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b17467c3-1413-56cd-9705-a0fb96f6ec01",
+      "value": "chromepass.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef187b35-9ef0-500b-94c9-8755605cb985",
+      "value": "dialupass.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b68798d-09f5-507b-a7d4-0e843edf1d49",
+      "value": "iepv.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bc1f357-6bf4-50e3-b543-ab8eb0c8fe5b",
+      "value": "mailpv.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e5e616d-3ada-5ee5-9583-58348d414c57",
+      "value": "mspass.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--608e6d8e-edb3-5035-a4b2-93d11e74ef5a",
+      "value": "mspass.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05302dc4-abd3-591b-ae72-6e3e16f2f1aa",
+      "value": "netpass.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45d7a59d-bdbb-567c-9488-a74857379ee3",
+      "value": "netpass.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--532f85cc-e01d-5e06-b62d-a6fa0c5ac8b2",
+      "value": "passwordfox.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--190847e3-c6a0-5604-bf8e-7e93586ac4a7",
+      "value": "pstpassword.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3505cf6-ef17-5524-ba9c-2911740ce644",
+      "value": "routerpassview.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--36d03fa9-fd66-5bbc-8b21-aa29a263b166",
+      "value": "routerpassview.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6906e384-c916-582d-b453-41cd1e94df2b",
+      "value": "sniffpass.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfd7610b-1feb-54e2-b66e-10e5d11f3c84",
+      "value": "sniffpass.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5075bde9-ea20-50da-86b8-abeee37a77d5",
+      "value": "webbrowserpassview.cfg",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--021da430-5c4a-5bb6-9bfe-272103a6ab12",
+      "value": "webbrowserpassview.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09eedb2d-8352-5d43-adae-55bcc74564c1",
+      "value": "wirelesskeyview.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd5f1d7e-cab7-5ed2-a16e-29023e71bd26",
+      "value": "javsecc.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af3652-0a97-5a57-83e9-0f209d0c0b7e",
+      "value": "takeaway.exe",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecb54d35-6e1a-530e-80f2-4ddc05f8c2fc",
+      "value": "GdAgentSrv.de.dll",
+      "x_opencti_description": "Ransomware-Dharma-RaaS.csv"
+    }
+  ]
+}

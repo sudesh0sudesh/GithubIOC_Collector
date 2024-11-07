@@ -1,0 +1,92 @@
+{
+  "type": "bundle",
+  "id": "bundle--902fbffc-9b92-4027-92c3-4d2368c14e09",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f93ad21e-ee60-5dfc-a5e0-b03a6cbc17da",
+      "value": "5.39.222.67",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f47ab7e2-1409-53bb-97c9-30407542e65f",
+      "value": "5.255.99.59",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ca518087-6657-5d2a-bb17-d8aeaccdc1ec",
+      "value": "51.77.102.106",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c6bdb358-2b08-5bc3-87c3-2b539d1d9600",
+      "value": "108.62.118.136",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a79c4234-04cf-517a-9822-ba408658fd41",
+      "value": "108.62.141.161",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--83e9bdc8-7e2d-5260-be7b-740a9dc30576",
+      "value": "146.70.104.249",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--74a30f22-9613-5d16-9ac1-8d70f840b7c1",
+      "value": "156.96.62.58",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5950c4ca-d6c7-5b0e-b176-3c3174856c23",
+      "value": "157.154.194.6",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df8a9acd-d625-5430-8af7-79cb7eafdf9c",
+      "hashes": {
+        "SHA-256": "b25b87cfcedc69e27570afa1f4b1ca85aab07fd416c5d0228f1fe32886e0a9a6"
+      },
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6185d68-25a7-5de4-ada4-4b2a0e57a95b",
+      "value": "CriticalBreachDetected.pdf",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6aade5a9-b233-5e8f-9c0e-3a558612dc51",
+      "value": "PsExec.exe",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0aa77cd5-71b2-5c21-b1a1-39b9db2cdd90",
+      "value": "WinSCP.exe",
+      "x_opencti_description": "2311 Vice Society - Rhysida IoCs.csv"
+    }
+  ]
+}

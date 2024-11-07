@@ -1,0 +1,1822 @@
+{
+  "type": "bundle",
+  "id": "bundle--0fd908fb-48d6-4124-b652-306a93314f8f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--728a5949-0723-50df-b13a-ba1959b2cd58",
+      "value": "216.238.72.121",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cda4a6-246c-5784-b946-3ac985f0131a",
+      "value": "68.186.192.69",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b8b3f8ab-81d2-5435-8c0e-04ffe296e00a",
+      "value": "41.228.22.180",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--728a5949-0723-50df-b13a-ba1959b2cd58",
+      "value": "216.238.72.121",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b8b3f8ab-81d2-5435-8c0e-04ffe296e00a",
+      "value": "41.228.22.180",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cda4a6-246c-5784-b946-3ac985f0131a",
+      "value": "68.186.192.69",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b15a9974-7e43-5eb2-9d7a-845bb46c7a3c",
+      "value": "194.40.243.33",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--789eb22c-33d4-5224-850c-be2be74405fa",
+      "value": "45.63.107.192",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--adf9f1d5-28fb-59d9-9a75-9a06496fc8e7",
+      "value": "216.238.71.31",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bb9235b1-5a3b-5c0f-b5a7-73845c145923",
+      "value": "23.160.193.217",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a5396535-af33-509d-81e6-62e3ca6a2ce3",
+      "value": "100.1.119.41",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--41bfe465-68fb-546d-8d4f-92d89c69f1d9",
+      "value": "102.65.38.67",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e73eb84e-3073-5e3a-a9ef-e8ae0688cbfa",
+      "value": "103.142.10.177",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4aa767c9-4872-51e2-a1ca-fea9d6abb4b1",
+      "value": "105.198.236.99",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--54a863b2-e15b-53a5-a55f-73a935c4cc49",
+      "value": "106.220.76.130",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--086f2dcb-80bd-5198-8cd2-76a4a73d081b",
+      "value": "109.12.111.14",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e9dea57-e189-55fd-96d1-f7e78302a4e8",
+      "value": "117.248.109.38",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a3812321-a414-5bca-a3fb-ea4655d66782",
+      "value": "120.150.218.241",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1fd0f9a3-a6f5-578f-b613-2068e9e8d94b",
+      "value": "129.208.139.229",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d6414f2c-9cc8-5bff-9dd7-f24b4902146a",
+      "value": "136.143.11.232",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--094cdfdb-a637-5632-b9b9-7e97fd01937a",
+      "value": "136.232.34.70",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--37fe1536-aba1-56b3-837d-2978fa34f41a",
+      "value": "140.82.49.12",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--58852b82-8e39-5750-b184-3935da5a01b1",
+      "value": "173.21.10.71",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f340b6a6-21dd-537d-878d-c0ea292e21df",
+      "value": "182.176.180.73",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bf36c7fa-7bc5-5453-a18c-55289a281b5a",
+      "value": "185.53.147.51",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5630bfe-a884-5d1a-9e0a-9903cd6045d6",
+      "value": "186.64.87.195",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--feb99ef0-c2ea-5f65-aabd-79a958c7c3a9",
+      "value": "189.175.200.244",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--494805b7-3e45-5f4b-8b04-f66e7750392e",
+      "value": "189.18.181.24",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c11fd87e-7d6c-5d1e-8856-eece9e22263a",
+      "value": "190.229.210.128",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2ecbe637-0d8c-515b-ad4e-dc7bfff21a3d",
+      "value": "190.73.3.148",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7832eaa7-fc04-52fc-a5f7-ffc51777e392",
+      "value": "197.89.144.207",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--804f3d96-8dc0-5e8b-9834-90312346ddb4",
+      "value": "2.222.167.138",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f582ba09-296a-557a-9a4e-c2828591d80c",
+      "value": "207.246.112.221",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f582ba09-296a-557a-9a4e-c2828591d80c",
+      "value": "207.246.112.221",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--adf9f1d5-28fb-59d9-9a75-9a06496fc8e7",
+      "value": "216.238.71.31",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--adf9f1d5-28fb-59d9-9a75-9a06496fc8e7",
+      "value": "216.238.71.31",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--728a5949-0723-50df-b13a-ba1959b2cd58",
+      "value": "216.238.72.121",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--728a5949-0723-50df-b13a-ba1959b2cd58",
+      "value": "216.238.72.121",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--739b4b14-a689-5efe-ab2d-3009afb91ddf",
+      "value": "218.101.110.3",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--32e54b59-3d96-554d-9a1b-2d192fb976b9",
+      "value": "24.229.150.54",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3b169c0c-2406-5bf2-9ef3-a3f30acafe26",
+      "value": "24.55.112.61",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b4bb37d8-89ef-594c-b747-3fcf1f74498b",
+      "value": "27.223.92.142",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f8d159e6-6253-54c2-92f5-b181b1d8c9cb",
+      "value": "27.5.4.111",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29a2f2fd-ac9e-5d2f-a704-6f1e97ad7dcc",
+      "value": "31.215.98.160",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--060c92b3-ef0d-56c5-8754-6aa2e40f7d94",
+      "value": "39.43.130.50",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1ae827d7-e3bb-58ba-9709-7700325065a7",
+      "value": "39.49.44.85",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b8b3f8ab-81d2-5435-8c0e-04ffe296e00a",
+      "value": "41.228.22.180",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--41cf5dc8-7d70-5816-87a6-8a5773b139d5",
+      "value": "45.46.53.140",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--947a529b-27bd-5807-ba81-77fdf32309bb",
+      "value": "45.9.20.200",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dfd1b4f0-6a97-5e41-a235-47df8f5ac6c3",
+      "value": "63.143.92.99",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8c45aad5-626d-51f1-87b7-1eefa8437479",
+      "value": "65.100.174.110",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8c45aad5-626d-51f1-87b7-1eefa8437479",
+      "value": "65.100.174.110",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f914fefe-96ea-51e5-9618-7539194911b1",
+      "value": "67.165.206.193",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--70cda4a6-246c-5784-b946-3ac985f0131a",
+      "value": "68.186.192.69",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7e6e4c9b-2c75-5800-bc3c-3faf66c359c1",
+      "value": "68.204.7.158",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a88aaf2f-d753-50b1-9db8-7f94062410e7",
+      "value": "71.74.12.34",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7cee828c-391b-5156-9f7d-2ce024279699",
+      "value": "72.252.201.34",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c483dfc-2ed5-5365-a606-e6a2e5d98495",
+      "value": "73.140.38.124",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8d8fcddb-e4c5-5249-a33b-869b0be39770",
+      "value": "73.151.236.31",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a23b34d4-4d26-56f1-bae2-aa5bc3af00ea",
+      "value": "73.171.4.177",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e009d55e-785c-57fd-9cde-4fbf72c3ed55",
+      "value": "73.5.119.219",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0daa154e-087c-59ac-8ee3-27b7db2fe4f3",
+      "value": "75.169.58.229",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea9ca38d-8673-5b9b-ae56-f53427964bc0",
+      "value": "75.188.35.168",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e9f16473-b2b0-59ea-987e-49f6132f8086",
+      "value": "76.25.142.196",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9507fc9a-9c0b-5e6e-af14-9a824a966306",
+      "value": "78.191.12.29",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a55663e-b8c8-58f2-99a3-598c1027f832",
+      "value": "86.148.6.51",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--85cbe11d-e13e-5519-947a-6cc3e46e4989",
+      "value": "86.98.36.211",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--30e07291-59da-5e21-a4f9-4f35ef80d6af",
+      "value": "89.101.97.139",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2d183bd7-2e19-532b-a2a9-39b93585cd76",
+      "value": "89.137.52.44",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cb9912d2-6284-5997-b72c-e0b6c5c1d608",
+      "value": "91.178.126.51",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fc214578-3659-5830-b2de-f434d29d93f1",
+      "value": "93.48.80.198",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63a78298-05ea-59c3-b79b-8893a2be1118",
+      "value": "94.60.254.81",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5aafdf21-94fb-5a17-a1a5-a705815499d7",
+      "value": "96.37.113.36",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e2517508-b57f-5b5d-9c97-5bb558732b8e",
+      "value": "https://news.sophos.com/en-us/2022/03/10/qakbot-injects-itself-into-the-middle-of-your-conversations",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a199cb4-becf-5c97-967a-1486624b6e2b",
+      "value": "circleeducational.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f108068-d5ac-543e-97cb-5a9c4b0b2ece",
+      "value": "inzain.org",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f108068-d5ac-543e-97cb-5a9c4b0b2ece",
+      "value": "inzain.org",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f108068-d5ac-543e-97cb-5a9c4b0b2ece",
+      "value": "inzain.org",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eee41f11-d229-517f-9d60-9cb55c3ce3d0",
+      "value": "alqalam.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fb37856-2fbd-575b-bfb5-354cbf8415ac",
+      "value": "camdeus.com.my",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fb37856-2fbd-575b-bfb5-354cbf8415ac",
+      "value": "camdeus.com.my",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fb37856-2fbd-575b-bfb5-354cbf8415ac",
+      "value": "camdeus.com.my",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8eb4e12f-bce3-505d-afb7-032b5749a06b",
+      "value": "dsrsmh.gob.pe",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--794c0750-b54e-5d05-8b53-e776e8567d0f",
+      "value": "edukamica.pe",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--794c0750-b54e-5d05-8b53-e776e8567d0f",
+      "value": "edukamica.pe",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c308cd8-ef39-5fd6-932a-56e7a95ea641",
+      "value": "firsthandholding.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--365858e2-fe95-5c3a-849d-c7ef3a2b7a3b",
+      "value": "freecreditsc0re.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--365858e2-fe95-5c3a-849d-c7ef3a2b7a3b",
+      "value": "freecreditsc0re.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1ad2048-3ae1-5814-86df-3c4ab1a2c19f",
+      "value": "gohirer.co.uk",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3462deb3-350f-5abc-9e59-7521148c782f",
+      "value": "goldfundswealth.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--365bf5aa-b0c0-5406-b4a6-51f4511537be",
+      "value": "happyoccasions.co.ke",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e001c9c-0a93-5fe2-ab2d-228e3b413786",
+      "value": "hurry2buy.in",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e001c9c-0a93-5fe2-ab2d-228e3b413786",
+      "value": "hurry2buy.in",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63283d7c-8b6e-5583-a4a8-d27c177bfe8b",
+      "value": "jekola.webstarterz.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5b52f15-8709-5c21-8759-9ad77b17f11a",
+      "value": "naijapromusic.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73ebc724-ef29-5ef2-87cd-1c35c5b4eca2",
+      "value": "nexlvl.co.in",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e92c5bbd-2617-5954-ac27-453b5c0ee905",
+      "value": "passiveshabake.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b490fe1f-37a0-5f7e-8e79-580bfd1451f9",
+      "value": "perguz.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f1570f9-3e8c-5dcc-b921-f61fa863b78a",
+      "value": "sbtech.mk",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f1570f9-3e8c-5dcc-b921-f61fa863b78a",
+      "value": "sbtech.mk",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--747b59ae-0c5b-557e-8209-8381aa5be669",
+      "value": "wekyjanmobilerepairingshop.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95b10b7a-ea63-5041-9167-3e89ffa918ba",
+      "value": "worldunitybank.com",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6cd78004-db82-5a05-986c-c360f89b0d88",
+      "hashes": {
+        "SHA-256": "f42670b63d8e4eca6f360ec2bbdd6c518b18ea91581e310f42f03cb482f85a23"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e28b354-5ddc-5745-82a0-a8b78990322c",
+      "hashes": {
+        "SHA-256": "2c37b6b15f3f0299571ba9442666607e37487a17ac426ba1e89471460951bf19"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06af73a4-7553-525d-8c85-e922d0872335",
+      "hashes": {
+        "SHA-256": "ef570dbb5ece67d1988a230ded47cbaa8a3f517c3163c2e6ee2959dcfee01f60"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ff0d29f-69f1-51a0-b75b-fa1effee00e9",
+      "hashes": {
+        "SHA-256": "7d1fd479bff1ddb041f227c28d641c93fa8b284bed1a725da7b06df2662aea56"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--46f9cf09-6de8-572d-927e-b140d57f6eff",
+      "hashes": {
+        "SHA-256": "4e274ff74367a174913969690379398fa78f6aececdb51bdbecfef72f443f0bc"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ebddc73-44d5-5e43-bd77-1780de4b106d",
+      "hashes": {
+        "SHA-256": "148d6a1191b07385551354a111e10f89e97af87604c9b7c916ae352bdd8c3df0"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a8b61cf-8253-59be-a711-13f2f78b284f",
+      "hashes": {
+        "SHA-256": "2a5069684e15123a8d3d3a305cb01399ad9880c96cbacb9e99c88e6fbaa6aa3e"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88ba20e6-b516-5a9e-9ae4-c685405fcfd9",
+      "hashes": {
+        "SHA-256": "bce784a4d247e61c3eb16ac557af41aac569dc6d160658df460fe48cbc2f4466"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b5a0f50-dd19-5153-86aa-935fa9b9ddfd",
+      "hashes": {
+        "SHA-256": "76b64698670bae111d9b68eedc25b02e85a82471da739e5ceedff0ce466c65f8"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6df9aff5-847f-5836-9215-df486a81c7a1",
+      "hashes": {
+        "SHA-256": "f7cdb959643a5f266fccff13534662ce4db388d922c65a2b7ab878b663cced99"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2687314e-d857-5460-99d4-7fc60bb142ac",
+      "hashes": {
+        "SHA-256": "7afe4de9d35c9f3b9dfaa9ff7b0359f611023d811660d27bdb468a67b1655465"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d804529-c83a-552e-99cb-431457972c91",
+      "hashes": {
+        "SHA-256": "12e00c5ad5fed0c1448f5535f8282a26ef96494d24781ff3fcff10e4a7026728"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4f044be-0d7d-5f1b-84d6-c4b45a86bd8b",
+      "hashes": {
+        "SHA-256": "d699a49d2f93f69091e4f072a5aeb698d5fc7a1a3fba24787242417f055f16c4"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f56c6544-f1b3-5f37-b42e-e69f92ebd398",
+      "hashes": {
+        "SHA-256": "4c7b0b415c315a3c7501e73a95e414c2885b404988eceaace3d917effe69aefb"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--704fcbf0-426a-55df-a03a-c1b63609211a",
+      "hashes": {
+        "SHA-256": "f55900c3a55794fea9b7b8c6371c05b16caeae3f4dc7c6b1ce3263ed436b5945"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbd0a171-c66c-564e-bb8e-2c514591a2b7",
+      "hashes": {
+        "SHA-256": "f1ffbbda98eb14d9964041be4e5ff7642917d07ef5ecb1bb5e1f87f44a17607b"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--325e2766-18c6-56d6-b5f1-6703d21810b3",
+      "hashes": {
+        "SHA-256": "d97f73ae31f5468a361b8e1c870c085710423d676a361d58f46c65a5b8566c92"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0aab76d1-946c-5eeb-93db-faa9c2d93d01",
+      "hashes": {
+        "SHA-256": "42f8d3a6d8ec13d5c9f1d1e729e082417c8ce9c1dc721d50ca54379cefbe4f9b"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b2e1879-2e5d-5602-a125-96fffc36093b",
+      "hashes": {
+        "SHA-256": "316ceed52f2afca28f2fabb7b6ef8fbf9a52e106a5a0dd9a4714bde6998b3004"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3abe9d7f-8b75-55c2-b88c-99005fe69b87",
+      "hashes": {
+        "SHA-256": "9f6842420daa0b28c1f06174131992a57dba59a50eaeb6ae367be408b7477a05"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45ed60c6-230c-55b0-8fdd-a06401f4c616",
+      "hashes": {
+        "SHA-256": "d3b77083e1ff53852b5f68f5b4d52e0033f6246c6c623bb38b160df3841aac08"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bba1972d-20e7-5533-9a2d-36e4a1193e03",
+      "hashes": {
+        "SHA-256": "bfbc33e8a832a39a281dfe964d3bda25bb2f27d246da0da5cd073e975ea709ed"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2bbd6ac-dffc-5bd7-9867-e0c1c6d62b40",
+      "hashes": {
+        "SHA-256": "d0e56a0c3e3dbdae8676dac33925ebd9c3efb67b989912d56125f924fac02f49"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--faf8ffa3-dfec-5abf-ab09-cfe02f4fc4da",
+      "hashes": {
+        "SHA-256": "94056e114e9691c05d1231b0468bb1c369564b4b2c140fdcb10a4da3db785ea7"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad169ad0-1642-59cd-9c6f-08b5c7b4e658",
+      "hashes": {
+        "SHA-256": "40ee4d5d688b2ebba8b8a7370a9c4365f41445c22b0a189464cff35f7cb72c8e"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f306163-f495-5581-9f7b-c9eac6538602",
+      "hashes": {
+        "SHA-256": "ac9e859b64b75637beea56f10290864e9a633c1e92c70d42f399f1b3ad18bbde"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e5f41e9-286b-5c83-a582-8304c051057f",
+      "hashes": {
+        "SHA-256": "dbf577dba781ea2f3c560a8acc77c8d1833e6409ee67d35dd082ab1fd09e0732"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e67eca85-6d33-588a-8060-86070441005e",
+      "hashes": {
+        "SHA-256": "19f6aeda752342c43ed767288fb34d6348007bd028c02947fe04c50c33ddd5bf"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--192726af-9967-564e-9020-1225fef0e1f9",
+      "hashes": {
+        "SHA-256": "6f34773bad65fca64f7ae6b714f0b6b37fb6a57cc26d8e9ce79f1231c7179d30"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d0abce3-795f-5a88-866c-532b920ba940",
+      "hashes": {
+        "SHA-256": "5c8cc68e94c87c6f590b83feab2ab9ca5d5bc950819f86e024e430af4c403bdc"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d816f74c-3eab-5f71-ac9d-5c1620d28637",
+      "hashes": {
+        "SHA-256": "104f7a029911b8c6d6516846c7722dbace7bb7972cc786c3410b72e9c2a82dac"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2736ae54-cc96-58eb-b5c8-ca2477d3f47d",
+      "hashes": {
+        "SHA-256": "3c2a3f3a333832d545cfec14d831ed3e18e94b18de9dd28cbefc1145573e7fcb"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd441070-5e94-5bae-906e-4a9db8514b82",
+      "hashes": {
+        "SHA-256": "540128e8b8c627ebf93878d82affd6596716e08d971c7d389532c701b5121af6"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6165c3a9-686c-5b10-bcc2-2a7e530c8b34",
+      "hashes": {
+        "SHA-256": "5ff2cd1741e7230f2536a03cfdfcb2a53ce33907e73c1a562d4be2736117195d"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5285189e-30fe-5c31-9947-7b6b70e49ea3",
+      "hashes": {
+        "SHA-256": "c0f8ce8ca6271bf44514fc9bc9765c466edb69adc08bc12ddb7585ec2632b74a"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ad34857-dd21-567f-89df-9264437a179a",
+      "hashes": {
+        "SHA-256": "e8304f0c1c9a7846947b0c25b4ecc0cd5a2a60b8d7465977a6d9bcf0f54a2ce5"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81c099aa-5bbf-52d3-a0cc-b7f8496b4ddf",
+      "hashes": {
+        "SHA-256": "39b0682b23fc9d57c83de3da2cd0f1e4a715846533c4efd0fe01572bd8df209e"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9814b22-3bc2-5221-af42-cbfbacd081ba",
+      "hashes": {
+        "SHA-256": "2e9b5905fd0b6ce074775bf5bfc159aa4164e513d2f7f50dd209c676d77cfecb"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7fed813-3e39-50d3-b0c0-48b002a942f7",
+      "hashes": {
+        "SHA-256": "12e9b2d4c1c92288cecc03f1a363346a26004bea8b417193ad1209a0b19c23fc"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d7a4fa0-44cf-547b-8b2a-011306a57e1a",
+      "hashes": {
+        "SHA-256": "b8421dd12a37ea2174ff31b4151ed787268ba011ccf2b29877e1f5cda4d3eaea"
+      },
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b9daa05-e9d6-5025-bad3-006b40eaeec8",
+      "value": "eum.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7fec8a88-89ca-5fb3-a73c-d98e038b69f7",
+      "value": "Hook.dll",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--18aa2011-af9e-5e75-b0fc-ec38b3d9a288",
+      "value": "http://caaantik.com/pl/iVZ/BrU/XCj/nksYY1a.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9cca90c4-2f5f-5c02-a6d9-ab90274353af",
+      "value": "http://caaantik.com/pl/K0MHD5I1Sb.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f07eda6f-8df6-55ff-8817-e3868201e980",
+      "value": "http://circleeducational.com/pl/p/8WxKLuhG3.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d2a8f41b-3047-5f24-93b5-f4a4f4771e87",
+      "value": "http://dailyplay.net/pl/Bea/0OB/4Cf/9zSr6N3.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4600dd0a-0b04-5de5-ad22-d36c865a46c5",
+      "value": "http://dailyplay.net/pl/wD91SAqJJ7.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bdbda045-6ec7-5905-b627-71d106f6130c",
+      "value": "http://dariwalaonlineshopping.com/pl/2O/rX/MlGxoXuW.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e059aa21-0946-50f8-a4f5-9fdb04b988d3",
+      "value": "http://dariwalaonlineshopping.com/pl/46K/6hP/GNG/69dSHaF.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fd180a1d-3a65-501f-a027-e0e3b4fce3be",
+      "value": "http://dariwalaonlineshopping.com/pl/6/GU98o3B9H.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fc6bbeff-1478-594f-89d4-f9cce2056119",
+      "value": "http://dariwalaonlineshopping.com/pl/eT/U3/rz46q4z0.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7d4f49ec-ef2f-551c-b5c2-48d08bd8ca1d",
+      "value": "http://dariwalaonlineshopping.com/pl/L/zFr0ugAme.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c82c47f4-21cc-56c5-9c85-23d763cb313c",
+      "value": "http://dariwalaonlineshopping.com/pl/Vf/8D/jOpiFZx2.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--82b55e8a-a677-5a19-a615-462ef124fbf9",
+      "value": "http://dariwalaonlineshopping.com/pl/ysBtcSQR0Q.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--73cd0d9a-d3d1-540e-aa9b-e4755a242c46",
+      "value": "http://devbhumiexpress.com/nb/7s6/gA9/V6j/XRODB8r.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7c960f23-12b0-51ad-8346-d7953b3c38c7",
+      "value": "http://devbhumiexpress.com/nb/mvI/u4c/1Rw/Y4IkJDj.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bd0157bc-cedf-5c6e-8260-78233ec14d7e",
+      "value": "http://dmklaws.co.ke/pl/v/E2Sy5shEX.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9558fcdf-c3e8-527e-b2e4-6804a226eccc",
+      "value": "http://dmklaws.co.ke/pl/yW4/cl7/4gB/hokiJac.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2af4975f-86bf-5cdc-8936-e4abbcf48a8f",
+      "value": "http://ecuadorendirecto.com/nb/HY/Td/8XbfyBBb.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f709c1e8-7bb4-5b73-9e7a-ad923c3a4f53",
+      "value": "http://fitfoodbd.com/pl/5rw/iXZ/hAV/rTYG3K2.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--982c5ddc-d11e-538b-9035-882c811d8c28",
+      "value": "http://fitfoodbd.com/pl/hKNXM6DLEW.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8e6e0c16-fb68-5e14-a7ed-ef5d458f47be",
+      "value": "http://fitfoodbd.com/pl/Z/ntK2O2u5h.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--140541c2-5993-5898-b8b8-dc7e67f034e1",
+      "value": "http://globalprod.ru/pl/gGN/9va/OqG/dQn9w6o.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9500e231-400a-562c-814d-8e4a15d52549",
+      "value": "http://globalprod.ru/pl/gJw/oC1/5YZ/m6C2N4d.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3142795f-ef1e-5ac7-a1eb-5f80ebf8d446",
+      "value": "http://globalprod.ru/pl/iJo/bzX/Q7S/7acFgnR.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--aa904b35-18e8-5490-8043-ff43e6ede895",
+      "value": "http://globalprod.ru/pl/KK9Dqgcm5o.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--20a92708-0352-5f69-961e-731d0ba9f0ed",
+      "value": "http://globalprod.ru/pl/R/rjeXuBjhJ.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ab758f93-7771-50b4-9cd1-1d8e73109129",
+      "value": "http://globalprod.ru/pl/Yt/L6/dNxKJm0k.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--650246eb-7daa-5dbe-adaa-d96f1b667822",
+      "value": "http://gofourbusiness.com/pl/CofakqyCzE.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--36983624-34a3-5561-b3cf-0ce7e530f071",
+      "value": "http://gofourbusiness.com/pl/fTf1fAti9f.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5ef1040c-ed9f-5765-8d78-4ff153748910",
+      "value": "http://gofourbusiness.com/pl/g6d/dJ9/h4H/ZF6Ni0f.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9f9c69d5-e384-532e-b547-0f6c23a43ebb",
+      "value": "http://gravitygroup.org/pl/ddl/fHg/GPW/KkvfCKe.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e8817cfb-5fbf-577e-a75b-bb7e949a9ed3",
+      "value": "http://gravitygroup.org/pl/E8m/yuK/B7G/d7Jexjp.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--33b3087b-b6eb-50f0-baed-1f96ada5742d",
+      "value": "http://gravitygroup.org/pl/TZ/xm/0BjfwA98.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--58fafb25-c065-55b0-82ee-f9b9b3ab5885",
+      "value": "http://gravitygroup.org/pl/X/nyk9uA6oz.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5b47ce0d-b879-596f-baee-775cedd45f8a",
+      "value": "http://hapohealthcare.co.ke/pl/1bF/CeY/QIx/4dxScNE.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ec41dbf2-05fd-5d72-8544-5307ac5c4fc3",
+      "value": "http://hapohealthcare.co.ke/pl/E/tXW5GyqRA.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f695f240-6266-5f25-a450-f7219f93f4f5",
+      "value": "http://hapohealthcare.co.ke/pl/gfoSBiLYKQ.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--29b03f7f-9207-59a2-9cfd-82a1f9dc3164",
+      "value": "http://hapohealthcare.co.ke/pl/icRNrIkfEE.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4639251b-c696-5e2d-afe6-f5acbf248b78",
+      "value": "http://hapohealthcare.co.ke/pl/L/jG1l1oTi4.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a24f7fed-3ce8-5798-bab1-13c2f7a51dfe",
+      "value": "http://hapohealthcare.co.ke/pl/xqH/Xk8/MZA/ZPSwn0G.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4415c0cf-31dc-5101-bbd7-25354f9d190e",
+      "value": "http://hapohealthcare.co.ke/pl/Z/vIUNeF2an.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--db728764-3276-51d7-83d6-bc110beb8f56",
+      "value": "http://ikincielplotter.com/pl/mww/56d/znq/MySqkg9.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4cd3ff56-709c-5d62-8ab3-3f20b1930a5c",
+      "value": "http://ikincielplotter.com/pl/O/4WaCYplJb.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--86d922ff-68d4-555d-bb33-65e8ccde4c22",
+      "value": "http://ikincielplotter.com/pl/V/ealQLReKr.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--44b3ab6e-2b86-555f-a9ce-8c663512aa7a",
+      "value": "http://inzain.org/pl/mIP/QtS/bis/Kygd1QY.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c7bd7ee8-f52c-5e3c-aa3d-62feb7207300",
+      "value": "http://inzain.org/pl/o/EAar8iZjU.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2f5531f7-0ada-5488-afec-9e7c8a848ee9",
+      "value": "http://inzain.org/pl/O9urLZRXgc.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b3cdc321-8c8e-5534-860f-a9d48bc0f1c9",
+      "value": "http://klinikpratamayemimamedika.com/pl/Xo/zN/rJBwi2Yv.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d3b05d2a-4350-5f97-8da1-15a4c5f291fe",
+      "value": "http://laserjet.ro/pl/8/DbEDhe5P9.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7d7372a8-9572-5474-b026-65fa024fb64b",
+      "value": "http://librelato.com/pl/m0/EQ/uLbpkCZa.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--45be843a-9bf7-5ed4-82e8-e25b61e4d5c1",
+      "value": "http://maisconsultoria.com.br/pl/3a/qc/MWmaciUo.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a89b97cb-c36e-50d5-88dd-85a7a4678ec2",
+      "value": "http://maisconsultoria.com.br/pl/Tj/dl/iSvJHaXl.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--38e2029e-a318-5b1b-8105-aab259a84938",
+      "value": "http://maisconsultoria.com.br/pl/tkkbvWJV66.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7f875839-174b-5a11-acf9-d8a078314981",
+      "value": "http://maisconsultoria.com.br/pl/v8/HU/lK2EItxa.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--931ef593-2064-5180-916d-277d28f59d84",
+      "value": "http://man1kabsemarang.sch.id/pl/dQ8kp2LLJI.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--918b47a0-e9ab-5ba9-8bdf-2ec79dbcefe4",
+      "value": "http://man1kabsemarang.sch.id/pl/K7/JC/bO1PrFAT.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d378d244-b2fb-577b-9f22-b2cdd805f7b9",
+      "value": "http://man1kabsemarang.sch.id/pl/RCoFU50aSG.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7fdd55e8-4bc1-524a-9d00-ed7f49ecb26c",
+      "value": "http://obarrigas.com/pl/8/qY1l6BusI.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--99535c6e-803d-50e1-8b64-8ab53ddbf0b3",
+      "value": "http://obarrigas.com/pl/hw/Rb/C2QLTZOe.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ccc54c7d-00a5-5fb0-8dd9-39b31e9e0fc2",
+      "value": "http://obarrigas.com/pl/W6o/c8L/Rns/GXYUMtW.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cd483741-5254-5cfc-a1d9-a4b4d838972b",
+      "value": "http://radiobrasilitalia.com.br/pl/caD/ZCp/CB5/faPZhIN.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fc991eb8-b8d6-5221-99f7-9e94eb5b54f8",
+      "value": "http://radiobrasilitalia.com.br/pl/H/zEvXSdCQt.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a3ee2f96-7f17-5f7a-8723-d57f892d6c27",
+      "value": "http://radiobrasilitalia.com.br/pl/IW/Ew/xgOJHmtS.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--47d6753b-2e64-526f-95b0-7a62c92ec46d",
+      "value": "http://radiobrasilitalia.com.br/pl/KyP/t7e/E9f/t19vMyC.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--13218862-3609-573b-8201-665716b0af35",
+      "value": "http://recuerdosretro.com/pl/B5W/pDl/gzZ/uxJiDa4.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c09b3e3d-95ce-5d89-807a-18497994c551",
+      "value": "http://riyadahalfeker.com/pl/77/XK/8RwIybsd.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3d8e287b-bc9c-59f1-bedf-f04c4f92adde",
+      "value": "http://riyadahalfeker.com/pl/C6X/nmT/B6i/uR0w1nz.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0a6329c9-0156-576e-9009-1675e3cedfae",
+      "value": "http://riyadahalfeker.com/pl/mt/X6/aeCzSLF1.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c7bf2a73-c82b-5574-aec6-b995ba28c7ce",
+      "value": "http://segiaviamentos.com.br/nb/Pg/Pw/BrBFFxGY.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--16f641c9-b245-5c72-907a-a19b50abbfa5",
+      "value": "http://sgdls.cl/pl/BMd/L2j/i3s/hPTdWjZ.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a0981666-d9fe-573a-9e8c-2a9134c2c1e0",
+      "value": "http://sgdls.cl/pl/L/jZUuKZ2QK.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ee44d93d-e1b1-599a-b972-743ef95f053b",
+      "value": "http://solarifitech.com/nb/GOC/4lB/zWo/CQhMSUY.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6825f9c8-be82-56cd-bc2c-5d5a0e1d28f7",
+      "value": "http://verbojuridico.pt/pl/lxHZIa8y4D.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d944f3a7-912d-56d6-b78d-bd7b8363cf36",
+      "value": "http://verbojuridico.pt/pl/N/gUoIK373M.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6a6badac-6701-5c65-b5b9-c77a497e601d",
+      "value": "http://vistalandgroup.com/pl/D/eKmIFRHmy.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ea4b2029-65aa-54b1-a3bb-460366f2b367",
+      "value": "http://zontikoff.by/pl/Cy/kp/XAZ34aTn.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9a68f7d7-557f-5aaa-a9e4-30903bb36b56",
+      "value": "http://zontikoff.by/pl/ej0/aMc/ASI/VkN4yNT.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9e45b181-4a48-5d06-a247-a23504cc0d7c",
+      "value": "http://zontikoff.by/pl/fU/cG/CuARw5Wh.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2e12db20-db68-5435-a829-32ed13a8cea2",
+      "value": "http://camdeus.com.my/spool/dkU/NfI/LSn/Pu36M0M.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bb4d5478-7d3d-5b90-b255-b63ec827aa8f",
+      "value": "http://camdeus.com.my/spool/uEEikHiDAw.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--09947b9f-542c-5674-a687-be65f2b9c895",
+      "value": "http://camdeus.com.my/spool/ZFY/Cil/E7j/RfBnggH.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8aad7fc0-79b9-5b59-87b4-a391a58fb08d",
+      "value": "http://coiny.buzz/spool/S/1YpEh7uQz.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--30119c60-5523-589a-9aab-b40d66f488ce",
+      "value": "http://dsrsmh.gob.pe/spool/tu/2L/epI1AYGG.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9e75b1f0-5c8b-52b5-9ffa-799954700b61",
+      "value": "http://edukamica.pe/spool/2hD/wv5/PHx/Pi4zXZK.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6d27514b-3480-5f93-acd8-a3755c63aad5",
+      "value": "http://emtimstore.com.ng/spool/e8/T3/YgTpSZaV.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7a2457b-6c6c-5a5b-b1b2-57fd0cf03ff7",
+      "value": "http://firsthandholding.com/spool/BxA/VRK/lq9/rb0zP2A.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7c7b34fe-43e0-5acd-a3ce-43bf49c3c8d9",
+      "value": "http://freecreditsc0re.com/spool/ucXzTYJPlR.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--59e49091-f39e-5b9a-920a-6f8f4a8eb03c",
+      "value": "http://freecreditsc0re.com/spool/Uk9/Bj8/3Cc/QbgdPXu.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7029003-2c50-508e-85b0-017af46575bc",
+      "value": "http://gohirer.co.uk/spool/o/1rlWdEt2b.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cefe933a-e068-56ff-95f3-f669dd8a50b3",
+      "value": "http://goldfundswealth.com/spool/z/ycgbTc0Ds.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c2ba71f3-a92b-517d-b011-5e069b7fa39f",
+      "value": "http://happyoccasions.co.ke/spool/L/Rm3GaF9eR.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--98ea89db-80ee-52e7-ac32-7479325228cd",
+      "value": "http://hurry2buy.in/spool/dmEa0tWJ7e.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--22afe982-2067-5d93-88d6-1c4dcb6199f2",
+      "value": "http://hurry2buy.in/spool/zvj/A67/UQO/YYbmu4n.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4aaf3b18-af87-5616-bb2c-491af75c0d00",
+      "value": "http://integramedassist.com/spool/9LL/gwi/X1l/jpEGAqP.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--572c5138-a2ce-531a-b492-d01c0242d12b",
+      "value": "http://jekola.webstarterz.com/spool/aD/Sd/Un2NQMDE.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--27918acc-22c8-58fc-9310-cc8fda1cad94",
+      "value": "http://matbenezerhotel.com/spool/nPA/Mhx/08e/GG3hMdf.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0157b84f-bc04-586b-9c1a-4897a4330da1",
+      "value": "http://naijapromusic.com/spool/OvjTtdT4FC.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--710f6ec3-c482-58a1-ba98-d96fe35fae4e",
+      "value": "http://nexlvl.co.in/spool/8/4kEy0oCYh.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7a5d39bc-9cf0-5490-af93-526bc61132e8",
+      "value": "http://passiveshabake.com/spool/nbB/iZ2/z0G/DKwo312.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--10db7fcf-98ec-5e19-a4d1-db6ed62dc49a",
+      "value": "http://perguz.com/spool/7L/L5/rFy88hSR.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1d72c776-b797-5565-8eda-3580cc0d1ed5",
+      "value": "http://prediksibona.website/spool/Z/4bD1lsfCB.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0d97fe06-a595-58f0-9d69-2d4b6bb25be4",
+      "value": "http://sbtech.mk/spool/Df/hU/TBpwBJLj.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7f9d0cc7-5f87-59b0-9bd9-106e4b00c13e",
+      "value": "http://sbtech.mk/spool/r/UqrDJYY7K.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fd1679e3-bd86-5af8-8402-a6cc35fc9f87",
+      "value": "http://wekyjanmobilerepairingshop.com/spool/D7srvNhqb6.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7b1231dc-3121-5e8e-9986-0c418559d0a6",
+      "value": "http://worldunitybank.com/spool/ets/LGs/1aj/X2iwbH6.zip",
+      "x_opencti_description": "Troj-Qakbot.csv"
+    }
+  ]
+}

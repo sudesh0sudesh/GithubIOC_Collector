@@ -1,0 +1,112 @@
+{
+  "type": "bundle",
+  "id": "bundle--02321f5f-41a7-4f7c-bf99-25e3c164b185",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c9f7a4f-015a-59a4-a493-2cb864672644",
+      "value": "ross.com",
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--218c85ad-0699-571a-a04d-844f03cd4d6e",
+      "hashes": {
+        "SHA-1": "ece521e38c5e9cbea53503eaef1a6ddd204583fa"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab68f0f3-7a56-55d8-ba97-255bb1dd534d",
+      "hashes": {
+        "SHA-1": "d00cb9a0ab2313ee74b931a2ff7783ff3c490dac"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e21cd8c0-098f-5d3c-8b8c-c0b2bee91199",
+      "hashes": {
+        "SHA-1": "61ed377e85d386a8dfee6b864bd85b0bfaa5af81"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbc0b948-aa4c-5a0c-aeb6-be329fe06b69",
+      "hashes": {
+        "SHA-1": "9b3a506c105d3b5ab4bd7549a8102a99ec3796cc"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6df9e25a-f863-575b-bfac-7748a3728483",
+      "hashes": {
+        "SHA-256": "33f79a64fee300f60541a96e2b0c4bcec3aac6f717dff52baa9da7ed803ed6f3"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b7e6f37-8c99-5d72-9823-2f25d7dd0060",
+      "hashes": {
+        "SHA-256": "56becf7125a1596e30f80befb986ae96e18da5be40cc3f78ac0c35ae7a4e17ae"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--278635ef-2279-5b9d-a651-5637bbedcee9",
+      "hashes": {
+        "SHA-256": "57afc0eac8b23d955b75585d5ca7b086a7e17df94b9cb276847ec1c5fe6b6c1a"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bf65e39-141b-5252-9a81-afe56ee68c7b",
+      "hashes": {
+        "SHA-256": "c054f6597665fccd18751a88d15488657ff19a286dbd4aac7ecb773b0df60c4d"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c2410c14-9f65-514f-938f-e57b149dda6e",
+      "hashes": {
+        "SHA-256": "db511ead013e21f51303dd4f6a856418f88d72a7f95c0b2ace0c3ba80866bdf6"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95ce2ec0-9d1a-5d28-93b8-3f5bdeb9ff62",
+      "hashes": {
+        "SHA-256": "57bc6b95ecea7e0ca34174f1190de1e9664408311c973866b853d24f41b0e760"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--78dd506c-b2e5-59c3-a3d2-0466808406d9",
+      "hashes": {
+        "SHA-256": "e00179c7bc76f90864f32275de183f76730cd4a99173c0b6fd6504afa02c8d55"
+      },
+      "x_opencti_description": "Android_C23-spyware.csv"
+    }
+  ]
+}

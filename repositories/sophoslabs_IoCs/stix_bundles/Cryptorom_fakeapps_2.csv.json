@@ -1,0 +1,115 @@
+{
+  "type": "bundle",
+  "id": "bundle--2afe440e-1225-4bb8-8a3e-38588fbac81f",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--35c021e8-0af9-56b9-bbda-8614a561fb8f",
+      "value": "https://apps.apple.com/us/app/bone-global/id6446169496,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c1eb1134-6388-5b12-b3a3-58dd8e7175fe",
+      "value": "https://apps.apple.com/US/app/berryx/id6444883215,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9c59dad9-63a8-580d-9ff4-7493d805ac39",
+      "value": "https://apps.apple.com/us/app/momclub/id6446796051,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--54b7aeab-fe56-5073-a8bd-9bc00a4649bc",
+      "value": "https://apps.apple.com/us/app/koproplus/id6447481214,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3b4b9fb9-cf68-503e-8bd2-2f261d2954b6",
+      "value": "https://apps.apple.com/us/app/clueeio/id6446766050,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1123cb8d-44c7-57c7-8701-687f46c989d7",
+      "value": "https://apps.apple.com/us/app/cmus/id6446474214,iOS",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6b576dc8-179b-59bd-9e5c-e1db4deb5857",
+      "value": "https://apps.apple.com/ph/app/nicaragua-bitcloud/id1669626299",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--48a143fe-26c0-559f-bcde-004c11944724",
+      "value": "https://apps.apple.com/ph/app/uou-pro/id6446106583",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d408007d-2834-5cfc-9eaa-7c51973defc3",
+      "value": "https://play.google.com/store/apps/details?id=plus.BoneGlobal",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d67df065-66aa-57ef-b1ce-a5836978a2f8",
+      "value": "coin.com",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b98d4628-1440-5283-951b-38342f4abfa2",
+      "value": "melnie.net",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d621957a-43f0-54ff-8e05-45f7ac0684ea",
+      "value": "coinclue.com",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7c82459-d372-529f-a164-6f082a8ed2ec",
+      "value": "koexchange.tw",
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--403c7404-2aea-5ccb-92f5-633c329c4a0e",
+      "hashes": {
+        "SHA-256": "c9a0338ba68e0bbbf06d1bd763e4f4d89a53cf3f0edffa7f0a270bcf459dbe87"
+      },
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22e9997a-6c92-5ae1-ac6d-080bfce171df",
+      "hashes": {
+        "SHA-256": "a712d7ccf54188ec2986a0d4ebe616d52a88624f8efb7f8e1230e54eda5b29ad"
+      },
+      "x_opencti_description": "Cryptorom_fakeapps_2.csv"
+    }
+  ]
+}

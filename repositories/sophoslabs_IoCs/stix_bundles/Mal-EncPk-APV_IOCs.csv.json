@@ -1,0 +1,165 @@
+{
+  "type": "bundle",
+  "id": "bundle--d22242dc-5fbf-4c95-88d3-084db2d41f37",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8ea87863-7cf1-53c7-b770-9c645973df5c",
+      "value": "21.1.3.190",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e35b2e00-77aa-5369-8cbc-1926a8179844",
+      "value": "2.2.0.1",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ad07ff94-7a71-5fbe-8b75-b8537b6e2712",
+      "value": "2.1.1.3",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f2d1b3cb-f9d8-55da-b802-79fd1965d580",
+      "value": "https://news.sophos.com/en-us/2021/06/17/vigilante-antipiracy-malware",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3141978-dff2-5766-8f0c-2104d972a9f5",
+      "value": "1flchier.com",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90f98ef8-093e-5d3e-8f3a-41dfa6149a68",
+      "hashes": {
+        "SHA-256": "c2d123f21ac2fe15d8fa52160d585e5e8a462131cfcb5d4843d5a57c0bdd9877"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45c7103f-d7f8-5ae5-8019-9c057a2cf3b7",
+      "hashes": {
+        "SHA-256": "f038e5112800e85863cde581916f245365ee9f50e2541f6eaebf0c5364ddf941"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad5d5b48-8f5c-557c-8913-f467573c76f5",
+      "hashes": {
+        "SHA-256": "3c4461c25826a3e28d6e5512df7936e0233636a2c223a36165f4a557936997ff"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3145385-878b-5513-b55b-3591d628c54b",
+      "hashes": {
+        "SHA-256": "562fc59ccebffe1d3cacb3d1595de19daf9c491797ef68a54259bf7adc0495f3"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0acd5a60-fa72-5f6e-bc56-85091e8680d6",
+      "hashes": {
+        "SHA-256": "ed030a7868a7221d00ab66ba395b6a699718c52c8c752fe3e7b9f21ae4a8ba85"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8f53158-473e-505c-98a7-1495252eea65",
+      "hashes": {
+        "SHA-256": "053bbe330a53d1185a1c94f062f67cac4a317d78909c026be31d413fe28a087b"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--32fa2296-b1dd-5f1e-b236-8feec2653929",
+      "hashes": {
+        "SHA-256": "02490797444bd8dfe45e3e604b168241ee099ec5e8906af863e5ed43b054cd9a"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0acd5a60-fa72-5f6e-bc56-85091e8680d6",
+      "hashes": {
+        "SHA-256": "ed030a7868a7221d00ab66ba395b6a699718c52c8c752fe3e7b9f21ae4a8ba85"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fdd51c3e-dced-5082-9773-41c46cc45ad7",
+      "hashes": {
+        "SHA-256": "91f52611bac57f78ac5274bc43237861b0cf2e3f8550f9a1de7f5cbef1d3b83f"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e58dc5aa-527d-55e5-ac82-04375d8e1c10",
+      "hashes": {
+        "SHA-256": "bd641f525bb195b8dccacd8c218ec98dfff82801cf4eee5320669d8c84e11c4e"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b91ce95f-563c-58ce-8ae0-065a9cdf1818",
+      "hashes": {
+        "SHA-256": "f8beb912038cbd43d151cedcd4c0e6d3ec463b64b30941da68419af868d267bb"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60a8121c-c302-5ad4-b0fc-a99d5df6a2dd",
+      "hashes": {
+        "SHA-256": "84F38AE6C2C3971DAB7ECE54E8F895F607A2F264A76691C52C521CD418A569C4"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41c803bc-d627-5205-9101-c72fee5d8755",
+      "hashes": {
+        "SHA-256": "fb66cfcbca8b3b2bba43affed0d34cb0bd4df4e44278be2f4c1690003dbc2e2c"
+      },
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f08cd9e-e006-5d0f-a7f6-d4027b0d4f16",
+      "value": "ProcessHacker.jpg",
+      "x_opencti_description": "Mal-EncPk-APV_IOCs.csv"
+    }
+  ]
+}

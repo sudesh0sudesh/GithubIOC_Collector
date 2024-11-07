@@ -1,0 +1,107 @@
+{
+  "type": "bundle",
+  "id": "bundle--f30403fe-7f6b-4423-b105-baf05f980bc2",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e1b5b828-3d0c-52e8-b10e-daa02a2581dd",
+      "value": "104.244.78.177",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e1b5b828-3d0c-52e8-b10e-daa02a2581dd",
+      "value": "104.244.78.177",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4b97e498-0671-5dd5-b19d-a0b65a0d4a56",
+      "value": "https://news.sophos.com/en-us/2021/12/21/attackers-test-cab-less-40444-exploit-in-a-dry-run",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f53eaf90-7985-524f-a728-edc1cb597b45",
+      "hashes": {
+        "SHA-256": "170eaccdac3c2d6e1777c38d61742ad531d6adbef3b8b031ebbbd6bc89b9add6"
+      },
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0f8b54a1-1c33-596b-8f97-1d34146f08ba",
+      "hashes": {
+        "SHA-256": "d346b50bf9df7db09363b9227874b8a3c4aafd6648d813e2c59c36b9b4c3fa72"
+      },
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--936ab8aa-1ce5-5197-939c-1d3f16775621",
+      "hashes": {
+        "SHA-256": "776df245d497af81c0e57fb7ef763c8b08a623ea044da9d79aa3b381192f70e2"
+      },
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7adef65-e155-5297-9812-d753e223ee39",
+      "hashes": {
+        "SHA-256": "95e03836d604737f092d5534e68216f7c3ef82f529b5980e3145266d42392a82"
+      },
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--298424dd-82ad-4f61-b707-2815a3feadd9",
+      "created": "2024-11-07T12:46:09.314146Z",
+      "modified": "2024-11-07T12:46:09.314146Z",
+      "name": "CVE-2021-40444",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f189f3fd-4ee4-530a-8f05-3543c8234b8a",
+      "value": "Profile.rar",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f5de64a9-86b6-52aa-a814-5d2e4ba58da5",
+      "value": "Document.docx",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f506cbb-32e9-5060-82a9-1d1c09751e68",
+      "value": "abb01.exe",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--563ff9c1-7e82-5097-bd88-087e724c79bf",
+      "value": "http://104.244.78.177/abb01.exe",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f506cbb-32e9-5060-82a9-1d1c09751e68",
+      "value": "abb01.exe",
+      "x_opencti_description": "Troj-DocDL-AEOL.csv"
+    }
+  ]
+}

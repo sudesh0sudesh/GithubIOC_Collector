@@ -1,0 +1,56 @@
+{
+  "type": "bundle",
+  "id": "bundle--071203ba-9825-4c2f-8588-6ad922dfc3aa",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63ec1b0f-1024-546b-bf3a-5c608168b021",
+      "hashes": {
+        "MD5": "713F088F02B060F6BBED3C243780E808"
+      },
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bd7a72d-bb1e-5c44-b538-0688cdf54861",
+      "hashes": {
+        "SHA-1": "74b0fbbb8cb42609eab31d7abcb05515a271e721"
+      },
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3a0a234-6058-50c6-83ef-7fad43a402a7",
+      "hashes": {
+        "SHA-1": "56e233cebc7f83b48b5cfc947bbbf8f274677305"
+      },
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91c4ab30-1c9d-56d1-be6b-8b9ba5f7b124",
+      "hashes": {
+        "SHA-1": "65fc7268778ff81d93b4f368bdb19899ce834998"
+      },
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94c16437-1100-58b5-a327-283121086bf3",
+      "value": "rkloadtest.bin",
+      "x_opencti_description": "Pacific_Rim_Under_The_Radar_IOCs.csv"
+    }
+  ]
+}

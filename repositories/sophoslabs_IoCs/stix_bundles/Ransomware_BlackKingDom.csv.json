@@ -1,0 +1,143 @@
+{
+  "type": "bundle",
+  "id": "bundle--5a4b5d04-7b58-45f6-ac31-4a32f40a9e7e",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bf651fdc-ca2e-58c5-8f3c-29fda8144480",
+      "value": "104.21.89.10",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b2ee6be-f77c-57b0-84b4-ebd1efc0dcdd",
+      "value": "172.64.80.0",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b2f17081-e656-5ec2-9f21-1fa30393b7ba",
+      "value": "185.220.101.204",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b764176-b1aa-512e-be62-4dfb36d53f2a",
+      "value": "185.220.101.216",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e816978e-b64b-5277-bd54-26c63851c897",
+      "value": "https://news.sophos.com/en-us/2021/03/23/black-kingdom",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1e5af9d3-2aaa-5e1b-8a57-22b8551db1b0",
+      "value": "yuuuuu44.com",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a65f1673-fc1a-5729-9561-2f42176141a1",
+      "hashes": {
+        "SHA-256": "b9dbdf11da3630f464b8daace88e11c374a642e5082850e9f10a1b09d69ff04f"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27c0e6eb-0c0b-5f40-a92c-d87986eb92c1",
+      "hashes": {
+        "SHA-256": "c4aa94c73a50b2deca0401f97e4202337e522be3df629b3ef91e706488b64908"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31f31655-19c2-5624-b1b7-2e3b41c783f0",
+      "hashes": {
+        "SHA-256": "a387c3c5776ee1b61018eeb3408fa7fa7490915146078d65b95621315e8b4287"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d27897d-af46-510e-923c-8d9cc78efba6",
+      "hashes": {
+        "SHA-256": "815d7f9d732c4d1a70cec05433b8d4de75cba1ca9caabbbe4b8cde3f176cc670"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--294fc221-7224-5666-aa62-26458a5bc4fb",
+      "hashes": {
+        "SHA-256": "910fbfa8ef4ad7183c1b5bdd3c9fd1380e617ca0042b428873c48f71ddc857db"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad745932-79c9-5261-b818-a7532838b45e",
+      "hashes": {
+        "SHA-256": "866b1f5c5edd9f01c5ba84d02e94ae7c1f9b2196af380eed1917e8fc21acbbdc"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b8078ce-ea36-512c-8df1-9ec54b664dbb",
+      "hashes": {
+        "SHA-256": "c25a5c14269c990c94a4a20443c4eb266318200e4d7927c163e0eaec4ede780a"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--605a788e-2f03-57ad-99ba-7f992843eb54",
+      "hashes": {
+        "SHA-256": "62615438CF8F7DE6600D16A493C28BBBD3B052CCC4F9414DFE1CF031681E226F"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b16bf7f2-6568-5e69-8266-91b9ae6274d5",
+      "hashes": {
+        "SHA-256": "800E036CF9DA316193BECABC6ACE688634709CD898AE81893E80B635DCAA06D0"
+      },
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bfb6ad7-5a0c-54c0-8a24-f801432add4c",
+      "value": "ChackPassPL.aspx",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab11fcdc-91b6-5868-8be7-30a137eb292b",
+      "value": "ChackIdIO.aspx",
+      "x_opencti_description": "Ransomware_BlackKingDom.csv"
+    }
+  ]
+}

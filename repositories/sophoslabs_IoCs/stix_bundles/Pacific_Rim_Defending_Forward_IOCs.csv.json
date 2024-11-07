@@ -1,0 +1,57 @@
+{
+  "type": "bundle",
+  "id": "bundle--542de821-6deb-4f2b-a9f4-dcd6304b0e8f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e96d73d0-e03c-5aaf-8704-1c2ee72dbb65",
+      "value": "59.188.69.231",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e96d73d0-e03c-5aaf-8704-1c2ee72dbb65",
+      "value": "59.188.69.231",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e96d73d0-e03c-5aaf-8704-1c2ee72dbb65",
+      "value": "59.188.69.231",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--77390d02-982c-5f47-abed-214039d7a969",
+      "value": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e167112e-457a-5c5f-9aa1-69a25aecbd19",
+      "value": "libxselinux.so",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e167112e-457a-5c5f-9aa1-69a25aecbd19",
+      "value": "libxselinux.so",
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a2d7072-a445-514a-8308-f8d9b8f7d390",
+      "hashes": {
+        "SHA-1": "62b690d29808f701b7e30291734a66d78c9cff39"
+      },
+      "x_opencti_description": "Pacific_Rim_Defending_Forward_IOCs.csv"
+    }
+  ]
+}

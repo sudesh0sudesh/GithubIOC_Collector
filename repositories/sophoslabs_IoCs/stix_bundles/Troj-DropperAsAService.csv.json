@@ -1,0 +1,5171 @@
+{
+  "type": "bundle",
+  "id": "bundle--2fa234cc-a970-4e0e-ad19-e13225303b5b",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--131b8ab8-2356-546a-af5b-962db8ff9369",
+      "value": "54.215.244.207",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--22f9c56d-d353-503d-a56a-1eae92074ebf",
+      "value": "13.239.63.240",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3672f80c-1cc6-5aa1-be4e-0d972d23bfaa",
+      "value": "34.212.198.30",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--39f5fb2d-ffc8-585f-bc45-a38be1fc4c9c",
+      "value": "34.210.186.92",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--28f7752e-de81-5f7a-8f09-1f6ca18db5f4",
+      "value": "34.244.129.177",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--28f7752e-de81-5f7a-8f09-1f6ca18db5f4",
+      "value": "34.244.129.177",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--402e5957-d843-53f7-a7e8-42844db959c5",
+      "value": "54.246.133.187",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f46fd10c-6fff-5e51-bb62-5958a2e1dd14",
+      "value": "18.190.148.98",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f46fd10c-6fff-5e51-bb62-5958a2e1dd14",
+      "value": "18.190.148.98",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--544ccca9-ff13-51e0-a957-5d430b69e171",
+      "value": "3.143.56.216",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0e1a8d17-cf4f-542d-a3b6-d9aa3cfa31de",
+      "value": "3.250.55.204",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e21bceba-1e3b-5b71-bf29-2bb85cafff5e",
+      "value": "34.238.49.147",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fb7c7c01-e317-55d6-bf11-3a0d69c04914",
+      "value": "52.14.149.0",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--227ac8f2-a261-5e66-9349-1224f682d15a",
+      "value": "52.87.38.242",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2cbd9cfc-0216-571a-b975-6fba40b8d7c2",
+      "value": "54.197.205.56",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6aef4847-a340-56dc-b30c-fbf9ab31324a",
+      "value": "54.216.150.57",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9bf9852b-a4d0-5674-88e0-8c6264b1c916",
+      "value": "54.72.8.116",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6611c895-4ab0-5677-9f79-dc0667ae1526",
+      "value": "54.81.249.185",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f46fd10c-6fff-5e51-bb62-5958a2e1dd14",
+      "value": "18.190.148.98",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5a27dd04-4ded-5139-80a5-e8fea019ffac",
+      "value": "https://news.sophos.com/en-us/2021/09/01/fake-pirated-software-sites-serve-up-malware-droppers-as-a-service",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84cc401f-231d-5d21-9f9e-9c940d20531e",
+      "value": "centomor.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3452a11e-9f9a-5531-9664-3656455a8ed2",
+      "value": "crackfury.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6982e473-8685-5012-aa8b-6969e927f7ae",
+      "value": "cracknew.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df7b9084-eee9-5db0-b7ec-bbff57b6b95b",
+      "value": "cyberspc.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa157c4c-88f9-58ea-b9cb-51e3e9ca92ff",
+      "value": "deferor2z.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7adfd327-7f33-50ec-9187-4471401fa4d4",
+      "value": "dolihost.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e367792a-49a2-5457-82fc-22f8049aaf1b",
+      "value": "earth00.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f90c2760-df97-5c5b-bcc1-a37e63f9667c",
+      "value": "eroxyhost.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f58826c6-9625-5b25-8b18-b84b2d40cb2a",
+      "value": "excrack.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bbef9285-3b89-5ae6-96fb-6a3e3fb99839",
+      "value": "freewarefiles.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ff5f216-7685-5d61-b111-a20673f44c41",
+      "value": "frommost8z.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c367428-1b05-525b-b8fb-82362c8b2a44",
+      "value": "fulproductkey.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b7b5ad3-8081-5d6a-bd31-f04b8300e1f4",
+      "value": "between3z.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3da2aa33-a1ea-5ee4-84a2-3b3a1275ef99",
+      "value": "imy4host.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c37285-5e1a-59c8-959a-834c5219b70d",
+      "value": "infringem2ent.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00ae9cea-1c98-5e0b-8c91-c39c99b50e32",
+      "value": "interacti3ve.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f7972a6-3032-5e5e-8885-396a134f15ee",
+      "value": "introductioel.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--448b2c6b-562c-5178-9002-bdba7c5384d0",
+      "value": "iswhy3z.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abebef28-8948-5844-aec0-1af4c4d12c8f",
+      "value": "ksergyale.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d25e957-5ae2-5b85-b43c-0ea9c8f830fd",
+      "value": "lectroniccomb.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05ed57c5-ef89-5f21-9685-5fcce3bb6d9a",
+      "value": "letcracks.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0469580-acbd-5e75-9c15-de84aecf5438",
+      "value": "linkforge.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0566aa9b-dc52-5b53-a44e-500d349e3f2c",
+      "value": "lp2soza865.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8eb10936-7127-5e98-b232-007583c3409a",
+      "value": "microcodez.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59336ef3-dd7c-571d-8fce-157562105146",
+      "value": "msitsbehe.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94e6b0db-142e-5bac-8ee4-181c01bfa7d1",
+      "value": "mybravo.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e365584-7725-5b33-a33b-1f508f515bb3",
+      "value": "newactivators.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60fd97c1-5fc2-56b6-8045-b6c68f821a4e",
+      "value": "pccrackbox.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17f1496f-eedf-5a79-ba6b-dfccf7f0bc43",
+      "value": "pclicensekeys.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9bb9a41b-1bdc-57d1-9eb0-c6ced7eb9aad",
+      "value": "pcwarezbox.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8709619a-9b09-5aa8-8cc4-86fe9df88df9",
+      "value": "perpetua9ted.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f898cb4b-49ab-5513-9592-f033adda64a3",
+      "value": "portabledownloads.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee4ba7a4-392a-5f70-9a2d-911db76e07ed",
+      "value": "procrackerz.org",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--528b46ac-34c7-513e-b7b8-7db0ee5cc828",
+      "value": "host.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef52b36b-a202-55f9-ae01-d7389f131d3a",
+      "value": "removed8.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60be40f5-4b62-53be-af66-ffb245bef325",
+      "value": "rereferrme.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9301aa8e-276f-52f9-9476-bcce1a7ea9db",
+      "value": "ridzfilez.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--343a33f5-6c42-5cb3-ba18-ac884c4b09de",
+      "value": "servewfr.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--657649f7-92b6-56c3-9d47-53cb14e4aad8",
+      "value": "shrinkearn.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6fa006f-ce71-54c7-be3c-a9d819a6202e",
+      "value": "sincethe9s.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c68d8b4d-3ea0-5365-b3e2-86575cec9ea2",
+      "value": "sometimez.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a2dd82c-58d0-5ea1-be9d-e54c037e556e",
+      "value": "tersareu.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e894b69-49e7-5b85-b433-2e4fd1d651d0",
+      "value": "ttencomputterl.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--928fe7cf-b8a6-53e5-8763-bdb8630e67a7",
+      "value": "ueyctgve.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88976b32-d65d-510a-b563-8188eaa56c31",
+      "value": "undesirablez.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88976b32-d65d-510a-b563-8188eaa56c31",
+      "value": "undesirablez.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf658c0d-2f5c-53de-9846-50d251296a10",
+      "value": "werenot3.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5c0fa10-b989-5699-bc5c-75b3798674b0",
+      "value": "ybittrhost.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4b47094-e2d0-59d0-b8ca-377040ff6872",
+      "value": "zjnetdownloads.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6332821-b042-5e23-96ef-ec4c250d9c81",
+      "value": "lp2wuza636.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--86875db9-c569-5eee-adfd-125df52fb006",
+      "value": "landing2.installusa.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e018da53-5ee7-506f-99cf-b4d8acab5654",
+      "value": "mswetshop.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c41a16f3-1c8b-592b-91c4-bfa2efd9a459",
+      "value": "ybybfkegs.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--994ad3ab-7f15-5bd4-bd13-123de7cd9cfc",
+      "value": "mozense.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa69bc6d-3710-5b88-a1aa-1c26a2cbb91c",
+      "value": "hokimxen.xyz",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--735b2fcb-bbae-59e4-a3e3-08c6e6921626",
+      "value": "procrackserial.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e068813-d32e-5477-93d7-4a21215f24ae",
+      "value": "freeprocrack.co",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc444345-a5c8-54f7-8c3d-7d1afcfdccbe",
+      "value": "licensecrack.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bcd00b8-960a-5434-96ec-32d044384fb9",
+      "value": "xproductkey.co",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f348a20f-c534-55ca-bf24-2e25f3710da1",
+      "value": "piratpc.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cdde94f-2711-5be7-adbd-bc3a5de71357",
+      "value": "workingkeys.org",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0941b442-2926-5f1f-8500-140511ac9521",
+      "value": "up4pc.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--34b7f996-183c-5429-a879-2645986f7159",
+      "value": "te.ai",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd830467-eb1d-57b4-a6a9-9ea53537350b",
+      "value": "serialkeygenpro.com",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3146269-446f-5953-8ce1-f20830df1db8",
+      "value": "fullversionsoft.info",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7ab2d74-2734-5b9b-a99b-a849e1a75c71",
+      "hashes": {
+        "SHA-1": "82ee489d3988ba03240f9ac40f31789f15ad9fd2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86b8d0e3-38ad-5f14-810f-0cfc5bea9d32",
+      "hashes": {
+        "SHA-256": "600ea1abaa16659aae44009d24e46dc89c0770449b1328682a3b57f7932166ea"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--386326ee-ed33-5aa6-a588-1f9b411eea2d",
+      "hashes": {
+        "SHA-256": "4fa9e9395c8f1f78681869aacec7c2ec821b83cb49c0fc56d644460d61c73173"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--445f61e9-c930-5af0-8012-6e6a1e80e424",
+      "hashes": {
+        "SHA-256": "862eaba7cd911878d8ec5704ad840f48baf53b50784d2017802ac5e05df68f11"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--594bbde6-0fb6-51da-a64b-f3b628615d03",
+      "hashes": {
+        "SHA-256": "c0f729e6637aaa7736f6df43a988b6288e0584d833346709fe22a35e68213e44"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2567a6f9-7a47-50f3-8d8f-e16708bfe284",
+      "hashes": {
+        "SHA-256": "106710bfd2950867bc67163153a88d0a7764bb56e8ccdb53654327863d336462"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf445d31-d5a9-5867-b61d-4f2e02cd901c",
+      "hashes": {
+        "SHA-256": "a7b8c85f70301311f1ae3a8927105903b3c297fea319ac529cba263f18a05de1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--277b5758-a006-5663-9c96-32a413283e07",
+      "hashes": {
+        "SHA-256": "e3450125ec1d7c6c8f5017cc6e5837ffbced84ca7ffaf9775c7ee56d3045df55"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e424f55-7a2d-5de1-8b34-3c0200b0297c",
+      "hashes": {
+        "SHA-256": "418f3e3d1379211e04fac1794a8e19c494c21ee15956ebe0bb581b0d4d470aac"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a299ae08-000c-598a-be3f-ef59a2898ef0",
+      "hashes": {
+        "SHA-256": "4bb56b580e9a2085c34c4ba9dcf7568337f121efd6f9d295b84d0fda46adbae4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e956c5df-f44e-56f9-a355-1d6ded36b919",
+      "hashes": {
+        "SHA-256": "fc02d11d3ad26557b5727ee35f5116100c98fc81d048e8399fa237e33ffd677c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--247880b1-6993-5aca-aa15-80168ff87d67",
+      "hashes": {
+        "SHA-256": "8684c30800252657926078587a5c18e554737de320253b33cb61b00e336ab394"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e57e5aa-baf7-5968-b31f-767290ea7e0b",
+      "hashes": {
+        "SHA-256": "95ce97698da5ffe58ce5edf65ad9aaaee7d2eee2c4f2f3afd72fbfcda9a3f01c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a60cf643-c48f-5748-b70a-bd0328aa02af",
+      "hashes": {
+        "SHA-256": "682d2a0b114e1c08b77db31c0632a182ae570db067b5f9130eded2b79538061f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3785e4d8-adc1-58e2-ac48-f3e50692306e",
+      "hashes": {
+        "SHA-256": "083c10fc16c4e1fa4844dfd6d439b9d00437f8e75b92bf4acec3f6cb91443b70"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4ff3bda-04fd-5d0e-8abc-e500eab54b27",
+      "hashes": {
+        "SHA-256": "37d902971dd7fe73e353927a232303d4d8a90398e4a565d9428c168b3b77a39b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f29d6339-6387-5421-81d3-d75f3f68955d",
+      "hashes": {
+        "SHA-256": "7c76d3a0b46b68e4a788ce346ad1dc196cb37333995b29b18d8fe77dc67b5530"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--68986c03-fe40-54ef-b4b5-b425789a4064",
+      "hashes": {
+        "SHA-256": "397d4444a2430942216449364c5b35b16338ce9f59bd5691177017c69bbf0924"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a9196e1-8c8b-5a9d-89d4-06043652d357",
+      "hashes": {
+        "SHA-256": "91bbdd647dbe8b05afe52ba9e90139295ca1d43c5af53a40fde16fef50c9e4c1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59286021-9d3a-5797-a669-5d0841d9342d",
+      "hashes": {
+        "SHA-256": "45c0ab995a1ba4aa4921f1a41f55c75494b4281454bc8441ce49e55455d3b205"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b5bfb64-5fa2-5264-aca4-e2225e8d1562",
+      "hashes": {
+        "SHA-256": "1623236990ed2e2903beefd41cf76a518f037974f3393d3c5d4654c1d643422b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc952afb-2075-515f-b2c5-956799de7dce",
+      "hashes": {
+        "SHA-256": "4d993cd35e2ae97c6f4c09e6c89f41821e772ec7e0080c78781b28c17f7640c6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ef6c1f7-0d35-5de2-a34f-67e03c2400db",
+      "hashes": {
+        "SHA-256": "028f431d90525ce6fbe182afe4c15768def13031c8b98b39a19663018aedfeb1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1187a0c3-0eda-55cd-bf10-30d447cf1b1e",
+      "hashes": {
+        "SHA-256": "c4bd0dd42c0680c0e7dc8f6ed684b695cab2debcea2e7bdc0c854cadfdadb6ea"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--646f60fd-8620-574c-a618-915341c40963",
+      "hashes": {
+        "SHA-256": "4af64d454f84617d128620c79bac25e216b1eff0dec53121a3f6389b1af90fd4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a6f83fa-3203-5a4a-b28a-5c665cbd9d37",
+      "hashes": {
+        "SHA-256": "e90ddd2d5ffbeb28c550d5fc2d9383bdc35b41e6537ced62c0f237b38373f869"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8dcc233-81c3-5493-b686-fe710d91c8c1",
+      "hashes": {
+        "SHA-256": "025a3bb7724e33e6472d478a4171d13dc269d47c5543e0db81790fbd770922ef"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--14f5f3fd-c706-5d55-9d7c-d327f4cb492e",
+      "hashes": {
+        "SHA-256": "913fbb54f9e033f65e9ba83468817a3e55670003cdc9ebe896fb5cbe20aee514"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b67b72aa-05f5-5960-a9ce-c8051a2b64cb",
+      "hashes": {
+        "SHA-256": "f66187db6174f014fe24a6a2a0051bd6aca8f82ea98ee20b4ac700dbbf426dcf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e622768e-3858-59b8-b267-d6a1beee3208",
+      "hashes": {
+        "SHA-256": "5a438b652fbccc8e10388c1f83fe4868acff3523a46c3b84fe28f024bab1cd31"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b21d783-1087-54fd-8dc1-967bdd98c1c9",
+      "hashes": {
+        "SHA-256": "c6713571b57404e2d0247eb1d8946d61a664f7833a3be54f986931de26846acc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3cd11af-f6c8-5630-994f-dd9dc68434e2",
+      "hashes": {
+        "SHA-256": "c7972b077cf8b0b9e5f83e24f3f9ceb905d6a11b752fdf2191d4a25da0c40e21"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb6957a5-a7c6-5c42-8d40-c531cdaba867",
+      "hashes": {
+        "SHA-256": "acad18c619047e794e5a9234a3d7e2c44ad763810d6bb63f411d895bc9d8556e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e8e0ef7-f83b-5b3e-a718-2a580399a161",
+      "hashes": {
+        "SHA-256": "59a2683b79705c25bda7e82377da3df73a70f84b45cc2bb73e4086b1a5d82910"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee466534-83e1-5bbc-a482-667fbd23cd11",
+      "hashes": {
+        "SHA-256": "7c244a1599e22ecce1b549b70a70c09d68456ba899af8f03ce56bb2fda9ca1f8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8599394a-0ba6-562d-91b6-b097be064fb0",
+      "hashes": {
+        "SHA-256": "57d964ad27948b3152437ac673c86cb64eb59860287db761767c931d0bd5fded"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff62c26c-a40b-503f-8589-0c688c2abc72",
+      "hashes": {
+        "SHA-256": "581c23485561406e7849edd1e7c0b2de44047886d56553375223c25b4987cc56"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b9bbd3d-f79e-50c7-85b7-7ebf12b9278d",
+      "hashes": {
+        "SHA-256": "412189b01ff9a4255866eb9ffc300105c2803f287bb352afea69d607e912c474"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12a5a2bc-be06-5622-b76d-85a8c11264a2",
+      "hashes": {
+        "SHA-256": "2bb41b698af98dedc276c0fa8ed4c47df6e173e5af37e5c8b6a93fec7937b615"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--08a6f953-7e6f-5105-ad66-9945e884a6f6",
+      "hashes": {
+        "SHA-256": "dfebfae6c1a54bafe17feebbc1ef859f609520407d06746132c7ddc1defd123e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99792de7-6738-5d27-9fb3-d5a2bc8f1b6c",
+      "hashes": {
+        "SHA-256": "11f8a554b74d566280a880bb7423d55b52776317940bdb4095cdf33862336b95"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d3fa343-a003-5e77-b600-4744cb73bc9c",
+      "hashes": {
+        "SHA-256": "664cf3467af716cf530a70abe748a07658f2f832684464fdda33a404f53b3ddf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6276294b-5e25-5ee7-a23b-75655b96a044",
+      "hashes": {
+        "SHA-256": "d07b02d5ca2bb9b15ed63f1cad22cf58ee1728cbdebeeee4e32584f3713f9175"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd298e72-2d85-5f27-a92a-45c91c33f1a6",
+      "hashes": {
+        "SHA-256": "6f7fa39d7fb32fd26d633292d618bb6c613f806c71651b2a2dc75a4188ca3ae6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb97a127-d8e2-5308-aacb-d3b5b60fbb33",
+      "hashes": {
+        "SHA-256": "d83d6991e50c19a705cb3fbdb5fe520b33235106d72383f141534531286ef35d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6866e8d2-3ff2-57bb-bced-bd46dafb9997",
+      "hashes": {
+        "SHA-256": "30d0c5af34ea36baec7125a8616acf474ec1779f0609ae640762fb5fb5dcdada"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7bd99d9-4597-5c8d-a65c-a7c131d1471e",
+      "hashes": {
+        "SHA-256": "6dacc38c6e886e352029008c27c73615b555dac86caae941c72870f23bda81e3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa244dca-ce6e-57d7-91fd-8cdc1ad70a31",
+      "hashes": {
+        "SHA-256": "d2823235f53d110cae217b740dcba2f0d41f39f2d5abea5bef85aacdbfc8cb18"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b83ec263-765d-5335-9a67-d431f85ebb77",
+      "hashes": {
+        "SHA-256": "cdb60a6180721a02859ba2c164b8bf6f2c0b7feebdcf99543c2e8133d6ff6e64"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65493366-2049-5a18-b514-0340c454ffec",
+      "hashes": {
+        "SHA-256": "90aacbe81c4d7cf3257739a5a6aba5514f23ed4e8efa47fc88e21701479d0b25"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb574bd2-8c6d-5a66-8741-96aff0455a56",
+      "hashes": {
+        "SHA-256": "a4795eb239515b77318b9965608fc80c7cbad5f7c38f627862fa5b58a1163325"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ef6d974-6c35-57f9-86b0-06316506bf5d",
+      "hashes": {
+        "SHA-256": "a95c10987ca9022d6d0e5060fcb3b3c12b68f4af964b52b4fe9556264565c0c8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd70e573-d133-5ba1-a644-eca0088e69e6",
+      "hashes": {
+        "SHA-256": "cf023c62c120b809ab20f39913d636a4c019b67e8abb000e79a77343802d6b9f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f32ef763-fbfe-56dd-a41d-16bf5645ab70",
+      "hashes": {
+        "SHA-256": "830fad17db95300a0ac51812888667ac1adfe600cfd9984879ee2df436bf0992"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--791e9817-cf95-5471-a186-e0dc86a5b370",
+      "hashes": {
+        "SHA-256": "7705c00e1f007cdce2cf208f1a47d4d91a50ff841673ef33b485e6d0cf022e96"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--295f2505-1b7b-5be9-b0e0-5ae81d5e4d5c",
+      "hashes": {
+        "SHA-256": "3cae312dfc83083dbf17247f0f5f38d57842968fd0a736e01ba9967391c24458"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0f9c7b60-8a22-556f-95cc-bf0863c43b77",
+      "hashes": {
+        "SHA-256": "a01fcb87356b18f39050e5a46916eaaaeec3807dc14b2276b2cfadc9683e3491"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8537330-b9e1-54fc-b278-bb5829574751",
+      "hashes": {
+        "SHA-256": "b1e46392e333398b486592dab8150bf79e24e9d47101444a7149b364fa654f66"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8512c3e-0236-595c-bd76-79e011f97f21",
+      "hashes": {
+        "SHA-256": "b3f88c64aed27d15877d31356124cb1ef01193f3e1da7903375f8f159f9f5bd8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--184914b7-0c94-58d5-8bef-72b3ac8c019e",
+      "hashes": {
+        "SHA-256": "4f0944758ad9902270d7171ccb57b77ac3b1af01bde45ba0a1f7a67adba17c43"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a05f29a-677b-5f97-abde-c7ea7867c3b9",
+      "hashes": {
+        "SHA-256": "95bd36283b8d39aea4ac61019cf2aab83f4ee538214791617272e87ab6d1191f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28a9975c-ab19-5754-a7a1-421d294b7b2c",
+      "hashes": {
+        "SHA-256": "59a9c18c73ddc7844a8650a8331a227ecb2e2c4901b8c050ce5588ff80e15637"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c632cc04-d366-54cb-9981-26a9b099dfea",
+      "hashes": {
+        "SHA-256": "83298bbf59ea6ba1c072f84a9cd5fab02fdff23b8f177e3ac341bba5148561db"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bce974cc-4e66-5d36-b6ec-99d051118652",
+      "hashes": {
+        "SHA-256": "364eeb13ae62bc7bb6097b1000aeffdc1406211ad8c447fb401084b96128cdb4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c040e72-caeb-538e-91af-73b060b4a076",
+      "hashes": {
+        "SHA-256": "e132ccb48c3cece045aad4f160691043a85c15e139aed0de67408e9da11f8204"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fadb784f-9025-5426-9eab-27ea10ae107b",
+      "hashes": {
+        "SHA-256": "58f9013d82e1038e83ad5da86b82fa382c1bbe7cceab033551a1f5d6bc544290"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1745b231-2a2d-5f00-bd69-d6955cda74f9",
+      "hashes": {
+        "SHA-256": "d1c14665a3831512726466a6baedf86737206ab9dcaac95ad70c1d04c01dd676"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--678ec18c-1c39-5ba2-9832-fffbbf37596b",
+      "hashes": {
+        "SHA-256": "dabbd2ee0cd1211ee55e84100886f81fd9c8689cf633785521a3e3928b588020"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06d12095-9960-5c39-ad78-8a6fe219dc11",
+      "hashes": {
+        "SHA-256": "462285c116afa168d7b551c7c4c8fefb5dadd36946b43ea58002cda3ea83c0ec"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb5170bd-0739-593b-8c36-f716e05cab9f",
+      "hashes": {
+        "SHA-256": "00a45a2b009a2bb406640ee8a47cbc6186fe1b749f287317a1cb60c9d058f4cf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--550c9744-18be-5eab-a4ca-a1a6b877c959",
+      "hashes": {
+        "SHA-256": "7cd82c17bc78a8b81c26cc22881e2cd30b8b22fb002d8d17d8c99ebbcd319b18"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d425300-1f90-5360-a8e5-9911f89edbf5",
+      "hashes": {
+        "SHA-256": "a40b4fb949d27de70e375573e0a54aa059cbaababce4d0a08746844afaaa9bde"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f2d7810-b310-5b1e-a21f-44a24a4ea4c6",
+      "hashes": {
+        "SHA-256": "d6f6bdea854c7b0005a2d720f77eb5b451eaf930e328d75477bb4a591f7cd574"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5db0252d-2101-5506-9340-acea7c329d60",
+      "hashes": {
+        "SHA-256": "bca72be5dc6527affba4c2f4068cfd80ae8d3dee342d0fde58dd9e44f4d8cf70"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4446d104-fa29-5695-b28f-8a6b7043e7cd",
+      "hashes": {
+        "SHA-256": "2d11dff715d950fe083eb714e8814f841ee62bedc9daaaa5f014fd2648897241"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e61a4c8-4ac3-51a5-9908-261583f54a33",
+      "hashes": {
+        "SHA-256": "525690c331ea9ba342cb60765f883e970b1319cb5231a31422be6b2f1f9ea40e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ac07e48-ba63-579e-a324-9d859224c189",
+      "hashes": {
+        "SHA-256": "d96c1d4cd11fc1270062e3c98efbdccdb3cf87cb88d5a79c8393435b32e478ef"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e9d93f2-d5e3-55e6-bada-345544bf45ae",
+      "hashes": {
+        "SHA-256": "e5b20d00a73b9f2dcd87a3d66fe0f20b40437788b419467c7956d5e1f19f8dba"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b47e5b3-c040-538f-81a4-d7eea6c7b003",
+      "hashes": {
+        "SHA-256": "92cee8085d226c97cf28f47a5cebaae81631b6fe2c3ec4fc2337563ae8f85450"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02b112cd-1e04-5db7-9945-6bcf03e2c930",
+      "hashes": {
+        "SHA-256": "d235fbbbe8a782c3d48793d237383143c4522e9a576d7da34eeab03fa38ec8f8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff337de2-a428-55c3-84fd-4053cd3e0512",
+      "hashes": {
+        "SHA-256": "54ed13d754954300d99590567dc555d34583fdad667bf4a8adaf63b59d12c036"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--827066d2-554b-5871-998b-c3ee805dd63b",
+      "hashes": {
+        "SHA-256": "797dbb3176d8e6fea332f9e18f3f76fd9edcdf7b2e1aa43f9fe7b6459ee2fa41"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52a59e2b-dbf8-5006-a19a-7d1f679d57fe",
+      "hashes": {
+        "SHA-256": "51b7d4ddd3a3603efba7bbd9dcdae154f65c2e4c2c48fae0b519419b602e2811"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b3f6ca2-cbc9-59d1-8330-8c63698fcb1a",
+      "hashes": {
+        "SHA-256": "fceab48b9e2138aa2bf3b33bc50044b0ac1907842116d991d65a20bd89c0b17e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e049a9a8-ec9b-5ad4-9a65-cd74ac1b3e6f",
+      "hashes": {
+        "SHA-256": "ea23ad45a647d1ddd0585a7cf12f71fa97d8f937215866e23b5f4b2c55a436a8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7103324a-3e33-5b8f-8633-19a51fac282a",
+      "hashes": {
+        "SHA-256": "54a9acb5227ad18e2a3c21de6ac4de20e6f8fdb93358abcd440affe48c103dfe"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8be17957-8200-5c0f-af2e-ad88a9fd18b8",
+      "hashes": {
+        "SHA-256": "f46b5c0d55df211343fd602a4b4da2dec5659268fb0d7bbfd10ed6a1d42756e0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59c02cac-269a-5d77-9ddd-2212524d90c9",
+      "hashes": {
+        "SHA-256": "9da7570bb6b4b976b3dab4738c4658a93de87f8a96bce238d041195748ad2624"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc83cd53-1e3f-50dc-84e3-ca0f89c8aa62",
+      "hashes": {
+        "SHA-256": "6c494901aff6674c257ba848637fc997c7423ca99784d3ef86f3331185e5c6ca"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d321c38a-eb2a-5695-8630-648f55978635",
+      "hashes": {
+        "SHA-256": "cedaa1b285ca039378094420b5bd1dc0b797e83bb9129820c2535c23ea5b2858"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--85310224-a9fb-5884-ae30-1be498460747",
+      "hashes": {
+        "SHA-256": "b402a4c1006a06cacef05e36b420535e73ef0e0a1812da33776eb27910ed566d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aad625fb-a4ae-5374-ac80-e49568d5ebb4",
+      "hashes": {
+        "SHA-256": "7fbd9860be39f7ea15c41d69dd45c5a3f9bd5e8dac363607f9c72d4b0cc05618"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb574bd2-8c6d-5a66-8741-96aff0455a56",
+      "hashes": {
+        "SHA-256": "a4795eb239515b77318b9965608fc80c7cbad5f7c38f627862fa5b58a1163325"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64869361-2f88-5bb7-8a30-bdc6ab56e948",
+      "hashes": {
+        "SHA-256": "e2187c055c20cfb6815e3bd95c4309b1a7f038c1c5a2bfc5b9c1e80e8c05e44f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b63068d-5af5-5c2b-b9f6-eabf8022d6ed",
+      "hashes": {
+        "SHA-256": "de3082295b48ee18c888287ba3067edca48b199377369e6a615861d1e8401191"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3fcffa3-dbf3-5c31-aa62-039e4b820933",
+      "hashes": {
+        "SHA-256": "39e9d9e3bbade526b5a51845d4bd4255e8ae3272a90ecd0acb7013aaf36bdf1f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c9054eb-31ac-5299-b058-2fb320c7d344",
+      "hashes": {
+        "SHA-256": "1f46fed1f570b861fa6ac4a0dec2aa4c36d3a518edc9684f430c0eac3ef312fc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--193e257d-2bb9-5b12-a61b-bf6966ac87f0",
+      "hashes": {
+        "SHA-256": "ee4843e1a27eafbc736e10a80d70125d42bb10e6e91235c10760e12d372e7e65"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2798ef0c-dd13-5b6c-a080-993c042eafb5",
+      "hashes": {
+        "SHA-256": "3f66db5af09f12bc68c71c9defecf852b56db4a1ab262119fc602006514bfe1f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--48220ddb-6b8b-5897-9fc3-9dbdbef8f3a6",
+      "hashes": {
+        "SHA-256": "867c5cafd81072268ad6ad83ba1812dbf176388930d139c7bc6bed2465aa415a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bff6379d-83a4-50be-9176-5a340ed4991f",
+      "hashes": {
+        "SHA-256": "caa350129c2d0ca200dead2ad621e8c91115315ba81f55e9a28a23139f4f6973"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5264dab-6937-558a-a255-87507afa791d",
+      "hashes": {
+        "SHA-256": "1cd107a7b35d9c81fd7c7eaae81dedd87a44f3428045561d7ac17c776c9d14dd"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f3e9ddb8-d622-530b-8331-d2871d979e5c",
+      "hashes": {
+        "SHA-256": "23fd8ac9b47318bcd4171636277d62743a8b3dc414cce9a3507f011fa25675a7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc1543bc-ba1f-5861-bedc-63938e7e9f2d",
+      "hashes": {
+        "SHA-256": "5813da7dba0162593322a77a3b4a8e7f91453d94925d64f22b4e1f01f84313af"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66258f19-c732-55d3-9968-f4f260f2b552",
+      "hashes": {
+        "SHA-256": "aa1e419dcdc57d0d153dabec1812f8c867675491209372abc6dc83a982156874"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d53dbd9a-4442-5f0c-845a-ccc94e5cc0c1",
+      "hashes": {
+        "SHA-256": "c8326586821666a94d1824aa83bc908172fc56e86a7c829759c44b7cbc8ec93e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--701601a8-2857-5a76-bf6d-f03961c8c8b8",
+      "hashes": {
+        "SHA-256": "933e3a40bdcabc9e382194300c4012785b1c8109a57b52e6555291379b68bc9d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ff96c6f-51f2-542b-ba46-6e3366e2062e",
+      "hashes": {
+        "SHA-256": "480692e01f7106d312c82d3f53daecb693d7f3b272559671ad2628d8cf5cc75f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d266cd46-7333-509a-bf39-e4673787be96",
+      "hashes": {
+        "SHA-256": "8cef3e26d4709b13fbdc5da1c6868b0703956587c6825dc90d1d29d0d0f28fa7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb94994d-0d00-5a58-bf3b-2c332abf3fdc",
+      "hashes": {
+        "SHA-256": "f1639cf22cb5b200ac2c6a057371f0df5d66d75954791e9744a91038204f4f99"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca81f678-cd33-535d-85df-b76ec73baa1f",
+      "hashes": {
+        "SHA-256": "008fde80e9323318a6bb52de0f43ceedbfd0eece05ff78baf95f08eca230cc60"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40bfee02-d402-54e1-bc0c-cf39fe860f4e",
+      "hashes": {
+        "SHA-256": "be93026a6a8fc284ae87f5b9b506c0b0d3b43ff5fd2ae64e0138a4464e912ec4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--29244ba3-f77b-5426-970b-2a6dd19486e4",
+      "hashes": {
+        "SHA-256": "ab34cfd47a2cd905bb5c687c09df7571cedc184ddb2104ea1b13e99c1b9c1380"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52df986b-47b7-5ed4-be56-c22d056cd708",
+      "hashes": {
+        "SHA-256": "9a84179c0c658b947d59f31620bb37bebbdff42c7e2633fa974be83c6a33de6c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7ebe77d-74df-5d1c-ab1c-c6f06f2679a6",
+      "hashes": {
+        "SHA-256": "7f7dfda7f1ed4710e3ea488f8368d238d4aaa3e4bbcd7867e4c5fbed3f866d0b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3481398-a233-5b47-a5c1-bbe29b3d8279",
+      "hashes": {
+        "SHA-256": "bbf05b412307b95f2904a8d5c659f77d2ea36da5e5c003ad559f264ecfc1fc81"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94729900-9068-510f-9bae-4d0fe6eb0830",
+      "hashes": {
+        "SHA-256": "1640acd39d894938c1b8fe8d24867ef254d80cc09b0856ab55a960b68dbd3e4a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b951a219-9fa6-5420-b3a4-725eb59990ff",
+      "hashes": {
+        "SHA-256": "e14e6ac0f20d2b222b5e5eecf98b8173e177982ce3af91f551e582925ca2888e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9f50abb-f623-544c-929d-deba9824bf8f",
+      "hashes": {
+        "SHA-256": "d6e4737496760d92ab8874b8da55433a1bcacbfa78e13e9c25376aa680f70a5d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3952c02e-91cc-5508-8d3e-03c9f0b19972",
+      "hashes": {
+        "SHA-256": "b41ace7c78e61cf96a2f8f57a5f8a579bd02a3a46eeb4905b373c7c7b4f1b074"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c871973a-30e8-543d-ac58-76936a3dccda",
+      "hashes": {
+        "SHA-256": "1036281016dc4ad10056d861fc3bdc4bfdb829850c5fabf501208ca8ea24f460"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6f302ca-d5d8-5d4a-99c9-8b331928aec6",
+      "hashes": {
+        "SHA-256": "9824ffa5fe1b5f3c8bc5969d8094fd3854e0b7dcc26a34b2a2e90c1a5bc62d80"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--62c9269c-5403-5de9-a0e6-8698d5709411",
+      "hashes": {
+        "SHA-256": "421fb5172d01646418cd7ad45bb332955a8e50296c0f84972d6dba9c7d9366b5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d524dac6-62d4-51ff-a968-d6c15a426a71",
+      "hashes": {
+        "SHA-256": "d0560801f21de62ac34029a9b03aa70c01c0021d714321441da62ecca5040f46"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6cbb24ff-1fc7-573a-8573-28e5aded4b98",
+      "hashes": {
+        "SHA-256": "5865744d4f7a84f74f6eff884468a1b5a707a487170d700dbe0210bf43f5e4c1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cc8bd88-2cf9-55c2-bbf7-ed6c1ab1d96e",
+      "hashes": {
+        "SHA-256": "cce12e1076e788aa6db1a4b553519d2bd10e18d4dd3d3dfe9a72025aa29a6ec6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--33bbcf06-fdd2-5c76-8848-453f173c245d",
+      "hashes": {
+        "SHA-256": "e61fae1f3d83da8dcd69c4a22f88de54a9d63c51c3cf6b016fd451181f55798a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f52787bd-38d3-54d6-ad2b-c73e999faef6",
+      "hashes": {
+        "SHA-256": "28d9714aace3c72cb3461794bea071a36526f4ff781af7c0b81c180602cac724"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c55812b-bcbb-5b04-b9a6-d0a950e371e8",
+      "hashes": {
+        "SHA-256": "8303f3d3e3c9ce26978e7be88a7cdcb744f1654d9797d2fcd3ac953abfca9092"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6c9a506-3c4a-505b-9f20-2dcd3c49221b",
+      "hashes": {
+        "SHA-256": "fa9d7cb39b682cfec8958619ea19cf62715ebffb9ce61015ee78e4bc7e6c5a89"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--212614c7-0c6d-517f-bc01-4b28ad298ed8",
+      "hashes": {
+        "SHA-256": "54e6fc53c90871c4d03064f08061263de7c1b1c8bb865b78ca50e225d0f21b9a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb5252d5-5988-51a3-9f90-d8c6b5e3d989",
+      "hashes": {
+        "SHA-256": "c34a1f9b5c1fd31ebc7fec0593b5613912458dae5962d1dce894b5ca99e2c973"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--499aa6d5-633e-5d5b-a54a-bcf779ad7663",
+      "hashes": {
+        "SHA-256": "4b4f0e5e12e8961f2c59801555b01d3c8e89100ee0ebbef132e0d013c4b25dc7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30fbbeec-49d5-5b78-a969-d06b7de9408a",
+      "hashes": {
+        "SHA-256": "81e2b6a2a18b9fa33b578d7e24eeab61a8dc521157703629080aa26d150b350a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--835e4b77-a79e-5de6-ab16-6014d6745f5d",
+      "hashes": {
+        "SHA-256": "69b78c0d649357ac0d6b4ca6edd7f3cb7574086b5db45f450b2998f9fb81595d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ed33227-e13c-55e3-927d-03344c5f6efd",
+      "hashes": {
+        "SHA-256": "5a798c394629bdc80c75a093674c6266376802dd02a8775309780c391e74e6be"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35076df1-eae2-5050-8528-7cfa4ed13f39",
+      "hashes": {
+        "SHA-256": "b8b4a959fae8fa79ef8aec8311933b5963710ec56436d7840793e725ba76c724"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b1947f65-318d-582e-924b-93ff9332b684",
+      "hashes": {
+        "SHA-256": "152fc3dba4d81113990099f333e9a50f0e1efba5e744f0b5ca37ec9788e39843"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--54342941-c427-500c-ba13-62d8794ecc99",
+      "hashes": {
+        "SHA-256": "6ff6a6bc3723a05118cbee4ceaad17342fd604c5b015f410773c248dfa860ccb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8b6124c-d057-5361-ad5e-93054ecfbb7c",
+      "hashes": {
+        "SHA-256": "9889e889ca42e08a002b2c0ab59d1945689cd35a628c8e9b7d9c955febed1117"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b6d8390-8cba-589a-bd9f-b0527486c2ba",
+      "hashes": {
+        "SHA-256": "b3ca233e75ce8d040fdc3e45255c6a1e6c293a1edd077fef37561db6131d1589"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f69a63eb-5dea-5e43-9607-e6d3cfbc9479",
+      "hashes": {
+        "SHA-256": "5eb9d0deece41f45e01deb95d81999b6f2fa83e551a70f662d630449e1e5bd87"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--adec435e-08c9-55e7-ada9-fc97724f17cd",
+      "hashes": {
+        "SHA-256": "739e50b275c0209c4b881e53f678a675f2971696afb622746ea3c1d34983bf8a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--68fc5231-04fc-5609-888d-6f689e93a843",
+      "hashes": {
+        "SHA-256": "a34e49b028edcae8324ec2fb76ee7dc49ebf892e7b569974c064f0262df81722"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92b549c3-804d-5755-be1d-5ba610c6c1ab",
+      "hashes": {
+        "SHA-256": "1c6a9bcb18bbbb5d98795722ad2156e08e9495ba607c488e0047c9f49ea0603a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c588164-1d7e-54f5-8669-ac8e383a7e87",
+      "hashes": {
+        "SHA-256": "538523cf71a328f9cf0a5d7590ddc0724f5c2a3065bd028144ad4feb80d986b1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--215e0764-08b9-5075-9c44-b816a71e3df7",
+      "hashes": {
+        "SHA-256": "2aabbfaad013a7dfef260b92bbe8c2f34b07324bc56738be831a3e43c2e57fd4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02b112cd-1e04-5db7-9945-6bcf03e2c930",
+      "hashes": {
+        "SHA-256": "d235fbbbe8a782c3d48793d237383143c4522e9a576d7da34eeab03fa38ec8f8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dd10202-db5e-593f-9e55-91c4db2a915c",
+      "hashes": {
+        "SHA-256": "781f2f92076a825ea6a69afb7ae83bade7d202c5991201995dc0783976481f30"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc22bc86-0277-507f-ba87-ebd8359cd2cd",
+      "hashes": {
+        "SHA-256": "ed50718506300fc1e1f496afd7c5f097f6a2b0ca75a7ff47a1fb1741670ba918"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2808fed1-0908-54f6-be7f-06448c980840",
+      "hashes": {
+        "SHA-256": "007b6e51346e0d71eb62119ca06ba065ce98301b8c4fb55eda06608093e6b300"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ef5736e-373a-58a0-92a9-ced680365bb0",
+      "hashes": {
+        "SHA-256": "648494d5f0a87d7fa61465eb869c9e1b8a096a928c3067afcd18cb19d8bcdf89"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aed74e88-288a-578b-b69e-512e417cdfdd",
+      "hashes": {
+        "SHA-256": "e9e3d7fbf5f2befa7d1cde8ace19551773118c613c209ab79be2a4634f5a7915"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbf48edd-1bad-599b-a134-2ebc839cad96",
+      "hashes": {
+        "SHA-256": "4abc39dd6a5efb6a080c0752ae613ffc9445380ec7c6dacf19d2d57ecb103a08"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3150061-f94a-5e70-b3a6-1d77f40587c6",
+      "hashes": {
+        "SHA-256": "35b9670543cbe1e89b6c0aaf3e07e150c6fa9a05d9dccd7c1c4284f9f1fbce56"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6191bf73-b296-5354-b6d1-81c96a5534a8",
+      "hashes": {
+        "SHA-256": "2a41b3ba7d2dc5209717dabc6c584a0b8efa4deb37e94126b310e2baaa73aca3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65175432-a20f-5a3a-8c53-61606436d8bc",
+      "hashes": {
+        "SHA-256": "67591ebc3a46ef666af57c3ec3df407f159436393b5e7a572bc9b552dbfca82a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ec09f02-c467-565d-8352-1d9a350ca157",
+      "hashes": {
+        "SHA-256": "2fa01c32f0582380f037d725b0cf338209bf7eab81a311e6f5c414ce514e8650"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e332e1c-5540-5d23-80e7-107e3f075470",
+      "hashes": {
+        "SHA-256": "bb3051ead1ff14df7f8015f6830fa85140b406485089a5804f51ed8fb25405a1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b99bf9d1-b347-58d8-989c-add217a2add9",
+      "hashes": {
+        "SHA-256": "d7df47aef8866a242664c7cbde91e1ff0d1fd1cd1f3dcf80c3c447720c27dc90"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ce0e33f-ff8f-5f8b-9dc3-e98f59c96dfd",
+      "hashes": {
+        "SHA-256": "c0615cb601a755e8a2b808830640c45a6f9fa79ec39174e0a883cbc41d593361"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--656aa4d7-2c47-56b7-b4e8-088568030e07",
+      "hashes": {
+        "SHA-256": "db00f1d8c6264896f15139babf4dbf40e576e5a8d2ce0489e6a9f040915a96de"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aade568c-ceb4-5335-b68b-a33bdcb2927f",
+      "hashes": {
+        "SHA-256": "5d3a95c42388346bbf4f913924dab853c9498e2aba386505ce252527c97255c0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06377345-8fb5-5186-8899-e65a87a69d1f",
+      "hashes": {
+        "SHA-256": "f1510440df3ecbbfac543020d935a90ff8d37e63b9ad386484b4ed39693b953e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--524cf17d-dc49-59ee-87c6-8f2d0002c5c1",
+      "hashes": {
+        "SHA-256": "84a94e9f9577f228ff0005e5ad6f0dd281575aac9725790904ab1b503717491e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2bf58dbe-38fd-55a5-ab6d-ebe2e1e8fe3c",
+      "hashes": {
+        "SHA-256": "6e773b6d258081fa74f8e21b4546d72072278f5993fc64869d2ebd3c97a90f8a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2609933d-a615-51c7-9054-96268faf0e09",
+      "hashes": {
+        "SHA-256": "7e0097dbdc40a42bd8ecada2c9f88064365d29af611b0c20a1590545cb5d10a0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--407c719b-6957-5175-bf8a-fb4d31ce6c1e",
+      "hashes": {
+        "SHA-256": "3df8b51f0f4e3f5014bfbaf5a4a488941a70e283139d52469b2f586860e7c1e4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6a65418-362d-5ac9-952d-a6c583e69e3b",
+      "hashes": {
+        "SHA-256": "e2bf636ea4ae0915d1c7fc118faf186f17a0fe85e09cac6855635848f1985ed3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2e3833d-4eb4-51c5-8f0e-a1775fb0429c",
+      "hashes": {
+        "SHA-256": "a328889392b112b1b1ebd7f4180db6836daa8d429b29d7cf003078a8a92ba994"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--723d6d13-3afd-524c-afad-b4c44d25f53c",
+      "hashes": {
+        "SHA-256": "07db6eff7e43b21ed78db45babba66475e3de642895cd713cda29fe9e2beed2f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--75cec99a-e464-5e98-9649-6f8c10fb8fc2",
+      "hashes": {
+        "SHA-256": "4f25e73cadabe7dbfdc5224b87d7a1eb0b166b8f10db67c1b9cd7413ed67c8c6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81c95481-4653-52df-8ea1-bf688a66fae3",
+      "hashes": {
+        "SHA-256": "8cb6211541ca35b509bd95229e1b8c4e857a0f7053f9e04a9787accb736b661c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6b0636e-9ec4-52f1-9924-11dc8e5b2c8a",
+      "hashes": {
+        "SHA-256": "11331a07ab278f9ea58e0cb49a538eebb587962db4700500c8e68ec7dc84b48a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81b5f779-155d-5bf7-8638-2de9563bebba",
+      "hashes": {
+        "SHA-256": "19a30867d67554b6ad522bce7d1fff230282c3a78f507207e58a43392e32106e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f53dde5-8052-5475-8b67-37ff629c9c5b",
+      "hashes": {
+        "SHA-256": "fcf8b52f1e56a18f7952f90919995dc502ffc92a64127b768afb8bd9f82cfebd"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3278099-64d0-5a2f-aa7a-14d021afc0a7",
+      "hashes": {
+        "SHA-256": "6737dd1c6671e15dd7a48bf4fab19770a8e6723c9fa8da96fcb0638467dda261"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8910902e-bdf3-55fc-80b5-fc6883e74d28",
+      "hashes": {
+        "SHA-256": "ecd5262d835a8780b61801839c6b71e653b2c27c50d3734f8c68c88f2d594878"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5dfbfd3e-410e-5a53-be80-520171b8d5e5",
+      "hashes": {
+        "SHA-256": "88cd6d87936ee468a1ea098b116712a37024343e28e5877d30a3d03da28e8d34"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a9c75545-8e4e-5263-8631-19bc84c00371",
+      "hashes": {
+        "SHA-256": "b75aac569a8cee76ebe529576af9c7c218e8d5df39efabd48d8aa4605aaa69ec"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55fa75cd-0343-589d-b173-cbdab6a9ef88",
+      "hashes": {
+        "SHA-256": "84e713151c3dba174a92f17a48bac0ea316c6cb159da191c8594502577ac9d63"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47cf7a48-43f0-592b-bb8c-5868ee82973c",
+      "hashes": {
+        "SHA-256": "6b6125972a2ddbe9129a677f278a4508a3d89afca567d2493c2932855fde4265"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88c266a8-ba18-5ced-ba9e-b00d79f4b799",
+      "hashes": {
+        "SHA-256": "9ed6d5d7bc769a798436bfb9255c44dc8a2826a0a912fc3c4f92c799494fc089"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--50d71b6d-0503-593a-96fb-9a9dc7c320f7",
+      "hashes": {
+        "SHA-256": "b9a7ccfb0d8e55a464aa9c82b15c8b0c9493b0bbad0f270b06e0e004625103ab"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4541a8f7-4f9f-525f-95bf-dd1fe5a90a84",
+      "hashes": {
+        "SHA-256": "57208c699311bcc52750f03d65844bf92e5703124934011e6ac15047c7b8b329"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93c38758-efe5-5076-820e-77ab04dd6f17",
+      "hashes": {
+        "SHA-256": "73276f8ce5e99338bc53a4d7c1200d4227759f171649d80b7b6d9fce4575a138"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16d92d21-d7c8-5411-87c8-dbfedf3644fa",
+      "hashes": {
+        "SHA-256": "967cdb36152f46096dc4bd662e708685c715a5ce43b057e68249488d843a1c87"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--615f9300-6f70-5d30-b4df-c69b797e079c",
+      "hashes": {
+        "SHA-256": "c0f9cb67376737e5914af3a784b5a3a23a1566c8ef06266358e5cbaadde4294f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffa27555-3b5f-57cf-b3db-0644dd5ae8ec",
+      "hashes": {
+        "SHA-256": "477e2174a7203301d81fb2ff28660e3d57268c8e869430e5a53c86f3de2e242f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2812fcef-e941-5dd3-bf45-e0585a7fb8ad",
+      "hashes": {
+        "SHA-256": "a63c1eabbaf9aa54b94ee631276f97d759525e38777c15f33b8f9b1df75dbb77"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc70b0a6-1fdf-5dc5-8ca0-53ffe97715ff",
+      "hashes": {
+        "SHA-256": "3b1175110c1a70e1eca8fa1301204185a10db621d765c88b476e72edeb3a1c8f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4987b68-71bf-510b-a231-2f3074ef7423",
+      "hashes": {
+        "SHA-256": "cbee85204086176bae5907d7faa2a578b5b52fa2ac3e08812db53fa3acf8723e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ea19e75-5cd0-5d48-a778-bc1c26f7edca",
+      "hashes": {
+        "SHA-256": "b9e075f8316928979a2a45c7b1a5091bc02ac56311d4d84f20965f3fa3a9a44b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40bfee02-d402-54e1-bc0c-cf39fe860f4e",
+      "hashes": {
+        "SHA-256": "be93026a6a8fc284ae87f5b9b506c0b0d3b43ff5fd2ae64e0138a4464e912ec4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71e5610d-08ea-5a5c-8a8a-a0f683d318c4",
+      "hashes": {
+        "SHA-256": "62bbe09d6c6d7e25aa521c23c7942536128ce8b8a6c46a58dbd7f0c97a83e4b6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ba3cde7-a0c2-5a64-b7f9-ca0c9ad18dab",
+      "hashes": {
+        "SHA-256": "4e7f3658e9257bebeb585225536f1ac61125225dabeec98644360df138e54626"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e1ba1c9-f1ae-594b-bfb1-a8c62b4dbc8a",
+      "hashes": {
+        "SHA-256": "31ced559441a318531b6ca6adb40a2017c40217eca1fffc4b1ec6773ec015153"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe02fb1e-70cb-5099-b95e-beccb6eeff7e",
+      "hashes": {
+        "SHA-256": "1131227081218cccec1d7470b6bdace9276d4ef0428a9b5117d59ab07a3707b5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--497860c2-6e4d-5b5b-83df-a9bbd023bb1c",
+      "hashes": {
+        "SHA-256": "9ac9637c5d766d52733b97d78495f66a0d4988cacde7abef474d358285867906"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b17b519-2158-5d0f-ab60-5ebc7c327a73",
+      "hashes": {
+        "SHA-256": "3f32740eafbea99c1d8f01c33db9986991bdcb1fb23a9922017a2a0e81204ded"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06de078b-37d8-59d8-bb90-10caa0cd9a89",
+      "hashes": {
+        "SHA-256": "09b98df4b128e84f5817df25977dcfe3fd6abb11d8651dd9353d51016a327e4b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95fe9068-6879-58c8-9628-407c519892ab",
+      "hashes": {
+        "SHA-256": "88cc707ebc5850595499656d7cc1e58b03d9ef755c2095c1faa442acfb35458d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6dbaa2f-b350-5f7b-bf3b-fe27479cc4ce",
+      "hashes": {
+        "SHA-256": "685b8e4520537badf025f05cda867e84eca447f35253f6bcb1e76d5575a516ed"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f752da87-bd13-546e-88fa-81a49c94cb33",
+      "hashes": {
+        "SHA-256": "c04848823e4a138211dec201942af631059df5900db1ae0728be5d0801e71608"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--682ea05c-407f-5cb6-b385-b04b00808871",
+      "hashes": {
+        "SHA-256": "5faa0d1c44a61a5cca1e55b41e37e391e901cd2355e64fd11cc9f627a93b3c4c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02b112cd-1e04-5db7-9945-6bcf03e2c930",
+      "hashes": {
+        "SHA-256": "d235fbbbe8a782c3d48793d237383143c4522e9a576d7da34eeab03fa38ec8f8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dd10202-db5e-593f-9e55-91c4db2a915c",
+      "hashes": {
+        "SHA-256": "781f2f92076a825ea6a69afb7ae83bade7d202c5991201995dc0783976481f30"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--215e0764-08b9-5075-9c44-b816a71e3df7",
+      "hashes": {
+        "SHA-256": "2aabbfaad013a7dfef260b92bbe8c2f34b07324bc56738be831a3e43c2e57fd4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e90dcd46-98e9-579a-a521-8ba5f8189f7d",
+      "hashes": {
+        "SHA-256": "73072b2cd2de69c6d4825da1a7b1d0ccb06038303209d005258ea94cb7888970"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d633374f-5ff5-5de0-aa2d-4b147300fbd3",
+      "hashes": {
+        "SHA-256": "5d32b536c9a45644fc597ae0d74970bef810d0722734e92bd056d6e1d45199b1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--663aadf4-1f18-5ee5-8f79-895025475d29",
+      "hashes": {
+        "SHA-256": "91a5227f3140db8b4d8ce271547935c6e7f8712d80902e41edd53d202c7c3505"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa49d2e0-c4ce-592e-9b0c-6d66c642949c",
+      "hashes": {
+        "SHA-256": "cabbeedbca32426c7f1424ca27841df77d76e51c92871dc9658301360ad11a8c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8179f8f-2b5f-59bd-939b-7677742fbf11",
+      "hashes": {
+        "SHA-256": "00de848a2d558d053f7f3a461a64b2b1d91edb6500be995ed6b31f30d1a25b18"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--876e0f28-f2ee-55d1-9cb4-8f0103a171e4",
+      "hashes": {
+        "SHA-256": "db4a968d1a2b17dd4d41cc37f48f87fa7480a7e04cab24dbaa6a8da977409f2f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e7ed418-2174-5365-b088-2151e40e0249",
+      "hashes": {
+        "SHA-256": "4466d30ffef7929876dde9cf6a9b0c8de398c7d0baae2664ff47c68ba71452a0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee61fc6b-26a6-569a-b36f-bc098d422f2e",
+      "hashes": {
+        "SHA-256": "76b714b90c6bf92717d6453e4873928503351bf52bcbdff596c65d96f42f555a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--642afc22-f554-5c2c-b388-a7c40fabc0c9",
+      "hashes": {
+        "SHA-256": "ae93d739bcc841d47c7f3c1502310b0f773b7f0f4d6baf3f73785370d7aa69de"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--159c1817-b9f3-523c-8816-cafa7d4d4adc",
+      "hashes": {
+        "SHA-256": "1c83ba38130b1640c2e48b376b3571e31792403d92fe4a0c46b2561f42b87295"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34d57dc2-4721-5bbc-b91f-f6b726eaad24",
+      "hashes": {
+        "SHA-256": "4a9009a08e5a20d5b16767f9222275fd1d7c21652805078c34c295297821b61d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ac96d91-02c1-5c6a-be0c-d55850eaa8cd",
+      "hashes": {
+        "SHA-256": "5ce465753b5a385448628c194e4c04ef96f33005d2078126178df22e5429e203"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee1cfae2-52d8-53a3-81b3-aed9f6cfcca8",
+      "hashes": {
+        "SHA-256": "6271cd805df994734066e3ad64c3e159b68d8a1f6be5cb4b3d8136f277b40060"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3e3bc46-4e16-53e3-aaf4-f9089485efc7",
+      "hashes": {
+        "SHA-256": "9a9a81a2e1f43405599fed77f2c4806b5078a82c142df1a51259b6f9a589ca9e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c90ddc21-c395-5f30-835d-fd47e14d23c2",
+      "hashes": {
+        "SHA-256": "1e27fab54a6574b363a504d8d7a44fb1c47ab498a2be1f7eac6a8d8a0159a6a6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d45ef6cc-c5a2-5fed-a8b8-2d711c5a56c8",
+      "hashes": {
+        "SHA-256": "be2800e91dbc8e2f16c0eea32d07f873d226bc95eac9204fc48d6ab828413bb4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ea095ec-276a-5406-805e-76d2358aca7b",
+      "hashes": {
+        "SHA-256": "f0e74fa3e372b89f0b447106753e7fa42f24d1108112a4d7ada9a344e5dcf88d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--adf47e5e-4101-5c04-9f61-bcbcd8fca4cf",
+      "hashes": {
+        "SHA-256": "22f847b8d67ceb5a646ea0d249d394df72eb940f4e19963fcebe3fd8068b5201"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd0052df-b252-5fda-8441-39f2eee3fb4f",
+      "hashes": {
+        "SHA-256": "3ffcf2e8c3cd8c975dbddda87ba003a7de67eaa43ceffd4143295c41f1154cee"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4da6ceb1-09b2-5506-bbca-946f227f72e7",
+      "hashes": {
+        "SHA-256": "6c241417be10c2b1a9541e8ff29dc645adfc72cf694bf1ef89638f39b8bc20ac"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb4ea0a8-9129-5e14-be71-5a7cf6447cf6",
+      "hashes": {
+        "SHA-256": "9a950508f7f7bea6759d138e78d10eab4bc4fe597746799149fde8725202a20e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70cb87af-caf9-5816-a2e0-bd7c7765e469",
+      "hashes": {
+        "SHA-256": "20151fe5340880ec24aff02822f0d9782ace8d8ba2c1c852cc3520b994ed0d4a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed6c87a1-d4e0-5e33-8447-c67312f087d8",
+      "hashes": {
+        "SHA-256": "5d6d16043a21ea39c6e358b3b9ce42d8ac7b9c9d0c1c0f9a0f695d6037a13e4d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--966d47bf-a2cf-560e-ad5d-add58ff0dbe1",
+      "hashes": {
+        "SHA-256": "b81cd10a7e1897e66d556e825a916cc50c2051e9e21312225d4fccf688667d63"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7dc83181-b11d-5f4e-ac2b-d27dfb3e462e",
+      "hashes": {
+        "SHA-256": "3a8ba61b0dfed72e141801d5438ae892219a7e6bccdf4bf25914daec18efa7cb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--892bae4c-cece-54f8-95b7-5d7e4e156693",
+      "hashes": {
+        "SHA-256": "992df8e88d3724050761fe5ebd8c8c592798786f9ed0dafb8b97e43bb601aa1b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2aceb52-a8bb-5970-9064-361c624bb7a6",
+      "hashes": {
+        "SHA-256": "560103c573e664b39afda453dd7f0e0f43c7db86569ca982f15dccfcdd222665"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8da886ce-c41a-5359-bbe0-da9bcad0b2f0",
+      "hashes": {
+        "SHA-256": "e8ce647e67f67fe2ecf4101d2c95345bd67682be46eb3373dc3400ec4d023f89"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0450fe0a-afc1-57dc-abe8-532a2d603540",
+      "hashes": {
+        "SHA-256": "637cc9392b8ba9d491daf2695a8268ebfd1d0c8604fc2b2f4c03c8eb77701cd4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b298b33-87db-5513-acdc-070024cbf1b4",
+      "hashes": {
+        "SHA-256": "59be99240980076ffbef61bf75e78ddd8ff8ef8d3b92aa85f6d67803210700f3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8b15347-7081-5541-bd91-cbe76621f7c7",
+      "hashes": {
+        "SHA-256": "ceeed6bcc2bb6143ed598a66093dcf75f82f56a4318a6e71a14b27d5b175a30b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02fb8bae-c14a-535f-adf9-e3374f49f747",
+      "hashes": {
+        "SHA-256": "65ae1ed5657161c96289f2cb2b99f2e143008020472fe787ebc5e9e635c19751"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56bd146a-0503-548d-ae7c-638c94c2106c",
+      "hashes": {
+        "SHA-256": "7af8d591550d2dd993ca8b2b3c98320d1003da16db44982267cbd2791e8d593f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f4d14bc-4c80-5e03-b2d1-82f6321d065d",
+      "hashes": {
+        "SHA-256": "2ec1903694ca386bcc8e86236bcc4ca4047cfd8438399b4f2c3954195c276201"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17411d6e-695d-55a3-a8e5-503f35c50dca",
+      "hashes": {
+        "SHA-256": "6ef343b3c4d7de974e6c289fb51102f0bbc708372d1341ea62afdc0f12561948"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf417b67-71f9-530c-99ba-1599fd86676a",
+      "hashes": {
+        "SHA-256": "fe8678bc5bfa455341bbf3b6804ef643b5c1ac00508fb4e33a19d0446389159c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--684de012-2a52-57eb-a8c6-f1006f008220",
+      "hashes": {
+        "SHA-256": "0f877affe194a4ddfcad31dac30eea2d0fe3614b7a74daf51a24bbb0feef788d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c52c40eb-043d-5fc2-8d61-c94e78f922cb",
+      "hashes": {
+        "SHA-256": "38e50d56a593f043c4c57e8cadc57cd3a07d75949d0a74700b51a00fdece073d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc92d591-3b87-5cf0-8c2a-944650bbfdd8",
+      "hashes": {
+        "SHA-256": "3e76b8cc1283aa954e45c2533aafcbbe991ff4672a6054e0f38c1549733e31c8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3032d706-ca2d-5815-9ed8-b281328e14ff",
+      "hashes": {
+        "SHA-256": "cdf9f0c92cb7b1eda981f5e6d0ce8b2db896a2143c8341d8fa98f1b792b23528"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e899828-425c-5307-8abf-c4edd19ca753",
+      "hashes": {
+        "SHA-256": "d7b81225e6f58ce535f1bf2b3f1dedd8331ff6a3a889c9400d3395b6b5164696"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04efe3dd-8100-554d-a61b-9826cbd4c0e0",
+      "hashes": {
+        "SHA-256": "9c89190be5fa88173f5ee707c75bb03718b7fa6337d2dcafb19398a79493e766"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8649b68-184a-5f58-a640-b95b9b772f3d",
+      "hashes": {
+        "SHA-256": "1cb61210727db1880e15d6abe702892e5b6ed1ab5f257944fdb33c0d099bee41"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d50a9fb4-5ed8-554b-84da-a98c8a793bdf",
+      "hashes": {
+        "SHA-256": "3c15260fbb730c93a1203b778bca20b994162e383154fcfda40e8227d52d98e4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05acf7ca-1a0d-51d4-be6c-4c653095db4c",
+      "hashes": {
+        "SHA-256": "ee21216e5081b2baa65e26bee0ba461afada440c1ffa4b20f1c3d101f48e0dae"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--11f7396c-a72a-5633-95c3-600fe6252124",
+      "hashes": {
+        "SHA-256": "131ba1abd429397894df2bc3677469acc936753ab0111ca4e73130588e0577ba"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a610fc98-dbcd-54c0-a508-b928c8632a03",
+      "hashes": {
+        "SHA-256": "83e1b657beb4454342f19cb5cf75974edb4662cd4fe014687519d7f9b6348b44"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6784c444-8658-5f8c-ac1d-42d134c7a57d",
+      "hashes": {
+        "SHA-256": "e99c00ac0a43d9d76c194c8d0c327dc17fb5dafa837ae1583fd5357927ed4ccd"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98942a35-8f76-5f6b-9cff-0444ad5685f9",
+      "hashes": {
+        "SHA-256": "3b81181938d89f133dd30bbae3287c4c2d7fa06cc2a838c907ea7c79a986d0d0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5ddaa1f-f90f-59b6-ab9e-aa4c8b3e6db1",
+      "hashes": {
+        "SHA-256": "3d12110ca7847155bbc651ce4d78ddb9633b70143837998f60c55483fe74965a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf5eea95-b3bd-5c9b-9660-7b84413f20bc",
+      "hashes": {
+        "SHA-256": "c89273d480c4a52b3860b71dc2332586f9f51fcabce8b59344f92bd8f23f9f15"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5330bbfc-4670-5e82-9805-3d4524b2d73a",
+      "hashes": {
+        "SHA-256": "32f084047a1de8126d68ee58823a6bd42a55684302fac85dbc5ed93b65428754"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8ba2d8e-9dc5-595c-b9c8-d8e1b86a5458",
+      "hashes": {
+        "SHA-256": "1592f6271e57b25f64e568b609b0745831842a8ec6af159221b743c6985872b9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b0838e90-1a98-533b-8754-180aeb944fa6",
+      "hashes": {
+        "SHA-256": "90a6f8996a345b6959832f4f5208c7724c9726413fea68d6104ed82e22f88a11"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8b83f94-10c5-59a9-a2e3-85cde8c9b8d9",
+      "hashes": {
+        "SHA-256": "e06342bed3f339fcf749ed5c10d9aaf76377d3dcc7664b184e827655f0c720e0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61275b77-a69a-54ed-b1a4-2347bb917416",
+      "hashes": {
+        "SHA-256": "8d75e69889e8f537fb8b8c2c3480212dc18d80eee34d3c632b358b11af046acf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--916a2159-b819-5c34-87bc-7467490e9d32",
+      "hashes": {
+        "SHA-256": "46add9a680c7e832c2547b7abd1ec5be7bee1971ea082190f8e0687918f4d7b1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67cd0fef-6d51-553c-83d5-ec0be7d9a2b9",
+      "hashes": {
+        "SHA-256": "1d882c9b97c9f3d32460ba65203abd00d3409607def40ff73645e36c0f250d0c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8688a4cd-d516-58b0-b844-9873a6f72db0",
+      "hashes": {
+        "SHA-256": "82a0eebea2736e6b12a47a2aa0693874e992b482a69f7d758142c376e350d3ff"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7c2c25b-f33a-51ed-90b1-d0858b2e1a63",
+      "hashes": {
+        "SHA-256": "4e94ec8f64256bedce54f5ab43c00318032bdab2747f9ac97837a7890779d223"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97e5c418-c781-5f0e-a250-b200d166b00c",
+      "hashes": {
+        "SHA-256": "b9b6f621d0b13f25f100317be4e4d8521a2563c4598b828277faa33ffb02d9ad"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6465a9e-fca8-5075-bf99-aa43b4a1dd2f",
+      "hashes": {
+        "SHA-256": "1439c77573ba429adc5ed17301799c8e53bc181daa8cd35fec54376a5fc418f6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b226caa-920f-5e2e-a2e2-b436edce342e",
+      "hashes": {
+        "SHA-256": "3dc7d11b52edd9fc64afa9762009201bd24031e2342326966aef05a0f3369b2f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3fc0ce57-16af-5928-8dda-49848449a0a0",
+      "hashes": {
+        "SHA-256": "a455817c36f03f7e03d66b5ee8a55dd2202f3c104083122c62b3ba30c5d76f1e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7779e4d5-4d19-5a9d-8dfc-f6eea06ab258",
+      "hashes": {
+        "SHA-256": "300c71dab0b6fb2583f887a54a24111d5a227e97cfdf3d2b25b982fdb2883e32"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7b96324-1186-5e51-9512-14b2e15161dc",
+      "hashes": {
+        "SHA-256": "3d06d928d08027e18a9d1326e807800f27bbb88517070d0b51e2864ad4dfd996"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27311931-b78d-5cf3-bd3d-2eb7ced6715c",
+      "hashes": {
+        "SHA-256": "162c42e33bdd67d7f43ff95ec07e53ea1d6a26515c40a73a7a31fbbd646ac6c0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e2de177-a5a1-59f1-b8aa-6a3dad88d198",
+      "hashes": {
+        "SHA-256": "23eef597c072037ad0d7c9bb1fe1206feabb6c1dae9cb1bd6759bfc2be58b7a8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12a476c6-5ffd-59f3-adad-f860a0edf4fe",
+      "hashes": {
+        "SHA-256": "1c488fd993e8b1f6eca055917526eefc19faddcc870852bb642580780ea0c393"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d039ee6-fb1d-555e-9356-999c25a86daf",
+      "hashes": {
+        "SHA-256": "2187e4e3b5fc09694739c1c25d25057d3144d683dedd40a207d76d1b4f165864"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f04f46b-a1c3-50fd-8957-a601718b3cc3",
+      "hashes": {
+        "SHA-256": "615802df817a9d0edabd149b81ab0bc5a19e553c2c3dca16cf53c5856fc9d76a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d28bed6-eafc-53ef-942b-d0d58c7f009c",
+      "hashes": {
+        "SHA-256": "1a6af324d136bf7bfe5c17031b46fa0783c8cbc566d1a7c1826b977c7f5602ea"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ce2d6235-f068-518f-be09-d81ff994bc72",
+      "hashes": {
+        "SHA-256": "c941af8a345438e64440a30d900b5ae1173063241d88f1f6b9bb9b674e4fb347"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da957a74-3903-5312-9ea4-4f5306fdbd95",
+      "hashes": {
+        "SHA-256": "48061e6be67a3c5256387f75b4c649d7eb46eee812ab448a6f60382f34d1c30a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5731548d-bc21-59e8-8e1f-6a31cf26a3c2",
+      "hashes": {
+        "SHA-256": "310b56c63360cb565dae317654762972b1991a41de82ec9ff2d544f3147cc2bc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aeb8d8f8-68cc-5d32-ab0b-7cb0a006d47f",
+      "hashes": {
+        "SHA-256": "ef121c335eeb7e85586c12edc67b8dc48f8fb34a5fb6638b17953acfe771df3a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd38568b-5a92-5fa1-8f41-d037206f781c",
+      "hashes": {
+        "SHA-256": "88bda69599257ab98eeb32b916aeda0114851b7258e01a21467e9faddb75fcc7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a74e4fbc-034d-57c0-9040-7fc826eb9642",
+      "hashes": {
+        "SHA-256": "c3e15ce4cfa0ce31a8e7b56a84b7312b3a8386853747a3ab8a38892fcfd5dfa8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b55b886-066e-5368-9f40-8ba3d7247d05",
+      "hashes": {
+        "SHA-256": "cc9a8487a89e97832049a9d6e1776d0c8f8d39845c385bc855d8a2583ceb10d7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ce85fd5-7acb-52bd-b890-3ba808b53ca6",
+      "hashes": {
+        "SHA-256": "a3acbecd158e48fdb2d79fdef34366bb5486aad79add13e6912521bdea1affff"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c81f376-03d1-5522-a207-1f116803cf63",
+      "hashes": {
+        "SHA-256": "a95df4f63dffbe2412902cf22eb2f07bcac0e1c26e99ca5163592489f4bde302"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e40ba90-49a2-5b4c-b2a6-87987453602e",
+      "hashes": {
+        "SHA-256": "5624976e0e164456befcc9b4886b29cce145629a6e725395d939046f4967324c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fdf9875-9905-5201-b6ee-1f1077d5c904",
+      "hashes": {
+        "SHA-256": "e6308bf6626cd0de716df0df871f299f90a911658afc7c5013d4f2935a6fe688"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd52fd0b-4319-593f-87d1-981906e0493e",
+      "hashes": {
+        "SHA-256": "c5954b57914fc7f6e9c1395c60b91da64e59588e66d74e7e6cffc44441d52eaf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e4463df-76d8-5744-92c7-cb86341f3ad9",
+      "hashes": {
+        "SHA-256": "87df329eb9c06794a7d60b4bbb65379639ca4f45698c3f7a7b738f75f13dbad6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7ffafd74-2ccb-57b1-a9f2-25626412993e",
+      "hashes": {
+        "SHA-256": "76396e400a5129306b42b94093e2594817b3ae954cfd833d7770cccc17fca1a9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b622a833-6d5d-5d8d-a9ee-bb0c99843062",
+      "hashes": {
+        "SHA-256": "1ed430429a5373afa737e9453a3a944b5b2c0d213bc0ff5420c445e7c4962582"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--611c0172-a52e-5012-bd5c-d9b67fb616dc",
+      "hashes": {
+        "SHA-256": "be7e72a86628ed34c7d454f48bdb45e6c0bb61f96f32f06dd6cb1753388aca5d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb8f96a2-451d-5fc9-9c0a-f09611ba0a53",
+      "hashes": {
+        "SHA-256": "aa93ac2d7166d203be6bee3134b42e22904f282cf6dc2ac4c07626a37bbc401e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05ac494c-cf41-58fc-8419-160b635e4e45",
+      "hashes": {
+        "SHA-256": "2d79423f3e5449ecbd0d92ebb1f70976080958582477661d0e2fc550f5cbf49b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e76b33a4-a2be-5c04-b8cd-56708fcc1293",
+      "hashes": {
+        "SHA-256": "25f176c98af61c80a8832009948bb7135b36c805c5f0a19c0d8b65cdc00a6379"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2bdc4dad-c21a-5bd5-b98a-fb35b551e13b",
+      "hashes": {
+        "SHA-256": "0a45deadd8ef4d9d1d9121950c4c57ab3bae58b9ccb779685800abdc9406c212"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6da54517-65b2-5d99-b68f-5fd0b2e5224e",
+      "hashes": {
+        "SHA-256": "fb5bc43b7a935450c86a56e9fea21d145dc6a31acd25202b0be699d31545bc74"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--862e6d5f-b424-503d-b7dd-8beed013a2a7",
+      "hashes": {
+        "SHA-256": "dc7aabb81f57645d7d8ff77065ebca7e6c29de6fa1ece6e7301073bee4964af4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d1cc7ed-aee1-5cf2-811e-5cd18e0175ad",
+      "hashes": {
+        "SHA-256": "4b7caa43bbff7ee59d3f2259f53f2f12e5c7abde9ef22f9a15441ca455dbfdbc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--523cb0aa-8e73-53df-8b5a-d7ccedde67d7",
+      "hashes": {
+        "SHA-256": "8d7639854930e1bfb68f523877b893a1daf11d4f1d0d6e18930547887337ac31"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f16be9a6-3532-5f2a-8ed4-da14fb2c421b",
+      "hashes": {
+        "SHA-256": "28638a5a0ecc80da6a8c9b85b9f3cb5e4b2da013c9d092bc890658eb2254d7ee"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5cce0a8-5d15-52af-94ba-7625352bf771",
+      "hashes": {
+        "SHA-256": "8d3d9a2ce19d1ba2f9724512e34c748b3707ca9f61f57409a0806d20500e3481"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--989a17ac-f7bc-55c9-a5f3-c84ac95c396e",
+      "hashes": {
+        "SHA-256": "793d09ad2a05ea3649602cff8e013db97d02bf0dfdac48abe9f47bfada3ad045"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04183366-2d47-5b38-8c32-9441ece6bd8c",
+      "hashes": {
+        "SHA-256": "53173c87fed3e894e2e0dda15ad55c8a393047c9d7438bb590a664c875ac00de"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d161062b-ae2e-5ce0-987e-d308a8af05cc",
+      "hashes": {
+        "SHA-256": "e98d28f38f6e4cceb13d92d0754ac1f5654f501cfe40c272f704c7fcc4190ccf"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e2f48c9-8df0-5a44-93c9-cbfb1bef0003",
+      "hashes": {
+        "SHA-256": "e133436b6e4259ce47fe984bf9a9498bc0710cb4d8111d52d1e6c4ea1b920cba"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a0a87b20-6514-5778-8714-bad63301c60c",
+      "hashes": {
+        "SHA-256": "9940de7cb65969d42db586f15de713c097ba2850aa7c854e59cbed1616dc0c7e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0025640c-5a8f-5b95-9487-339e7a13ae51",
+      "hashes": {
+        "SHA-256": "4791d7d1c8ed4ffaa687b0bb8f0011bc4374bed2623b247295fd5f71446233e1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a543b9c9-50d1-5c61-8b53-44334e15103a",
+      "hashes": {
+        "SHA-256": "b88b314bc61ae79ecfb4cc1de7f1e0171a07e68776c5dbbafb772a57beb7a1a0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99af115f-c7bf-5210-afcf-2b7164b4ac74",
+      "hashes": {
+        "SHA-256": "fc1b1fadc0e366706365e9b41ef087d618d99c0ecb92fbb4444adc11a029cb46"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec38cafe-da39-56ec-9c21-95887a2ffe39",
+      "hashes": {
+        "SHA-256": "55448f54f762b6ff75635cba0505580e78a5e12ef860782a7e257cdcdeb34b50"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b66fe865-6e2b-5653-9ae3-02ab68f5a35f",
+      "hashes": {
+        "SHA-256": "ab0aa88d784197209957a9a8bede5748e09e9b85cac1af31deed251dcbf49188"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f02e367c-2057-5743-b306-308a699cfab3",
+      "hashes": {
+        "SHA-256": "1caf2bf566d5e6ee1fdee1088a36ee846f16b85936b13e08457777c669186382"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fbf2e33-5397-541c-b8a8-fca7d208e12a",
+      "hashes": {
+        "SHA-256": "05e8830963ff17950edb110c27adb3a23fdf9a78ac8bdf496df103ddc2703666"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc7c469e-da91-573c-b8ee-d9f86a746236",
+      "hashes": {
+        "SHA-256": "51304674a01c8de31bc7c9907f42339e528fda4a84f30ce752f1186cca6925fb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28aca56b-20bb-513b-bc28-e2fede9616fb",
+      "hashes": {
+        "SHA-256": "548644eaa9f6ab20ce7d9b41b9ddb5d8af9da1cdff85e957d7c4a72bf8a8680b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f90873d-2266-57ce-a665-6119690841be",
+      "hashes": {
+        "SHA-256": "ce8fae9987c3af36265f60a59c902f681f173ae72bb7b08b58a640cc75832bfb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aae90530-b650-5549-962b-d958913d4b0d",
+      "hashes": {
+        "SHA-256": "2f0b0ad940d8b0daa668214ad574c67784d24f326bc7a0af5ac0de6ab91f9002"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4209f340-8153-5d39-91c5-593f1eadce5b",
+      "hashes": {
+        "SHA-256": "ef2be6b579e5267fff119b963203f4adc457e38dc7be2e2fdfea11ee2be21236"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b007e33b-e315-5a23-88c5-a85d89b362a8",
+      "hashes": {
+        "SHA-256": "511dabad7e1719185d512313e42f93fa931323bb51db9236e3dadf808f193986"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dfcf4b28-3f03-54a2-b3bf-029984aa36a9",
+      "hashes": {
+        "SHA-256": "609e87179a178dc167aea150d24291fdc198d9c04189bd847f246dddf8885739"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42bdddf1-237d-5441-aec9-a3cd4d2e20cd",
+      "hashes": {
+        "SHA-256": "3470a21212c81ed4afb8ee694e4b17a9c1a46cc31b56972b0c66d851ecf6a831"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c463dc7e-a396-5f40-8ea7-80092bd1275e",
+      "hashes": {
+        "SHA-256": "6a8a1db9b3747cabe63bd004acd761865ab6efc1ad65ef2906d9b862f7cf8905"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1679e705-0835-5c84-8f91-31cb0754b89f",
+      "hashes": {
+        "SHA-256": "621dda1196d55d74716ed63b0e512cc78d76d371f097e7d7ea93e08586d24524"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5489f07-ce23-5f1b-b99d-6ff928223b0d",
+      "hashes": {
+        "SHA-256": "0dad8fc299bbbf1a5cf0faa5ca24d934f301dfba6be5805679595f1bc00f6465"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4058e57d-fc7a-5e79-8c09-dd60fad7ded6",
+      "hashes": {
+        "SHA-256": "dce9a67f59031da8cf85bb2875c95d3fb2f5a657948e46dcf8341b5986aa52de"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f77b5269-0bcb-52ea-bf3a-7d3b2e34b6ce",
+      "hashes": {
+        "SHA-256": "e78c4a3817329fa5d3685331374d0c12c3bc257348b4cd6f46ea71386985bbf0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2586fc3-2d43-56e1-b491-42cfff2c883f",
+      "hashes": {
+        "SHA-256": "0a315d6b87f904a4ef45898ab1680c8b22b8159b875005d727e0aae8263dedc7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef3365fc-04db-508b-a6e1-156a9c07707d",
+      "hashes": {
+        "SHA-256": "c7702c61575614e92e9f01871f6f14f50d913e8cb8aa4d33757a13c3206ce169"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e86cae5-0c46-50da-9685-470990f88376",
+      "hashes": {
+        "SHA-256": "04bd4894037a75122c04304081eeef27da04dc80736bc28c0e43a32a6c77f8d7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e6e79a3-3b7e-59d2-95e1-397ec2f3cd91",
+      "hashes": {
+        "SHA-256": "eebd063761c8aa2d061d798d30bb26c5dd2fc450c9e8a85c6f77bd805dd9b02b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03550523-bc64-532f-8cae-0dc8f34b406d",
+      "hashes": {
+        "SHA-256": "ca00f4d9227f70970efd8a691e725b6b8b0e269e46712d5c730386bde108a156"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30df3ad7-551a-5b45-b15d-250c5f68ac2d",
+      "hashes": {
+        "SHA-256": "e3a239efaf784125ba1df50b0d611b674eae686500fee6a049f709e5116f9dd5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07044e7d-4218-50de-96e4-bf90b86d690b",
+      "hashes": {
+        "SHA-256": "b09108328ef57656a8e716d2b1e4cf6bf9e602d948d54fef7fe3df5230af165f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79dc87b7-5456-5350-b4d9-bef43b098940",
+      "hashes": {
+        "SHA-256": "fb165d376e332624361379577899c97b27e943d20ee51aaf4e812d1ceacc3e4e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ecafee8-a6c1-5413-b974-5662d6e004fd",
+      "hashes": {
+        "SHA-256": "c41ed4ee0405f52ed668ec3c60b44ffbc97e169e4e192c846ff6bbaed429808e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ed65b60-76fc-584f-8aec-1a5a679f69f6",
+      "hashes": {
+        "SHA-256": "11fea2be702fd6ef69006f4f1b7da859539664fad78b34ba689a363662e15456"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--078152a2-2bd1-5761-904c-476868d7bd5a",
+      "hashes": {
+        "SHA-256": "16c75dd181ba1dc2994f4c638ab5fce525ecc1fb832a6afa7fb7756d9900d4ab"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7bf2829-48f6-5e52-9ed1-7b1a1f569c6a",
+      "hashes": {
+        "SHA-256": "dd434a377a1b19354e3df4ac27483fcbb5a0528d6e30e510fe5ba658544af935"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94e690a8-26ac-5a94-a618-5286c252bb03",
+      "hashes": {
+        "SHA-256": "33b1ba2d0c37efcacbeba357ed9fa175ddebdcb6ed074aea4a1f43570ec3f49f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--712b1cfb-3929-5893-a85f-5ef77c17de9c",
+      "hashes": {
+        "SHA-256": "b1e07bbda2363a40a5cd14e84a538172d198742bffbf9813a0d001c98127a69a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1336b70e-ef40-5927-a858-4edeac439404",
+      "hashes": {
+        "SHA-256": "78492ac27bfed827a46c6de73ed9ebce4b5b0fc176e757d5f6d0b5e262e38eb6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ccb5a8c0-ec6f-5a06-9aa8-1ac12b130f40",
+      "hashes": {
+        "SHA-256": "7e1d4256a97d358034d86db7ad1ee4293a620ff984bd5df6e8340bda43b52aab"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96ad95ae-da1a-5462-8bdb-12822414de99",
+      "hashes": {
+        "SHA-256": "fd96ea0911175874e8872406c34271491c37303464fae4c4bd59f3692c70e93a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3dfde8f4-006d-509a-97b5-17c36344242c",
+      "hashes": {
+        "SHA-256": "3569e13f268dc15cc5ffbcaa6f3bc792856f5a2b2eeeb7d52d7ff3acd44df44b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc8e5486-cf5a-5313-9bc0-0382e7d22591",
+      "hashes": {
+        "SHA-256": "5c3ac8757765585f6862f219cc5ed6d7604e82c7347518c6f163bbdcdb458d3d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--835d56f1-8232-5675-88fd-1fc14cf2d0d1",
+      "hashes": {
+        "SHA-256": "2361c67bd9288d1ce0908b2cfda43f0c280aaaf1bc66e213b5c4be4a5e329e6e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3ff9d2d-1132-5742-9e3d-67c620cec096",
+      "hashes": {
+        "SHA-256": "32ac9b147b3d726a9f27d5992271396ee36aed0f36065c685371670c455529cc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd29d3fc-6a76-57fa-a66b-86b337d7c89d",
+      "hashes": {
+        "SHA-256": "094695f5e4089598fd48ec424657355400afea8258887db06a96ed3651c538cb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3b48481-924d-50f4-aa36-3660c9c6f7ba",
+      "hashes": {
+        "SHA-256": "6f096dc30f37132bcb9d5f243b7d5fee4954fe53394c644b535afa3f60f483f8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f3887239-95fd-5d09-ab73-2aadeb262646",
+      "hashes": {
+        "SHA-256": "5fb0dac83c4bbf8630eb6ca0a14fc24d09e285bbfe8bbc756b7ddfcf7a62a491"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94b3bad4-818e-5b97-b8c1-391ba17b7d34",
+      "hashes": {
+        "SHA-256": "a79628d07888b5dbcf3a4dec86cad2dfbc92649a2f07d77cd6c1cd985d541a1b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd6716c4-9531-5938-b151-5a1237b2e682",
+      "hashes": {
+        "SHA-256": "c9efc070f0e24476d27785c293fc273fbfdb57aeae13ac18c9fdaaf640e2388e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af8a398e-f983-5d50-b75b-a427b79a9711",
+      "hashes": {
+        "SHA-256": "ed37950c5120b2206e28bf943787c02d2665a70573e3a8d703cd7c7275a6381c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f315df44-b589-59f1-9b44-36ad53f2119a",
+      "hashes": {
+        "SHA-256": "13e31ef7bd63e1eb057bce4aafabec7d3af3bece2324b08ec8165c2222b3d810"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7130187-28e4-5a8c-8911-428013485fbd",
+      "hashes": {
+        "SHA-256": "32ce15d5b0fa6082172124c6bcde51495185284a2e65dcc5c9920c2f79a20ded"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--19070e95-7e62-55e3-9d98-ba3f88e4ccdf",
+      "hashes": {
+        "SHA-256": "b69a201ffe70df81689d997e625bc49df1db5c873b0917859ac7d8c209210a0f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e2bc645-5dc7-5c92-ac61-2c8969acee15",
+      "hashes": {
+        "SHA-256": "2b135257d745feaceabaf00d6b31767f0c3272e5011c6193a778a6a6b5f77bf5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--644d1ba8-69b0-561f-89b9-286bcf6c3af0",
+      "hashes": {
+        "SHA-256": "d1ee330b0f6a9bc4651c5ce4f028e3d556b8d8ba06c8cdcb7411f3bdee2b39e7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc1b6aed-bbf0-5eb6-bf4a-c7e52f94ccfc",
+      "hashes": {
+        "SHA-256": "1c03f32a095dec226004b39eb140273f278618ff8d21383125e5cb781771e33b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f0ac6ac1-1752-52b9-9d41-5b53922d17fd",
+      "hashes": {
+        "SHA-256": "430cd9c1af34c4e84583abfa58ec1638adc37d37f77944d9007c551f7a0f3763"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76f495e6-152a-503d-bc98-8c4a7dcbf353",
+      "hashes": {
+        "SHA-256": "ba979a9c04ba578a7f5e2c0a70e680aa493377e5cfcf32099e8a0ed01ccf0d8d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8ba78ae-e793-5177-be9d-9b5fca17b90f",
+      "hashes": {
+        "SHA-256": "db2ccd40d901b8414248cae8c005e28256361cc2e151952503b3a250b1c18df9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8709e218-cf57-5f01-af90-af9e12c1dc12",
+      "hashes": {
+        "SHA-256": "3a656b3fb89df5b76f2595efda6013709d4bb26b062d9deaa09341e7a2d94314"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e477823-98a2-55bb-aec9-7668138555d0",
+      "hashes": {
+        "SHA-256": "e1d78ac55f8857a49482a4a7bad06a1d19f3fbbd2cf1b69e2c51e175de0b80fe"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42de6559-3691-5267-bc4c-a1d8f788ba08",
+      "hashes": {
+        "SHA-256": "7728208f83e3ee562f6a764fd43baada699cbf606db24f75f6d52e15e8580685"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--74819e8c-3026-58df-8ec8-3a9943a730ee",
+      "hashes": {
+        "SHA-256": "900f53a65389c46c6ca68669db4d4e5443fc129bec6961771db52853bc4732a1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e241135-1eb3-5fa6-81a4-2f7d6adac7cf",
+      "hashes": {
+        "SHA-256": "0bf437d9019c84b81e0c8814030f012a30c74c01724f78ace8d90b927770fa0d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--11d9018d-b844-5231-9a04-9250066a429f",
+      "hashes": {
+        "SHA-256": "a9df98617ae4b9dd6e4fb6c0a0e526da56480f77ff2c3936d2e4e66ccc80f90b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--817467af-a6e5-52a4-93c0-64fdef2ac88e",
+      "hashes": {
+        "SHA-256": "4625ce2df720d99ec45d664580965c32b742ce1850ead6e1edfb42808b7711bc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--738dc978-9cf7-5730-917f-db971a94e928",
+      "hashes": {
+        "SHA-256": "936b12acb90f59dac152971f1c4cc2f22e5f8796d9aec4017ade999f10450bb6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf75eac7-9c4d-5a24-a00c-a7c30aed2a85",
+      "hashes": {
+        "SHA-256": "e52f86a234d164924ce6b74ab15448276af11eed45dbea25575ce84eb93f5c57"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f0b7e32-e3fa-521c-b287-a35335228ebf",
+      "hashes": {
+        "SHA-256": "db12954e8980b5b74d99cdba4ff9cb5f10d67d445c3cc38ac984f93578034bb8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e450de9-ccef-5968-b217-e31ad29a20da",
+      "hashes": {
+        "SHA-256": "73a98cf7ed02864917209ebe63bca83392a1bbebe16babe486b757b6d0036a95"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26ad9b78-9754-59d3-bd55-23c4417e2363",
+      "hashes": {
+        "SHA-256": "bb01bff40a3b892667b639548ef3310671963ef5e925ab0e8319bfe570fbd542"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f03dc73-6aab-5f07-ae94-ca0aca2365dd",
+      "hashes": {
+        "SHA-256": "4e11322c6a44bb79f38dfbac4b2eb7467a5ea86d804539b0b9ee71fd3835855e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c98447f5-ffa8-5e7c-b220-8ac6636f2759",
+      "hashes": {
+        "SHA-256": "5a3c357cc1da1c9ff7023802e5d6ba0f8b6fcc7e834293d9d22b9550d672afd6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--758f17a3-2410-54b4-9350-8b8a62b74812",
+      "hashes": {
+        "SHA-256": "5b0cbb4aaf78cb933b9678ff9be34aa6b434d4d97fe991d997cbf3052785c8ee"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6e82177-5377-5ced-840c-23b8059cae7c",
+      "hashes": {
+        "SHA-256": "6d8d5f662ef267ce5eb130d5c78e611424f3cfa7c44a8b3cd15c6edd75ab8ca6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--006096fd-69cb-5ccf-ad07-0b9a1f39ec1e",
+      "hashes": {
+        "SHA-256": "46993287a80725ba83c83661e5e1d3cc7e7a5eb23d6e0535c69dad94349b8630"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc7854c8-2955-5773-838f-a0de68136769",
+      "hashes": {
+        "SHA-256": "3ecc302293f268f2fc1d4a3e406ece0598e30521129e73e51b57d2edc0903963"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d40d7986-1fc2-5b4c-abee-3d332e0b1b03",
+      "hashes": {
+        "SHA-256": "e7d1c8cbc910ebdb41512873d568bd6c37e9dd9951e59b9df7ba5350f48c05b3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34ef9086-c18d-5bff-92f7-3dc79611b204",
+      "hashes": {
+        "SHA-256": "40a63b6239ff04d7f99361e87c4f585c969ecb8af3bf7520788ef181469c75c0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--565b7ec5-704f-55bc-ab37-3b45cf4295b5",
+      "hashes": {
+        "SHA-256": "2a125d4b9e445e9eeae611289ab73ef882142a327a0a92cf4459384c01e298c5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c3bff2f-2ae6-51e8-ad8f-671c056f5bab",
+      "hashes": {
+        "SHA-256": "3d605eb1b0fca342b67fc6222032dc019bcc1055d0989caa72eff3b0ecce02fe"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa40c4ef-9091-594c-889b-6d4eae24daf1",
+      "hashes": {
+        "SHA-256": "df2b710bc031bdcd5e7f04d93027fd98fb08871395ea1774b9bf890b5eb97346"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53259131-1fb0-5d66-b758-0ad670f32023",
+      "hashes": {
+        "SHA-256": "3185c9f06a9bb94ada2ab3d2b140f71362d0adb9998990cf392edb91c436e3b0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a4bed3f-0b06-5df1-9875-fe02889baae7",
+      "hashes": {
+        "SHA-256": "5d839cfc33851978884ebdd276aedf8b4d7a8289d67d78bdf5e2e25453e74ad3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--edd7f747-4c23-5734-834e-4aa750b4c3b6",
+      "hashes": {
+        "SHA-256": "e45ef428a37a955c66b459c0aa50837491b63724f65326cd145e8d2391663949"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a804d8ea-f38d-57ee-8b31-75337a89b9c7",
+      "hashes": {
+        "SHA-256": "6b06566a896f6c6eaa746d854b894c08b224f69eeeaf2b9293b4cc74b15c1b93"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad9a49c3-ecb1-582e-8c03-a642add64af7",
+      "hashes": {
+        "SHA-256": "60a0f06337e365d7df0513a78b82b774a5da61d95f17b61626b4afdad1e0bb07"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a24b01f8-8f53-5302-9b22-29ba76f48329",
+      "hashes": {
+        "SHA-256": "562d4b5e441dc4e65e6294e8128d07a32611974670d198ba99415d017827d85e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--494e94bb-61d9-52f2-8a1f-4445aa63fa13",
+      "hashes": {
+        "SHA-256": "bb91982a8c382ec1ca08fdbb7dea52133d862c5d14bb4592e6795fc6a800b77a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1ad4b043-ba77-5abb-95e5-97419a86a83b",
+      "hashes": {
+        "SHA-256": "e162495222b08e4e66b178f1388103ec2aa116364d6e85d8d19d032b02ba97f9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--471a235e-7709-52bb-88c5-004b8f72ff9a",
+      "hashes": {
+        "SHA-256": "da1c6615175073fc67a08b3c07305ecbe8759d5fdbeac737582e5b62231b376f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89d943fb-a23c-5800-b860-637f7df6a603",
+      "hashes": {
+        "SHA-256": "e3892f8ceaef5e9501ea17171bcd318e14fa4f40aee276049c00efd8d4f8df0c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1cfead24-ff2e-5b3a-8c81-2c7d98a716e2",
+      "hashes": {
+        "SHA-256": "0b6dbbc66fbfed5307ea7d9fa982408515ff387ac5d42b5e8a35668dcade8c2b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f2a99d6-4e24-58b2-a234-86d892f21c24",
+      "hashes": {
+        "SHA-256": "5a848ac9eeeb4258c47aecfbb497f4840a13430cc8658e0047993f4cbbb2e565"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--988f1358-db21-580c-93d2-728923436fe2",
+      "hashes": {
+        "SHA-256": "20bde2e0d4510dda843296a57c8ca64c2d6139d1dbf70fb5da2664c0b5473659"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63d3a14c-064f-511b-af70-2a109c53d4b3",
+      "hashes": {
+        "SHA-256": "ba271afd5b2947069f76a769e39c6e092ddcdd3635051c44d85696d812fca654"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7dd3bc21-334f-59ba-8a9e-8ae136cd0d10",
+      "hashes": {
+        "SHA-256": "7a580d8d1ebb19c8bd3686fa987624e2d1ae26613fec18c2623e8dc54e7c895d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83196e3f-9a10-5013-9c4f-2ffb5b896fd4",
+      "hashes": {
+        "SHA-256": "9de75fe871bf79e5865794ba0c40ae94de261d74d2ce386e0d461607394c3326"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2630faae-3440-5154-bf01-1bd51fb43404",
+      "hashes": {
+        "SHA-256": "b60e74b373d9917e306fdc4a38430a9a2913a4681bc06f11b9a10a791e71aded"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31c47514-c746-5be1-bc58-412908652237",
+      "hashes": {
+        "SHA-256": "a77f135b42b8a27ff2e8c3bfe6819340eb432193469b4da3d9c6d88b4a1b1c91"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71c07e83-2fdb-5c2b-832f-b0d74bceb419",
+      "hashes": {
+        "SHA-256": "acc881e8ab5be21c443d51a3d2e810c803a46c05bd3b5ef509532e63ef7d7f8f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae1e59ab-df01-566a-a607-e3a44266ad9c",
+      "hashes": {
+        "SHA-256": "99042fc4ece42192523feb03b82b6e9fe5d32d6a0333eca9169bcc4024ec844e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0b5fb93-8737-516f-bb7e-c899479e092f",
+      "hashes": {
+        "SHA-256": "fe4701e085c44f28a5e792b02f178072601365f4a9f3836c26d48b01281fefd4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--795c5bb7-fe82-5e86-b5fd-540620ef5f5b",
+      "hashes": {
+        "SHA-256": "93c2dd22932545c3dc296a1a9f42a3c5e962f8204de9d29542ced4e0b943a51a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e79c07b-498b-5f41-a4a4-bcbbf54df92f",
+      "hashes": {
+        "SHA-256": "690c0e0e332b61fa6a8b2e62185a2e16e0fcf7f79110580cba7e97ce4c1d6b9b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3ed6e5a-906f-5622-815b-d57939f66854",
+      "hashes": {
+        "SHA-256": "b3a23ab05a3b9eae18aba96ec9c1737bd02dcae1a4e9a5584ae2f157d893c141"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc7ec86b-ab21-518b-90a7-bd7115fcae23",
+      "hashes": {
+        "SHA-256": "d14429545f3fca415ea411cdb3e99f27e98f9a81839c2b58da03dd483de62390"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--32de5fd6-74ae-5e50-9b7d-719943aa02f8",
+      "hashes": {
+        "SHA-256": "8f7525955261b6b8a6c8e11ce2da0dcd7d202492fa29a77acc578dc51d22a5e1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e58ace23-e171-58af-8df3-94986b12f21b",
+      "hashes": {
+        "SHA-256": "364ee642dc78e29c84bad483d13046a643115c7e73f6954b7602cf0356f851f0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--48f433c7-9359-58e5-b0f4-e0f08918a9bd",
+      "hashes": {
+        "SHA-256": "8142247017a60eb93485d261aa7ad06d847b2f4a9211ea052545edc6c6757a59"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--784c76ff-ba8d-546b-b58a-5d5c804b22e8",
+      "hashes": {
+        "SHA-256": "2e8a1156d4b7684e1df7c4d1577e8e5e266066e29719b26b2e42fcd342c9407b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c5d5cd4-b688-5a53-95fa-6af50e35ea73",
+      "hashes": {
+        "SHA-256": "d0cbf78dca1e1e27a4c6fd6d3ee50b7e4bc23529c41cbb97590a105af4099693"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02aa5810-064c-537c-bd8a-8567a1cce5bb",
+      "hashes": {
+        "SHA-256": "734de0f9c740936846d039d1f6b5310814038c46e9019227e8db4b47fa654912"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7690569-cb51-5a40-887d-c953e5af9d24",
+      "hashes": {
+        "SHA-256": "9eaa761df9688e0b6e435e1cb9a8dac83ca0a4b261a7728e6992f81d66f6e2b9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03c74a6e-b466-502a-a70b-10cd0bcfbf70",
+      "hashes": {
+        "SHA-256": "54073f7a89fcfc5586875a9d14047d35d47ce393d3b19a5bc93d8bfc9f5016a4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7d85131-d282-54e3-8d1c-8b4ef125c37a",
+      "hashes": {
+        "SHA-256": "9b34fbeca37e4bb23c9402b832cec538764d97f56f350c269b46180794a49ba6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db14bfd6-36bf-5630-9963-eeb01016565d",
+      "hashes": {
+        "SHA-256": "eaf4aedb5200d2c5fa224b3d02c502cdf661591e93acc3a8d20b3481615c222e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55215518-288a-5ced-bc4d-ca11b90c5504",
+      "hashes": {
+        "SHA-256": "5e9e1e987b41d7a4c741caa7e5bc1b15d4dd67cf267a462f6d7d3774c87aa1b4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ee8f6ba-af67-5b15-843a-5917d3e1dfa2",
+      "hashes": {
+        "SHA-256": "a97d66c5e2c7f928a0b042f53d86689957d315a01ff3b58f0132e9e4f599c35d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ecbe2da-9d1a-5008-9813-6bec27b8fd59",
+      "hashes": {
+        "SHA-256": "94249029cc57165f236f3b17c36699f0680fb0ce533eeda9e3db36562edae7d1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37e9a16f-0216-5b76-bdd8-92b41fef5a02",
+      "hashes": {
+        "SHA-256": "93abc093ed9510e8d7ec3ee178bc5face734da72b58bb128566f2c7c4168651d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a23fabbd-888e-534f-b47b-7cad7457851f",
+      "hashes": {
+        "SHA-256": "810e8850b06c9c5632d3e6e2282cd87e3d6b1ee703ed88fbe63f994f82d722bd"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3cfcfe7-c8c1-58e4-8671-e80abd56d254",
+      "hashes": {
+        "SHA-256": "e3086a02249c56bdc6d1d1d94077868062067786ff061e8695b0a8ad8c8208f2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--68ae02aa-3ff2-5a49-be8e-b42424013097",
+      "hashes": {
+        "SHA-256": "81744349b4b5aed57e8190011bd7b704b24751254c25cf1073f638b5438c3712"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b56051c5-756a-51ae-97a9-dd4eba06b450",
+      "hashes": {
+        "SHA-256": "177539ced32786ed7e89ec43fc6eaa67a8daf58c1f63418ce35ec9c18c363190"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3bc56705-9033-575e-85be-8733e8cfce82",
+      "hashes": {
+        "SHA-256": "e8c3384d7638d40a5af47362a8c57997c7f8031e5e5e7300d02140eaadc0b2d4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffde0950-3040-5696-a804-1f5c3fbe9198",
+      "hashes": {
+        "SHA-256": "dfc8c3cda7a11f27c987089e2490e9e60f7af0ce7ece4380f791c4546b5a4d0d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b7cca9b-f116-574e-b5f0-84597b14225b",
+      "hashes": {
+        "SHA-256": "2793d111401f054a86b19cfbb1e76a2c9f1c413362585b243bf9ffa73053d904"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc9eefbb-a16e-5285-9a4d-fa0288bcd8d8",
+      "hashes": {
+        "SHA-256": "3acc1c7e5e323f69981117786f1a62db55772c2e8593dfc1c1a4a651fa09b063"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--814039d3-dd94-558d-97c8-7d08a64af425",
+      "hashes": {
+        "SHA-256": "346e48cdf4a25481017dc3c3f59acfdb69f66cf330183b43079c5c6f8b0369a3"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6dbec0f1-8a76-5d5d-9049-269452c07d87",
+      "hashes": {
+        "SHA-256": "bd278adc2cf77f3c66ad3ee539c7f3ff558a0d0eabb0d6919dd1ce84b7fa54b4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c22cd9dd-41a2-5df9-854b-9b7a5eaa7963",
+      "hashes": {
+        "SHA-256": "8cb6575dd3be314716e16939745af4e5c7a4beda0ca9957abae3c515119084fa"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9386691d-10af-51e4-922d-8db781affab7",
+      "hashes": {
+        "SHA-256": "fb94e4047ca24a20131d6b2ad3759ed68a088b67f64a1b7eb85d21ab5e2a8fca"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f73e84ac-8d1f-5457-a03b-703c10508469",
+      "hashes": {
+        "SHA-256": "7b0680acfca70ef472b605bf9ceb85b3d8c0c3a7311b91d5752091d7f1f6a67a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fc86bb9-5bf4-5afc-af87-8ac3844480ee",
+      "hashes": {
+        "SHA-256": "bd03712bc141c570196da87f2fd9e02f196f536a7fbe2c5c98ff386041e215e8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--634b385a-b6d2-5a61-b19f-e2cbd31dcbd1",
+      "hashes": {
+        "SHA-256": "8c12fd43c30d5cfdf7f3dae1b49aaa55467dffb4f21d4ffdf6df10c795291431"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc8597e8-8836-5e1e-9e17-ac2272325dd7",
+      "hashes": {
+        "SHA-256": "c7745b9b941894400387d52f410b9884c13a4518ed35671628d639b15b9573f1"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a174720-1189-5538-9b5e-3f520d170e38",
+      "hashes": {
+        "SHA-256": "7f0e40dffa1b958404fabf4d7eda8235bb3c44a017b9d8c89944d37c4727d63b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00f4d90c-35b7-5ce1-bf6a-9d7cc55fccf3",
+      "hashes": {
+        "SHA-256": "58c9059fabe6002585da1d910272c8ab0a77e964c866c0aaac7f9de45febfdee"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b37c1ffe-ab61-590d-9bc8-de6f37a5b15e",
+      "hashes": {
+        "SHA-256": "6ae71f411a3473b25487631c60ba47d5d85d21780f51faf6a519d24f1006b4f6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d74eb99-b359-50e9-a5cd-3aa677eb7740",
+      "hashes": {
+        "SHA-256": "aaf00c802950dc85e5cfb0f186e7469ade7bc0e9a30b6ea98510b8d5770046ba"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01ce9cea-a861-550f-b7b5-a83fbf72beaa",
+      "hashes": {
+        "SHA-256": "72f416a6e275a9f0a12afbf5c2ea359d63dcb7bd44eb386591bc33cdee5dc3dd"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3cd7e8f0-1a25-53ee-94e2-eb03aabafc38",
+      "hashes": {
+        "SHA-256": "ae6289be4429bab43316898c5f0f6ebb95868473ee7d4fe3682de659f3f563f2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--33931fbd-339e-53bb-92fa-a817292544fa",
+      "hashes": {
+        "SHA-256": "d2bda6d69580ecdd3b01ce5921f97cd6089ed230687f1e9472ea91fa9051727a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b35527c3-610c-5327-8b7d-baae5d9dc3ae",
+      "hashes": {
+        "SHA-256": "79685be4615878b63a7169c7de7668e861abfa9662b947b2b1088fdc22180e47"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4b1d7c7-b2c2-584b-a0e9-eb23c4e61155",
+      "hashes": {
+        "SHA-256": "747eb6e4174524be23a8c6db516d19b33e57f1421052eecb0ac7690a0e719ca4"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3b5e500-b2db-521f-ab2a-018a9ef88a99",
+      "hashes": {
+        "SHA-256": "52e5e0044d76b51630b93f95a7bd21f1fe4516c61902668069603ed1da11ece5"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05015a72-a0e4-5a50-a608-0567a31c9651",
+      "hashes": {
+        "SHA-256": "81b1b3368d0b603685d1a0b9959851c872d9e9ce97244cbdd8c4f19e583cd116"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d86f9f1-d983-5674-8dee-4d6925e34339",
+      "hashes": {
+        "SHA-256": "7cc11e0f486223a66160ade082278f9cc05eaec6bd10fe2cdfc6a11ff3e0a379"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--971cf3dd-5308-58db-89dc-08a63d89b10d",
+      "hashes": {
+        "SHA-256": "b64b06562ad9eee7bdfc654737ced7971db649695ed98b8b9bfd3c005498fc80"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea9f5978-c37f-5d60-9804-b87514c8e463",
+      "hashes": {
+        "SHA-256": "77c6dcd5621fc779228b2e36952c4e16c3a6e107bd1e744f9d9b4b75bc19fe35"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6e99dc3-e21a-5706-b230-5e467bfaed94",
+      "hashes": {
+        "SHA-256": "b7056e702c7059df47fe991ee98d0c30c3fd166a627691a2913be6909a802bc6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3872f72-a6e5-571c-818e-8a0b9213593a",
+      "hashes": {
+        "SHA-256": "c66a17f167818eae1bf0979b6c117c1fabc27c7a2f7cacff5f53676c6da71dd0"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ef5af31-24b5-5e3d-b74f-6849c5647450",
+      "hashes": {
+        "SHA-256": "ae232c9a0ced95aa88f38d1d122e13cf3c1baf40844d288cd273561c0a306d32"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbd05622-9abd-53cf-9781-635bd5b8a0f5",
+      "hashes": {
+        "SHA-256": "b5a36e4ed138d49d9b044ef86a07ff114faadc3b45568832c4e5e924516062c6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af5674a6-4859-5596-9f8a-210572633cba",
+      "hashes": {
+        "SHA-256": "e8f96c4999d670877a960e38b7be0dddca740c0048b8c08e9cd53d2fa5b92b9e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81a68b6c-15d4-5411-a79b-ca2175159b55",
+      "hashes": {
+        "SHA-256": "13cb3744202854baf50480a1ee6b6cd6cfd0125160f5dc6d0271de0affb1507f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--360cd62f-f744-5387-bf79-a29fa509d121",
+      "hashes": {
+        "SHA-256": "3f60d31ee4352a67aa110527d07a0e32405e440f0c657e55f9b16fd130bce6a2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9ebfbfe-171d-5443-8555-a3a0670a67f6",
+      "hashes": {
+        "SHA-256": "91b5c9acbac864d1e2d6ebd4bbee64ecf7a4f095ef86973987a933debdc0a23a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8a205d8-5e79-5c29-826d-70184856b6e2",
+      "hashes": {
+        "SHA-256": "6f85932c907d6c92a508b9bd216d2665c1eb2ffd3b2a6f30f45d44bfdeccc46c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ebe24767-9876-5ffd-9293-74cf99ebd844",
+      "hashes": {
+        "SHA-256": "dbf1915cc237a50971ee7ea5e8fb8698fc53cf681c66387d5cc7bae76dec03fc"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ccbc6011-2983-5e7f-a0ce-e960fb2da954",
+      "hashes": {
+        "SHA-256": "9ce683ff72f859f23257cf92aed6e7c7108b11674f1d7bd28dca6ba2534de532"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be79415c-bad3-5052-8dce-3ffd2ada3a49",
+      "hashes": {
+        "SHA-256": "c42e10a6abb1b7994ed36f6e368d6a7b208e8514724d956e0302d2743847c697"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c62b739-7224-5987-9902-dc7948bf86f1",
+      "hashes": {
+        "SHA-256": "ad12f4e5b47d0d403c93d3639be956f97fe9ee4eaab678931d9bb0bb6bf544b7"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e8586bd-7150-5fe2-b36c-6665b709cea3",
+      "hashes": {
+        "SHA-256": "71b8a912f2e6398d8915123f33ff7ec45c4fc73532c89ce22bfc4f211e528808"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f3c5f28-e063-50cb-a9aa-a3e9bbbd753f",
+      "hashes": {
+        "SHA-256": "25a97f1d943289e3b8a9b4c5e5727947ec0062f0e084b4717c259a6c55e41982"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b610708e-7ea7-54c9-a1f1-cdc5c1331d9d",
+      "hashes": {
+        "SHA-256": "019ab1efd7e46abdf02dc5484ecf950f2899f58d9a73bd245c3a6740dde45b5c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fdafdc6b-9672-5bd1-a3c7-46ca668ab857",
+      "hashes": {
+        "SHA-256": "990759f69aebd4edf82d16618c7e63c499695da3589fde2f8c8ad47841ab07f9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6256d1e3-1015-546a-9564-43862d09262f",
+      "hashes": {
+        "SHA-256": "c1affdb7e60e93330c7d9a28f8b8cea37bb3cda6373ba822838a7531ad75f136"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f1a1899-72ba-569f-95bb-f350fe1c7a8b",
+      "hashes": {
+        "SHA-256": "bd61c70aee6dec5d1307f9ab36343b6d68514803cf367a4f9c69cfcfda200e3f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10336416-bf10-537e-867d-6cc4f6396bff",
+      "hashes": {
+        "SHA-256": "b2dac87d7152a900b7b6ac065d50ebc668968effef6f8d8bcdb2f9152a852dcb"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cde25614-26ab-543b-8e01-0ea1193608d0",
+      "hashes": {
+        "SHA-256": "ab84fe7b77d0a886f02f9694a41b8c5ff9710ade78dcd20c12e3c7a86c63660a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bacc49b0-7198-5582-a084-54096a622dcc",
+      "hashes": {
+        "SHA-256": "5c6bb8801f8e1bb9115cb9f2601dd4e9e98e633fbc1eef97674bb7f4793c2b64"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e3cd2ce-a24d-5ccf-9ade-515e7b67569a",
+      "hashes": {
+        "SHA-256": "eb074349751ad1a52c6692c6ce046b5bfd214f1efe8ffa08e1c7ee927a166cfe"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b07ce333-91b7-5da4-8e46-77c554d3fa1c",
+      "hashes": {
+        "SHA-256": "0c3a181b719ed43b7206c95315088bcd952fc0d27340e4d281c83bb48412ff71"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2a1b46f-5bbb-50e8-890d-e11cb590e085",
+      "hashes": {
+        "SHA-256": "5994ab6b28062dc361dacee12e8d5cce519ad66e70a6889b449dbacc65d7c21b"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1b91416-912a-5e43-af1c-77b2cf137ef2",
+      "hashes": {
+        "SHA-256": "d1feea2e8742d2c787e3f10c0661ced2e830519c75e7d0ded78c3349baa53e64"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a57bb45e-e0a4-568f-9946-adfc6c7a89a0",
+      "hashes": {
+        "SHA-256": "3bef4d8d1399acd1dd563b851db1dda2d36e033164bba57652b6a670607a8ea8"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d3ab04c-72fe-52ec-aee6-72579acf36da",
+      "hashes": {
+        "SHA-256": "704ded2bf0ddfe19dd5d3f8df3885124c75a2df63c7cc753be4c5912702d55c9"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f6f4723-d284-5cd5-8dce-44dc6a269e59",
+      "hashes": {
+        "SHA-256": "e18abf51ada2f00851c007cb41c1e5eec4515356d9c3ac5c7b7ad1b9fb1648ea"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25300435-147c-52ea-bccb-493b543544db",
+      "hashes": {
+        "SHA-256": "45b017321b2f27ed42acbebf86d5d5ede67917f24c51c949292896bb5dcb034a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ce5ffdee-419d-50c3-8c74-348b18b2dc4e",
+      "hashes": {
+        "SHA-256": "9c4c65fddfa87f6ed14adb6a3052816e5f1bde15f2b4662e1c1191d1098fdb99"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76a483a3-0553-5d91-a42a-48a589c2b5e3",
+      "hashes": {
+        "SHA-256": "e0b56f1770899a5a306d53fc5a824a640d09e2d0eee8a6728bc682ee88147d7f"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4319cda7-3d2d-51ff-a3f2-4b0535c8f319",
+      "hashes": {
+        "SHA-256": "b588071e395e0da744ab5844c9f20c83ccfa6c906b9829104d05860797ecb47c"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--faab306f-ec0b-575e-aa40-a3aa087f5548",
+      "hashes": {
+        "SHA-256": "bce9d03d6abf342edf9a9532ee01848c419b127d901bc5b49b23042f0ab8a7d6"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--54615eaa-12ca-5133-9138-d227008db22b",
+      "hashes": {
+        "SHA-256": "5419fc93d9f030fee733cc49817fb2cf400809b514461c2953ef78cdd8dacfed"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec52e7c9-b456-5eba-a2e6-f313cbfc0e61",
+      "hashes": {
+        "SHA-256": "78cab964decb15ecffba542255198b70c87e63ece5bd9f85895034883dc6a909"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3f5f02c-4108-560c-b8c0-5c8c4b552971",
+      "hashes": {
+        "SHA-256": "ea3757f4549eb48182d73a4e553399e061dd6d57160b8c721da7aeaaa79ae011"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4a77cd7-5046-504a-b2d1-bd2f746f198a",
+      "hashes": {
+        "SHA-256": "302da78626ef0abec49ca04b4e34e5f4f97811cb45c746518c8c55319ef1899a"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--337fa7cc-022f-516c-b902-750fc9f0a8c2",
+      "hashes": {
+        "SHA-256": "a5e833af880ad431499294cc4c642bc7707094c0987476fc390da63923131780"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6e10fe7-0784-56a0-b5ef-2a7c7643ee5b",
+      "hashes": {
+        "SHA-256": "ec272c7ceef2bd5b37bc83887526fe73d7529499367e0d69e444ed567b1d0d0e"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66ae8d2b-12bc-5cc8-a363-ed3679cdc698",
+      "hashes": {
+        "SHA-256": "f620efba9dc83a5e6db3be93f8c95e219708a64e8c6f12c347ab0096af27ca89"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91e7cd3b-bf59-56d9-8192-6d5ecf662121",
+      "hashes": {
+        "SHA-256": "924c629ddf5b7aa73729dc1a55ba3fae99a1fd4f9c685849628c0e474d06249d"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c0af0666-697f-5f76-91d9-1122b5a385db",
+      "hashes": {
+        "SHA-256": "9acc11a6b3c33b46ddb82d24cf3c00c5b6dbdc541ec38f64e0b5415631f427c2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5191009-3494-505b-a76f-03d6935f548d",
+      "hashes": {
+        "SHA-256": "d4b60d8e97b434c5e199ead2b36aeb4092ae5a91d344dc1b8a0af301ebe86291"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a92be895-a707-58e1-ac57-f16d27d9043b",
+      "hashes": {
+        "SHA-256": "ce32ac6bc5ea94bbbd1a614d2ac054559e82cc4bcfd464cca940fa4c94766ca2"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d4117e71-3381-5ece-b2c2-8904ce69d856",
+      "hashes": {
+        "SHA-256": "230af8e2ec0a70d3085403662dd0b2196db58b58935eac958fd3f5bea7c8d339"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--496e07f9-b6ae-57ea-8c44-7045aa4fd22a",
+      "hashes": {
+        "SHA-256": "ccc5bb0c5fa2893da5621f847f565e5396bcd2f45c53cc133f29b4c5e399f683"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00f7adee-18a8-5f74-9750-10b919d6dd9a",
+      "hashes": {
+        "SHA-256": "15861fa59c52685a800271994598eb0d72eab7638ead87a67baff335c705c999"
+      },
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--34b7f996-183c-5429-a879-2645986f7159",
+      "value": "te.ai",
+      "x_opencti_description": "Troj-DropperAsAService.csv"
+    }
+  ]
+}

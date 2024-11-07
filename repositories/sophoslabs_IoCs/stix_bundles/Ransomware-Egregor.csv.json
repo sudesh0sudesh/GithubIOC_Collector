@@ -1,0 +1,88 @@
+{
+  "type": "bundle",
+  "id": "bundle--38170bef-7f46-49bb-b657-522c6e991f2e",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf298345-146f-54c3-b0f2-d62476d9d455",
+      "hashes": {
+        "SHA-1": "695b506c07779ba0e543fabfd63752c0ac44a13d"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b673e5bf-ed5e-5af7-8521-a43970d696f1",
+      "hashes": {
+        "SHA-1": "d8cbce281626bb5c14f59a979e243e6b260363ba"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4650a99-dba6-55fe-81f5-3d7d7c8e0d63",
+      "hashes": {
+        "SHA-1": "59ca484e8d766ec7980d6c2a297b4d401dc386f5"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc358eab-28b5-53d6-ad23-a45dff188429",
+      "hashes": {
+        "SHA-1": "f73e31d11f462f522a883c8f8f06d44f8d3e2f01"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a229c05-a9e3-5ac8-abbd-a7274f7c4250",
+      "hashes": {
+        "SHA-1": "bd8c52bb1f5c034f11f3048e2ed89b7b8ff39261"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a1c2547-aeee-5841-a712-c508dc9c8b90",
+      "hashes": {
+        "SHA-1": "c3467862e0e410ad2eb72cb3d810199499db017d"
+      },
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96c2b671-d1cb-5738-a062-09feb87752de",
+      "value": "e.bat",
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Ransomware-Egregor.csv"
+    }
+  ]
+}

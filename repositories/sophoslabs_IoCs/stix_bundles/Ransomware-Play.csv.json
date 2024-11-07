@@ -1,0 +1,87 @@
+{
+  "type": "bundle",
+  "id": "bundle--7b34bcd5-0228-4fa5-9f2a-6021baf29c2f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e93c4f3-ba90-5199-89ac-f86d1bbeb845",
+      "value": "45.227.252.247",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e7659884-73b7-5284-a2f5-9bb2bbd08268",
+      "value": "107.189.30.131",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e93c4f3-ba90-5199-89ac-f86d1bbeb845",
+      "value": "45.227.252.247",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c449d780-6b82-5e72-86bd-47184001fc13",
+      "value": "5.255.103.142",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52578548-d221-5fc3-9ee8-18c36c62b1ef",
+      "value": "z3a2.ssndob.cn.com",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--940336ce-23d6-5b24-b26a-a1087b603404",
+      "hashes": {
+        "SHA-256": "4346d2098d93a7f6fddd4c37333f8ec17ff548c97f365b831abbb63dd426ed4b"
+      },
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e019727-c84e-5601-a920-6f6633ec6ea1",
+      "hashes": {
+        "SHA-256": "bf0b708978a2495aeb2bb9dd74d990363a34c317f731073a925ed8e1d0c686c0"
+      },
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eda6eb63-6600-5484-bc36-169c0b6942f1",
+      "value": "22.dll",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a711e637-b2c3-5d49-a816-0d64f4123354",
+      "value": "http://45.227.252.247/download/22.dll",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--87fe9e01-107b-5d80-bd3c-1c553049bdc6",
+      "value": "libvlc.dll",
+      "x_opencti_description": "Ransomware-Play.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eda6eb63-6600-5484-bc36-169c0b6942f1",
+      "value": "22.dll",
+      "x_opencti_description": "Ransomware-Play.csv"
+    }
+  ]
+}

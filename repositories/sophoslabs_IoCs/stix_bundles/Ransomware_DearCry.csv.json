@@ -1,0 +1,51 @@
+{
+  "type": "bundle",
+  "id": "bundle--39aa72f6-2ac2-4571-a8f3-63a4eaa282e9",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c860d6b2-5070-5b8f-adf0-64d3b17cb735",
+      "hashes": {
+        "SHA-256": "2B9838DA7EDB0DECD32B086E47A31E8F5733B5981AD8247A2F9508E232589BFF"
+      },
+      "x_opencti_description": "Ransomware_DearCry.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f5d5cbc5-d108-5980-b481-dd28867c911d",
+      "hashes": {
+        "SHA-256": "FEB3E6D30BA573BA23F3BD1291CA173B7879706D1FE039C34D53A4FDCDF33EDE"
+      },
+      "x_opencti_description": "Ransomware_DearCry.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4747ec8-729d-5419-9563-42c237d77374",
+      "hashes": {
+        "SHA-256": "E044D9F2D0F1260C3F4A543A1E67F33FCAC265BE114A1B135FD575B860D2B8C6"
+      },
+      "x_opencti_description": "Ransomware_DearCry.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e71409e-2f95-5591-93a2-1437b659935a",
+      "hashes": {
+        "SHA-256": "10BCE0FF6597F347C3CCA8363B7C81A8BFF52D2FF81245CD1E66A6E11AEB25DA"
+      },
+      "x_opencti_description": "Ransomware_DearCry.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77489b96-b157-5d37-9b3a-1723299b189d",
+      "hashes": {
+        "SHA-256": "FDEC933CA1DD1387D970EEEA32CE5D1F87940DFB6A403AB5FC149813726CBD65"
+      },
+      "x_opencti_description": "Ransomware_DearCry.csv"
+    }
+  ]
+}

@@ -1,0 +1,1352 @@
+{
+  "type": "bundle",
+  "id": "bundle--08a30202-9f18-4d82-9c75-dfe9fcaa7fd4",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--76df2b81-ff42-58c6-a113-7e86d1247dfc",
+      "value": "104.18.25.181",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a4be7b38-ffa0-5155-97c2-b010dec86976",
+      "value": "104.234.11.121",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--55d1a7f1-1699-5d8a-98b6-d9f1f0721074",
+      "value": "104.234.11.236",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--da9fbfee-6e28-53ed-a51d-38b6bc5cca22",
+      "value": "104.234.147.11",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d111f867-c2e6-531a-a924-e5326b5671ca",
+      "value": "141.98.6.95",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--82f69046-dcff-55fd-8d72-71eb21ab38cd",
+      "value": "141.98.6.96",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bd0d9884-2e16-5d21-ad82-2c5ef4920828",
+      "value": "146.70.87.4",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c03e20a6-1957-5cc9-81c5-3fa906545afe",
+      "value": "157.254.195.108",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7aa8c769-04b8-50d4-962f-a125b01e6825",
+      "value": "157.254.195.210",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2b198e83-19c7-5ff9-94fb-e68eca3234fe",
+      "value": "157.254.195.53",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--83aae27f-5a93-5d2a-966d-91f80c8ee349",
+      "value": "157.254.195.83",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--75fee800-d701-5209-9e1f-dbdfb68793f5",
+      "value": "166.0.94.216",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--db37ad04-8585-571b-b558-a17414957d2f",
+      "value": "167.88.164.130",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5441fda7-eb29-59bc-bcfe-96f88cbba232",
+      "value": "167.88.164.141",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--634367a7-cb20-5d4d-aa25-bb68440522ba",
+      "value": "167.88.164.95",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a4471fb-f7d3-5e18-8f38-1d2380ffcee9",
+      "value": "167.88.165.18",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a8dbd98-590b-5f82-ab16-a0773e708808",
+      "value": "172.217.13.110",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d230d8bb-c0de-5665-85c4-12dcde2a6bb6",
+      "value": "172.86.123.127",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c0384299-414c-5b76-95d6-6f30db4a6138",
+      "value": "185.246.222.15",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--037a8a8e-8595-5b26-ad44-181024a46d2a",
+      "value": "185.254.37.216",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--da1e56a1-a9d9-5675-bf53-6faad3b8697a",
+      "value": "185.254.37.217",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--62414a4c-950f-59df-bd89-40e694f2f19b",
+      "value": "23.227.196.140",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f16dfa9f-db19-5735-aee5-dfe4f138769a",
+      "value": "23.227.203.241",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cec14b1d-6fcf-5417-b035-a1e7f3ed042f",
+      "value": "45.12.253.137",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29a241cd-57a0-5099-8e12-b2c24afa3dd7",
+      "value": "45.61.128.133",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--34f6ce64-81aa-551d-bf25-1d9cfd09121f",
+      "value": "45.66.230.215",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ac5abfe1-f1bb-5f78-8691-4dbc1cc6e79d",
+      "value": "45.66.230.216",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6aee86ca-724c-57d4-b4f5-f4283ca088c1",
+      "value": "45.66.230.237",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f1d386c1-df54-543b-80a7-fd4f0afdfb55",
+      "value": "45.66.230.238",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--620e5680-8d6e-5373-8d1a-4970937139b6",
+      "value": "45.81.39.175",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--49858a65-d090-583a-a2ec-1ac9d2ac1a29",
+      "value": "45.81.39.177",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8caeb9d0-4465-50a0-b554-bc70a72b80a5",
+      "value": "74.201.28.103",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2da2300-2bfe-597e-bf77-41911c3cb47b",
+      "value": "85.208.136.13",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--99985059-a6cc-5d23-a2d5-5635f560d9e1",
+      "value": "85.217.144.164",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d535c7c7-00c3-52d1-971b-1432711ea378",
+      "value": "87.121.221.218",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3cf6aeec-c84e-5508-908f-06463ebf7981",
+      "value": "95.214.24.163",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14bfb072-b197-5859-8343-63b1334bc1ad",
+      "value": "work3.py",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d246c37-d3f0-5b83-9128-1e80e72215e8",
+      "value": "work8.py",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--61a1d8da-8ad2-5014-84d9-2721671d96c8",
+      "value": "https://conteudos.doutornature.com/wp-content/upt/upgrade/scp/v7/WinSCP-6.1-Setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d2a1b35c-6b02-51cb-9c3b-471bf981ff75",
+      "value": "https://dayvisson.com/Cisco-Mobility-Client-v4.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--93c9c646-4113-5516-8f37-c7cc0bea9ead",
+      "value": "https://dayvisson.com/WinSCPSetup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--61e0a724-26c0-5610-8846-5cc7fe617e7c",
+      "value": "https://events.drdivyaclinic.com/wp-content/task/update/WinSCP-6.1-Setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0fa8d054-da13-5412-824a-2dd68caf6570",
+      "value": "https://frugalprinters.com/wp-includes/WinSCP_setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--79379f2e-4f2a-5c2a-8f69-f58b50b058e3",
+      "value": "https://praybig.us/wp-content/smb/srs/24/5333/WinSCP-6.1-Setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fd6f2347-b617-5885-9222-d6ea386c250e",
+      "value": "https://protemaq.com/wp-content/update/iso/6.1/tusto/WinSCP-6.1-Setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--225cf680-429b-5410-bc78-c97c2bb7df2f",
+      "value": "https://softwareinteractivo.com/streamlining-team-collaboration-the-power-of-for-seamless-file-sharing/?gclid=EAIaIQobChMI3aXW7fjA_wIViN3ICh1NKQW6EAAYASAAEgLEZfD_BwE",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cb0e2261-ae17-5226-a3ac-434034a0a526",
+      "value": "https://theboxingshowcase.com/wp-content/dht/asxdfj/gkgy/cvgkjc/WinSCP-6.1-Setup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9bc69026-c45e-56a5-a7c9-efcdf743b801",
+      "value": "https://theboxingshowcase.com/wp-content/sdrg/sdhr/dftjft/zsge/TreeSizeFreeSetup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8f0485f8-3681-5030-a2d3-0e4e9a982fc4",
+      "value": "https://trafcon.co/wp-content/plug/des/sus/cisco/anyconnect/cisco-anyconnect-4.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--93dbe751-53c0-55b9-aea3-f05e9e4b5ca1",
+      "value": "https://usahamenarik.com/wp-content/WinSCPSetup.iso,malicious",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--62eef100-824e-5e4c-9e99-3583e6d17a58",
+      "value": "https://winsccp.com/eng/download.php",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--efc464b8-c5ed-5bbf-a33e-e8f0dc3fbb17",
+      "value": "https://winsccp.com/HPVrxkWv?gclid=EAIaIQobChMI3aXW7fjA_wIViN3ICh1NKQW6EAAYASAAEgLEZfD_BwE",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bb306b1-f9a5-549a-81ad-56651f7d2952",
+      "hashes": {
+        "SHA-256": "0af013ad0548b992d50287e3b11963cad9aa0af1f1e47e254637d28ee05208d8"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f4b04f6-aff3-5612-b808-9ea7ce8147f9",
+      "hashes": {
+        "SHA-256": "0daf5c0f374e9a03fbe24dbcb4f0a24837a35bc2f0ca76ca35bb705f8c079486"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e796855a-8491-5bef-9064-ad2a2478f5b1",
+      "hashes": {
+        "SHA-256": "13090722ba985bafcccfb83795ee19fd4ab9490af1368f0e7ea5565315c067fe"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--827ca284-296a-5db9-9538-a2b81d61a682",
+      "hashes": {
+        "SHA-256": "150f3356485c26039dc145d0bedda265d3e9626fd1f3a180455f8b911c53c260"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6e00812-af31-5f07-8128-8f1c554c4b8f",
+      "hashes": {
+        "SHA-256": "17c1a8ee6fd18c7a75270c31b6602c12592242affdd6608f5297a8bb88376923"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e85e9c4d-ae4b-56b9-9c8e-df4653a0ac0f",
+      "hashes": {
+        "SHA-256": "21e7bcc03c607e69740a99d0e9ae8223486c73af50f4c399c8d30cce4d41e839"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9de9bb33-54cf-584b-9894-87ea6c9ac825",
+      "hashes": {
+        "SHA-256": "237c18bbd8fb8f74710dacaf7795c473a988b66fce667facc6f17b2c6e071745"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac05e972-0324-5c51-a59e-549019305ef2",
+      "hashes": {
+        "SHA-256": "25467df66778077cc387f4004f25aa20b1f9caec2e73b9928ec4fe57b6a2f63c"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aae64f20-5dea-540a-b2ed-8f1e9c626066",
+      "hashes": {
+        "SHA-256": "26a68bfc0d40b3cc49af1958f2004f404c960663b140fd612a2a53ccaf99f004"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70d455db-58ff-5b8f-be91-f97d240a9074",
+      "hashes": {
+        "SHA-256": "2eb2ef7a562145a0faf3c82f439221908adfcc784022a64e5bb17a432f4a8a91"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fb0c46e-a825-5649-9c00-d16578d2533f",
+      "hashes": {
+        "SHA-256": "2f4f365613172848df3e91d43514b9da34b8c84eded8fae683f94586d22f86cf"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67376482-a7d9-51a1-a5c5-a41b134abb3d",
+      "hashes": {
+        "SHA-256": "332e19cc0f71a5dcbfc3d24fb08564589d0cb884d21d1fddbbf9c0230d678ec0"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b3928a6-a207-5dcb-a923-74471755bdd5",
+      "hashes": {
+        "SHA-256": "3346a4f9f253a8251e14f0d42138e5b4420dd3c1b46afcd9f688d4e26c98c561"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb89d578-570b-5416-b41b-35b370dcb569",
+      "hashes": {
+        "SHA-256": "35c33e9e84e9e040da42b3d6e9c3c00e8f0dff2e7ee8bb59625c7378d89f3b37"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--057780b0-598b-5ae6-91f1-644a2709a6b7",
+      "hashes": {
+        "SHA-256": "3ce4ed3c7bd97b84045bdcfc84d3772b4c3a29392a9a2eee9cc17d8a5e5403ce"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6fdf44f-c45d-5847-8ec6-d218d5ad81bd",
+      "hashes": {
+        "SHA-256": "4a4d20d107ee8e23ce1ebe387854a4bfe766fc99f359ed18b71d3e01cb158f4a"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97688642-da31-591d-a652-8c24d96f4542",
+      "hashes": {
+        "SHA-256": "4fb70092d8533088742ca23788f29e0802b223eada1748ce82731162d25920c7"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2c22789a-cd50-5e82-9c55-b44f4dc2027e",
+      "hashes": {
+        "SHA-256": "503156f1b27d4dd463048f85924a2bbbeb3d0e09de2574395a51f77b48e9639d"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90601783-35d2-5db7-bcb6-911ca70e232a",
+      "hashes": {
+        "SHA-256": "535aefaba2eb8d7898b176b0dcdd23fcef984994e609db222c33ece2d1c081b3"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ddc0a46-0a9c-531a-924d-642ecf59f7a8",
+      "hashes": {
+        "SHA-256": "5f3488fc958b98867ef661c6697b5c2cd920199f7209086591a5e87e691891f4"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53a0b9c7-117a-5c5d-8d88-4eeb082164a2",
+      "hashes": {
+        "SHA-256": "61927228b3dcf973822eb5fff44ca7940d950af7116aefe957cc31287c5283d5"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4837d06a-4db9-5d3b-9e5b-a0aa523c9c3d",
+      "hashes": {
+        "SHA-256": "62b1e355a7e4c850bb0f03c7f182f48f0ebaafa07ddae1fee599a78772d149f2"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbad319c-2a84-5ec1-a124-f6be7d7eaa2d",
+      "hashes": {
+        "SHA-256": "686c7fc9d3efef602136cde2716d20ca13d1e3de3c57f787fa74e28cc8b743cd"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8f6374c-20dc-5186-ab88-69c8d0276539",
+      "hashes": {
+        "SHA-256": "6c340981785e28218f7ef5ee991e1888fadce9a3c29bc31316359562386124bd"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f25b4655-b54c-58cd-acdf-beee1996439b",
+      "hashes": {
+        "SHA-256": "6ff18598dbf26038faa16773f277808cd9d39710ec6c9ec6109fec8550d1d53f"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de34df42-5174-59a2-ac35-8926793f7f1e",
+      "hashes": {
+        "SHA-256": "76eed6472d3ab97d3e69328cea84e6aa322791f5d3cc74007b929842c425820d"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcbc1f69-78a2-57cf-a57f-7fc1cff15e82",
+      "hashes": {
+        "SHA-256": "771f95a8df4b7fb058712e43bbf2549a97075518523f0cc409f3869181457b86"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27c1b6a8-91d5-5e51-bc7f-154e71580ce3",
+      "hashes": {
+        "SHA-256": "8000af302ad89c9555241366edc65b9b9b24828c8ea74bde658984b92e8c8ec6"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2382824-5430-5e15-aa47-84db00ccb4cd",
+      "hashes": {
+        "SHA-256": "81570ac9bdd4e1abf7b296b528c7507e7df773a7c3cf05ef01a874ba9af1b36f"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90d3ba34-c4f3-5974-bbc8-c84842e3ae10",
+      "hashes": {
+        "SHA-256": "8859a09fdc94d7048289d2481ede4c98dc342c0a0629cbcef2b91af32d52acb5"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e040d8b3-f7d5-5c51-b5dc-1e9e83d3dfd3",
+      "hashes": {
+        "SHA-256": "8c6352fc4fdaf2990f48e44ce1dce9ed375cdb75222f3dc2fc3b061d5bfa6acf"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7d4f14f-f97d-53d5-8566-ec5ebdf6f34b",
+      "hashes": {
+        "SHA-256": "8dfac6521ef877efede0a82bf46d94f590127e2607b78d08321953796fddbba9"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb9ca65a-93d7-5e8b-83e6-d0e86641d03e",
+      "hashes": {
+        "SHA-256": "8f02fa20b02ff6321a7db6dae478c2215bb463ebec6de4db73f247873aca1315"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd3acb1c-13b3-55e7-b2db-e5ae274db281",
+      "hashes": {
+        "SHA-256": "971b4db8b81a2c456839d4609364bb6cd7800c9ce980379bb5a11d1d4689d504"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5caff022-e337-53d4-81dd-16c0ec2fc12a",
+      "hashes": {
+        "SHA-256": "9a00b8b62d5194f22f690127084f626b1abbf88777b5b8474799bca1576e5fbd"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a60ea2aa-8fdb-5a83-a474-c42c51e6a6a7",
+      "hashes": {
+        "SHA-256": "9c57a2a27b6fcea5bcf1eda791ccdaa0eb3fdbf93781b37283d956332f4d2ceb"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0aa3ddfc-7f89-538f-8776-198983f3e439",
+      "hashes": {
+        "SHA-256": "9c66003fe79d9bc9570373c465e69dd5db56f24c51ad4bb16c83efde5b966510"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3854110-deae-5c58-9154-2b500284f0ca",
+      "hashes": {
+        "SHA-256": "a25eba7a79e46e5f6498ccb82fb4ef0eb3abe784fa0d061fe9e1adce9d39caa7"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28b89d3a-3089-50ab-abde-41a65cc4ccdc",
+      "hashes": {
+        "SHA-256": "a25f3604213a0db2375ddc2af800faa3833dc5597ca20b3138462c1d77faf952"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51eca589-c550-5f1d-8a73-c25157a0ccc1",
+      "hashes": {
+        "SHA-256": "a267937e172f4cd8ce873e4fcfceeddf07ae03db68f64e047f940e2e7a2a136a"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--90dddc75-d8cf-50ac-9469-b93bf8c02aeb",
+      "hashes": {
+        "SHA-256": "a58b9c9cece44216e2dd3304fd4825db3c324393607574f87bec00be505a0d93"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b166aa46-fbe5-547b-a2ac-a9f91faf0019",
+      "hashes": {
+        "SHA-256": "a8b9b74dee76ea6a19845b80498d91e002133d20741b6707744fb345a3581abe"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f0fa2df-bf4c-5fc5-b9a1-11cfb57bf3c4",
+      "hashes": {
+        "SHA-256": "a9fc36389bd687b547c9fbadaf75f1d27036c08385f4976acb8689ad79d83310"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66a70398-6f95-5276-b1ce-354273c157c0",
+      "hashes": {
+        "SHA-256": "ac5b9d33791a80387e99ddc1cb63346f975982741c6275be7ff03ce4b0459b4f"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--953b5b0c-4222-517f-9c58-fb70ddc41d49",
+      "hashes": {
+        "SHA-256": "ad3feb1cee5750d9acd0119fbfa6af56c07e9387d3ed24633afa48b2d031aaf3"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2cf8c944-52a3-5b66-b2b5-fab7eef400d0",
+      "hashes": {
+        "SHA-256": "ae84d0d6b9935499a5e0e18052ce7ea64378eba1e9579ca98fdd925d8e6f8639"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--30e6be57-e747-510c-b671-d8691c8b93f2",
+      "hashes": {
+        "SHA-256": "b39c5fb42f54275630c05925a1c8f0d92373560b4a735b8d9a63e6498b25ecfb"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7feb8158-96a8-5c69-a50e-8ee0ca906064",
+      "hashes": {
+        "SHA-256": "b425de9b0e7fe10b89b730339bbcda2d0d4668f5b9226be633409cfb89b3dacd"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b122e9eb-d437-5e56-8e10-86f78888d438",
+      "hashes": {
+        "SHA-256": "b926fcc98f23905abd76b7ed9fa50fb84cc66aa9fb7994064ada715702e80722"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6430467-3c38-5b0e-acfd-7b1b4c22c7fc",
+      "hashes": {
+        "SHA-256": "bacbe893b668a63490d2ad045a69b66c96dcacb500803c68a9de6cca944affef"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9540a225-63ed-5c95-8c4b-27c1bac19ed4",
+      "hashes": {
+        "SHA-256": "bf062d03ab77bfa835700f7131e6f95f19e2c5015ff65e47614b736ea9817dd6"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27b79e3b-6935-521e-a8ad-fa8d806fa326",
+      "hashes": {
+        "SHA-256": "c7a5a4fb4f680974f3334f14e0349522502b9d5018ec9be42beec5fa8c1597fe"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7119dc00-7911-5d46-8837-6d9ce633e046",
+      "hashes": {
+        "SHA-256": "ccd5e869216640460c3329e41ec30fa22ee729f0b4fc2e61781026c4defea6e6"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8bde179c-3da4-5a7c-9077-e675fc1a3fcd",
+      "hashes": {
+        "SHA-256": "d155d0af73b3e86f42672714caa4391ab615c426a3e3fc44a41e4d125a06172a"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3bbc85b0-985a-5308-b7d4-2e3602805911",
+      "hashes": {
+        "SHA-256": "d9d53fcadc96c7bc3eae0a84a574b6222f0c906ee4916a9e68e0322b5c694d49"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a202197c-45d4-5bb3-a7f8-056a32f8e4e6",
+      "hashes": {
+        "SHA-256": "db2a48326f99f0944f50800539817cfb6562f2bfbbcc2f2409901319eb3592ec"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e957c72b-ace7-534c-95e4-b4e6524442b1",
+      "hashes": {
+        "SHA-256": "e47151f7c394e1b530314cc15d482b5ce797c803c251a61e45efb0316115c677"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a89ee2bf-4dc7-55b0-8771-d12093d8b0ad",
+      "hashes": {
+        "SHA-256": "e74c4cf311f2b3365605b6648d96baf5674990c3f181f01f462e1ba665bf1f7f"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4818f2ec-e33b-5446-824c-7ad14a07388f",
+      "hashes": {
+        "SHA-256": "f1227c5124e24e439b44083369d7fa7a719e076f5839629d2ef10aa5e19e6afc"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82860d26-672b-5e19-af17-d63de82e7299",
+      "hashes": {
+        "SHA-256": "f87a976dfd3881f59dbd2ea53fbfa3a663e1fff83a333b548b4fdc4651d5b8f7"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9cc0714-7479-5037-8605-46bbde24b030",
+      "hashes": {
+        "SHA-256": "fa6f641d78dcb36f15ea26b0a05a8a29b9761c7838c30a9b3bb09074bb4fc7c9"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5a5162f-058d-51a2-a0c6-8c40ebd4f58f",
+      "hashes": {
+        "SHA-256": "fa911a3639ae77f8f890fb76ba1ab78c2ab17ab80bdfec381ab6a9ba8fef32fe"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ded42786-f28b-5dfd-bf9b-6a5118f06d82",
+      "hashes": {
+        "SHA-256": "fce4ca6e37d466154ed49871ac31116473b1c72cf36a9653af80e9cc83edb358"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--efc10b5f-da2f-5516-9fd9-e50bc78221aa",
+      "hashes": {
+        "SHA-256": "ff32997b85098d2bb0f1adccc5dc4e608a869dd54fc8539482788855d53d43b7"
+      },
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14bfb072-b197-5859-8343-63b1334bc1ad",
+      "value": "work3.py",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60f78bc2-12fd-5bb9-b21a-1677d4a11c2e",
+      "value": "4.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--02759ae6-c8ca-5f36-8c69-71de71533a4f",
+      "value": "AnyDesk.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39fee589-d5c4-5730-9019-fe9dd5554937",
+      "value": "ton.zip",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5979601b-103f-5656-a894-66020b836cdb",
+      "value": "TreeSizeFreeSetup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d246c37-d3f0-5b83-9128-1e80e72215e8",
+      "value": "work8.py",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3170c42-9fb6-5e85-bf95-27dadc71d18b",
+      "value": "winscp.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd267a7f-0434-5918-8e02-ba542fbc6275",
+      "value": "msi.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9213e5c9-f66e-5726-a9cd-62946ea29b3d",
+      "value": "python310.dll",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c202e948-c9fe-50f2-95fb-8f49a35205f4",
+      "value": "v4.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ba726aa5-ad10-5cf8-b6c7-aae914e7547d",
+      "value": "https://dayvisson.com/WinSCPSetup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa987d7-fade-572a-9fa0-af1b7e5acffd",
+      "value": "Setup.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60f78bc2-12fd-5bb9-b21a-1677d4a11c2e",
+      "value": "4.iso",
+      "x_opencti_description": "Nitrogen 2023-07.csv"
+    }
+  ]
+}

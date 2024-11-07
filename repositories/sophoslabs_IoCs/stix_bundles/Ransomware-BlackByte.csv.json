@@ -1,0 +1,38 @@
+{
+  "type": "bundle",
+  "id": "bundle--475656bb-22d6-49f2-82cb-24f97725b6dc",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1bfb8ecc-7801-58ef-8bf4-b067a8be7805",
+      "value": "https://news.sophos.com/en-us/2022/10/04/blackbyte-ransomware-returns",
+      "x_opencti_description": "Ransomware-BlackByte.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--504210b8-4202-5ead-833d-4a5a3d96682a",
+      "hashes": {
+        "SHA-256": "01aa278b07b58dc46c84bd0b1b5c8e9ee4e62ea0bf7a695862444af32e87f1fd"
+      },
+      "x_opencti_description": "Ransomware-BlackByte.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d466ca1-55a2-5cb2-bb89-7c51fbf07f04",
+      "hashes": {
+        "SHA-256": "9103194d32a15ea9e8ede1c81960a5ba5d21213de55df52a6dac409f2e58bcfe"
+      },
+      "x_opencti_description": "Ransomware-BlackByte.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3bc85322-43fb-5b4c-ba61-274bd99d0dae",
+      "value": "RTCore64.sys",
+      "x_opencti_description": "Ransomware-BlackByte.csv"
+    }
+  ]
+}

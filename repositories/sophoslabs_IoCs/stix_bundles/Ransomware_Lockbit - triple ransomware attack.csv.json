@@ -1,0 +1,66 @@
+{
+  "type": "bundle",
+  "id": "bundle--98a91463-6889-4b9d-b6ba-acd392e981c4",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4a8d2456-fbd9-59d7-89f7-522ac9bde411",
+      "value": "https://news.sophos.com/en-us/lockbit-hive-and-blackcat-attack-automotive-supplier-in-triple-ransomware-attack",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df7f368f-0dfd-526e-8ece-1f1980af7d16",
+      "hashes": {
+        "SHA-256": "24a087ac1d44356a49e67dbfdc8bd1a393a524282f2b4df2daa76e3a38638f2f"
+      },
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7ebd1a90-42ea-5312-b243-cc68831c5e76",
+      "hashes": {
+        "SHA-256": "a385b92ce5ffa4171c94997f158ec5c02181da77ec0bc5f9457c98fb9d38158b"
+      },
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--129ba316-1950-5cd9-853a-8971f7c16514",
+      "value": "locker.exe",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--129ba316-1950-5cd9-853a-8971f7c16514",
+      "value": "locker.exe",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae1eda6c-45a3-5888-b1e9-3513cfc5bd88",
+      "value": "Files.txt",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb8c27c4-89b5-57cf-8f2f-37764ccf674f",
+      "value": "1.bat",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--593d5d08-fe8a-5f03-8211-0baa52cb1672",
+      "value": "2.bat",
+      "x_opencti_description": "Ransomware_Lockbit - triple ransomware attack.csv"
+    }
+  ]
+}

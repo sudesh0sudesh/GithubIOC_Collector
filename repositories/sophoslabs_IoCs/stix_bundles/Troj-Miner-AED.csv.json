@@ -1,0 +1,180 @@
+{
+  "type": "bundle",
+  "id": "bundle--1ad55fb9-5791-4223-a8bf-cd8fef146887",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e7e8a7c-3b9e-5b17-a6f6-528b75c998b5",
+      "value": "212.192.241.155",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e7e8a7c-3b9e-5b17-a6f6-528b75c998b5",
+      "value": "212.192.241.155",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e7e8a7c-3b9e-5b17-a6f6-528b75c998b5",
+      "value": "212.192.241.155",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e7e8a7c-3b9e-5b17-a6f6-528b75c998b5",
+      "value": "212.192.241.155",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--877c30f2-4b2e-5f67-ad24-7fc830e2ee69",
+      "value": "https://news.sophos.com/en-us/2022/06/15/telerik-ui-exploitation-leads-to-cryptominer-cobalt-strike-infections",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a58f4f49-fdbd-5159-9476-071216722dbb",
+      "hashes": {
+        "SHA-256": "89eb0b66022dc2e5ac1e86b01fb833ebdbf94ee2ac276c9b3bebb3117058a7b0"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9415f608-5001-51bf-a0c2-4ac4eaa9e20f",
+      "hashes": {
+        "SHA-256": "09bfa448e4bbea8fe36be6962b963cfadf764593e03b314c9ce81f9b2cff1349"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8feee831-36aa-5705-9279-6e45e6918eac",
+      "hashes": {
+        "SHA-256": "eadbfd03da46bc719b7c6723c12ddaa30599ae1648c7e16c1c04cd4735c031ac"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22f8ff52-8f62-5f03-a53a-6f50f54fd74c",
+      "hashes": {
+        "SHA-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8900b29-00f0-5ed0-9595-30a9c326b313",
+      "hashes": {
+        "SHA-256": "210035d092b7c2bf79303b32952f2fa74363b2381743f5a0caadb9204f665712"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e62497a5-c07d-579f-8d13-f8ee73db70d0",
+      "hashes": {
+        "SHA-256": "75f92b9a79c8f680cf1230653e3ae6c97d694afc0f7eec88f92cf6b6f3f38b50"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40df4d92-6d79-575b-878b-9375f1230bed",
+      "hashes": {
+        "SHA-256": "f3c70fe17d07e47c50c5a62de4e2b40bdeee45533133b1809c400c49660be643"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1761a1cf-3a2f-5e2a-bf11-06f3fd7abebe",
+      "hashes": {
+        "SHA-256": "dae5dbbee83b4e8cf9c9037b329a77f65cd2072df10a62809470f6b816aee49b"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bac8f4a-c608-5464-bceb-2aeeb123ff4b",
+      "hashes": {
+        "SHA-256": "7a9ad48dea2dde18b743d3412ebd7bf7e51a24b5a0273fc9eb042301bb68d6f1"
+      },
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--1d49edff-c521-40dc-b25b-e84c71009cfb",
+      "created": "2024-11-07T12:46:10.368891Z",
+      "modified": "2024-11-07T12:46:10.368891Z",
+      "name": "CVE-2019-18935",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--500b31fd-30e8-5cc2-93d1-1e21809f6198",
+      "value": "setup192.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--500b31fd-30e8-5cc2-93d1-1e21809f6198",
+      "value": "setup192.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--effad661-22e7-5561-bdfe-31690db6fdab",
+      "value": "crby26td.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2fb32b0-f573-56e9-87fe-d1e15fa67693",
+      "value": "7q5t6057.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13d62cf6-ce2c-56f6-bb83-8f47e273d89c",
+      "value": "uutfgfiy.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa92d9b8-3594-595b-959f-79b28ecf0fd2",
+      "value": "baopiwac.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d9dc09f-13d9-5535-9ff0-2a4e12b54afb",
+      "value": "tuh25o6n.exe",
+      "x_opencti_description": "Troj-Miner-AED.csv"
+    }
+  ]
+}

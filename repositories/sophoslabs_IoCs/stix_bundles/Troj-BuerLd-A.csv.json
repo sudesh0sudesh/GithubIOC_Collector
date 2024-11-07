@@ -1,0 +1,63 @@
+{
+  "type": "bundle",
+  "id": "bundle--6a33c043-dc75-4424-9d34-d0741453580d",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6faca2b2-a04e-5870-a45f-6ecbc125a5a6",
+      "value": "104.248.83.13",
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f47e33ea-7414-5eb3-9fa7-18abb85c5130",
+      "value": "https://news.sophos.com/en-us/2020/10/28/hacks-for-sale-inside-the-buer-loader-malware-as-a-service",
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a30b6c44-2b78-5401-867b-ac51b9b697a1",
+      "hashes": {
+        "SHA-256": "5b607f001ba62e042344d30b65cad2774df2deb50e0b92c33da85e9338c123c4"
+      },
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb164441-569c-52ba-b45c-a36371bf6d7a",
+      "hashes": {
+        "SHA-256": "6c7f43434e5db8703c0a47dedeeab976159d8704bfbe2e4ff65405f38d508e9d"
+      },
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--940143c3-c028-5c8d-a2af-316fdc83b4c9",
+      "hashes": {
+        "SHA-256": "32616f41a71fc7a4286736a6fc77da2a555dbc8301a8bd5fbdbab231955a42c5"
+      },
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8cfb8f3-f78a-5899-819d-b7de681af673",
+      "hashes": {
+        "SHA-256": "10943b90969722bf359e4b039d2953e02072e03e0a7f1bdb1dea09d9197288b1"
+      },
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6982e9b0-3138-5c22-9f0f-d794acbc9887",
+      "value": "RTM.DLL",
+      "x_opencti_description": "Troj-BuerLd-A.csv"
+    }
+  ]
+}
