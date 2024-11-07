@@ -186,7 +186,8 @@ class IOCFetcher:
                                     f.write(f"{str(ioc)}\n")
                     if stix_objects:
                         bundle = Bundle(objects=stix_objects, allow_custom=True)
-                        stix_path = os.path.join(repo_folder, 'iocs', f"{file_name}.json")
+                        stix_path = os.path.join(repo_folder, 'stix_bundles', f"{file_name}.json")
+                        os.makedirs(os.path.dirname(stix_path), exist_ok=True)
                         with open(stix_path, 'w') as f:
                             f.write(bundle.serialize(indent=2))
             except requests.RequestException as e:
