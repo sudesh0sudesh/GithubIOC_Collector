@@ -151,7 +151,7 @@ class IOCFetcher:
                         os.makedirs(os.path.dirname(ioc_path), exist_ok=True)
                         with open(ioc_path, 'w') as f:
                             for ioc in iocs:
-                                logging.info(ioc['kind'])
+                                logging.info(ioc.kind)
                                 if hasattr(ioc, 'value'):
                                     f.write(f"{ioc.value}\n")
                                 elif hasattr(ioc, 'ioc'):
