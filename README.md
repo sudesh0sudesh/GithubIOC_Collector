@@ -16,8 +16,8 @@ The following sources are being collected and parsed:
 
 1. **sophoslabs/IoCs**
    - Repository: [sophoslabs/IoCs](https://github.com/sophoslabs/IoCs)
-   - Latest commit: 5a9daf78aa5800c0efea64e4f8ec37bf25bd31b1
-   - Last updated: 2024-11-06 17:24:13
+   - Latest commit: ea45e467d2956a3382e8f513d037e52429c328c9
+   - Last updated: 2024-11-07 10:13:11
 
 2. **ThreatLabz/iocs**
    - Repository: [ThreatLabz/iocs](https://github.com/ThreatLabz/iocs)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: 04f53f76c36778be1d478dd31dedd0ade51b9be5
-   - Last updated: 2024-11-06 23:22:04
+   - Latest commit: ef67e88ee4c1303d8e20e8ec362f13c79589fe7c
+   - Last updated: 2024-11-07 10:13:14
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
