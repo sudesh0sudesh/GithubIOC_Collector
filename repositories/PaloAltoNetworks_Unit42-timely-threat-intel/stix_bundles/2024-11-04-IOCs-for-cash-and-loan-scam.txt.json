@@ -1,0 +1,237 @@
+{
+  "type": "bundle",
+  "id": "bundle--f06deef6-3fad-4859-b23e-b10d6227d175",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5076b7b3-aabf-5c14-bfd9-c3a4fb7d1b31",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-scam-dropcaught-activity-7260314072762507264-wEEX",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24dff121-2b13-5138-bf44-1231c013f4b9",
+      "value": "app.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--522101ca-87eb-5c9a-90a0-74b918dd55f9",
+      "value": "today.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3858edfb-757a-548f-8a39-f1aea9cc5f83",
+      "value": "cash.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d71ba2a-23a8-536a-b31b-8e0d40e545fd",
+      "value": "now.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3858edfb-757a-548f-8a39-f1aea9cc5f83",
+      "value": "cash.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e808c3d5-3e3d-50c8-b200-42c244e88c08",
+      "value": "45.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e808c3d5-3e3d-50c8-b200-42c244e88c08",
+      "value": "45.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e808c3d5-3e3d-50c8-b200-42c244e88c08",
+      "value": "45.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f0b6521-41e2-575f-90d2-e61ef4afd4a7",
+      "value": "eligibility.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39f2ffd3-0799-588b-940f-6908e1f1572c",
+      "value": "approval.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b38f30e1-7d7f-5f50-8b0d-8060bf88b5f6",
+      "value": "interest.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--522101ca-87eb-5c9a-90a0-74b918dd55f9",
+      "value": "today.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3858edfb-757a-548f-8a39-f1aea9cc5f83",
+      "value": "cash.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2b570cfa-0e0f-57e4-b0da-947487c29308",
+      "value": "online.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91ab1dbd-4001-5d40-b0a2-b86d7324d7a1",
+      "value": "loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05485d47-5a75-5077-abb7-3fe07423ef2b",
+      "value": "32loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29b9d32d-7a44-50c0-b5ed-58960c6e5871",
+      "value": "34loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37cc9e52-9a96-52f2-8f34-03c81211af0a",
+      "value": "48loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73dedfb9-1963-5aaf-955a-4f00a8b55ceb",
+      "value": "55loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d394cfe-5339-5506-b0d7-1a6b7b3f6350",
+      "value": "56loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e27bd7f-514a-53eb-bc25-feb61287531c",
+      "value": "69loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f8de505-5291-5144-a61f-7746a6a81329",
+      "value": "76loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec7d8b28-5b81-5a1b-802a-ab652dcf04f7",
+      "value": "90loan.com",
+      "x_opencti_description": "2024-11-04-IOCs-for-cash-and-loan-scam.txt"
+    }
+  ]
+}
