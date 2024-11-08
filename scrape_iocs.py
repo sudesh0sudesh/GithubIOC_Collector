@@ -149,7 +149,7 @@ class IOCFetcher:
                     f.write(response.content)
                 stix_objects = []
                 # Extract IOCs if applicable
-                if file_name.lower().endswith(('.txt', '.csv')) and file_size < 10000000:
+                if file_name.lower().endswith(('.txt', '.csv', '.md5', '.sha1', '.sha256')) and file_size < 10000000:
                     logging.info(f"Processing {file_name}")
                     parser = IOCParser(response.text)
                     iocs = parser.parse()
