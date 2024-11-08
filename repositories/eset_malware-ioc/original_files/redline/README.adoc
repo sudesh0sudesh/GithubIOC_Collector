@@ -1,0 +1,72 @@
+= Life on a crooked RedLine: Analyzing the infamous infostealer’s backend –- Indicators of Compromise
+
+The blog post on the RedLine backend is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/
+
+== Files
+
+[options="header"]
+|===
+|SHA-1 |Filename |Detection |Description
+|`+02745136365904FF4DE209C7EC817BA229BC205F+` |MainServer.exe |N/A |RedLine back end licensing server GUI.
+|`+063E367AAF0A5BA9F38DAB15BC3EDFFC9CB57DFA+` |MainServer.exe |N/A |RedLine back end licensing server GUI.
+|`+18460043ACB3BEF8FEF2DDC54C261F3FDBFB2DA6+` |RedLine.MainServer.exe |N/A |RedLine back end licensing server GUI.
+|`+3F48CC50B64919F8796DF4B76CA59805D705ABE7+` |RedLine.MainServer.exe |N/A |RedLine back end licensing server GUI.
+|`+DC3A236245AE8C4D5D079E429ED6B77A5B5245C2+` |RedLine.MainServer.exe |N/A |RedLine back end licensing server GUI.
+|`+06A2A900561C122F45088A5EAE9146F7675C63F6+` |rsa.exe |N/A |Tool to encrypt list of C&C servers.
+|`+B370FB2AF0288FDAE38156F287E67943BB3F1505+` |RSA.exe |N/A |Tool to encrypt list of C&C servers.
+|`+C51F838854A681B1989115BD8D1938DDE7294363+` |rsa.exe |N/A |Tool to encrypt list of C&C servers.
+|`+1626F2666782710FC28D4AFE607C7BE54F1FC67F+` |RedLine.Nodes.LoadBalancer.exe |N/A |RedLine back end server module.
+|`+2FD703E243583E8F93D4FC27B621652C982CC2A9+` |RedLine.Nodes.LoadBalancer.exe |N/A |RedLine back end server module.
+|`+A154DFAEDC237C047F419EB6884DAB1EF4E2A17D+` |Panel.exe |MSIL/Spy.RedLine.H |RedLine Panel (leaked cracked version).
+|`+37D1221CE6BB82E7AD08FD22BD13592815A23468+` |RedLine.SharedModels.dll |MSIL/Spy.RedLine.K |RedLine models and contracts definitions.
+|`+7B3512F6740EB09CF51D9772B11186D80F3BB50B+` |RedLine.SharedModels.dll |MSIL/Spy.RedLine.J |RedLine models and contracts definitions.
+|`+66C0E7E74C593196E0925A7B654E09258E3B1FB7+` |Panel.exe |Win32/GenCBL.ATC |RedLine panel (version 22.4)
+|`+2E5D9F2ED82C81609F4C49EA31642B1FB5FC11B5+` |RedLine.MainPanel.exe |MSIL/Spy.RedLine.H |RedLine panel (non-virtualized).
+|`+94596AE19BB120B27A86B48AA3E34F0A54E49E82+` |redline.mainpanel.exe |MSIL/Spy.RedLine.H |RedLine panel (non-virtualized).
+|`+47B78A5698A289C73175C5C69786DE40C7C93C12+` |RedLine.SharedModels.dll |MSIL/Spy.RedLine.J |RedLine models and contracts definitions.
+|`+49BE1D7C87AC919BB9083FA87F7B907E5F2C9835+` |Panel.exe |MSIL/Spy.RedLine.H |META Stealer Panel.
+|`+D2D8D76061210D3A9DB8096D93991AA6757BAE67+` |Panel.exe |MSIL/Spy.RedLine.H |META Stealer Panel.
+|`+4BF4D42EED7FCA8FD52863B7020AC646EC6D97E9+` |RedLine.Nodes.DbController.exe |N/A |RedLine back end server user and advertisement management module.
+|`+F7AB795FA12BCB2A40DEE0BD7EC3E121C69E182D+` |RedLine.Nodes.DbController.exe |N/A |RedLine back end server user ad advertisement management module.
+|`+CB19E0273F2B559B95D7C7A64053504C856BFA82+` |RedLine.Nodes.DbController.exe.deploy |N/A |RedLine back end server user and advertisement management module.
+|`+27BD472729439D5B8814D4A8A464AF9832198894+` |Panel.exe |MSIL/Spy.RedLine.H |RedLine panel (version 26).
+|`+1AD92153B56FC0B39F8FCEC949241EC42C22FA54+` |Nodes.Api.exe |N/A |RedLine back-end single-file application.
+|`+8A0CAFE86C0774F1D9C7F198505AE15D04447DD6+` |MainServer.exe |N/A |RedLine back-end user and advertisement management module (2024 version).
+|`+607DBA5F630A1DBFF0E13EEBA2730AB9AB2FB253+` |Nodes.Api.dll |N/A |RedLine back-end main module.
+|`+FB3ABAC1FAC852AE6D22B7C4843A04CE75B65663+` |Panel.exe |MSIL/Spy.RedLine.O |META stealer panel (2024 version).
+|`+EE153B3F9B190B1492DEFBB1C70830A28F7C41B2+` |RedLine.MainPanel.exe |N/A |RedLine stealer panel (2024 version).
+|`+1AB006B1C5403BA4648059DF93B6DAEB0E3EC43F+` |Panel.exe |MSIL/Spy.RedLine.O |RedLine stealer panel (2024 version).
+|===
+
+== Network
+
+[options="header"]
+|===
+|IP |Domain |First seen |Details
+| |`+spasshik[.]xyz+` |2024-06-02 |META backend REST server.
+| |`+fivto[.]online+` |2024-08-03 |RedLine backend REST server.
+|===
+
+== Mitre ATT&CK matrix
+
+[options="header"]
+|===
+|ID |Name
+|T1583.003 |Acquire Infrastructure: Virtual Private Server
+|T1583.004 |Acquire Infrastructure: Server
+|T1587.001 |Develop Capabilities: Malware
+|T1587.002 |Develop Capabilities: Code Signing Certificates
+|T1588.003 |Obtain Capabilities: Code Signing Certificates
+|T1608.002 |Stage Capabilities: Upload Tool
+|T1608.001 |Stage Capabilities: Upload Malware
+|T1622 |Debugger Evasion
+|T1027.002 |Obfuscated Files or Information: Software Packing
+|T1132.001 |Data Encoding: Standard Encoding
+|T1573.001 |Encrypted Channel: Symmetric Cryptography
+|T1573.002 |Encrypted Channel: Asymmetric Cryptography
+|T1071.001 |Application Layer Protocol: Web Protocols
+|T1095 |Non-Application Layer Protocol
+|T1102.001 |Web Service: Dead Drop Resolver
+|T1571 |Non-Standard Port
+|===
