@@ -1,0 +1,482 @@
+{
+  "type": "bundle",
+  "id": "bundle--9d3efedf-ae63-4a64-99d2-86937d264e5d",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3afac3a4-6c0d-5681-8ac8-ed07a1e23b62",
+      "value": "43.153.149.164",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dfce87f2-a5d4-5868-a450-11611bac27c6",
+      "value": "101.36.105.44",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--102ca2de-4a4b-53ec-9d95-ba0faccda09d",
+      "value": "101.36.105.98",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b1830f6b-1430-59e7-971f-3cbeb1eadf98",
+      "value": "124.156.212.175",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4f06b53f-3434-53d1-9d5c-acc070bc4552",
+      "value": "165.154.231.17",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d28cc698-3a49-5314-90c2-67073f9b40e9",
+      "value": "165.154.231.34",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--92cda72d-5805-51d3-bfc3-11271e5eb23c",
+      "value": "165.154.231.62",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--689906ec-da05-5820-8048-8d48b71560c3",
+      "value": "165.154.231.96",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d33e46c2-469c-5af3-865a-27b67d2068f4",
+      "value": "165.154.231.99",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e914b06-2e2f-54d3-960d-72a803cdfe44",
+      "value": "165.154.231.175",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b9569a0-1e25-50e0-87ae-74fb2d2c1403",
+      "value": "165.154.231.184",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8235cee7-2181-5989-95f9-eac3d912a345",
+      "value": "43.128.237.191",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aca98202-a149-5cae-86dd-fb814228ab49",
+      "value": "43.128.237.235",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9a37f447-b123-5741-8585-d7571d1b35f9",
+      "value": "43.130.232.219",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1074f84f-78d8-5c1f-ad36-2fdc77dc1eb3",
+      "value": "43.130.245.23",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b687594a-7bc5-51d7-a1ca-7be5e37b5a70",
+      "value": "43.133.12.183",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c0aff31-3eaf-5c31-9415-71df5cee5d6d",
+      "value": "43.133.13.115",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--77a0ebaf-2bf2-5658-8e53-00d0bd0f6d23",
+      "value": "43.133.13.196",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6186771f-36a0-5c8c-9043-3afa4138aa5f",
+      "value": "43.133.173.108",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63ca0d18-1064-5454-bba6-451161c8493d",
+      "value": "43.133.193.162",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--634bf959-483f-5c42-98d7-f40dd6197fcc",
+      "value": "43.133.193.3",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--79afa5a9-6be5-5433-99fa-09f704cf1abd",
+      "value": "43.133.196.251",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e94cfe0-c1cb-59fa-a017-cfba41db5f82",
+      "value": "43.133.8.139",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--93cda665-aa74-57f4-b3b6-345c49dd0f8c",
+      "value": "43.153.140.10",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a45136ef-d06d-5933-a4e7-774c240a4eb7",
+      "value": "43.153.147.20",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3afac3a4-6c0d-5681-8ac8-ed07a1e23b62",
+      "value": "43.153.149.164",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d0bd1b0b-cd5a-5507-a0c2-be792fcf029c",
+      "value": "43.153.168.126",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c7fad56d-062b-5e5f-ac1f-87bf3b01bb55",
+      "value": "43.153.176.165",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--003d2f76-163d-5c00-b6c4-801ac2c15f7a",
+      "value": "43.153.178.121",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--27e03e13-f9b6-52e3-a65b-4bd00d8cae38",
+      "value": "43.153.183.161",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7eaa06c4-73df-5c68-b911-556389d78fea",
+      "value": "43.153.185.146",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9ed9c99a-5c81-5fcb-a605-8b4de54ea52c",
+      "value": "43.163.198.51",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e57cc99f-64f2-5e5d-8183-9d7bfc9ad2f7",
+      "value": "43.163.204.5",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--138c42ad-46f8-5cb9-92f8-a97c40e96045",
+      "value": "43.163.212.225",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1c84ee1a-3586-5d58-815b-d107f19d4eca",
+      "value": "43.163.221.38",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a971f86b-1122-59ad-9f92-a16e8877317d",
+      "value": "43.163.234.142",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3988c79e-e6e3-535d-bf41-097e87bc0df7",
+      "value": "43.163.238.42",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--08a87179-1004-57e7-af00-59255cbab5a8",
+      "value": "43.167.237.47",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8cfece8b-1d09-5d27-9ed1-9e77fa4e2744",
+      "value": "asdfghjklzxcvbnmqwertyuiopmlkhnas.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--470d7821-272d-5053-80d8-551d3a78144c",
+      "value": "asdfghjklzxcvbnmqwertyuiopnlkasuopas.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8fd182b-1717-5ad5-8930-5a2ae690c8d7",
+      "value": "iunjeanjed.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38e99052-1c3c-5e1c-b4ad-a4580b77d526",
+      "value": "iwmaasdioas.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4a83fed-6499-50be-9e63-b0b5a438bb9b",
+      "value": "tinfrnub.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83072791-dbd8-530e-ba8b-4d625bb97aea",
+      "value": "ybrjaobs.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8e35ae8-7e5e-5d78-a19f-760aa8f1aa94",
+      "value": "ybrjaonjws.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--331106e0-0dfe-5bcd-ac24-887ac696ed8a",
+      "value": "yngsowusad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24e68344-ef25-5269-82f2-d47a435b2818",
+      "value": "tkwouiasf.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51792cd3-7daf-56a5-9d31-269022f7de3f",
+      "value": "inkiunf.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca853bfa-0556-5ca6-a777-5cb26e891016",
+      "value": "tinfrnnjic.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5671d73-bfc5-56fb-8001-cfebb4308fc1",
+      "value": "tinfrns.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9fdf87f9-46f9-5a61-a959-0f8fcbbe6aa2",
+      "value": "masrpjw.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88e8e97c-c433-5c89-84b5-66b900e72351",
+      "value": "wernhgb.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bfa4260-65eb-5cbb-a334-660d98a0143b",
+      "value": "yahoo.co",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa205606-5376-5d5f-8bfe-8e12997157d0",
+      "value": "electpmw.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bfa4260-65eb-5cbb-a334-660d98a0143b",
+      "value": "yahoo.co",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0665561-2167-575e-9192-844e7349af1e",
+      "value": "kpjpns.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f730106e-4b30-579e-bc71-fc2e3e55142a",
+      "value": "somethingbad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f730106e-4b30-579e-bc71-fc2e3e55142a",
+      "value": "somethingbad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f730106e-4b30-579e-bc71-fc2e3e55142a",
+      "value": "somethingbad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--84eeb54f-9dae-58da-b468-62e93351b451",
+      "value": "compctjcpyndamyntbasquvczdjegcsflwhugcfmai@inkiunf.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--08839439-e357-5799-b20a-8e0ae56203cb",
+      "value": "comjdlppqploqayhmkeqsklvshkalnhvzhqvpmlmln@tinfrnnjic.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--9ad5e373-d505-5287-ac9a-6997a98aa55e",
+      "value": "comsivrdctigsupylijeidyeqjnprojhxtpzglruhl@tinfrns.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--8759cac4-e982-52e5-8544-c9eb9d6858db",
+      "value": "comewsbqmsttsfhfmedaagcdfncbbfqmfylshzfwkm@masrpjw.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--ee4220da-d851-5fea-a0ac-607f4c53674e",
+      "value": "comtihjporzafkaiueyuzyvoxkhxklhjbwpnjjshmy@wernhgb.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--b02bf475-2c47-506e-857b-14b90898fe6f",
+      "value": "jpybexxlqlrorrekqpwiqrdsgxcvvtfvfjcbogaot@electpmw.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--d1c82eb2-5d53-5727-918c-98e2749ab3ce",
+      "value": "jpagfblgsnimurlzxbzcecdaozxcuknpzmkacvhql@kpjpns.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--12022568-78b6-5fdb-90f0-e0aaca684ff7",
+      "value": "something@somethingbad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--12022568-78b6-5fdb-90f0-e0aaca684ff7",
+      "value": "something@somethingbad.com",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    }
+  ]
+}
