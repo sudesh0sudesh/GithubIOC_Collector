@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--9d3efedf-ae63-4a64-99d2-86937d264e5d",
+  "id": "bundle--9882d744-4bfc-4382-a663-bde93acb3501",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -266,6 +266,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--08a87179-1004-57e7-af00-59255cbab5a8",
       "value": "43.167.237.47",
+      "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b4ce6a55-cebe-5781-a216-dd0b877a9c0f",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7261828808884801536-pVJQ",
       "x_opencti_description": "2024-11-08-domains-for-Japan-targeted-phishing.txt"
     },
     {
