@@ -56,8 +56,8 @@ The following sources are being collected and parsed:
 
 9. **PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information**
    - Repository: [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information)
-   - Latest commit: 00edefe2a4b08a77e4fe07d09ee6a2d80aaed97c
-   - Last updated: 2024-11-06 21:23:49
+   - Latest commit: f0bbc648b3ba0226299c5763494aa2079cfaa802
+   - Last updated: 2024-11-12 21:10:20
 
 10. **blacklotuslabs/IOCs**
    - Repository: [blacklotuslabs/IOCs](https://github.com/blacklotuslabs/IOCs)
