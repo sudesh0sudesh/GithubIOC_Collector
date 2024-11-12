@@ -35,11 +35,12 @@ rule cw_Windows_Redline_panel_tab_headers
         description = "Matches view headers in Redline Panel"
         author = "ESET Research"
         date = "2022-10-11"
+        last_modified = "2024-11-12"
         hash = "A154DFAEDC237C047F419EB6884DAB1EF4E2A17D"
         reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
         source = "https://github.com/eset/malware-ioc/"
         license = "BSD 2-Clause"
-        version = "1"
+        version = 2
     strings:
         $ = "RedLine | Log In"
         $ = "RedLine | Autofilles Viewer"
@@ -50,7 +51,7 @@ rule cw_Windows_Redline_panel_tab_headers
         $ = "RedLine | Log saver"
         $ = "RedLine | System Info Viewer"
     condition:
-        pe.is_pe and 6 of them
+        uint16(0) == 0x5A4D and 6 of them
 }
 
 rule cw_Windows_Redline_panel_distinctive_strings
@@ -59,11 +60,12 @@ rule cw_Windows_Redline_panel_distinctive_strings
         description = "Matches rare strings found in Redline panel"
         author = "ESET Research"
         date = "2022-10-11"
+        last_modified = "2024-11-12"
         hash = "A154DFAEDC237C047F419EB6884DAB1EF4E2A17D"
         reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
         source = "https://github.com/eset/malware-ioc/"
         license = "BSD 2-Clause"
-        version = "1"
+        version = 2
     strings:
         $env_var = "%DSK_23%"
         $fn_name = "IsGratherThan"
@@ -71,7 +73,7 @@ rule cw_Windows_Redline_panel_distinctive_strings
         $telegram1 = "https://t.me/REDLINESUPPORT"
 
     condition:
-        pe.is_pe and any of them
+        uint16(0) == 0x5A4D and any of them
 }
 
 rule cw_Windows_Redline_panel_prompts
@@ -80,11 +82,12 @@ rule cw_Windows_Redline_panel_prompts
         description = "Matches prompt messages in Redline panel"
         author = "ESET Research"
         date = "2022-10-11"
+        last_modified = "2024-11-12"
         hash = "A154DFAEDC237C047F419EB6884DAB1EF4E2A17D"
         reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
         source = "https://github.com/eset/malware-ioc/"
         license = "BSD 2-Clause"
-        version = "1"
+        version = 2
     strings:
         $ = "Choose directory to save log"
         $ = "Select log to set comment"
@@ -106,7 +109,7 @@ rule cw_Windows_Redline_panel_prompts
         $ = "Enter a valid count of bytes. Must be more then zero"
         $ = "Disconnected. Reboot your panel"
     condition:
-        pe.is_pe and 10 of them
+        uint16(0) == 0x5A4D and 10 of them
 }
 
 rule cw_Windows_Redline_panel_status_message_strings
@@ -115,11 +118,12 @@ rule cw_Windows_Redline_panel_status_message_strings
         description = "Matches error/success messages in Redline panel"
         author = "ESET Research"
         date = "2022-10-11"
+        last_modified = "2024-11-12"
         hash = "A154DFAEDC237C047F419EB6884DAB1EF4E2A17D"
-		reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
-		source = "https://github.com/eset/malware-ioc/"
-		license = "BSD 2-Clause"
-		version = "1"
+        reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
+        source = "https://github.com/eset/malware-ioc/"
+        license = "BSD 2-Clause"
+        version = 1
     strings:
         $ = "All Browsers are empty"
         $ = "Client [{0}:{1}:{2}] completed task with {3} ID."
@@ -134,7 +138,7 @@ rule cw_Windows_Redline_panel_status_message_strings
         $ = "FTPs not found"
         $ = "Files not found"
     condition:
-        pe.is_pe and 8 of them
+        uint16(0) == 0x5A4D and 8 of them
 }
 
 rule cw_Windows_Redline_panel_commands
@@ -143,11 +147,12 @@ rule cw_Windows_Redline_panel_commands
         description = "Matches commands and functionalities in Redline panel"
         author = "ESET Research"
         date = "2022-10-11"
+        last_modified = "2024-11-12"
         hash = "A154DFAEDC237C047F419EB6884DAB1EF4E2A17D"
-		reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
-		source = "https://github.com/eset/malware-ioc/"
-		license = "BSD 2-Clause"
-		version = "1"
+        reference = "https://www.welivesecurity.com/en/eset-research/life-crooked-redline-analyzing-infamous-infostealers-backend/"
+        source = "https://github.com/eset/malware-ioc/"
+        license = "BSD 2-Clause"
+        version = 2
     strings:
         $cmd0 = "Download"
         $cmd1 = "RunPE"
@@ -163,5 +168,5 @@ rule cw_Windows_Redline_panel_commands
         $action6 = "grabImClients"
         $action7 = "antiDuplicate"
     condition:
-        pe.is_pe and all of ($cmd*) and 4 of ($action*)
+        uint16(0) == 0x5A4D and all of ($cmd*) and 4 of ($action*)
 }
