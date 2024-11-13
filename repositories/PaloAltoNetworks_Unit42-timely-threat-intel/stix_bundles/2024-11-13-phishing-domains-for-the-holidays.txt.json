@@ -1,7 +1,35 @@
 {
   "type": "bundle",
-  "id": "bundle--c025f082-cf72-409c-bb08-5a35a0ac77dc",
+  "id": "bundle--cf22490e-2659-4966-8bcf-7f90fcd0187b",
   "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aa55dca9-601b-5fda-bed4-8c6325746d93",
+      "value": "46.173.214.86",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--73198219-d0c1-5820-aa72-b10bc58f396a",
+      "value": "80.64.24.116",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d1ba2ce2-ef9e-5e06-a403-5a64fd21e3cf",
+      "value": "147.45.48.99",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aef18561-d4d3-584f-87be-97360fd92d07",
+      "value": "178.253.40.69",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
