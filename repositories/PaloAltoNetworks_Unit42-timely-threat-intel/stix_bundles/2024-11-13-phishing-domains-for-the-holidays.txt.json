@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--cf22490e-2659-4966-8bcf-7f90fcd0187b",
+  "id": "bundle--33c555ef-6de3-452b-a247-581fe9310620",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -28,6 +28,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--aef18561-d4d3-584f-87be-97360fd92d07",
       "value": "178.253.40.69",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fdfeb4eb-c72e-51f6-8973-2298dae78fa1",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7262559881285517312-pX_v",
       "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
     },
     {
