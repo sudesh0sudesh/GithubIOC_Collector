@@ -1,0 +1,363 @@
+{
+  "type": "bundle",
+  "id": "bundle--c025f082-cf72-409c-bb08-5a35a0ac77dc",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b385dae8-6f4a-5225-83b2-843f9dae4eef",
+      "value": "gmail.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--32719b65-714d-5fa6-87da-e6bbfb6e39d7",
+      "value": "https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddca6a83-252b-5c35-a46d-247b5fa6786e",
+      "value": "6gmao.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a890850-a3fc-52ee-a35c-6b94eb412be9",
+      "value": "buffd2.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c6f2c00b-a6cc-5fcc-b4c9-4802155784f4",
+      "value": "elo7verificacao.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ed8396f4-0bc4-5c4d-a907-a360d5bd341f",
+      "value": "v3.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe52abeb-f13e-5fa1-b59f-ff7c6c700ca5",
+      "value": "slngtd.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7f276fd-2ad1-5ea4-970e-951c00eebd4c",
+      "value": "1incho.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c48b2d6-5521-5d8a-ba3d-0c5b2940f747",
+      "value": "401k.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--511d032d-9294-5c6a-a4d1-e01e1ae203d7",
+      "value": "caprevolve.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c90fc76-4843-555a-b8f4-2071a31c058e",
+      "value": "uberprufung.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59969de3-db23-5b01-a50a-f42c2255266f",
+      "value": "chatinvfolio.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7bdd497-08c4-54ef-b47f-1285f017cb49",
+      "value": "referensview5543.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6579999c-7b4c-57f4-8d57-03f6e312710c",
+      "value": "orderr.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d68f519f-f4a5-50df-b9dc-686eb5031727",
+      "value": "dextscreeneer.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f06124c-8b8c-58dc-b5bd-682beed761ee",
+      "value": "guestyrelus.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41278e85-88de-5162-8716-62a848db99b4",
+      "value": "nov08.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8eba7128-60f0-5e92-a5cc-edabb0f2ad2e",
+      "value": "hotelpolicies.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58d2f2c4-9fe8-53b3-8d42-4b2c1e9e98af",
+      "value": "hotelppolicy.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7fb373c-dce9-5bb5-80c9-a751e0a131d3",
+      "value": "hotelreluss.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88389eb8-b98b-558c-87b9-81427d367635",
+      "value": "id45436.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18b6eb5f-2574-53d9-a769-5298b203c267",
+      "value": "id76281.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb7ba807-fde1-5301-b79f-139b00faf9e0",
+      "value": "id983.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a0c9630-378b-5a7b-90bf-2fd48081d38a",
+      "value": "invrevise.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24dff121-2b13-5138-bf44-1231c013f4b9",
+      "value": "app.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1471f6a-aeb7-58bd-ad86-199003d06870",
+      "value": "mojaplatba.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9fdbaf7b-6efb-5638-834c-b0fd8e2ce3ed",
+      "value": "myhomes38.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f603619c-1f21-597c-8f71-ef93b05f7b85",
+      "value": "myhomes98.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eebe95cf-dd92-5b52-a317-dfce45d6526c",
+      "value": "operamarie.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24dff121-2b13-5138-bf44-1231c013f4b9",
+      "value": "app.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5272aa54-2f0c-591b-94f0-22de725da48f",
+      "value": "otelthematch2425.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--568e0e22-d860-559a-94f0-436437038eaf",
+      "value": "poshmark.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--506de4d0-142e-50fa-89a2-8ad584745542",
+      "value": "pizlanova.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39ae0aa9-c9fe-5835-b4e8-d7417662bd81",
+      "value": "policieshotel.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--507d3e58-253c-5c92-99c6-4f53f37dabe1",
+      "value": "rajskapartment.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2552914-36c1-5a55-bd06-0a22ca1bd09e",
+      "value": "rlsguesty.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41278e85-88de-5162-8716-62a848db99b4",
+      "value": "nov08.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41278e85-88de-5162-8716-62a848db99b4",
+      "value": "nov08.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--81de4bae-f4f7-55d8-9f67-dabb77c79a3e",
+      "value": "ciashofcoins.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e013c696-6028-5bfd-9178-749d88e20a70",
+      "value": "d2maket.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--706889dd-c21a-56d1-8250-e4423c29c3f7",
+      "value": "elon23.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6500958d-632f-5061-a8ea-521c1d9778b0",
+      "value": "home9438.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5fbcb3d4-1207-5514-ba95-68dcf56218a4",
+      "value": "marketsdota2.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49e4ec8e-ca32-5927-986b-921a110c32c8",
+      "value": "microqarzuz.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3bcf9f72-ed02-552a-b353-f581d860765d",
+      "value": "monesyg2.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecef26f7-c923-598d-9658-eceffbd966cd",
+      "value": "myhome9482.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6e0c52e-b513-5686-a25d-cb2353123736",
+      "value": "myworklifeatt.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c135c073-c6e3-5275-b453-6be73ea3cec1",
+      "value": "aktualisieren.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e650ae61-ed6c-5c3f-b1d8-80066b135838",
+      "value": "sghausfloidpmga.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c135c073-c6e3-5275-b453-6be73ea3cec1",
+      "value": "aktualisieren.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--cf6b7f12-423e-5068-acef-f529de59be15",
+      "value": "ilotirabec207@gmail.com",
+      "x_opencti_description": "2024-11-13-phishing-domains-for-the-holidays.txt"
+    }
+  ]
+}
