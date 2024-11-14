@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--c81d9639-f67e-463f-8c30-e9d325da12bf",
+  "id": "bundle--b7686aa6-d9f3-481b-bbea-ca4ef95c169e",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5454478f-6bab-59af-8769-a3bf64787a09",
+      "value": "https://www.linkedin.com/posts/unit42_raspberryrobin-activity-7262916467707265024-5p8f",
+      "x_opencti_description": "2024-11-14-IOCs-for-Raspberry-Robin-activity.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",

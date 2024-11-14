@@ -1,8 +1,13 @@
-2024-11-14 (THURSDAY): RASPBERRY ROBIN ACTIVITY
+2024-11-14 (THURSDAY): RASPBERRY ROBIN INFECTION CHAIN USES WEBDAV SERVER
 
 AUTHORS:
 
 - Veronika Senderovych, Shelly Markus
+
+REFERENCES:
+
+- https://www.linkedin.com/posts/unit42_raspberryrobin-activity-7262916467707265024-5p8f/
+- https://x.com/Unit42_Intel/status/1857150852114649216
 
 INFECTION CHAIN:
 
