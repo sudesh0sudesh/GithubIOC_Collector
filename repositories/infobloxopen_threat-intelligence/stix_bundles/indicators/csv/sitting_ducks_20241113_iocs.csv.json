@@ -1,0 +1,335 @@
+{
+  "type": "bundle",
+  "id": "bundle--e89db471-b7b7-46c5-8ec9-81ddc055024e",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--381522ba-7626-5464-b957-afa6d36d2e0f",
+      "value": "successbusinesspages.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--def00163-80a8-5858-b018-25acf4521402",
+      "value": "mstouchenaturals.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bea8a50-6679-5fab-a628-6c8f5953dbbb",
+      "value": "mpinc.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--326e3d52-5f1e-5d2a-bd18-aa6696469bee",
+      "value": "mcpennsylvania.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1a5a2ad-f5f7-581c-81db-6d9fb9856628",
+      "value": "tmsec.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61c45dfe-a00d-506b-b83a-e90cf6e38518",
+      "value": "missouri.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1021048-3a75-5af0-a604-c37f97f7c8f4",
+      "value": "jmnet.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b7b527c-ae50-56be-8dba-0eec715b4fb7",
+      "value": "ncbtv.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b104c66-da11-5d46-b946-0788d8a9d1d2",
+      "value": "mosaicmedicalsupply.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bbb4dfb-9366-5fa4-b255-c3f9da43f1f5",
+      "value": "clickermediacorp.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c3db6db-9ad2-5fba-afa0-3e6c80c9b1c4",
+      "value": "aphecalenterprises.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d514dfc-0e6a-54c8-bb7b-3c196a9406f5",
+      "value": "agbizwichita.org",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f5c8363-6389-5111-97aa-9a51f078617f",
+      "value": "iccps.org",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5ff62bf-435a-591d-bd3b-f876055482de",
+      "value": "mbhs.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b74bf1ce-00ed-57c4-a453-55cf1c270ca9",
+      "value": "thebagshelf.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7c9f582-68be-5915-8cb8-275a550bb8b6",
+      "value": "antibotcloud.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f63e7977-a0e1-5ad5-a1b2-6e00591b9d2f",
+      "value": "alhej.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4358c18a-10ec-5373-a048-9a702447395f",
+      "value": "covidianmuseum.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0bcc2046-c2c8-5bb0-8ee7-06b0abcc8d46",
+      "value": "adventsales.co.uk",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5392d838-06b0-5635-b223-eeb329e9d4f4",
+      "value": "aventodesigns.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2220d2cc-5557-5771-8e42-bce9c70bde60",
+      "value": "afcmanager.net",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5fbc3db6-4153-55bd-9d68-46e52f01ae3e",
+      "value": "twilliroll.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--839e8897-75f5-5155-9310-7f4d293e8155",
+      "value": "amikamobile.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15765b50-a48e-5645-a7be-dd7ff1f5d792",
+      "value": "affixio.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f995c45f-3407-590e-abcf-6c5d4e0ec889",
+      "value": "adztrk.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--429d6375-126d-5c3c-81f5-179b86205445",
+      "value": "afarm.net",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--30389ffc-3654-5808-9490-826bf33b4614",
+      "value": "affiliatebash.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18b29607-e837-5302-9cd5-9c2f5c26e86b",
+      "value": "vipshopevent.su",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--135a7b0e-b27b-5a3a-90b1-3f1c4287af8c",
+      "value": "amn.net",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a77a8cf-e15d-56c3-8435-6dc2a81057d7",
+      "value": "avxl.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc26fa84-6a87-52b8-9347-5305ed4c22b8",
+      "value": "chargd.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9623abd-a3cc-531c-9ac8-fa388bee91b7",
+      "value": "corrc.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5df52e8c-9144-5424-8da7-00501cbec499",
+      "value": "dragoncards.net",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--277dc8d4-f2aa-5dea-8894-55fd84b4fe77",
+      "value": "efayn.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--895b9b1a-dec1-5e3b-b292-37dd60de47c2",
+      "value": "ehss.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c8689a9-81ea-51a6-94bf-387422252f3d",
+      "value": "antibotcloudapi.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--601c87b9-9ac7-5541-b12a-04d1efda550f",
+      "value": "tewksenterprises.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9af4a0c-2bf4-5674-82e1-633f1ee1b93c",
+      "value": "pati.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4191045-d6ef-5509-9f43-630d5e1aac9d",
+      "value": "xiangmanlou.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--26328a83-49b6-5066-9fe9-cb4530f3a348",
+      "value": "fixedsights.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37567fa2-2941-59d2-a336-687fe8d18ec2",
+      "value": "ummatie.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--155ab91b-9cb0-52b9-83d9-9dd97ddc7649",
+      "value": "alonbyacarian.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d78503d-d5f1-5c46-8313-618694ebd46e",
+      "value": "mygemcon.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03d9cc37-4b71-5b0c-b5fd-2cf49ee22572",
+      "value": "ipv4.mikifox.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--106b68d6-5508-5c42-86e5-b10b9a556cb4",
+      "value": "ipv6.mikifox.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69f29787-5a5b-5d7e-afec-f903b677b193",
+      "value": "admin.mikifox.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5108891f-c16f-5a10-a745-e381480b5923",
+      "value": "wercosliuhqgheirn.com",
+      "x_opencti_description": "indicators/csv/sitting_ducks_20241113_iocs.csv"
+    }
+  ]
+}
