@@ -1,0 +1,76 @@
+{
+  "type": "bundle",
+  "id": "bundle--47cae555-3169-4eb8-bd7f-71e763784b25",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59293238-e841-537f-a941-a09bdd5e41f3",
+      "value": "tvdseo.com",
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--641d82c9-f54c-5f94-8083-9f99e8678661",
+      "hashes": {
+        "SHA-256": "fdad95329954e0085d992cba78188a26abd718797f4a83347ec402f70fe65269"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1076c14b-8220-58ea-92ac-01a533a25492",
+      "hashes": {
+        "SHA-256": "7db49da15fd159146fe869d049e030a4ecd0d605a762bea4cc4eb702a6ce9ee6"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--68a7c6e5-0362-5e21-b33c-1e3799707219",
+      "hashes": {
+        "SHA-256": "707004559c8d625f2d4b296ede702def1f9f52cadf4c52dadc41f3077531d04f"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9095c3a-68b0-51f6-b82b-009d1fab0453",
+      "hashes": {
+        "SHA-256": "bc15114841e39203b4e0f5d2cdeef11cc4eceba99eb0c3074a1c6d7b3968404a"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea254f27-3858-5174-b1ac-1c7e86dd163f",
+      "hashes": {
+        "SHA-256": "a9e3f6b9047b5320434bc7b64f4ba6c799d2b6919d41ed32e9815742f3c10194"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76912536-24e7-5e53-a556-054658cfb22d",
+      "hashes": {
+        "SHA-256": "782da8904a729971fab86286dd1f44e8de686b7bc66b855079381e1c9e97f6da"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a84350b6-4776-5470-ae5c-7aa8e02f1f34",
+      "hashes": {
+        "SHA-256": "e689601d502cc0cd8017f9d6953ce7e201b2dad42f679dc33afa673249ea1aa4"
+      },
+      "x_opencti_description": "2024/11/new-pxa-stealer.txt"
+    }
+  ]
+}
