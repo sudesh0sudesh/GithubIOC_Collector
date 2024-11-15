@@ -1,0 +1,439 @@
+{
+  "type": "bundle",
+  "id": "bundle--317764e3-de0e-496e-b8b6-722b2dd8ed05",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4ceb159a-1df8-5c94-bbf9-7ffd8501f852",
+      "value": "18103.me",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14dd18e5-88e4-57f9-8979-fcde6635c7ed",
+      "value": "35270.me",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bf9319c-42d0-5365-aa74-05494c33590f",
+      "value": "36986.party",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67341aa2-592a-53b3-ac2f-e30d0800cfd1",
+      "value": "51979.ac",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c3f3d5a-0569-5ea6-b654-c771ea354284",
+      "value": "56269.party",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f3743f9-35eb-5cea-bc6f-0b0a64314e11",
+      "value": "81055.uk",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b977b605-b068-539e-85a5-22a927bd37a0",
+      "value": "266738.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8dde0f81-8ed1-5175-8def-5ff461fdfd0d",
+      "value": "315337.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3800f9d-3e3b-597a-96f8-b12c8ef39ee3",
+      "value": "315738.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--837528ec-8f44-56f1-8d03-bb8958209dde",
+      "value": "337125.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3835d267-e74a-52e4-9d2b-a9fc3e8158ae",
+      "value": "631563.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a53317be-122f-5345-96e4-fbb73ccc42d6",
+      "value": "754838.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b01f34df-08d7-5470-8b8d-c6b2ab8eb039",
+      "value": "797896.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2abd5fe8-fd67-509f-8e4a-a84f2d58ffa2",
+      "value": "856254.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8faf63bc-83b3-5769-9d98-0146fa513d54",
+      "value": "892636.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a20e0ac8-bf2b-5cfb-9c65-0e7cd859cab5",
+      "value": "965923.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45e97af1-f117-5fd7-b52d-2ed5e86a3b10",
+      "value": "971185.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91eebcc0-fac0-5c11-beca-8a42819b2dd8",
+      "value": "985586.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ccae930-d7a8-5941-8d0e-3ae3f7e5dcfd",
+      "value": "qdff.esvsgkp.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7d41b6f-2b47-519a-98fe-fffc92c0e4de",
+      "value": "qdff.jzmdlly.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53ddbfd3-ebe4-5db0-b1da-681ddb4e9d7c",
+      "value": "qdff.nmhcvyr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eaaf13db-0453-5172-ba44-1bd48c66192d",
+      "value": "qdff.rmkuaso.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--969b6cfb-4487-5ba9-86bb-65639f9b68ad",
+      "value": "qdff.slsxrpx.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7944969b-1dff-5dd2-891e-552f40fdf479",
+      "value": "qdff.uqcpcmr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9260c23-0dd7-59e4-ba81-94171b788e77",
+      "value": "chabietvietgi12.3wwmi6.my",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a22bd929-ca45-5fc3-ba51-6bcb84e18b6c",
+      "value": "ks883hsggahbc.z0kuj6.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff8c4dd4-1632-55ee-96fb-af4e9b899714",
+      "value": "ml01605mlt.fhfghud.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54b3217f-7161-5ace-85c2-10ef2fd74ca7",
+      "value": "ml71603mlt.phooway.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fef7dd75-8d35-5630-a942-67706c0ecb9a",
+      "value": "sangroidayjthoichan1111.csoqp0.my",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18b9e817-3bfd-58bf-89cc-c54eff421d2c",
+      "value": "terwtwregr.a1lag8.wang",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fbfbd206-1d01-5891-920b-af36f2a4d382",
+      "value": "uuuuuyuyuyuyuy.w5mokm.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4ceb159a-1df8-5c94-bbf9-7ffd8501f852",
+      "value": "18103.me",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fbfbd206-1d01-5891-920b-af36f2a4d382",
+      "value": "uuuuuyuyuyuyuy.w5mokm.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fbfbd206-1d01-5891-920b-af36f2a4d382",
+      "value": "uuuuuyuyuyuyuy.w5mokm.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c3f3d5a-0569-5ea6-b654-c771ea354284",
+      "value": "56269.party",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53ddbfd3-ebe4-5db0-b1da-681ddb4e9d7c",
+      "value": "qdff.nmhcvyr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9185bf22-0c6b-5150-bf99-08c57466bd9a",
+      "value": "ml61602mlt.phooway.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b977b605-b068-539e-85a5-22a927bd37a0",
+      "value": "266738.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53ddbfd3-ebe4-5db0-b1da-681ddb4e9d7c",
+      "value": "qdff.nmhcvyr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9185bf22-0c6b-5150-bf99-08c57466bd9a",
+      "value": "ml61602mlt.phooway.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53ddbfd3-ebe4-5db0-b1da-681ddb4e9d7c",
+      "value": "qdff.nmhcvyr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54b3217f-7161-5ace-85c2-10ef2fd74ca7",
+      "value": "ml71603mlt.phooway.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91eebcc0-fac0-5c11-beca-8a42819b2dd8",
+      "value": "985586.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53ddbfd3-ebe4-5db0-b1da-681ddb4e9d7c",
+      "value": "qdff.nmhcvyr.com",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff8c4dd4-1632-55ee-96fb-af4e9b899714",
+      "value": "ml01605mlt.fhfghud.top",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--862c6862-25b7-5f06-989c-cd3f11c34b23",
+      "hashes": {
+        "SHA-256": "1fe237e426b06ad01b6376753cb4e5634d6903184a1bf792d387569c9a3a7b50"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20fd3012-ce6b-51da-9c29-e8834ab1f17c",
+      "hashes": {
+        "SHA-256": "28ec30c95246e3154e820093e24fbd0dd29ede9f272bc7886c33e543f15d241c"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--66109876-0213-557a-a4a9-000c5d3fdee4",
+      "hashes": {
+        "SHA-256": "2d91356c46bf586ab71377dc44b882e384962d07ee3464e6f76ff9a8a73a9ed9"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c82d0cef-3b5e-55cd-8ead-a6766351ca55",
+      "hashes": {
+        "SHA-256": "440d605f1e24cd3415d51e9c3347f4c6260cfdd9cf35ce66795ec2aca24a1345"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8e80918-2a80-5129-86e8-53ed33469f91",
+      "hashes": {
+        "SHA-256": "46fe1a536ee6dd0040efec5f7dc36be30617e9e484a275705760b1f7581cb2cd"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9ec748a-2456-5c13-8e41-d4f9be1a6d0c",
+      "hashes": {
+        "SHA-256": "70a541aac5fe4bde4267c31ff2b7531b36d158d04175b71ec3ed2dc602345a48"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aef7d64d-a892-5b11-a2fd-4750ece3828b",
+      "hashes": {
+        "SHA-256": "8086783d4cbbabd6163c8ea03b6c80527634d3de10aa1b1955c728a260b28585"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b3e0c51-b758-5be8-8344-17d44a347420",
+      "hashes": {
+        "SHA-256": "b14023b89fd2f57ae73cb81f259a3f2ab04b69d897c8a2c16c310c397d95fb8a"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--29a18e62-190d-5f3f-87c0-f00a9b519ff7",
+      "hashes": {
+        "SHA-256": "c89d8dfdda3c3b667fb45e4f430fc76b5365501b6b7ea7e6eb64149a2da97a85"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e78160d1-6973-5483-b186-1b193dd76c67",
+      "hashes": {
+        "SHA-256": "c8dc893b6b0f3d00bb80962b77021a668f37c7f8be8f157d678d800652655f8f"
+      },
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1efce976-71ae-522e-af93-b4085d930578",
+      "value": "1731697300472.apk",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10ef3191-f5a0-5008-a8ba-00323c7da1d2",
+      "value": "1731694376618.apk",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a1cce87-7324-5ccb-8dfd-cb2327ff8036",
+      "value": "1731694383724.apk",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67382ca1-ef94-5cd3-a497-b6bbbabd5381",
+      "value": "1731697291388.apk",
+      "x_opencti_description": "2024-11-15-IOCs-for-redire_pup_apk_dist.txt"
+    }
+  ]
+}
