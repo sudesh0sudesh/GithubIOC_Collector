@@ -66,8 +66,8 @@ The following sources are being collected and parsed:
 
 11. **volexity/threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
-   - Latest commit: f5ecc7bce2475e6bd1038a807bca3e313640fdf3
-   - Last updated: 2024-11-06 21:50:32
+   - Latest commit: eab09c6bc978d7c3e2895654b52f459cc32e20ec
+   - Last updated: 2024-11-15 19:49:13
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)

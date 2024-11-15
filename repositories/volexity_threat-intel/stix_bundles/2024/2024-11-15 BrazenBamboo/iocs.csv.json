@@ -1,0 +1,1075 @@
+{
+  "type": "bundle",
+  "id": "bundle--ede818f9-b88a-4be8-8185-3ae95ba2ea5d",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bd9afcd0-b85d-5ad7-8d27-dc1c911a01c3",
+      "value": "103.43.18.95",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b4760dba-6deb-58d7-932e-c24cbf49b307",
+      "value": "103.27.109.217",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--90133b6f-9536-5728-a7c0-810d84fa7935",
+      "value": "103.27.109.28",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d9a1f9f2-264b-5fd4-b8a2-00bd5268f7e1",
+      "value": "103.43.18.22",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5f155f72-f4f6-5989-bf6c-4c49b9358b5a",
+      "value": "203.83.9.62",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--53965c87-c0da-5331-9c93-1f6e5e29c740",
+      "value": "43.248.136.241",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8030b7cc-7fd9-5837-b8b2-fea90e100943",
+      "value": "203.83.9.60",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6fa37d19-758f-56ca-8ac8-df31ab965359",
+      "value": "202.43.239.13",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6158d84b-2770-5421-9233-7599989026a4",
+      "value": "119.147.213.48",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--953805a9-9240-554f-be32-d3d741859eca",
+      "value": "103.43.19.64",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0c786ded-f4aa-5304-a18d-9edfdfdb5dea",
+      "value": "121.201.109.98",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--88ccc19a-5cdd-5144-8fd8-b929a80a8e7c",
+      "value": "103.27.110.159",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d561a3c4-7c3e-5661-87e2-1a7bfe16c1e0",
+      "value": "49.232.185.137",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--edf8f64d-e5e1-53d0-bb1f-2a654836af5c",
+      "value": "103.43.19.245",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6078da6-1dfd-50d6-8c9f-dce08c5097f5",
+      "value": "58.221.58.240",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cf8cc3c3-feb0-5721-82c0-3a7ae3637d02",
+      "value": "118.195.234.243",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--12104d08-7a1b-5204-88bd-ef6a7b1193c8",
+      "value": "47.236.30.141",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c56506d8-ce2c-5f6f-87ba-e991eebebf41",
+      "value": "154.91.196.185",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a9058b2-4c8e-5d83-a52c-54de9fab2b5d",
+      "value": "45.155.220.194",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--963292ef-25d1-5114-a228-e8f6a5b02a94",
+      "value": "222.219.183.84",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8416d443-c7dc-5386-a222-28a46effe02b",
+      "value": "27.124.37.30",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cf29a91a-e2b4-594a-9b50-72cc4970a66c",
+      "value": "27.124.37.59",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--52ac75b6-a977-5a7e-b673-51ec94c96b85",
+      "value": "27.124.37.64",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a745efb1-9c0a-5ca6-8672-7617ca3bd0f2",
+      "value": "43.248.136.110",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b0a98c43-d56d-55e4-a7ef-b9e9d2224320",
+      "value": "43.248.136.215",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--38573eed-e7d4-5412-a366-548a5d5fdbd2",
+      "value": "45.125.34.126",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c3ddc96c-9af4-5aa9-a3c5-bb4fd46cefbe",
+      "value": "103.43.17.99",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--963f1a70-8f10-59d9-8614-1effdc189b6c",
+      "value": "103.27.108.207",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff41fec1-cf40-58bc-9b3e-5b307b0ec539",
+      "value": "38.55.97.178",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e8dbcdd-313c-5473-9100-7c36e5602a81",
+      "value": "103.27.108.205",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e42e7ff7-dd3f-5493-8ea3-459f8f0e5f9d",
+      "value": "45.155.220.79",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e29ece7d-b7b3-5d02-9620-cd0ae86ef426",
+      "value": "47.238.155.170",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--162416b9-2636-5f2c-9fc1-74dee8972bba",
+      "value": "124.156.48.83",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0be35b57-ff15-5058-9d76-77f1d401e924",
+      "value": "103.27.108.152",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e65338c2-bdbe-54b6-b72b-99bf057e0aed",
+      "value": "47.238.153.120",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9baa6b0f-41a8-537c-868d-4cd146a561ce",
+      "hashes": {
+        "SHA-256": "666a4c569d435d0e6bf9fa4d337d1bf014952b42cc6d20e797db6c9df92dd724"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc71ba45-66c7-53de-aa08-6df8ea07f593",
+      "hashes": {
+        "SHA-256": "035db9a3bc9bfba542583c9350baa39741018127a27e7e3ebb6e9f50ddb96f41"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37779d0f-dad5-5b2c-bdc4-bb52b1843c95",
+      "hashes": {
+        "SHA-256": "041c13a29d3bee8d2e4bd9d8bde8152b5ac8305c1efcc198244b224e33635282"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8acfd2fc-f0d4-5e77-94b0-decfeec541fe",
+      "hashes": {
+        "SHA-256": "0b8c9d991162efca3c34d3d97b79f8edfd45ec3e052c4fef080523bacd586d11"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--703daeee-f439-562a-9a02-1a387cd60643",
+      "hashes": {
+        "SHA-256": "0c4ebc3d96911af9878343ee8dcba7f79a64cf86ae9b8e6cdc7bbb100177b9af"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21bc8e79-935a-5176-9ed1-270a31d134b1",
+      "hashes": {
+        "SHA-256": "151edcd7d877048d5e8fce9919477cbe5c2de4bd65cd46aa228528dd00360db1"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf1188bd-992d-5df1-bf51-fbb520f0667f",
+      "hashes": {
+        "SHA-256": "1bfb7c520335f96c1b268bd9e59688fca49e67e5785aa2a5a3bb281484318101"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a951976-e79e-55d0-9c78-d734762b9c0e",
+      "hashes": {
+        "SHA-256": "213520170fc7113ac8f5e689f154f5c8074dd972584b56d820c19d84b7e5b477"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--348ff28f-4e00-56ad-93cf-035663ddd5a7",
+      "hashes": {
+        "SHA-256": "2bfb82a43bb77127965a4011a87de845242b1fb98fd09085885be219e0499073"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--510eccdf-de2f-58e7-a1dd-db621e5c244a",
+      "hashes": {
+        "SHA-256": "37c74a4a8bbe272da16f956eea69f0dcbf0caeb0d3da72d084502499c124b879"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--177fbc9d-a1a9-5503-b769-5f7cb576b57b",
+      "hashes": {
+        "SHA-256": "3d9f8e1e84e9cfc742bc51742863a325eda1ea459ed6a6a5b2c47710fc171848"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c29c2549-fc37-546b-9d06-81bb981d0c29",
+      "hashes": {
+        "SHA-256": "424aaacf3444fe51b9865af3079777a977111cab9a329494f1f12c0a48dbffa7"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--580ea574-b892-5214-8e07-daae0d0b24de",
+      "hashes": {
+        "SHA-256": "460f1a00002e1c713a7753293b4737e65d27d0b65667b109d66afca873c23894"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f050de5-258e-5eea-b765-009ff0bbf0a4",
+      "hashes": {
+        "SHA-256": "51b83c5732fbfc8da9d333e7daea85725c04f241f27648708d326077a4556717"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b19c8c3-4484-59cb-ba7b-82e247dc4668",
+      "hashes": {
+        "SHA-256": "55e2dbb906697dd1aff87ccf275efd06ee5e43bb21ea7865aef59513a858cf9f"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40fce736-88d4-56ff-b592-a20cb2d6ad5a",
+      "hashes": {
+        "SHA-256": "5d39dd90ee6e01afbe070030d863385adf5976752274f95f936c1b6241f78d6a"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--501db056-fb79-5cf3-bfa2-3659b1ad7fc6",
+      "hashes": {
+        "SHA-256": "7008e312446919cceb73db951af89602aaa9312c0c793b9bbb2e1a306f84d82f"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d668c01-cfdc-5d7e-a2f0-3192ff6b559a",
+      "hashes": {
+        "SHA-256": "724351b5cc9ad496a6c9486b8ef34772f640590a90293f913f005e994717134b"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab30e40b-1fdb-5120-9392-5a800389252d",
+      "hashes": {
+        "SHA-256": "72bfd0f5299809c66a1fea743d5bd6559d031052bc31ced95884aeb860f318a1"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3757c589-97bd-552f-a3b7-da87e006ed87",
+      "hashes": {
+        "SHA-256": "742fd59971ac576e579a45d8f2d4165c4c18b08685880fd457be1651523b5da4"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9eae352c-ac23-54f8-9fb7-674caffac05d",
+      "hashes": {
+        "SHA-256": "75dadf4ead9e1b3ad73fb135a5950534d0a9e58bdb4c6f2dbd4ca8b7f66b4a56"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--102ab057-8b3f-5738-8ffa-31d6a07a05d8",
+      "hashes": {
+        "SHA-256": "765ef96d1f46aca2c2b816f92e57b92ba8126a601e76a9377d742eb6bb2d95ef"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1327064-6b2c-52f4-9092-10b9ff60ddf4",
+      "hashes": {
+        "SHA-256": "83c610c4a56aa15a2220d2c3b05e0ff073f6ffb97f892118ae10c03b1bee35b0"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16a8d65a-0a4e-5e8f-b362-b7335cf56e9e",
+      "hashes": {
+        "SHA-256": "84edc435eac5543a01c5aa1391e73e5dfe49f6b6fd577750204d514f1caaa9b4"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2388639b-41bd-5a4b-a946-a99a9ad30d27",
+      "hashes": {
+        "SHA-256": "87daf1ee49925271f0f3b2f5671ef028d9e6b79d487a68b879103a752d6fdb7f"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5c110b1b-100e-5030-9328-5580f2872b7b",
+      "hashes": {
+        "SHA-256": "87f9766eb91e966a7599f65d16a696fea6452383d298be65635e63dfac226976"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a709728-b306-5c51-8b9f-32e1aeabb6a3",
+      "hashes": {
+        "SHA-256": "88e5ca44189dabb4cec8a183f6268a42f3f92b2c6d7c722d7f55efd3dc5334c8"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--252a49d4-4eee-5a93-ac96-98c4efe95fc0",
+      "hashes": {
+        "SHA-256": "91b3e5e9ea4b1d7dc188dec0b28afa53f1048b4162ec9dbd60a458b650410585"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb9da065-11ef-59d0-bbe4-f4cb109beab6",
+      "hashes": {
+        "SHA-256": "a560931baa404189257ec9cbcc2b9449c579018218cc1d70c99b1d36dd292a0e"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2b199b4f-d044-5528-9f85-abc86e729fb5",
+      "hashes": {
+        "SHA-256": "ac7e20d4ddccc5e249ff0c1a72e394f9c1667a896995cf55b97b4f9fbf5de2fd"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37ee29c5-2967-5a16-92a2-5d4b9aa691a2",
+      "hashes": {
+        "SHA-256": "af0de88e8b17d628b354b5586da7718b06755d88ddde8c933c8606018e5ed7ff"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--128fa246-c9fe-5ed9-92c1-5c21d2fcf2cc",
+      "hashes": {
+        "SHA-256": "b208b73d003a8ee0eb24ce09f7ff515e18229d1836c43159a8e1821615aab19c"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--06fde75c-dd0c-5409-850b-ae080d526505",
+      "hashes": {
+        "SHA-256": "b523cdd1669dbd7ab68b43fd20f30a790ec0351876a0610958b9405468753a10"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03340178-4e2a-569d-bcea-c782421488e3",
+      "hashes": {
+        "SHA-256": "c3995f28476f7a775f4c1e8be47c64a300e0f16535dc5ed665ba796f05f19f73"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb028e3d-07df-5bdd-88ed-26a46aa80417",
+      "hashes": {
+        "SHA-256": "c782346bf9e5c08a0c43a85d4991f26b0b3c99c054fa83beb4a9e406906f011e"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd124c21-b8ce-5836-9ee5-cdb0425188fe",
+      "hashes": {
+        "SHA-256": "d4aea0bbfe5b309f2464fef8ebb44dd514f8162d41be53b423c64b4acb4a5ee6"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87ca58f9-8a73-5244-8097-e47798d1abd5",
+      "hashes": {
+        "SHA-256": "dab112f7c765a375f0f12313d1b1e3cf14963113cf7b6f101ba5192a0c3874de"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20f726e6-e356-52a4-a9c4-3f48524f553f",
+      "hashes": {
+        "SHA-256": "dbf0ee5e96b418bb6237772262701baf213bf60ede3ed7d90c126117097aa3ec"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--82d1e6ea-6176-5ab1-b7d2-5514186e52d1",
+      "hashes": {
+        "SHA-256": "ee7c3e2352a4e7bf37e3d76972de1ba493c0be26832cae5978c134155ac7835b"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf3430d7-23d6-5025-b2c6-308a8279d140",
+      "hashes": {
+        "SHA-256": "efff4106cfd21a356b13a5a99c626a4f103f03b9491c0f1f5e135c1e3c84e76c"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3042ff60-dc25-5fdb-8b98-15e23fba917f",
+      "hashes": {
+        "SHA-256": "fc1c30f6f23a303944d8d04c6c0a7f21b137f70f60ce4f03b2e930f3e98a91da"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3108c8e-4f94-57c0-b9c3-38bb1a7ec80b",
+      "hashes": {
+        "SHA-256": "0f66a4daba647486d2c9d838592cba298df2dbf38f2008b6571af8a562bc306c"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0131f932-2577-5419-ac31-d797a2242bb4",
+      "hashes": {
+        "SHA-256": "08e0ed3c9a4c04a4cb83e17f14a4959236dda048336c04e30ab7786b5bf8ffa7"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dc536c2-2506-58b5-8ddd-cb6e4ab5cef4",
+      "hashes": {
+        "SHA-256": "80c0cdb1db961c76de7e4efb6aced8a52cd0e34178660ef34c128be5f0d587df"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea0b3eb4-6ce9-53e1-b2e3-60a1d2c3ec10",
+      "hashes": {
+        "SHA-256": "0f662991dbd0568fc073b592f46e60b081eedf0c18313f2c3789e8e3f7cb8144"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27ff06dd-c863-52be-beef-913c873249e9",
+      "hashes": {
+        "SHA-256": "3d6ef4d88d3d132b1e479cf211c9f8422997bfcaa72e55e9cc5d985fd2939e6d"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fa91bb7-44c1-5a9a-a60d-da761701c02a",
+      "hashes": {
+        "SHA-256": "18bad57109ac9be968280ea27ae3112858e8bc18c3aec02565f4c199a7295f3a"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c2849008-7aca-57a9-8e89-3be0932b8a22",
+      "hashes": {
+        "SHA-256": "5fb67d42575151dd2a04d7dda7bd9331651c270d0f4426acd422b26a711156b5"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28b6099b-c8d1-5986-afe0-0a017ce9d570",
+      "hashes": {
+        "SHA-256": "65aa91d8ae68e64607652cad89dab3273cf5cd3551c2c1fda2a7b90aed2b3883"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8e6315a-21ed-5ee0-94d8-e54ad0e14cb1",
+      "hashes": {
+        "SHA-256": "4511567b33915a4c8972ef16e5d7de89de5c6dffe18231528a1d93bfc9acc59f"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61f3e63d-291b-5f32-a99c-9032215ae260",
+      "hashes": {
+        "SHA-256": "d2ccbf41552299b24f186f905c846fb20b9f76ed94773677703f75189b838f63"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--074e322b-e6d8-50ad-8de3-15bdd4cd1d16",
+      "hashes": {
+        "SHA-256": "2b4fbd5aa06f70d84091d2f7cca4bd582237f1a1084835c3c031a718b6e283f9"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a57e7bc3-034f-5d7e-a81b-bb38a55896eb",
+      "hashes": {
+        "SHA-256": "ac6d34f09fcac49c203e860da00bbbe97290d5466295ab0650265be242d692a6"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db0658d7-8f8e-58a6-9356-90d408f7c556",
+      "hashes": {
+        "SHA-256": "fc7e77a56772d5ff644da143718ee7dbaf7a1da37cceb446580cd5efb96a9835"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d90855d-4f56-532f-8f73-0e6bc33dca81",
+      "hashes": {
+        "SHA-256": "be02ce6964d1a10b48897466846e0889c7cf54bdf34133f52bc9226fefb31548"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4467c766-fe06-556e-a6b3-3fc8afd98d47",
+      "hashes": {
+        "SHA-256": "e5f0022cd79fad21c760a57fedff48e559aaf80ac0e8bbf44401b465654aba02"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--58d511b5-12f4-5cd0-8dfe-beb90427e65c",
+      "hashes": {
+        "SHA-256": "4cbc692e0c914e235b92c55e910c818ec014461462736c56e5328dbcb9971756"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a97fcb19-16cb-5c1f-926c-0acfc7e9f84d",
+      "hashes": {
+        "SHA-256": "fd261e970d01f0f123e32baf02f5f32edd0db1ee3ffc6c44d18565ecf1194630"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4939f4af-900b-5faa-8b62-d89bd4b0f500",
+      "hashes": {
+        "SHA-256": "7d4c9e9b73f74426a975a5f8584059e8c8ca24418e7994ec83ef735c84cf2d31"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df0b9995-529d-51be-8581-21b98e662574",
+      "hashes": {
+        "SHA-256": "ea2c0cbd35465dad118d69fdbf37ecfb9b0eca461e9854d2790dd98201af6dc4"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59b4741b-fde0-5930-8bf1-e9a1d8af5302",
+      "hashes": {
+        "SHA-256": "205e62b04478c0ef69d69970716e5cb9e5d03293157733194d95ea801df3726c"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--271c68ea-b5a9-530e-9ec6-3fc3553c503b",
+      "hashes": {
+        "SHA-256": "d804e5cde29c10fa3ca56386c147706d9501b6c2fb73f8fd329a24b9acb4c4e0"
+      },
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50de22f6-26c0-57f2-aa3f-e2b7f284065e",
+      "value": "WebBrowser.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0162e68-e52a-5a58-9e99-30bd33c19646",
+      "value": "Pass.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac2aba03-9663-59cf-a0e8-029c9f3f7e9e",
+      "value": "wifiList.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c601057-83e6-53e1-9290-9646730316cf",
+      "value": "appdata.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ced86594-8f45-5d40-84e0-1ac68f1daa4f",
+      "value": "SystemInfo.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06847ef2-ff73-58bc-bb71-b5743a1df9cb",
+      "value": "OutlookX32.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91b57c5b-e953-569d-912b-7da29943ae71",
+      "value": "msenvico.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac2aba03-9663-59cf-a0e8-029c9f3f7e9e",
+      "value": "wifiList.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0162e68-e52a-5a58-9e99-30bd33c19646",
+      "value": "Pass.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae7f54ec-2667-5e16-a76b-491ac3de5d7f",
+      "value": "Audio.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4e0a544-080e-5a0d-902b-beeb62d4a584",
+      "value": "TdExe.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4fe780f-13b8-5ab9-a094-78a392e7949c",
+      "value": "ProductList.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef91aeb0-9b00-5688-8765-1a5c1f20c91b",
+      "value": "vertdll.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ced86594-8f45-5d40-84e0-1ac68f1daa4f",
+      "value": "SystemInfo.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4fe780f-13b8-5ab9-a094-78a392e7949c",
+      "value": "ProductList.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ef113a2-4b5f-5eb0-ba9b-bc4fecf35399",
+      "value": "ChatIndexedDb.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c748bb2-a825-545f-a921-73f52638c68f",
+      "value": "ffmpeg.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ef113a2-4b5f-5eb0-ba9b-bc4fecf35399",
+      "value": "ChatIndexedDb.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c601057-83e6-53e1-9290-9646730316cf",
+      "value": "appdata.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c3b4107-b21c-5fb7-885c-86e18a252625",
+      "value": "Telegram.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50de22f6-26c0-57f2-aa3f-e2b7f284065e",
+      "value": "WebBrowser.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39813d0f-c544-5c49-9bc1-34a1d46dc691",
+      "value": "SocialSoft.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e86b7e1-ca10-5fc8-9684-c460bcc5ab52",
+      "value": "Pass1.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39101d9b-136d-5764-8842-7280806f10bc",
+      "value": "SystemInfo1.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8836b1c2-8c08-5414-9aad-400b6bef760e",
+      "value": "Tdm.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39813d0f-c544-5c49-9bc1-34a1d46dc691",
+      "value": "SocialSoft.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--188d6c6c-e11d-5e95-9ccb-f74f7821e61e",
+      "value": "frame.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8836b1c2-8c08-5414-9aad-400b6bef760e",
+      "value": "Tdm.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48a4afc2-b566-5c4f-a14b-29527aae2282",
+      "value": "iumdll.dll",
+      "x_opencti_description": "2024/2024-11-15 BrazenBamboo/iocs.csv"
+    }
+  ]
+}
