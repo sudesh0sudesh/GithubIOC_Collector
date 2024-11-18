@@ -1,0 +1,209 @@
+{
+  "type": "bundle",
+  "id": "bundle--def8812a-6670-4a57-93a7-79cedb9253ae",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf479b1b-661a-58d6-9220-f42920cde7fc",
+      "value": "6rnd9mitqt1rz82.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58382f17-6c11-5600-9ed4-978e10549678",
+      "value": "7r7suw52ls00i20.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83fd3e10-fab4-5dc6-ad4a-294a55e7feed",
+      "value": "9w9ohb5vky5p3dz.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d14bc94-d829-5f18-afc4-5d3b45e98b10",
+      "value": "diploman24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce690951-bca9-52de-9c5a-8eb206fe2375",
+      "value": "diplomans24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2344941-86b4-5c97-831b-c1a7b5e274ba",
+      "value": "diploms24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18231c21-4b1d-5466-8577-cb84fb67bb17",
+      "value": "diplomy24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3c2740f-b0b3-52d5-9614-1b9501a5dd29",
+      "value": "diplom24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9b611740-a24e-582b-a4d0-a5c4dc7af43d",
+      "value": "diplom.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18231c21-4b1d-5466-8577-cb84fb67bb17",
+      "value": "diplomy24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f45f01e9-923b-548a-a10d-9aca7437b7f1",
+      "value": "arenadiploma.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91b00706-effc-5ea5-a2d8-910ffd69399c",
+      "value": "diplomsy24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18231c21-4b1d-5466-8577-cb84fb67bb17",
+      "value": "diplomy24.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c41326f-201a-574d-b447-b0cdf2322ee9",
+      "value": "bjbntaxmh09r09e.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5dcc31aa-789a-5716-91c6-f396e1aafa2d",
+      "value": "castrocountyjail.org",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--23c23d8d-85ed-57a7-bf08-33cbbad40822",
+      "value": "dintromparsup.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--945deda5-b2ee-5c19-ad47-7352fd8c7b95",
+      "value": "h87e1mbm0u5f85.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d475383-4126-5a44-81be-0dab6f5763c2",
+      "value": "hadsparmirat.com",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb24eb09-604b-5f33-bfda-7ada7b473dfc",
+      "value": "killeencityjail.org",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0df75860-13cf-5736-8271-11a00e7a37b5",
+      "value": "lasalleparishjail.org",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78b0b489-8c68-54ad-8abd-dc0a70986319",
+      "value": "miamidadecountyjail.org",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e06dc29d-5006-5560-9798-a547c8dd4b02",
+      "value": "n8j1nau3os4otr.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93f5e6cd-27c7-5a4d-bb56-5b311c4483d6",
+      "value": "northcentralregionaljail.org",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c45a986-866b-5bdc-8679-bb553507e76e",
+      "value": "poemtrainsurprise.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84254de9-e126-5734-a599-bb7d3bc4681d",
+      "value": "qcj4pirltkpqrcu.top",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8858e04b-60e4-56a5-af2b-0c5e7428e302",
+      "value": "quarterneighbourforward.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e740fd4-1d99-5fb4-9f1a-98262ce1bc2d",
+      "value": "xnnxr1jquyupjc.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8984f35f-ffa8-57e4-b4dc-6057fdbf7415",
+      "value": "xqajkr8fbrdryp0.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c340a44-a67b-50e7-a418-0fdbaa34235f",
+      "value": "xryqcgcb2upb28k.xyz",
+      "x_opencti_description": "indicators/csv/rdga_20240717_iocs.csv"
+    }
+  ]
+}

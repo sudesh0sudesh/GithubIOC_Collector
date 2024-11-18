@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--3651dc97-ddb0-4862-9a1b-317cc0ffb966",
+  "id": "bundle--5c8c8930-b8f2-444b-8894-40d251ad487f",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -2630,13 +2630,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--26b714ca-c065-5fcc-8dfa-fb730532a007",
-      "value": "lintant.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--27b9d36d-0a01-529f-b68d-807be5748b2d",
       "value": "noppyw.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -4632,13 +4625,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--fc0f45c2-5892-55a5-a52b-9b19faeaf26f",
-      "value": "uspsmtg.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--beeaf934-b417-5304-808e-954bf5affd13",
       "value": "wxne3vip.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -4975,20 +4961,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--5c88c5b4-956d-58c4-b94e-6bf4e2535db7",
-      "value": "uspkmk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--0d3ba32c-8000-5de1-bda3-0b31050eb7a4",
-      "value": "usptdsa.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--15ed0746-62b7-5a17-b4d7-6d6a8ac547ad",
       "value": "usptper.vip",
       "x_opencti_description": "indicators/combined.csv"
@@ -4996,22 +4968,8 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--948d2e01-efda-5a4d-a1a0-0d3bc56a2466",
-      "value": "uspdqas.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--7f2bdf21-7a1e-506d-994a-fedd7cbaa0bf",
       "value": "ustidy.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--fe6de589-b4ed-5207-b626-6316cc476f24",
-      "value": "ussgxt.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5059,22 +5017,8 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--66e6c568-bb4c-58f9-9db2-b03daac857ae",
-      "value": "ussyeu.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--2a3769dc-a49d-5343-89ca-c26ff80655de",
       "value": "aigptshare.xyz",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--74bca68b-c913-5091-a615-d0b246440a93",
-      "value": "usqdjn.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5089,13 +5033,6 @@
       "spec_version": "2.1",
       "id": "domain-name--0a2d3542-69be-5fb9-ae5f-5b94b6fc2df1",
       "value": "comhelpui.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--98ef70d7-b8d6-5ed4-adc1-5a7b70196922",
-      "value": "uspdess.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5136,13 +5073,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--6cbfa414-25f8-55e7-aaab-4529eefe6a70",
-      "value": "ussobp.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--c5cb5122-e9c9-5850-ab90-0237b62ae0d2",
       "value": "usevsm.com",
       "x_opencti_description": "indicators/combined.csv"
@@ -5164,20 +5094,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--0d786605-0000-585d-ae33-a307f7b0b39c",
-      "value": "usnavk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--384317cf-f32d-563c-896c-15c244c39e2f",
-      "value": "usspfj.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--b9edb3aa-46a0-5fae-8cc4-6f972a62313e",
       "value": "comhelpuz.com",
       "x_opencti_description": "indicators/combined.csv"
@@ -5194,13 +5110,6 @@
       "spec_version": "2.1",
       "id": "domain-name--d970c35e-2d1d-504e-aba9-d9fbd7aa95c3",
       "value": "myexpress.xyz",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--d1f7d21c-d1dc-5dde-95b8-af81344e15f2",
-      "value": "uspkni.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5255,13 +5164,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--7691baa8-5392-5b41-9962-dfe5429042dc",
-      "value": "uspceda.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--317f0516-e8ff-5842-9962-b25507e2c6c5",
       "value": "usqctkt.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -5292,13 +5194,6 @@
       "spec_version": "2.1",
       "id": "domain-name--0dc94785-93e5-5aca-a369-3c970be9e3ab",
       "value": "rrmqsnqg.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--20be6ff3-bee7-5299-81c6-a9d3be4f3401",
-      "value": "usumnj.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5339,13 +5234,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--304a35e7-5ed0-5efb-80b4-06e60c53baf9",
-      "value": "uspapo.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--f60b8dde-1b5d-5cef-9f74-44c0ec47615d",
       "value": "usyvxim.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -5367,13 +5255,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--ff40bc86-4701-5cc1-a737-5af556b3da26",
-      "value": "ushxae.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--79413d01-df36-53f7-b581-31dbce7b56e8",
       "value": "usxre.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -5381,29 +5262,8 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--06e57232-cb38-55ec-9b43-842838be98bc",
-      "value": "uspcew.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--1fe74714-aeae-5486-9177-09773750d320",
-      "value": "usvepb.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--00bac470-29de-568c-b7ac-14d0665fe541",
       "value": "comhelpuv.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--21e15548-17bb-5067-9f2a-403acde2e643",
-      "value": "uslyla.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5458,13 +5318,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--aa1a39a8-d53d-503d-9667-3ff15af63cd9",
-      "value": "uspykg.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--7598463e-3fa0-559b-848c-bec20c96cfca",
       "value": "usost.vip",
       "x_opencti_description": "indicators/combined.csv"
@@ -5488,13 +5341,6 @@
       "spec_version": "2.1",
       "id": "domain-name--361315ac-c83b-58e6-9396-4af652419c75",
       "value": "comhelpuc.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--8f5b19ad-7273-5abc-aa02-8cb4a1618455",
-      "value": "uspzcxw.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -5810,48 +5656,6 @@
       "spec_version": "2.1",
       "id": "domain-name--48738f95-bb05-5670-870f-c7f9ddccb526",
       "value": "usxxps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--bcbfe14c-d14e-51eb-a3d9-79dcffd55592",
-      "value": "msvcoav.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--c08aab1b-5ad3-5c22-aaf1-d0cbca50df3c",
-      "value": "uspzki.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--b3391ea7-a9f5-531a-8268-65488c3a916d",
-      "value": "usccaops.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--94666bad-273e-52e5-9a18-51382fbaa064",
-      "value": "emty1.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--62e403be-1992-55f8-b5f9-f7573d375987",
-      "value": "msvcoay.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--838822a0-2038-5dc5-8f39-dd55a75fea4c",
-      "value": "emty2.top",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -6501,727 +6305,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--4ca46b5a-dbf0-508d-85b9-bdd8bef628d9",
-      "value": "uspikq.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--467750aa-c5cf-5d4b-8c2c-7bb1dea8e528",
-      "value": "usetrc.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--14d72208-2179-557f-b816-e30303bc2695",
-      "value": "uszziu.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--2a3b05b3-e7d0-589a-a0a8-3ac343dd7538",
-      "value": "usputps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--56c7e4fb-30e4-5d31-a155-e68be2993be7",
-      "value": "usbrfr.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--1fff262c-8e76-5511-a9a6-7efb18fc4acf",
-      "value": "usiuls.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e38ae41c-91cb-5d19-9454-d20fbba21c5e",
-      "value": "uspaaxx.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--7d388591-e4a4-592f-9338-b41a1dbb277a",
-      "value": "uspaabb.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--33ee6b1e-1e97-504c-b517-f278509e2305",
-      "value": "usloveps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--fe93253e-ed46-5658-a976-5c050c00a02c",
-      "value": "usatlu.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f1becffb-54d7-5060-a92e-1d0f4ee92a03",
-      "value": "uspilk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--ef02858c-bfa8-5a19-bc4c-10fbc7d56183",
-      "value": "delsher.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--9dd1b475-1810-5048-932f-831f2153191e",
-      "value": "uswordreps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f7b57f57-055c-533a-af7c-8d7ceb263881",
-      "value": "dksertwe.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--a3b9bb0d-4951-543a-a044-a3f5c0f0c05d",
-      "value": "usbelq.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--999096c5-9d58-57fe-9c5f-a7dba179948b",
-      "value": "usuopps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--a839512d-e58e-5283-b3b8-642fe7b1b8cf",
-      "value": "usmnua.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3df656bf-91e5-5b55-8726-e0b92f93c7d9",
-      "value": "usdbbx.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--219998cc-9117-5889-8d7d-006f51178579",
-      "value": "uspaazz.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--16ca3e24-3a33-5b32-8ac8-4b6ed411cb92",
-      "value": "uspcdd.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e6a05afe-0f04-5a7c-ac3e-26da59b5227b",
-      "value": "usgntl.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--5fe25774-4910-5f36-a79a-88e7744f4d23",
-      "value": "uspadw.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--22b2397e-45ae-5bdf-901a-ebb4ed216948",
-      "value": "uspikt.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--4f080b36-921e-5cf0-8274-4d8bf3e79a30",
-      "value": "ussgnk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--20eb654f-b75c-5757-9c59-4fbb46df030b",
-      "value": "uspnek.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--75fbe591-024b-5b85-adad-17cfbe49b8f2",
-      "value": "usyrog.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--df0a7ad4-b999-5a5f-ab47-a423707ed073",
-      "value": "usoraw.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--66faf6a5-b49f-5a42-8c48-e8c1160069a1",
-      "value": "uspcxsw.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--2504ed8a-9fa7-5c34-8e53-39ae1cf6bd49",
-      "value": "usqgxq.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e59b72a8-70c0-5835-a221-99cdb9e2dabd",
-      "value": "uspaacc.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--b04fe04a-3752-5e64-a8cb-82b612631099",
-      "value": "ps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--7ade4090-418a-58b2-88f2-58a6fe128bc8",
-      "value": "ushxmg.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--35d0f05f-2707-5d40-a78e-f9791758b66d",
-      "value": "uslydz.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--438ba05c-01c9-57e6-aa52-59f40d67a68c",
-      "value": "ussslps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--2a5b9e69-de6a-5667-8b48-3de7742326f0",
-      "value": "uspslxe.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--45d9a099-ec1d-59a7-b9de-bc577c71350d",
-      "value": "usibjb.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--d29eae23-2031-5045-8a5b-1b013c3dff22",
-      "value": "uspnge.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--acd6e3d0-3657-5a6f-94ca-8f66fa7d0153",
-      "value": "uswxgm.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--dd4aed7b-097a-5713-9cb1-75a268fb6aaf",
-      "value": "uspbkt.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--4d0ff10f-89f7-58ce-8d34-8495f094e8fc",
-      "value": "uspslvv.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--a0a97d00-8147-5934-b323-bcadb69d4b7b",
-      "value": "uspzwe.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--0ba7827b-f82c-555d-a265-b43db9dc0923",
-      "value": "uspvtk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--1cb95709-e782-585f-9f38-b96a3e6897a9",
-      "value": "usbogk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--54cfd1c1-7657-515d-9bb4-2b3b13d3a6c7",
-      "value": "usplik.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--634b35e8-c980-5bc4-ba20-b7dfbd05ded6",
-      "value": "uspslxc.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--c5fb4218-7ef4-559f-ae93-fac09f244011",
-      "value": "usxnop.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--80a7cd62-dec3-582d-beea-f6562046d0e7",
-      "value": "uskppi.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3bdeb2b4-5246-5f24-b92f-89acc5614cee",
-      "value": "merculsed.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--33169554-04f6-5627-9611-753c84daed21",
-      "value": "correosvip.xyz",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--9fb9b261-4f65-5a44-9dd1-291552ffd4f9",
-      "value": "usaseh.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--ccd47163-0c33-5b53-8c18-cae8a1a4d95b",
-      "value": "uspaavv.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--8a47efcb-16a8-561f-b587-24a16e4ae477",
-      "value": "uswodh.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--c6eda9ac-269a-5240-9b3e-c466fab77d91",
-      "value": "usvbxb.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--b04fe04a-3752-5e64-a8cb-82b612631099",
-      "value": "ps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--94589d63-f103-5ef6-b3d3-ad26d287375f",
-      "value": "shastoen.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--4c8a14b9-e270-5f18-81b9-e6a9b6f42359",
-      "value": "usniikv.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--78126caf-3912-5d4c-9c22-c3529e15e8f0",
-      "value": "usxmmps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--6f43c392-bced-5ec3-bb88-f35cea7d7720",
-      "value": "usjsuvl.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e70dbd07-5c41-58a5-b3a3-1dc1dc88b2c3",
-      "value": "uspxki.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e25a13f4-aa39-5c25-aaac-8e5fcc32fad9",
-      "value": "uspslxa.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--26bd59b0-dd77-5b05-bbd5-3b8ca090948f",
-      "value": "uspcal.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--922b705f-2599-5ed5-8623-d2cac03543ef",
-      "value": "usptester.vip",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f15eb2d1-47c6-517e-8b0f-320ff77978a1",
-      "value": "usrlmy.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--342fe66e-6751-5548-a4a8-6a65e0c0fefc",
-      "value": "es.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--e2439d37-490f-524d-b3ae-a6f3b968fa9a",
-      "value": "usvqwde.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--94fe9220-bcd8-5f0d-9292-416dfe8e13ec",
-      "value": "uskdqu.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3c312a52-2d26-5018-86fc-c0aa98d1cdb4",
-      "value": "uswbes.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--414ade64-22cf-5324-8ee0-c06e877b4e64",
-      "value": "usecoi.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f242cc28-a2c1-59a5-a191-ebc2cfe50434",
-      "value": "ushudx.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--46cea4d9-9760-504e-9229-a1ceb3e030b8",
-      "value": "pswbes.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--9717a437-aded-5cd1-921c-bdc73afd0178",
-      "value": "uspaann.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f2497f0b-7b2a-59f5-9a27-487a6cfcac15",
-      "value": "uslwms.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f7a28fea-b151-5193-9063-275137ee1b05",
-      "value": "usljxu.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3f74a361-cd38-5d03-8019-8e45080d7a01",
-      "value": "usgrft.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--270f38d9-743a-5f78-a128-0fea2f4b5cfc",
-      "value": "uscgkz.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f7f0c574-122a-50d3-82c4-b99847183ec9",
-      "value": "uspbvf.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--79b9868a-dd1b-5a1a-972c-4556b740405a",
-      "value": "uspeq.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f7d65105-26b2-563e-b482-941a4104b410",
-      "value": "correose.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--426a49bd-96da-5d86-9d67-aa443cb064e0",
-      "value": "uspqek.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--7a225a74-3f09-5e5a-9da4-2d2a9763352f",
-      "value": "usgqzt.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f755f7cf-b9b6-52d4-b0eb-981b27960bd4",
-      "value": "uspslxi.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f2642c1b-6570-555b-8f7b-dbc6d2c304f9",
-      "value": "usmsn.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--06359865-d00f-57b6-883d-58a49c3989b7",
-      "value": "usptss.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--400546b5-72d7-559b-b9b1-c8b7d3ad2edd",
-      "value": "usqyme.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f30b05ea-4075-59d9-bf01-ef94d31fec1e",
-      "value": "usksnc.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--b67bb076-f1e0-5ea7-bd57-336f4e1d809e",
-      "value": "uspuik.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f70b1c26-6630-5fea-9d35-b59644713240",
-      "value": "uspina.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--d581804f-32fa-5420-a735-57d4df0da13c",
-      "value": "momoshopvn2.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--6dfce366-78c9-57ee-a5ee-8e42dc54b480",
-      "value": "msvcoau.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--9f872798-1795-53a4-b1c5-116e3a3ec8e6",
-      "value": "wrongparcel.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--2ab9b029-6033-5b50-a283-70c7751049f5",
-      "value": "menx2.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--7e171f94-39b6-5097-adb6-5215d231909e",
-      "value": "msvcoat.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--fd909ccb-85fa-5c4c-960d-7ad35e4ce3b5",
-      "value": "uspiki.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--bbc9aa1a-cf54-5437-939d-9d6e79f42302",
-      "value": "usptki.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--942997cd-d3cb-5bd1-892a-9c07b62cc1e8",
-      "value": "msvcoax.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--1558cee4-e883-508b-926e-5c8d17739c6f",
-      "value": "uspxlk.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--367ef09a-82dc-505e-a1f5-534fbee23d6b",
-      "value": "msvcoaw.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3bc0bdd6-f773-5e47-9325-5a31a71764d5",
-      "value": "uspeqi.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--d86a3f3c-03e4-5fed-842f-bfde0105a8fc",
-      "value": "menv1.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--66698687-32cf-5e31-bb4f-cb9e806b097a",
-      "value": "usfdfhhps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--0057fc4b-9708-5316-8a6c-6164f7866f6b",
-      "value": "uspiok.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f6b80726-db16-5a85-a7ab-5fc44c04846d",
-      "value": "uskamasps.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--cb3c15c0-0fa4-57b9-95ce-28264ed37320",
-      "value": "msvcoaz.top",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--04300b38-f0d9-59c2-9646-80ff61342f77",
       "value": "ustxqa.top",
       "x_opencti_description": "indicators/combined.csv"
@@ -7644,13 +6727,6 @@
       "spec_version": "2.1",
       "id": "domain-name--11cddf6a-57e5-53e2-a945-116f21828993",
       "value": "yibo2588.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--6d0a7565-1638-5900-b2d5-fa2521932cec",
-      "value": "bb88878.com",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
