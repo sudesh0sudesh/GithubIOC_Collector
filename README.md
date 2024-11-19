@@ -21,8 +21,8 @@ The following sources are being collected and parsed:
 
 2. **ThreatLabz/iocs**
    - Repository: [ThreatLabz/iocs](https://github.com/ThreatLabz/iocs)
-   - Latest commit: ed7a5894275a50b2bea90ec8da6e5e689a2e02b2
-   - Last updated: 2024-11-13 18:42:40
+   - Latest commit: f2a61cc70544e59c0aeb131b0a72b3b5c7b6bf72
+   - Last updated: 2024-11-19 16:17:53
 
 3. **eSentire/iocs**
    - Repository: [eSentire/iocs](https://github.com/eSentire/iocs)
