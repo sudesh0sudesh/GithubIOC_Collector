@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--ccd6d523-f2b4-4da3-8904-05d450fbb0c0",
+  "id": "bundle--02f5604a-3584-46b7-ab69-10086b5a1ff6",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--eb14cf7f-6c2d-5441-b2b7-2f46b7033152",
+      "value": "https://www.linkedin.com/posts/unit42_androidpups-activity-7264428436427874304-1c4i",
+      "x_opencti_description": "2024-11-15-IOCs-for-redir_pup_apk_dist.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
