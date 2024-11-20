@@ -1,0 +1,654 @@
+{
+  "type": "bundle",
+  "id": "bundle--9e9f7e52-9607-4fa3-88d5-c7fd8e6c8e72",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--97c67ff7-cd37-57e5-ac37-12cf12fc43a1",
+      "value": "172.240.108.68",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f89ea8b5-24cd-5a27-8997-f7f4a4656ab6",
+      "value": "172.240.108.76",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ca5ed273-4dea-5897-be52-4537760ea60d",
+      "value": "172.240.108.84",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0f9ae00f-ab4a-5255-8588-4489ed133ad8",
+      "value": "172.240.127.234",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--69ae5f48-744d-59ff-ad0a-6ecd2ec4cfc8",
+      "value": "172.240.253.132",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dca70fb5-c6fb-51bb-9f4d-c6b140877cc5",
+      "value": "192.243.59.12",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d02854ff-cfb5-5549-a974-28c4b36f9b67",
+      "value": "192.243.59.13",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2bb3afea-5ebd-582d-9f3a-f09bb8d415cf",
+      "value": "192.243.59.20",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--114bf02e-6ac0-5636-9e2a-c699dcae72df",
+      "value": "192.243.61.225",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b79b6d5a-51b5-5472-8979-22c1cbcc96bb",
+      "value": "192.243.61.227",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3e309480-e011-5e49-b6fa-911be7305a00",
+      "value": "https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e9c4c65-142b-5a65-b79b-b776ac16cfac",
+      "value": "conceivesaucerfalcon.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1d949b7-36bc-50b3-8775-0b7ff2e5a039",
+      "value": "scholarsslate.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0869616e-0b25-5dc8-89b1-38b66a3a5900",
+      "value": "swingdeceive.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca62efba-d50c-59e3-8c28-17a566a35a19",
+      "value": "viablehornsborn.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ba15108-ff45-51fb-b554-1f3aa4fc93a8",
+      "value": "budgepenitent.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--984bc645-be03-5a5b-9be5-0b43a5b781a4",
+      "value": "percentagesubsequentprosper.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75448bbd-f4af-5f86-b81e-30d2c4d3d324",
+      "value": "scholarslate.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7417e3b8-5e28-5d3d-a742-8055d0913dae",
+      "value": "sausagefaithfemales.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--544e26c3-5b39-58a1-ba27-b6f21c9647b2",
+      "value": "bunabsence.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2433df55-85c7-5f00-92f5-2efdc4ac1e6b",
+      "value": "inclinedallusionnearby.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c44e139-c3e5-530f-af11-f79f381059c4",
+      "value": "kindlygateway.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--89216019-966e-5ed2-9a5f-05d6ffb867c5",
+      "value": "settlementlaying.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e8bf39a-e6d4-59e5-8caa-13a0794a9e0b",
+      "value": "turniptriumphantanalogy.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef472120-4bf3-5b6f-a888-4af9fef54844",
+      "value": "crackbrilliancegown.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--019022a4-b6b7-5ead-af2a-3c0b6ccaca4a",
+      "value": "definiteeverblizzard.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6bdd2d2-bda3-557e-a6c9-525f7e2d6fd5",
+      "value": "decisionsensation.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3c075bd-f82c-5334-922e-c4c30547e724",
+      "value": "heroismvarnish.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c45de35f-597a-58ee-b591-ec187436c241",
+      "value": "immoderatetender.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f365073c-b0dc-5c13-b3b5-a718ae57db92",
+      "value": "nicecartrigezip.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63de7c8f-d1ee-54a0-8536-6a3a2ec3b2cf",
+      "value": "drakerecitalpraised.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--677d82f9-0b01-5627-aba9-adfe12cf0f70",
+      "value": "hungerblackenunequal.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--acd8327d-9adb-5919-aa2e-2df8f4184da7",
+      "value": "flatjeep.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce669fa4-8f13-5e9a-b86a-7a9c3a746cef",
+      "value": "shovegrave.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfd9a09e-a49d-5c7d-b59b-fdf8ef084c6f",
+      "value": "easterobsessive.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51679300-12e9-5cc5-aa89-75484745f910",
+      "value": "frameworkprogenybreastfeeding.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--082d1e3b-7562-5bcb-b8a2-f0541d4d994f",
+      "value": "ghostnimblefrecklessfreckless.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a83a7d1-375c-5f73-9154-70eb6b15c1c5",
+      "value": "harshlyfraternity.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9bccf2f-7e87-5280-abff-67e3c046f4da",
+      "value": "harvestexcavator.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c510576-1195-51de-862e-4f3fba763dd9",
+      "value": "flyernovelty.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f50af58-1919-5e6f-a916-0bef0c8ff571",
+      "value": "highperformanceformat.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7b0af39-fc40-56e1-b0fc-0cb3319370df",
+      "value": "intendemploy.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c1c4f6ff-fbb5-5696-a7d7-f1f218630a07",
+      "value": "rabbitssignaturegrumble.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1de1c440-cc9c-54be-947f-505dd980147f",
+      "value": "valestumble.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70181dd3-3926-5b76-b890-cc5aef4eb103",
+      "value": "deploymentbalance.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--81178089-43ae-5922-b038-d8ecca67f041",
+      "value": "larvamellow.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--551e2a37-9c5d-5ee9-b493-a41ccb53191c",
+      "value": "appearshundred.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e527cde-054e-5c45-a1b6-7d06ebfeb559",
+      "value": "panelghostscontractor.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6e4b309f-9d34-57e4-9980-558be0c199cb",
+      "value": "stuffygirlie.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ed46679-8c9d-5059-a5cc-5092ee373694",
+      "value": "cleavertowardinformal.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24eea587-e68a-54be-89a3-82a3a1dd0ede",
+      "value": "coherentchuckled.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0ecd05f-3255-59dd-80d0-124ed2527d82",
+      "value": "playsnourishbag.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54129484-c29b-5249-a2c8-1420025a9438",
+      "value": "recommendedblanket.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15560875-9953-5a40-aa63-48b60b0aad14",
+      "value": "shamelessappellation.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b181c10-39dc-5792-aaf6-8420b212c742",
+      "value": "shrewdcrumple.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c39cb644-dc1c-5982-8d9a-011c08f72f5f",
+      "value": "brooksuitcase.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8103dab2-c1a2-58f3-9791-f0b668f2cfce",
+      "value": "mankinddemocrat.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--367cf356-d604-5835-909c-79038e6f7ea3",
+      "value": "ownershornyplatitude.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--32667ba8-8045-5836-a451-a692a9aeb558",
+      "value": "workplaceanticipatedtribe.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f31ea0b-3c3a-5ed8-ad32-b2c48a024ad5",
+      "value": "detectivegrilled.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7949e1b8-7653-5412-adda-fe09502b3fa3",
+      "value": "installationtruckuseful.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9eff2073-7157-55f4-862b-e80d2de12e73",
+      "value": "actglimpse.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9629d9c0-d287-5e7a-9c62-ae6affaef07e",
+      "value": "detrimentalspark.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b656b496-f0ba-56b4-a50f-293006f4b8f4",
+      "value": "isobeldrug.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15c33da8-7100-5bbc-8b44-44b973ca19b6",
+      "value": "paritycreepercar.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bd5b90c3-6c71-545c-b795-3cfaced1bd7a",
+      "value": "discourageabjure.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a55f838a-f48f-5c83-a359-41e6d4243124",
+      "value": "everyoneprocessingworse.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--79f019f8-65fe-55c0-9131-ef1cfbc2b564",
+      "value": "federalacerbitylid.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9cf0e79-ce42-5b76-b0a9-5ee8dc9adca3",
+      "value": "researchingdestroy.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5687b1f7-d3e5-5efb-bdba-74a14f1eb3e3",
+      "value": "anybodyroutinefickle.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5c4d843-a2c9-5231-b5ad-a100b1d9714a",
+      "value": "hatredappointsinging.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2cd6d46-b810-5256-8e53-af599ede2db7",
+      "value": "flockexecute.com",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52b2153c-db7c-5c74-8b11-ea11d7bdf2cf",
+      "hashes": {
+        "MD5": "305101d66cd36c4a78b3655b260865ae"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd11dd66-9ac0-54e8-9d26-52550ecd589f",
+      "hashes": {
+        "MD5": "9ad69306106b6973bcafe40ac0d2d6ca"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0adf9553-1ab4-5d20-a0ae-10069b85af0f",
+      "hashes": {
+        "MD5": "a5215ef0ecc7fe67eddb0d06da117587"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47fbdb04-11e8-5e08-9acf-a91ce4e6d167",
+      "hashes": {
+        "MD5": "2c0360ed33b0b4736859081c701f9a91"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c0351ff-80a1-57df-b361-685cf986f7a2",
+      "hashes": {
+        "MD5": "9d9c860636b52354b9d04ae0c7ea1af0"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b2f347d-0993-5f38-9429-5885cd7f56c5",
+      "hashes": {
+        "MD5": "d80023a5828b0e72461b8a871c06f929"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52b2153c-db7c-5c74-8b11-ea11d7bdf2cf",
+      "hashes": {
+        "MD5": "305101d66cd36c4a78b3655b260865ae"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0422a698-3406-592a-b96a-32b8f5d15575",
+      "hashes": {
+        "MD5": "2d27255cab20c847b3a41dd1d11cd631"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3a85dc9-df92-5a10-ae09-9c8ecc059c3e",
+      "hashes": {
+        "MD5": "15ae6c9abdee9221202fef11df7683f4"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7f39e2d-4026-5493-a7fe-749721a259c4",
+      "hashes": {
+        "MD5": "79dc36023c5ec5df9ca870f6e557b2cb"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52b2153c-db7c-5c74-8b11-ea11d7bdf2cf",
+      "hashes": {
+        "MD5": "305101d66cd36c4a78b3655b260865ae"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0422a698-3406-592a-b96a-32b8f5d15575",
+      "hashes": {
+        "MD5": "2d27255cab20c847b3a41dd1d11cd631"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d26d4602-c26a-5253-8292-18cf74b91beb",
+      "hashes": {
+        "MD5": "730e401eb387477f393579127aed718f"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0422a698-3406-592a-b96a-32b8f5d15575",
+      "hashes": {
+        "MD5": "2d27255cab20c847b3a41dd1d11cd631"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45b2752a-a965-5dea-9d9d-6921923f8b1d",
+      "hashes": {
+        "MD5": "4dbee55e59fc95ea4356dbb197f2132c"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--014ccc99-9877-5966-961f-661cfc9b7bc8",
+      "hashes": {
+        "MD5": "461376390131460d2543a2334b5021e2"
+      },
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    }
+  ]
+}
