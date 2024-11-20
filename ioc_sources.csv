@@ -14,7 +14,7 @@ eset/malware-ioc,53f83065e886ab44e7267613f21dc763969367b3,2024-11-12 20:25:22
 hpthreatresearch/iocs,1e29108aaa233dd55f673574a4d75bc0e48a774b,2024-11-06 23:21:27
 PaloAltoNetworks/Unit42-timely-threat-intel,2f96940126c26aca43e2950ceac2d8393a0f34a8,2024-11-20 01:05:38
 infobloxopen/threat-intelligence,860cdc206143c420c581079d5dd3780ed6aee394,2024-11-18 21:26:33
-netskopeoss/NetskopeThreatLabsIOCs,3a790908bf5402d5e28d539c75a53e2cfe00c9de,2024-11-19 01:06:23
+netskopeoss/NetskopeThreatLabsIOCs,fb9c1ea8a7c2df514f683581686a6aefdce58ded,2024-11-20 15:32:56
 google/threat-team,2a8c744923f263ad0f6403986ba5d671de273766,2024-11-06 23:45:49
 elastic/labs-releases,97f7550b1b5733ead50f4b8a6c72e2910c369c46,2024-11-06 23:58:07
 DoctorWebLtd/malware-iocs,99a7a27b8fd500d14c72dc8f1462a39e4a852300,2024-11-11 11:25:02
