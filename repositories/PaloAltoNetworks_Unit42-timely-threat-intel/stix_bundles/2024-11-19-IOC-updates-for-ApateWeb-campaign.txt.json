@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--9e9f7e52-9607-4fa3-88d5-c7fd8e6c8e72",
+  "id": "bundle--a32cc2ac-b2a0-4930-9ce2-94f5db7ecc13",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -70,6 +70,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--b79b6d5a-51b5-5472-8979-22c1cbcc96bb",
       "value": "192.243.61.227",
+      "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55e25b64-0099-5739-ab11-b53f4287707a",
+      "value": "https://www.linkedin.com/posts/unit42_apateweb-pup-scam-activity-7265037695800745984-brvw",
       "x_opencti_description": "2024-11-19-IOC-updates-for-ApateWeb-campaign.txt"
     },
     {
