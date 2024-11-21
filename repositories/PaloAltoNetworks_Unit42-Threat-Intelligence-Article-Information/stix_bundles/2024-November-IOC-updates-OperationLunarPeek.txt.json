@@ -1,0 +1,387 @@
+{
+  "type": "bundle",
+  "id": "bundle--d6630e78-8f16-4320-99bc-37279b58d32b",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b6c7cb90-94cb-53c6-a9cf-f9d843cc3d38",
+      "value": "91.208.197.167",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fa406c4c-4e2f-5fd1-b50b-770434704da6",
+      "value": "104.28.208.123",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--68cb1612-a89a-5038-aa9d-63f40cbb04b3",
+      "value": "136.144.17.146",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3bd6357d-3332-5a8c-9c2b-967f93de1109",
+      "value": "136.144.17.149",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7e835b25-0bca-59a6-9438-53d73bf1caa0",
+      "value": "136.144.17.154",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--141e672e-955a-5655-aac3-f893da4c7d7a",
+      "value": "136.144.17.158",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4c280c39-ef32-5dd8-a35d-1884732c30ec",
+      "value": "136.144.17.161",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--52e4ffbf-d9da-5e69-92fc-def269738131",
+      "value": "136.144.17.164",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--304098f6-9079-55e7-8cc3-29112e8280ae",
+      "value": "136.144.17.166",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6954ea76-368d-57ad-afcc-239e22227900",
+      "value": "136.144.17.167",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e924e94d-32f8-5459-b150-dde9126d8c95",
+      "value": "136.144.17.170",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--48746fe8-1e71-524a-9e0a-21dfca546858",
+      "value": "136.144.17.176",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--862052f9-f975-5ef9-b585-2a7bb9e9e3ad",
+      "value": "136.144.17.177",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1625fd94-0564-51fa-bac8-b5b33dc3b00c",
+      "value": "136.144.17.178",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6958377c-e021-529a-b1ae-ae932735e497",
+      "value": "136.144.17.180",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c9d34671-5c27-5438-90be-fe183b499b05",
+      "value": "173.239.218.248",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a4dcbc86-2d1b-5cf2-95ec-b91a3d258e9f",
+      "value": "173.239.218.251",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--10c245a0-a150-58de-88a0-7abf8f4cde7d",
+      "value": "209.200.246.173",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--adeb994a-b14d-54ea-9f89-2ed16c078992",
+      "value": "209.200.246.184",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f5077955-ede3-5751-9bb5-361250686d51",
+      "value": "216.73.162.69",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8c7c88f0-1ea1-5cb0-b9dd-157d0cfbbbb4",
+      "value": "216.73.162.71",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bad80c91-4040-5190-97cb-0ed828223cec",
+      "value": "216.73.162.73",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--780680d9-64f3-5935-bbc0-e0acdd04fa0d",
+      "value": "216.73.162.74",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b35d7742-ce4d-57ba-9c26-fe886ca0439b",
+      "value": "15.235.189.144",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c285f92-6dba-505b-b1a3-5a412827d377",
+      "value": "15.235.189.145",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--72fae29e-4843-5cdb-93b8-35e5ef170941",
+      "value": "15.235.189.147",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--263035e2-fda2-5f91-8702-020ed791cc9e",
+      "value": "15.235.189.149",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cef65519-c046-5893-9c2a-0d0824be9344",
+      "value": "15.235.189.150",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bd35c70b-f8b7-50a5-990d-2e4bf8885139",
+      "value": "15.235.189.152",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a0982bc7-0901-50fd-92c9-04c68674c28a",
+      "value": "15.235.189.146",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c41114f-62f8-5fdd-9002-202adefa5e40",
+      "value": "15.235.189.148",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3d9d5757-e1db-5485-860a-ce800c7193ae",
+      "value": "15.235.189.151",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b5cdcb6-46bc-5cc8-9049-1c01696be558",
+      "value": "15.235.189.153",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--19d0e823-7671-5f9d-a9bc-d5e90b8fba6d",
+      "value": "15.235.189.154",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c90d0ba8-3346-5bf5-b2d8-0261b0b61026",
+      "value": "15.235.189.155",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--702c7306-da8e-521f-9dc7-a788613656b5",
+      "value": "15.235.189.156",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d4b32bdc-ee66-550e-8998-9fa08f922129",
+      "value": "15.235.189.157",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--02d2c893-fdfd-5077-bf32-6f192e689d8c",
+      "value": "15.235.189.158",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--52677274-42ca-5b9a-ac9b-1aa5613d5d25",
+      "value": "15.235.189.159",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--623017ce-3ad4-5d68-8d87-b8d6e43f335a",
+      "value": "41.215.28.241",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--77988e1d-4889-5015-b85f-62cb025e1da8",
+      "value": "45.32.110.123",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--80e8c4cc-87d4-5a75-9239-c89151268954",
+      "value": "103.112.106.17",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dbe9f687-7008-57b0-8b8b-5a1bf8993137",
+      "value": "104.28.240.123",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--84164f33-4dfb-5dc9-8346-3d1b0c603e64",
+      "value": "182.78.17.137",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--da09f48c-9de9-5a8d-b238-13217bb2a26a",
+      "value": "216.73.160.186",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0218f65a-7e7c-5336-a56e-de86ec0df9c5",
+      "value": "https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4f3d6fbc-9532-5a1b-8c32-d1dda1774411",
+      "value": "https://security.paloaltonetworks.com/CVE-2024-0012",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f5ba2727-b524-56b1-9830-81b41f0bea7d",
+      "value": "https://security.paloaltonetworks.com/CVE-2024-9474",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79d53187-24a9-5643-a3c5-c4863de030ce",
+      "hashes": {
+        "SHA-256": "3C5F9034C86CB1952AA5BB07B4F77CE7D8BB5CC9FE5C029A32C72ADC7E814668"
+      },
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--2614db3c-b91b-4455-a8d2-fd73289aa81f",
+      "created": "2024-11-21T23:13:37.920577Z",
+      "modified": "2024-11-21T23:13:37.920577Z",
+      "name": "CVE-2024-0012",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--8d634cda-9999-4145-bbff-4761b1243c7a",
+      "created": "2024-11-21T23:13:37.921027Z",
+      "modified": "2024-11-21T23:13:37.921027Z",
+      "name": "CVE-2024-9474",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--4e2151c2-33f1-436c-aff9-6d4821690031",
+      "created": "2024-11-21T23:13:37.92137Z",
+      "modified": "2024-11-21T23:13:37.92137Z",
+      "name": "CVE-2024-0012",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--63fb0943-b77c-40ae-9fdb-4ad06b808f5e",
+      "created": "2024-11-21T23:13:37.921711Z",
+      "modified": "2024-11-21T23:13:37.921711Z",
+      "name": "CVE-2024-9474",
+      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
+    }
+  ]
+}
