@@ -66,8 +66,8 @@ The following sources are being collected and parsed:
 
 11. **volexity/threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
-   - Latest commit: dea4d186796cf11068c83defa3c0a443cf396803
-   - Last updated: 2024-11-15 20:15:01
+   - Latest commit: ab1416212928e91caf94866c151e05f481bb4c06
+   - Last updated: 2024-11-22 12:27:22
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
@@ -111,8 +111,8 @@ The following sources are being collected and parsed:
 
 20. **prodaft/malware-ioc**
    - Repository: [prodaft/malware-ioc](https://github.com/prodaft/malware-ioc)
-   - Latest commit: 80d6f0a87bcdb1c4c1b48ccde5bc8bae4adedcf9
-   - Last updated: 2024-11-22 11:12:12
+   - Latest commit: 80240461cdcba2133f6d25d194c15923dbf014da
+   - Last updated: 2024-11-22 12:27:24
 
 21. **WithSecureLabs/iocs**
    - Repository: [WithSecureLabs/iocs](https://github.com/WithSecureLabs/iocs)
