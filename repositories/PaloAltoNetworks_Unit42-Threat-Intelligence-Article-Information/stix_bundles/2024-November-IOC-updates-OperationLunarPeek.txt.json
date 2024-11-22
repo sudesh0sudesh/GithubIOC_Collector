@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--d6630e78-8f16-4320-99bc-37279b58d32b",
+  "id": "bundle--065f0c15-1dbe-4588-9f75-c57efecc8853",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -278,13 +278,6 @@
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
-      "id": "ipv4-addr--623017ce-3ad4-5d68-8d87-b8d6e43f335a",
-      "value": "41.215.28.241",
-      "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
-    },
-    {
-      "type": "ipv4-addr",
-      "spec_version": "2.1",
       "id": "ipv4-addr--77988e1d-4889-5015-b85f-62cb025e1da8",
       "value": "45.32.110.123",
       "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
@@ -350,36 +343,36 @@
     {
       "type": "vulnerability",
       "spec_version": "2.1",
-      "id": "vulnerability--2614db3c-b91b-4455-a8d2-fd73289aa81f",
-      "created": "2024-11-21T23:13:37.920577Z",
-      "modified": "2024-11-21T23:13:37.920577Z",
+      "id": "vulnerability--f094f0e4-f946-4e57-905d-59ec53f031f2",
+      "created": "2024-11-22T19:49:13.078797Z",
+      "modified": "2024-11-22T19:49:13.078797Z",
       "name": "CVE-2024-0012",
       "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
     },
     {
       "type": "vulnerability",
       "spec_version": "2.1",
-      "id": "vulnerability--8d634cda-9999-4145-bbff-4761b1243c7a",
-      "created": "2024-11-21T23:13:37.921027Z",
-      "modified": "2024-11-21T23:13:37.921027Z",
+      "id": "vulnerability--e9fbf28c-f1fa-41f2-a540-6cf6240e520b",
+      "created": "2024-11-22T19:49:13.079232Z",
+      "modified": "2024-11-22T19:49:13.079232Z",
       "name": "CVE-2024-9474",
       "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
     },
     {
       "type": "vulnerability",
       "spec_version": "2.1",
-      "id": "vulnerability--4e2151c2-33f1-436c-aff9-6d4821690031",
-      "created": "2024-11-21T23:13:37.92137Z",
-      "modified": "2024-11-21T23:13:37.92137Z",
+      "id": "vulnerability--03ae00d9-901a-4d96-9dac-9729e132c7d6",
+      "created": "2024-11-22T19:49:13.079571Z",
+      "modified": "2024-11-22T19:49:13.079571Z",
       "name": "CVE-2024-0012",
       "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
     },
     {
       "type": "vulnerability",
       "spec_version": "2.1",
-      "id": "vulnerability--63fb0943-b77c-40ae-9fdb-4ad06b808f5e",
-      "created": "2024-11-21T23:13:37.921711Z",
-      "modified": "2024-11-21T23:13:37.921711Z",
+      "id": "vulnerability--c8919461-9f4f-412c-bdde-829618ff4dc0",
+      "created": "2024-11-22T19:49:13.079902Z",
+      "modified": "2024-11-22T19:49:13.079902Z",
       "name": "CVE-2024-9474",
       "x_opencti_description": "2024-November-IOC-updates-OperationLunarPeek.txt"
     }
