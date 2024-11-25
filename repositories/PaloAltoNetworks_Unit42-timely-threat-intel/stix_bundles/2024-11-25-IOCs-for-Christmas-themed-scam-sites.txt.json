@@ -1,0 +1,230 @@
+{
+  "type": "bundle",
+  "id": "bundle--8560759e-f1ca-4934-968c-126b4c2976e8",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7142764-a7c0-520f-a20e-c0cbf96a73b1",
+      "value": "ld20.oc49.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5cfea761-1270-5bde-89f4-a103e6f48cab",
+      "value": "ld37.gp23.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5b70d30-92dd-5545-b586-eb9ca5a6157e",
+      "value": "ld37.ydq22.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f20e56f2-f5d0-5a9b-a370-de56c1ff8b6f",
+      "value": "ld52.fph55.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e1dabf5-cd43-5611-8d6d-dec07456130e",
+      "value": "ld61.gbo83.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6294103-4f6b-552e-bcee-71f167702596",
+      "value": "ld71.urqaq.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e5ba154-47da-5a37-bad9-6a3e0bbac468",
+      "value": "ld73.fph55.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bd33f87-4b99-5a01-bef2-06bcc3227616",
+      "value": "ld73.xud50.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78248e50-5db4-57f2-8639-66d02f079231",
+      "value": "ld83.fn73.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4ca97dff-1a07-5e1b-8bca-949944b9d0bd",
+      "value": "ld84.eq86.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--877731f5-e07a-5ba7-bf74-62af393ef495",
+      "value": "ld86.vu78.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3ec1e3e-347a-5cf9-aa60-24ecbf5dc4f6",
+      "value": "ld87.gp23.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43b96af3-5ab4-5bb0-b9b4-82a07fd101f7",
+      "value": "ld87.ue25.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af72accb-b631-5753-ad49-09bb8b3675fd",
+      "value": "ld88.vu78.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f192bf55-8f25-5d1e-b40a-313eec881e5b",
+      "value": "ld94.fn73.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05856164-8e0e-5700-9c43-10877ef5bbce",
+      "value": "ld97.uib59.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b35a70d-5789-533a-9d21-5960cf4baa78",
+      "value": "ld201.qyh19.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fced2145-87b8-5c23-9644-905dcad9d362",
+      "value": "ld230.bnv30.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a7bba51-01a3-5d74-9848-3ce2d22185cb",
+      "value": "ld238.nft63.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6fa6b98-d89b-5989-b0c9-89eede76543d",
+      "value": "ld250.ort68.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17716aa8-655b-5d7a-a7b7-aabb8ca95c92",
+      "value": "ld264.ort68.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b94d5e8-bf5e-5baf-a53f-94ff73024d58",
+      "value": "ld265.bnv30.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--886d651d-a7c5-50ba-8aa8-8bbb1562d266",
+      "value": "ld267.gte31.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f965172-15d0-531b-97fb-0188d928bf70",
+      "value": "ld271.vvu18.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eca17e90-a682-5506-969b-62a6a11cccfa",
+      "value": "ld274.thu76.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e0f378b9-6fa8-5e71-bcd6-73998573eeed",
+      "value": "ld279.uri36.xyz",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--079a506e-cf6d-5849-9cc0-7949ede9d9da",
+      "value": "tk174.tvahoz.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--387cfa1d-4130-5ae3-9592-853ae4a2017f",
+      "value": "tk204.kliinn.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c2cbf7f-3bc0-569f-8b18-3dfadfb65a99",
+      "value": "tk213.ipqxud.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f390b8d1-e8c9-56d4-acd8-abb34762dd27",
+      "value": "tk214.ut87.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54f78771-5d47-576a-b254-9eb6eef89204",
+      "value": "tk221.kliinn.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a36dd018-c14a-5a6a-9cd4-cf6b74cd1bfc",
+      "value": "z9.em50.top",
+      "x_opencti_description": "2024-11-25-IOCs-for-Christmas-themed-scam-sites.txt"
+    }
+  ]
+}
