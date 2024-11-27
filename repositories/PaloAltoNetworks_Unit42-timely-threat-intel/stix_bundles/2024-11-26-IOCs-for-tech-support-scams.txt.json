@@ -1,0 +1,76 @@
+{
+  "type": "bundle",
+  "id": "bundle--e56c54a7-5d9b-44d1-b491-3a4789ac1530",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1776041c-90ed-5961-9dbc-9299cf26bfed",
+      "value": "131.0.0.0",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--885aedea-a403-5cd1-8eac-986ca0f592d7",
+      "value": "adfpoint.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f0c6f82-f1bb-543a-8a30-2c856aba0a9c",
+      "value": "t83v0zs.kib7z.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--243cf633-1fa1-5f6c-9017-b306dd005575",
+      "value": "us.bluetides.xyz",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd99ff0d-c615-5c4f-b26d-c868521db4e5",
+      "value": "us.toromclk.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cccec8b9-89ee-5fbe-9a8d-21c6438dd995",
+      "value": "xml.exdirectopl.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ceaed168-90d7-5c90-a17e-631736e82f91",
+      "value": "xml.staradsmedia.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--86da47ff-00c3-580b-b648-28944d274403",
+      "value": "xml.userwave.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2333c1e-d317-5113-add9-9cc6ef5fa01b",
+      "value": "xml.webmedxml.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5049d960-5fdc-5a21-a594-202e0d65eaed",
+      "value": "xml.rtxplatform.com",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    }
+  ]
+}
