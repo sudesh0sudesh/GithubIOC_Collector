@@ -1,0 +1,211 @@
+{
+  "type": "bundle",
+  "id": "bundle--13209b8f-bcf0-476e-b2ee-4f7f5ec3f78a",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9864aa96-9202-5613-8cfa-776375f848af",
+      "value": "customchecker.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b42876d-d33e-53e3-9849-2580c533e76f",
+      "hashes": {
+        "SHA-256": "b8d97d29e99e1f96e06836468db56855dc09305e3ed663c720fe700ea4bf6e73"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b2903b7-5c27-5735-84b8-7a58fc122224",
+      "hashes": {
+        "SHA-256": "b53cf86e6860294fd6731f7db990d7d0f2329893d83f17934836207cf361062f"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40da92cb-4228-5bd1-8047-0332a0eef98a",
+      "hashes": {
+        "SHA-256": "958006c2be14c75ac32c92bb0ff0b71d4b94e9e0f358335ed976952abb772eb0"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c07fd9d8-f870-5134-a7d3-3fe0d18d8596",
+      "hashes": {
+        "SHA-256": "616cf561124ce116e4b61a26e5d2fb4ba68126ba6f3df9a66e71f57f6914292e"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec52869b-3bea-58c5-a6ba-800ff2fc6392",
+      "hashes": {
+        "SHA-256": "8f51f8d5c5c4c3496af197dbfb99167af77b0d9b434297d70df5ecd7a167f74e"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b407ec3-f67d-5fb1-8f2a-af4a903aeb54",
+      "hashes": {
+        "SHA-256": "f00c33c89c8468f112a9d54888eb37087e82b0732b7e587371426bfaf397eefa"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76372a87-a9be-5ef8-a367-da427906d0ae",
+      "hashes": {
+        "SHA-256": "244e004ac7149e2631d68cba947cfd3d5d5352536ecb352c410b6e80e09d874a"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0723ef66-b0d7-5a6b-9350-ac5e07abd57f",
+      "hashes": {
+        "SHA-256": "9caaa34fa5fab572695f49cc496820dc5e4df6d8866b3f89a49e2dab1a6f85d2"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a798df00-f24b-5145-8e93-46b16c3e3391",
+      "hashes": {
+        "SHA-256": "28d2c70bb31fc2be17ff15f5c07eea5f373563970ec210b3af343444222ef167"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a14f14c-f026-5b5f-bd86-268f2f6be074",
+      "hashes": {
+        "SHA-256": "2a2d236314a99124e65554c397d62d8bfa28293482ebd54bcb2aaf3d2ad64450"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a79b36ef-8506-508e-b43e-a08b08bcbb5c",
+      "hashes": {
+        "SHA-256": "89eb16fc5326a3b6dd7cf69d8de12b120de3c524a8de14bfbe4115943a2ff6ec"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ef489ea-5f1a-5dde-beb0-a1419db63992",
+      "hashes": {
+        "SHA-256": "d4daf30ceee80c4f639f3aff6abeb95e7fbf11e125fb90f8972b7a92e22d22e5"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a63ded75-b47e-5431-81f7-abd5587ec729",
+      "hashes": {
+        "SHA-256": "30f5db9a7982db6ac1a3f65f4eada76b24e9438c9cf733e7b0bc353e6c5c5a25"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6faf5b4-78f6-50c1-b378-fd9034c20716",
+      "hashes": {
+        "SHA-256": "806b5269e7aa9c2c82ce247b30a3e92a4f7285b21e2bcf54c8ffad86bd92ea68"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b3fd642-8e5f-59ff-b10b-3ae09a39a73e",
+      "hashes": {
+        "SHA-256": "ac71520a18fa7fd5f67d8cb8800c732a3c78bb1e0815bcddfbc120bf9ca86d96"
+      },
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7c33832e-13e6-581b-86a6-9f68c277f5c4",
+      "value": "Event.pdf.lnk",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d94e526-e9f0-5c91-829d-1356fe4ee337",
+      "value": "Resume.lnk",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4bbaf8f-cf7d-5a80-ac72-49784fd3c656",
+      "value": "Resume.pdf.lnk",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c76fcb2d-cbe9-5737-b367-d62f512d8706",
+      "value": "Resume.pdf",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fcd64777-7b50-5b20-9bac-e1d471e65e5a",
+      "value": "customchecker.com.exe",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1d1d48d5-b2cd-55a8-86cf-c688c4096afc",
+      "value": "dccw.exe",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab9b582d-3788-50e1-99e7-49823455e127",
+      "value": "files.zip",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--173fcd53-6d6d-50ee-9358-c7ee968bbb9a",
+      "value": "manifest.txt",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d44c1c2b-9cd1-5510-a29e-b31354d0ba3b",
+      "value": "ssowoface.dll",
+      "x_opencti_description": "2024-11-27 susp sandworm/manifest.txt"
+    }
+  ]
+}
