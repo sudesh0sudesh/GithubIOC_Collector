@@ -46,8 +46,8 @@ The following sources are being collected and parsed:
 
 7. **StrikeReady-Inc/research**
    - Repository: [StrikeReady-Inc/research](https://github.com/StrikeReady-Inc/research)
-   - Latest commit: 6227dd6bfd17d293002e6ef45d480dc548fb26bc
-   - Last updated: 2024-11-27 14:49:38
+   - Latest commit: 31e8db80e51f54bd3e1ceeb276ea2d89fea97766
+   - Last updated: 2024-11-29 17:12:54
 
 8. **HarfangLab/iocs**
    - Repository: [HarfangLab/iocs](https://github.com/HarfangLab/iocs)

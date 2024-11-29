@@ -1,0 +1,48 @@
+{
+  "type": "bundle",
+  "id": "bundle--8d7066c4-6c28-4e93-8d08-7a70fde9d3ad",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fefc03e-a471-557c-9b20-386a9f3da3e5",
+      "value": "protectconnections.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92c56b61-6a50-54cb-842f-c52f0bf0e6f9",
+      "value": "annualgieconferenceinmunich2024.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--463bc21f-334a-5043-a189-faff5eea777e",
+      "value": "gieannualconferenceinmunich.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f22fbf1c-ed11-579c-b9d4-e79d2f0b6b54",
+      "value": "adobeprotectcheck.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9094fd7-095c-5ae6-a20c-b31fa8042fd8",
+      "value": "protectraid.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5933a07a-ce48-5ec8-9f93-79c2971d3b15",
+      "value": "antimailspam.com",
+      "x_opencti_description": "2024-11-27 susp sandworm/urls.txt"
+    }
+  ]
+}
