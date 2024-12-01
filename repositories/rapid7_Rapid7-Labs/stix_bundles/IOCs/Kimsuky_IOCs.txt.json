@@ -1,0 +1,341 @@
+{
+  "type": "bundle",
+  "id": "bundle--ef244007-6f6e-42ac-b553-b02f76330946",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc0bd37b-60c1-57c6-9ebf-d3be27d87605",
+      "value": "00701111.000webhostapp.com",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--db427aa3-c2eb-5f85-b8df-e990be7cef39",
+      "value": "https://niscarea.com/in.php",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7ea3ccb-1dca-5400-9447-b9518370d566",
+      "hashes": {
+        "MD5": "364d4fdf430477222fe854b3cd5b6d40"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5df8d42d-969d-54b7-b418-928340ebc8b1",
+      "hashes": {
+        "MD5": "71db2ae9c36403cec1fd38864d64f239"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--490a7a5f-d050-5aa1-9170-05808c4b3131",
+      "hashes": {
+        "MD5": "9b90da17af5ac50f7cbea9a0dcab5e95"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aabd5c71-5e58-517c-a4b4-fc7725d58892",
+      "hashes": {
+        "MD5": "d2a9dee8b59e97fc8a853833473a243d"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--33a7d0c6-d6b5-579e-a9d9-2a7cd688fe2d",
+      "hashes": {
+        "MD5": "fe0fefe55775f03c0b8feaeb6a0ad525"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9520a8e-9c97-5395-a1bd-06e831e2aa93",
+      "hashes": {
+        "MD5": "df9dcd99ce845e3c8fec0a246f129e0a"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f354e15-eaa1-55e6-947a-0e3727fa4ad1",
+      "hashes": {
+        "MD5": "4bc56c3e1129215d813e78a70d2696c2"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5412d57-9d41-5521-aaf2-afe8802f4a03",
+      "hashes": {
+        "MD5": "0179c9475fa0c1d942edc0f55cbb191c"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c7b47f2-f49a-549e-87ca-d4d479321585",
+      "hashes": {
+        "MD5": "5f06662b150104efe2a348b97471f7ef"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf0cdf33-4355-5669-92a0-951411a0e365",
+      "hashes": {
+        "MD5": "ed275f0721f12ad7497d5443ad8f743f"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--08d1c12b-3bdd-5be7-b690-ed3910d87c25",
+      "hashes": {
+        "SHA-1": "b5224224fdbabdea53a91a96e9f816c6f9a8708c"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b68f7fe3-5987-5871-a34c-6d7bfe0c96c5",
+      "hashes": {
+        "SHA-1": "5c7b2705155023e6e438399d895d30bf924e0547"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cce83c88-8546-59d3-b252-9e683a679ad6",
+      "hashes": {
+        "SHA-1": "d4fa57f9c9e35222a8cacddc79055c1d76907fb9"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--673f3b82-45b8-58b1-af61-838628d29235",
+      "hashes": {
+        "SHA-1": "421e41df6eea17720583938afb9254051f9800b4"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d290014b-8747-56f2-a04a-9b48c70bb038",
+      "hashes": {
+        "SHA-1": "a77527035bea78e0a95e81d4557fe5020d96f739"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71a1e6d8-e81b-5193-9179-acf89d69683c",
+      "hashes": {
+        "SHA-1": "3f3f4b15efc6be2d204ca369d58dc6bd411cff30"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--78c2c185-b857-5b44-8efa-80d7a2a4e983",
+      "hashes": {
+        "SHA-1": "eaaee3dc4c2da5a78f9e3dc206da49b3a83925d5"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26812825-7096-5146-9e19-d5ccc03f9d78",
+      "hashes": {
+        "SHA-1": "291bf83c9efa7035f6bd66a5a1ba9848b91ff355"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4612b260-d554-5485-8e25-609cf4dc49bb",
+      "hashes": {
+        "SHA-1": "a96f0685c14e6b495e047043183e86fe935e8942"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b9d9ef3-e253-5319-a4e2-78fd6353963a",
+      "hashes": {
+        "SHA-1": "e0884263fea0eae8932f9043934dfd96020ba394"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8af2d33c-38e3-54dc-93ed-8bf5b5f0a38a",
+      "hashes": {
+        "SHA-256": "c62677543eeb50e0def44fc75009a7748cdbedd0a3ccf62f50d7f219f6a5aa05"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61cf7f62-0a1c-5950-895d-ed24fd53c7b3",
+      "hashes": {
+        "SHA-256": "e8000ddfddbe120b5f2fb3677abbad901615d1abd01a0de204fade5d2dd5ad0d"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b36a0626-5d3a-5fe1-ba24-d28c4f39aecb",
+      "hashes": {
+        "SHA-256": "da79eea1198a1a10e2ffd50fd949521632d8f252fb1aadb57a45218482b9fd89"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7553db45-af57-5b89-b3fe-20a4a97021b6",
+      "hashes": {
+        "SHA-256": "0da96b1d368d024fdafbf7decd5ff1bbd05c7f981736b526b0e2e2150df4c35f"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41a8fae7-8758-5fcc-8331-3ebf6d0ecc6b",
+      "hashes": {
+        "SHA-256": "5349a0f1050b6369222fa26e92475c71a42c6d8c6d4d97017edf79a88640b823"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41047847-0579-5a59-a208-546b3497dae6",
+      "hashes": {
+        "SHA-256": "525ba2dc6248db68aff43bff03f04faf6f33f477b21585476559fb15595ce342"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a36cc4c6-79e8-596f-b464-0a3eb7a59221",
+      "hashes": {
+        "SHA-256": "95ee9ce89975aa326be807ce6e6490fd93937622377d55591d55ec8471950ac4"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--649040ef-0cd6-54cd-8620-e19190650fad",
+      "hashes": {
+        "SHA-256": "bf5a68117d99d33339e0408b15cf480379fb6e66cf73a7aea858531855ae4428"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71a23248-b91c-5d19-8749-58c6b2fc9484",
+      "hashes": {
+        "SHA-256": "b9aa566824a0cef05e2fd8a589fc73f3bc865f6ec3e9e1b19cb5436a553d2f66"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f4979cc-5374-53f7-892e-c154fdee0890",
+      "hashes": {
+        "SHA-256": "adcc3ab54605bd0b4c0587e48247b1d6bc595211da2557df934cd8ab8f4c3a07"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2d2722d-4b59-5266-923e-f8242cff7bdb",
+      "hashes": {
+        "SHA-256": "f0d278f05217885b27aba756585c543a7dde05b651dbaceacd78b4657abaa5a1"
+      },
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--793e2c34-59a0-57c4-aa7f-947df228d9bc",
+      "value": "1295049.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5124bac6-5179-510c-b70f-40af7d6a8f31",
+      "value": "2034923.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fcdafb6-517f-54c6-816a-f92a41ad488f",
+      "value": "3059602.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c3f076f-f471-5b9a-8338-111793c9dc0e",
+      "value": "4959032.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5aa5aef5-bfa9-54ba-a5f5-c0a4f3029874",
+      "value": "5923924.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51c01e43-cb72-55f0-b948-fd0e3d07a983",
+      "value": "9583423.bat",
+      "x_opencti_description": "IOCs/Kimsuky_IOCs.txt"
+    }
+  ]
+}

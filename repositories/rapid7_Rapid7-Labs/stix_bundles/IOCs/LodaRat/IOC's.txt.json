@@ -1,0 +1,154 @@
+{
+  "type": "bundle",
+  "id": "bundle--f240e729-5edc-4772-a422-d535520e0724",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--40607bfd-3eac-564e-bfb8-d3549b0def17",
+      "value": "172.111.138.100",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a08933d0-2129-54b3-bcfa-c0e9a3db1c93",
+      "value": "147.185.221.21",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4361661a-2bc5-5c20-98f4-cb1ea94eaa9f",
+      "value": "147.185.221.22",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--23ee0ec0-40a4-5b9e-b318-bf468cb42677",
+      "value": "147.185.221.20",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--111da468-add8-51f4-b6b7-f4fa7e0bea4a",
+      "value": "5.tcp.eu.ngrok.io",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea0e2374-33f9-51ad-8848-21471d190d21",
+      "value": "dlm1.kro.kr",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45a6b02f-ff07-52cc-842b-95603285e865",
+      "hashes": {
+        "SHA-256": "392d0db0222fef303ea1a8b69fab284de26752889c575cd2d761cb819bdcaa32"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7be8141b-d95e-5bd3-9773-4bb882179055",
+      "hashes": {
+        "SHA-256": "e147c5cf48f78917cc2aeab29854a6cdb89d60284a43d08187a0b411d7035b56"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f2c6bf0-191e-5578-b4b2-4415f13b7927",
+      "hashes": {
+        "SHA-256": "4b744c0b57fcbf91b5a7142efb84688c0e406710d8553f5a5d93240735d5be30"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4514503d-0e8f-5088-a14f-1d2d3c582732",
+      "hashes": {
+        "SHA-256": "1fa58b2d513593b656faf6c8c6328e0ba20177b5c1a5cfc45f6e91f45ba215c3"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f5c4434-401a-5493-8e7a-149b57778d96",
+      "hashes": {
+        "SHA-256": "e901a4f5b4f7760ec3822b01b0123f0b5b31045054d00b933bb1c498141ceabc"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9cd51fd4-6ab5-5480-ac45-103e29e98f03",
+      "hashes": {
+        "SHA-256": "fab1ee438235563f02c0a2277ecc38c56a89b8b671df2a0d5b818e5129c3f04d"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5714cb57-8389-5ad5-8fd7-8213a9cc7cc8",
+      "hashes": {
+        "SHA-256": "a84f537549c24fdd4ea1f95d31f028247190f511f241983241131fc6072cb72c"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3705b60b-f76d-596b-9bb0-eb50570022c9",
+      "hashes": {
+        "SHA-256": "3ee65679547f3a62add9c23d2b7a7b8fa6de8614f8a90a3db24357310f95a19b"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--280259a7-447b-5f6d-abcf-36a389f89cfb",
+      "hashes": {
+        "SHA-256": "50985c97be645d55169baebe8d848c36610a3ea007ee6dda4bb5e34638dae6e9"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b5b9b42-703d-5f91-ac0e-df4f4163f701",
+      "hashes": {
+        "SHA-256": "489675F3DA53C5034AA03FBF329301F2C310EA115779A4508BDB4EB9062376DD"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c62623b7-0b6b-50b7-9c87-98c6374d9e50",
+      "hashes": {
+        "SHA-256": "CB132691793E93AD8065F857B4B1BABA92E937CFC3D3A8042CE9109E12D32B4C"
+      },
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3e4bca8d-792c-5315-96c6-25777fa148ac",
+      "value": "sq8.dll",
+      "x_opencti_description": "IOCs/LodaRat/IOC's.txt"
+    }
+  ]
+}

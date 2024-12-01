@@ -1,0 +1,207 @@
+{
+  "type": "bundle",
+  "id": "bundle--6b7d5d4f-84ce-4b11-8327-b953a55094dc",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b385dae8-6f4a-5225-83b2-843f9dae4eef",
+      "value": "gmail.com",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b385dae8-6f4a-5225-83b2-843f9dae4eef",
+      "value": "gmail.com",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3376fdb-c0a0-5cfb-a676-4d5c2d7f0cc2",
+      "hashes": {
+        "SHA-256": "C25F7B30D224D999CE337A13224C1CDE9FFB3F415D7113548DE9914A1BB3F123"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b791341c-cd21-5b87-b1eb-e3b794cfbde5",
+      "hashes": {
+        "SHA-256": "74df3452a6b9dcdba658af7a9cf5afb09cce51534f9bc63079827bf73075243b"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3ec021b-16aa-5942-bab1-03e5b0fe57a6",
+      "hashes": {
+        "SHA-256": "35619594724871138875db462eda6cf24f2a462e1f812ff27d79131576cd73ab"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d48293a-c347-5ff1-b17c-c9a988d7fd15",
+      "hashes": {
+        "SHA-256": "32877793a1e0d72235e9e785e1f55592c32c9f08b73729815b8103b09a54065f"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d58467c2-a5e6-5138-a156-a89de9666249",
+      "hashes": {
+        "SHA-256": "7eea62dcae4e2e5091dd89959529ae047071415a890dda507db4c53b6dcab28b"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4383e3a8-5ade-50cd-8b64-9aa59e11ab73",
+      "hashes": {
+        "SHA-256": "13a5c3b72f81554e04b56d960d3a503a4b08ec77abb43756932a68b98dac1479"
+      },
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--599cbe93-2f46-5c15-a77e-f31c242e8939",
+      "value": "Teikobest@gmail.com",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--1b037c14-948d-5320-abaf-b45eb9e3128e",
+      "value": "Loxoclash@gmail.com",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9343e8be-cc9d-56ed-9fb7-81bde8001dc9",
+      "value": "Die.exe",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--221ac853-6462-5eef-a3a3-eb7273836658",
+      "value": "NFD.exe",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5cd970fc-5edc-5a2d-9171-a6ad9cdc87cb",
+      "value": "boot.ini",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c2f965f-94d4-5e52-b8b9-8fb35421e590",
+      "value": "bootfont.bin",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bad82d60-e8c1-587b-b47f-02d9bfe869ea",
+      "value": "bootsect.bak",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--940f3828-7ed0-57f7-93d3-e93947c568cf",
+      "value": "desktop.ini",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52285ccc-aec5-55ac-bbca-35deef56935b",
+      "value": "iconcache.db",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dc0e0d4e-b341-5bb0-a237-6ef6e6150e30",
+      "value": "ntuser.dat",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a461ae18-d08f-5ebc-8f37-0ebef4b2a224",
+      "value": "ntuser.dat.log",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c028c1d-8e41-5e9b-bb94-6c8d895c2f01",
+      "value": "ntuser.ini",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35b4388f-d2ea-530c-9006-f639a784a791",
+      "value": "thumbs.db",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6da8a891-eb73-5f0f-b807-f7552b32d048",
+      "value": "pagefile.sys",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fbf890bd-db6e-55eb-bd82-683d3822f4a3",
+      "value": "win.ini",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef30a7c6-95e4-53c5-8a02-ae18d6344939",
+      "value": "UsrClass.dat",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ad2dbf2-348a-5264-a8a5-5a53654ececb",
+      "value": "hiberfil.sys",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--396f24e3-1155-5e57-941a-514ba674807e",
+      "value": "DumpStack.log.tmp",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--327ce0c7-057b-5b67-80f2-bd0b86bc2d6e",
+      "value": "Config.Msi",
+      "x_opencti_description": "IOCs/BlackHunt.txt"
+    }
+  ]
+}

@@ -119,3 +119,8 @@ The following sources are being collected and parsed:
    - Latest commit: 29adc4b6c2c2850f0f385aec77ab6fc0d7a8f20c
    - Last updated: 2024-11-06 23:59:10
 
+22. **rapid7/Rapid7-Labs**
+   - Repository: [rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)
+   - Latest commit: bb61771746029ac6c757dccc391ca0830ce1c928
+   - Last updated: 2024-12-01 11:28:15
+

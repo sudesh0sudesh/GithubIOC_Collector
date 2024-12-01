@@ -1,0 +1,104 @@
+{
+  "type": "bundle",
+  "id": "bundle--5a5d309d-e9e3-498c-b8cf-00fa3786bb05",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c2541d6-1598-5a72-bae3-f6dab9da4757",
+      "value": "checkip.amazonaws.com",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f73e0976-acdd-5d45-8f2a-7a77f05f836c",
+      "value": "recentservers.xml",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b9c325c-b760-54e9-b197-acd102c69ec0",
+      "value": "bass.dll",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--776770af-0979-5aef-bb01-a451191dc8a4",
+      "value": "bacb.dll",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a74a471b-4e18-5335-8d9e-e4e4476eefe6",
+      "value": "baenc.dll",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0e803184-caaf-58ae-b902-e78a9c6bdf5a",
+      "value": "es.dll",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef215bfa-db0e-55ac-a131-2682436c67a0",
+      "value": "lamx.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e0c11a3b-1526-5f8c-8850-89b855f799a5",
+      "value": "xr.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a40c3a2-5af5-5bc6-bbc7-5bcf8d430733",
+      "value": "p12.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d8c1bbf-1ab7-5426-8222-361bd13a3dbf",
+      "value": "cmd.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f046078-daea-516f-b6ec-57329e819e02",
+      "value": "wmplayer.exe",
+      "x_opencti_description": "IOCs/LodaRat/Full Capablity List.txt"
+    }
+  ]
+}

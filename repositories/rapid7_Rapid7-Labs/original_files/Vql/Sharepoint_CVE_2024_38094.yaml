@@ -1,0 +1,60 @@
+name: Windows.Detection.Sharepoint_CVE_2024_38094
+author: Rapid7 IR Team
+description: |
+  This artifact detects evidence of exploitation of Sharepoint RCE CVE-2024-38094.
+
+  This artifact will scan logs contained in the inetpub directory for strings related to the POC code found on Github https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC/blob/main/poc_specific.py for CVE-2024-38094: Microsoft SharePoint Remote Code Execution Vulnerability.
+
+  Additional analysis information:
+  
+  - The bdcm upload functionality observed within the POC code enables the ability to upload payloads to the Sharepoint system
+  - Hits returned will show the external IP address and Http status code associated with the malicious string activity
+
+reference:
+   - https://www.rapid7.com/blog/post/2024/07/09/patch-tuesday-july-2024/
+   - https://www.rapid7.com/db/vulnerabilities/microsoft-sharepoint-cve-2024-38094/
+
+type: CLIENT
+
+parameters:
+   - name: TargetGlob
+     default: C:\inetpub\logs\LogFiles\**\*
+   - name: YaraRule
+     default: |
+        rule exploit_CVE_2024_38094 {
+          meta:
+            description = "detects evidence of exploitation of CVE-2024-38094 sharepoint RCE vulnerability on a web sharepoint server running windows OS"
+            author = "Rapid7 IR team"
+            date = "2024/08/05"
+          strings:
+            
+            // download of bdcm file within inetpub logs
+            $bdcmstrings_1 = /\r\n.{10,250}BDCMetadata\.bdcm.{10,500}\r/ nocase ascii
+            // POC strings
+            $pocstrings_1 = "/_api/web/Folders" nocase ascii
+            // enumeration prior to bdcm download
+            $enumstrings_1 = "/_api/web/siteusers" nocase ascii
+            $enumstrings_2 = "/_vti_bin/client.svc/web/siteusers" nocase ascii
+            $enumstrings_3 = /\r\n.{10,250}\/_vti_bin\/client\.svc\/web\/currentuser.{10,500}\r/ nocase ascii
+            $enumstrings_4 = /\r\n.{10,250}\/_vti_bin\/client\.svc\/web\/GetFolderByServerRelativeUrl\(\'\/\'\)\/Folders.{10,500}\r/ nocase ascii
+          condition:
+            ($bdcmstrings_1) or (3 of ($enumstrings*) and ($pocstrings_1))
+        }
+   - name: UploadHits
+     type: bool
+     description: upload any logs with hits.
+
+sources:
+  - precondition:
+      SELECT OS From info() where OS = 'windows'
+
+    query: |
+      SELECT * FROM Artifact.Generic.Detection.Yara.Glob(
+                        PathGlob=TargetGlob,
+                        YaraRule=YaraRule,
+                        NumberOfHits=999999,
+                        UploadHits=UploadHits )
+
+column_types:
+  - name: HitContext
+    type: preview_upload
