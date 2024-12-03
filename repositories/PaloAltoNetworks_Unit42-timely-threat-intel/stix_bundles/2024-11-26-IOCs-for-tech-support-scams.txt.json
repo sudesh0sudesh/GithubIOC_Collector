@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--e70d566d-87e2-41e1-a929-2d277003d4ad",
+  "id": "bundle--505fccb0-c20c-4abe-9453-0d6df5590db1",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--1776041c-90ed-5961-9dbc-9299cf26bfed",
       "value": "131.0.0.0",
+      "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f54d28bb-ba1a-5c45-b73c-ef96b94f9946",
+      "value": "https://www.linkedin.com/posts/unit42_techsupportscam-scam-activity-7269742377173417987-E6KG",
       "x_opencti_description": "2024-11-26-IOCs-for-tech-support-scams.txt"
     },
     {
