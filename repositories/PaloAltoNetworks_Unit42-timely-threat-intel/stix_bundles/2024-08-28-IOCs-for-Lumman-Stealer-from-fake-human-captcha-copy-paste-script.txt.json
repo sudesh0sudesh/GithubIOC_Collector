@@ -1,0 +1,54 @@
+{
+  "type": "bundle",
+  "id": "bundle--de6a30ab-1bec-45d6-9f02-f63d7d9a035d",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d06d6587-173c-5cb5-9ca7-8676046e6636",
+      "value": "https://www.linkedin.com/posts/unit42_lumma-stealer-lummastealer-activity-7234943650328125440-Y4CX",
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9dbaead1-af26-599f-9252-4bf7eb6d396a",
+      "value": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-06-24-IOCs-for-ClickFix-pushing-Lumma-Stealer.txt",
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f752f16a-ad30-51d8-aacf-16f7cfe576d2",
+      "hashes": {
+        "SHA-256": "07b127b0c351547fa8ec4cac6cd5fd68dc8916dc4557ab13909ca95d53478a7d"
+      },
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cdcb2630-ce51-503b-9e0b-4d5f898c24f0",
+      "hashes": {
+        "SHA-256": "539574e6af31c459925943267001e2a9d61fb2c592762b5c4dcbedd90155d8a3"
+      },
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--11b532ca-1b90-5711-8570-bc9288386431",
+      "hashes": {
+        "SHA-256": "7d6ee310f1cd4512d140c94a95f0db4e76a7171c6a65f5c483e7f8a08f7efe78"
+      },
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdd1cde6-a9a9-5831-bd18-f931e47e2f96",
+      "value": "Stealer.txt",
+      "x_opencti_description": "2024-08-28-IOCs-for-Lumman-Stealer-from-fake-human-captcha-copy-paste-script.txt"
+    }
+  ]
+}
