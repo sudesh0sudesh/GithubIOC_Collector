@@ -1,0 +1,1841 @@
+{
+  "type": "bundle",
+  "id": "bundle--8a0e1b9b-acc3-4555-bbbc-2941311273c7",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--49e3d3d6-681a-5f10-8f03-78323749a4a5",
+      "value": "185.130.47.96",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--19a1cfca-aa3f-5521-8558-7adf4dcfe0ad",
+      "value": "65.87.7.151",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d7ca0a8c-24eb-5c28-8c3b-8e07c592c8ae",
+      "value": "66.78.40.86",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--343a023f-aae5-541b-a457-d6efe64d1a80",
+      "value": "184.174.97.32",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--abc5927f-ad26-588b-bb78-c0fe28acae45",
+      "value": "212.232.22.140",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b863ac0-d52d-577e-ae5e-cbf8c2486a11",
+      "value": "8.209.111.227",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11ddf93b-fcb3-51d6-b744-e79374ec0f5c",
+      "value": "8.211.34.166",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b18a348e-6bbe-5b3c-be3a-fdc1b9e61b50",
+      "value": "109.172.88.38",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e310c613-49d5-57c2-a053-721a23f3a2fc",
+      "value": "109.172.87.135",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a503d566-4453-5b95-89bf-5f3457b4dbef",
+      "value": "188.130.206.243",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--48fffd4a-1d1a-5cc5-bd86-f4f0707c6397",
+      "value": "46.8.232.106",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--32ac6d83-b3dd-5e6b-92f0-a91785cf5e46",
+      "value": "46.8.236.61",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--78706c63-078b-5103-9d7c-be5eab409581",
+      "value": "91.212.166.91",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e2d36420-41f9-52ef-8319-3cb1a0ec5db2",
+      "value": "93.185.159.253",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d2113b98-be31-5373-a2f3-3fa28a0bcc89",
+      "value": "94.103.85.114",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aecdf395-19ea-5911-a15c-9ac6a46c66b5",
+      "value": "193.29.13.60",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--780b2c3b-1f30-5f84-b589-eaaf22de41ba",
+      "value": "88.214.25.32",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--14cf650a-cd7e-5e77-b47b-3177bc2b3d31",
+      "value": "147.28.163.206",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bbcc0b5e-3f44-5eb7-9282-42f6e4a6c7d2",
+      "value": "45.61.152.154",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--34df4ab0-66bd-5ef0-a3a6-0dcaa6831a04",
+      "value": "185.229.66.224",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aedeba5d-84cc-5191-a534-b6502d89708a",
+      "value": "172.81.60.122",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8d248aa6-ab42-52a1-8afc-a0e9e1bad1c1",
+      "value": "145.223.116.66",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0fab158a-dc47-5288-a7e6-117dbf7b0e63",
+      "value": "185.238.169.17",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ded1203f-9429-5efa-8ffc-91955dfbba78",
+      "value": "179.60.149.194",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cbd67181-b9f8-595b-8bc3-3971e34fa1cc",
+      "value": "1.1.1.1",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--679c6c82-b4be-52e2-9c7a-198689f6f77b",
+      "value": "127.0.0.1",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--679c6c82-b4be-52e2-9c7a-198689f6f77b",
+      "value": "127.0.0.1",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f689bf9-0ff2-545f-aa61-e495eb8cecc7",
+      "value": "8.8.8.8",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fbc04ff-34a9-5f9b-b3ee-2202178f868d",
+      "value": "youadmin.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d88e03e-c107-51ad-8510-7eba3a62cfe5",
+      "value": "delparqueflats.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37d5fd9d-55ad-5a33-bd0f-517530d4c60e",
+      "value": "bilipow.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95deaf07-b3cb-553d-b9fb-5e9f1491791f",
+      "value": "brandonsupport.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a438845-74bb-599f-84e8-cb999dd3d63d",
+      "value": "cofincafe.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a438845-74bb-599f-84e8-cb999dd3d63d",
+      "value": "cofincafe.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a438845-74bb-599f-84e8-cb999dd3d63d",
+      "value": "cofincafe.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a0b6d5f-e3af-5d5f-b6af-eb3de6953e7a",
+      "value": "cybersecurityadmin.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e0832aad-4134-5659-b4d5-71b7a515bbb9",
+      "value": "cybershieldassist.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4878a080-6779-5a60-b522-81a18bcd138d",
+      "value": "databreachsupport.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c63e61d5-e298-5692-ab49-d8b4162a000f",
+      "value": "endpointshield.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--42e44269-2abb-58cd-b324-ddb5dbc04ecc",
+      "value": "eps.udg.edu",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c38a622-8739-5eb7-9f4c-aec62d169ece",
+      "value": "filtrocorp.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cefe7224-a2cb-506f-bc96-029d71b4d53a",
+      "value": "helpadministrator.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28052000-83c9-57c9-958a-de27d2e39f01",
+      "value": "itsecurityassistance.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8dcb1266-e345-5118-aa25-afcb7a1228b1",
+      "value": "itusaacademy.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17af6ef3-02e0-5a7d-9694-2f1a16c63168",
+      "value": "malwareremovalassistance.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c66fe4e-2c6e-59f9-83cc-fdeaf8cd91cd",
+      "value": "networksecuritymonitoring.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d1a17f38-4a3d-594e-a548-52609e00c56e",
+      "value": "pereirabrito.com.br",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c3f390a-a422-563f-9d0d-0fe4519ad952",
+      "value": "safesoc.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5936b175-f2c0-5626-a296-75ee1bd3dd10",
+      "value": "securitypatching.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d99ade8b-44b1-5a04-b44c-6a13e077bdda",
+      "value": "servicedeskadmin.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a51e97f6-9ca8-55d4-b7d2-7de607651fd9",
+      "value": "spamprotectionmanager.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1a30348-7fdc-5ef9-946f-a10f682d7385",
+      "value": "spamprotections.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84c99bb6-d830-5a30-a00e-b6ce32f048b8",
+      "value": "supporthelper.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4bfd24c6-cfe9-570c-9f80-0edc115832fa",
+      "value": "supporthelpspam.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d664a313-18e7-5290-a67f-237c3e2da093",
+      "value": "supportteamsservice.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ba690c8-5994-51e8-a730-680c4c6b8efe",
+      "value": "llladminllll.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ba690c8-5994-51e8-a730-680c4c6b8efe",
+      "value": "llladminllll.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84948331-febf-5160-aced-40dd186c87a7",
+      "value": "hegss.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1dcf76bf-3e2c-5fff-be3d-740a36891667",
+      "value": "llladminhlpll.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ba690c8-5994-51e8-a730-680c4c6b8efe",
+      "value": "llladminllll.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f007644-39d0-57a6-8eb0-0fe62210531f",
+      "value": "1helpyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2285dd89-9165-59c6-92e0-17b8fc291a65",
+      "value": "truehalp.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f007644-39d0-57a6-8eb0-0fe62210531f",
+      "value": "1helpyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95ad81aa-b67f-5194-9762-49801a5a7f95",
+      "value": "adminsteams.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ff2781a-906d-5f11-b349-d300da930c72",
+      "value": "asssistingyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84948331-febf-5160-aced-40dd186c87a7",
+      "value": "hegss.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1dcf76bf-3e2c-5fff-be3d-740a36891667",
+      "value": "llladminhlpll.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2285dd89-9165-59c6-92e0-17b8fc291a65",
+      "value": "truehalp.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ff2781a-906d-5f11-b349-d300da930c72",
+      "value": "asssistingyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ff2781a-906d-5f11-b349-d300da930c72",
+      "value": "asssistingyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--513c1698-689f-584a-90bb-7b7d749d140e",
+      "value": "suporting.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fbc04ff-34a9-5f9b-b3ee-2202178f868d",
+      "value": "youadmin.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b9b1400-f38a-5007-8591-f3f064760f35",
+      "value": "hprsynergyengineering.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f007644-39d0-57a6-8eb0-0fe62210531f",
+      "value": "1helpyou.onmicrosoft.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b020c5a2-ad07-5fcb-aaf1-8c5e078b369a",
+      "value": "bevananda.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45dfbeb6-4343-53e4-8d41-e60ec793e9e2",
+      "value": "sslip.io",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ffcf0d24-7a92-5aa9-afac-85e041edec88",
+      "value": "duplicator.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ffcf0d24-7a92-5aa9-afac-85e041edec88",
+      "value": "duplicator.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ffcf0d24-7a92-5aa9-afac-85e041edec88",
+      "value": "duplicator.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d05ebb2c-bb89-5040-a501-a0b23857390c",
+      "value": "dns.winsdesignater.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00eb5dcc-45f7-5ff0-9e42-a7945bc0b46a",
+      "value": "crystallakehotels.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4794285-2d51-5feb-ba56-ebfe7b8d4c74",
+      "value": "mailh.org",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85535f3f-015b-5f11-a259-5d0de444bd73",
+      "value": "file.io",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4902847-4e9f-5e86-a6be-1f0cf2b3289e",
+      "value": "brownswer.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--264dd113-7d95-50f5-9ade-e5d58e35f914",
+      "value": "blazingradiancesolar.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd88974f-614e-58bb-a278-c70acb4ea702",
+      "value": "posetoposeschool.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eda8653c-ca94-523f-b232-38755aad411f",
+      "value": "my.sharepoint.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eda8653c-ca94-523f-b232-38755aad411f",
+      "value": "my.sharepoint.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3fff6c50-a727-57bd-a4eb-8a0688484453",
+      "value": "dropmeafile.com",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a891cfd-cf0e-57ed-81b3-7716fd72556b",
+      "hashes": {
+        "MD5": "43534c0e89b110819c73bf8951899015"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--771958d1-0126-5157-9198-1253a427943d",
+      "hashes": {
+        "MD5": "a04da51938bb298ff91acd1561f5a32a"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86bb96f1-71dd-5e80-b6da-d06459246778",
+      "hashes": {
+        "SHA-1": "92AF977EF07F42607F23FD94E8A790139F910EE1"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de4b857d-0590-58e7-88ba-972e3640c274",
+      "hashes": {
+        "SHA-1": "9c5235035a40786be22dc11128109ac9d31a1036"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--878bc471-4ea0-5bc7-a848-a84ab48e320a",
+      "hashes": {
+        "SHA-1": "b8af3493aa43dc4371f25b8eff349bd774ec179b"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bebe40c9-5996-5183-a553-43f56dfeafd7",
+      "hashes": {
+        "SHA-1": "8840AE4BF610BDD0A2D65A246C397AF3F3B3CABA"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c01f2910-b0ac-5772-a54e-b9afd96c964d",
+      "hashes": {
+        "SHA-1": "5A95B69C11018420B17B469771C8EC07458FDA23"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc8a49ba-237e-542c-82ba-30c3977797e3",
+      "hashes": {
+        "SHA-1": "850C30EF8456EA5EE9DBEECC27959A39DD3FB57D"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49a7d60e-b621-540a-971d-4fd91dfa1b0b",
+      "hashes": {
+        "SHA-1": "577EFD1534DD2C4133EA2E4B16A21672D257AF72"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f10c1c51-4cb1-574f-91c2-58e9169a15c2",
+      "hashes": {
+        "SHA-1": "13b3722483559259c14f69e213aeeb194c7b5718"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f1bbd67-aa5f-577d-8b91-e4999ac07b48",
+      "hashes": {
+        "SHA-1": "516f29bbd64a2661e8770cc76903bfae5aa39f23"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a0257f35-426b-59df-a9fc-d652b4f358b8",
+      "hashes": {
+        "SHA-1": "1a404996f1d52d2e2674aa6409d54b8232242d23"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--55325e5f-dd02-5f68-823f-3eae1f0efc01",
+      "hashes": {
+        "SHA-1": "640640d6651c4ac2f66ed8312084849ad9f0124e"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9d14cb45-f550-5f1b-b84c-281f94454491",
+      "hashes": {
+        "SHA-1": "ab1271b4316eb4a5d6ea03b4c24d56cef1e8524a"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b269a5a-88fd-5cfe-9b02-376297758c8b",
+      "hashes": {
+        "SHA-1": "f09804b59a3aac7c1dd47c7e027182fb54f9a277"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d86b3743-8331-54da-8571-2b61bd8f715a",
+      "hashes": {
+        "SHA-1": "f1d299336aac1a1314b36064ffa9ae12ebdb3e4c"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc341781-1f40-51ff-ae9c-2fcf1f501864",
+      "hashes": {
+        "SHA-1": "6e16e05923be2363b81b235c934b8996a58d3bdf"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31a55543-af6d-50ee-99a4-0b6b29425570",
+      "hashes": {
+        "SHA-1": "8af2eab50e77706cec0f1416a51c171088d26ed6"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--415587af-62c1-502f-8b75-11b5b1295ca8",
+      "hashes": {
+        "SHA-1": "52222a8938928d70aa515798c5ba97a2f9932176"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6c23183-a76f-53ff-a3e0-a2151f23724c",
+      "hashes": {
+        "SHA-1": "73ceb983d71b42521b13cd9d81657a0857ae3b50"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3b83cd5f-22f5-586d-805c-a2148fd7e6fe",
+      "hashes": {
+        "SHA-1": "EC446276A337FEE3C51DE2DBD8DF7EBEB3B5EA88"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da73d1b5-2190-582b-89f8-2306e208fa0c",
+      "hashes": {
+        "SHA-1": "69FA757349161207E6D07EC3743486285657D013"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b46ec1a-bbd7-5f81-804e-12fa8005a792",
+      "hashes": {
+        "SHA-1": "F2786D1E79C5D1F1876BD171D64A56436465B175"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bce3de28-1b35-5652-aa41-f9c0288796ca",
+      "hashes": {
+        "SHA-1": "276C38A5A59BEAB93ABCD33919CBBAA572558AD2"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6706080-d521-57e8-8250-ffe1f5663f5e",
+      "hashes": {
+        "SHA-1": "752b86b58860377d0ed1f9570b1ed1324d3c4f2e"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae34600b-dafd-5167-ba10-a008b6f66e93",
+      "hashes": {
+        "SHA-1": "7b872d6799506ecb1a6a69b0b16cf53a70a337be"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80f24925-4e66-5de0-8c35-2e9611b7670a",
+      "hashes": {
+        "SHA-1": "10a3f269d12c41849a052d44ce6855539db91a0b"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80cd2a41-edaa-58fd-9b9d-dc14a62705b2",
+      "hashes": {
+        "SHA-1": "e600cf9e713f3d5c0bb691c2bdecffd946ff2b35"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d76eb653-5cfd-54ef-b1dd-257e38ec529c",
+      "hashes": {
+        "SHA-1": "0c951a4a4c8a3827832f2d2379f02271e17ff16b"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6a0c6c7-06da-533f-9bf6-d218c72fdd3f",
+      "hashes": {
+        "SHA-1": "a6d653d2887f0ce4029a94616464ad74c4f770fe"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--40dc7dd5-d40b-56f2-9d1a-6b014aa591a9",
+      "hashes": {
+        "SHA-1": "0cb59b74d87ac56f1aa3269eecee3ad6d01d7915"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--32e7ab62-23f3-5fb9-99c0-72ce7de7743c",
+      "hashes": {
+        "SHA-1": "f8dac4e8b5a11e91640b0277113ad1770e7fc3ef"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec8da764-66ce-5f2d-9b6f-7c5229d7655c",
+      "hashes": {
+        "SHA-1": "966a90baf892a8d1cff1e6ba464e4c29a09b3a3c"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec5c96f8-fe60-54f5-9463-16901edbe2c8",
+      "hashes": {
+        "SHA-1": "0fbed8d60e2d940882e01a2bf11003f6bd59f883"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcb80945-f2ad-5bee-8f2a-4c2fc82db3f5",
+      "hashes": {
+        "SHA-1": "bccf867716709ce0167cc72f16d4a14f159e459f"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b805708c-b39a-5357-85ad-81653ac4fefc",
+      "hashes": {
+        "SHA-1": "22f10e42683501fb2ea6962e44eefd64848aefe7"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8cba5daf-e028-5787-a4d1-acf4cfc6a2da",
+      "hashes": {
+        "SHA-1": "0fdb26c6202acb33eea938da1a492504035ff8c1"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f4873201-5dc2-532e-b92c-9665c1210016",
+      "hashes": {
+        "SHA-256": "146494EB276FC4539BFFA6896B958E29A417A5959A5C10D100CAF48514B66864"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e819cda-cca3-5e19-9917-4943691fd9e1",
+      "hashes": {
+        "SHA-256": "67c8bc21bbdcc59f7fd2b0a6f0f6c98f0076a0142e94cb3f158155e0ca9ac71a"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2861c5e4-0539-5fef-a1f1-09d2e12aa924",
+      "hashes": {
+        "SHA-256": "ebbe6a9e1188e2ee1651b5c68b6b508fb52b9e8896dbbeb0f4e126961ba94982"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a907836d-2116-54a4-acff-e2e8dc947d45",
+      "hashes": {
+        "SHA-256": "97DAF5E1B2519A655397173FB5AF346F9435FB4ACF097D10AD4FFDE464D21C09"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5462a768-9bdc-5d28-8483-a964b5b08d38",
+      "hashes": {
+        "SHA-256": "5E9FBAE0B94F6E36717BBD2C997981BA438D7EFD800E76924F73452A69C04051"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a75558a8-b104-53ad-b16a-270e0dad4f85",
+      "hashes": {
+        "SHA-256": "3B7E06F1CCAA207DC331AFD6F91E284FEC4B826C3C427DFFD0432FDC48D55176"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a315a25-57bc-5815-a84f-55c41053d9bd",
+      "hashes": {
+        "SHA-256": "EF28A572CDA7319047FBC918D60F71C124A038CD18A02000C7AB413677C5C161"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--360397a4-5978-5b23-8590-00810c6e91c2",
+      "hashes": {
+        "SHA-256": "9a21ec5a25dfe7ca51d4a843a96bfb6e650dc999d3b6d4bd771571359b3bea0a"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb0e587c-012e-5cb3-b5cc-916189da2fc4",
+      "hashes": {
+        "SHA-256": "1896ab744e436ca52a1c6c64a4608dbb8e5597e35d13be1f3c56bc65eb44e532"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d93c025e-a94a-5378-9d87-557ce4272862",
+      "hashes": {
+        "SHA-256": "14aad4fcc77e5fd7e7782c9c5714d1a4187e60e75a765b71d5d41b920bbae31a"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6eb0fc34-fecb-5604-bd59-5c34e8cfd427",
+      "hashes": {
+        "SHA-256": "DB34E255AA4D9F4E54461571469B9DD53E49FEED3D238B6CFB49082DE0AFB1E4"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f1251b10-244a-5f04-a865-6f9a2fc86764",
+      "hashes": {
+        "SHA-256": "49405370A33ABBF131C5D550CEBE00780CC3FD3CBE888220686582AE88F16AF7"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42fe4df1-6674-50a7-a9c4-b1c8b6ea4f36",
+      "hashes": {
+        "SHA-256": "c4942f989530f09b499978721d282998eaa77be31a4361ac6250f1df721decb9"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6cf4c0b7-c879-559d-a257-09b03b0ef8d1",
+      "hashes": {
+        "SHA-256": "22c5858ff8c7815c34b4386c3b4c83f2b8bb23502d153f5d8fb9f55bd784e764"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bffd62c6-5526-57f0-97be-c2030580be88",
+      "hashes": {
+        "SHA-256": "a9f2c4bc268765fc6d72d8e00363d2440cf1dcbd1ef7ee08978959fc118922c9"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a3d52e7-37c2-55d7-9dce-c75ff00048ca",
+      "hashes": {
+        "SHA-256": "717aed4c123a3cde0695818f7038c1092d9dcd7c910ac5ddba96d5e348e1337f"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--462d28cf-85b0-5b01-b64f-1cb877d4b721",
+      "hashes": {
+        "SHA-256": "1656c55c8516bd650fe59b71a5886ecf508deb927ed3c8465cf0ad5923c35958"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93413730-eea5-5a70-9593-0c4625dd7236",
+      "hashes": {
+        "SHA-256": "fb444e7bb7c8f48207ceeba8bad9c2b9ae9c726ac28916c5be5390ba67c2c77c"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--484c0c4a-a131-5c09-a37a-6663ba350916",
+      "hashes": {
+        "SHA-256": "2f5301125627331f56db76046d177493d8b0a814cdd9cafad3981aad97383163"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0bc6091d-2c01-521e-af49-05eb7efae508",
+      "hashes": {
+        "SHA-256": "C675130390B4EE16EA72DEA30807939B1306D373C5B7FFE0CF1D2AFAFFC402B6"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf449365-2aa8-5653-8042-673795aaf677",
+      "hashes": {
+        "SHA-256": "D90AFA08E38C15BB3E48187E436645B42D4D856E219242CB6C33085C4C1611DB"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab78e096-5366-56ad-9693-0571103b02cb",
+      "hashes": {
+        "SHA-256": "C50271CC3E26651A5B5384894490C7153C56B86435E61B5CA206F8E9C5C5542F"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59e29dec-2e47-5736-b89c-c10c7190c5d8",
+      "hashes": {
+        "SHA-256": "EE79F4E87E0B393C952B478C9A30F35802C09F93E899ECF6B40D8D6625188031"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12239a25-2876-5d00-8d40-df7e2fb204ad",
+      "hashes": {
+        "SHA-256": "c69ab262ac3f73277c4b9a777a408f57feb618e2e00bc2e66e8d97274083c742"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffd91bb9-3ef9-5e21-b05c-6a4d97c5949f",
+      "hashes": {
+        "SHA-256": "5fef7a5db4b1c216c9fc37d55143e5b635e8833d82f95004bb4fb47060fdf447"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45f19313-011f-5391-80b5-b6895c0c00c1",
+      "hashes": {
+        "SHA-256": "42ffc3eb728ccc83cf4f115c6a3e32c01ef80869b9f2c4f2d62a7a88c7bf4bc2"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de90da4e-f4bd-57f2-96a3-db18a8f2ea53",
+      "hashes": {
+        "SHA-256": "57d8296dd901491d37e7c79d0fe95188f3b7c94affc71c8e732daea8369cfa4f"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2aded3d9-3139-5a2c-bb3b-de55bec73500",
+      "hashes": {
+        "SHA-256": "729f08249b9f55f17fe7762d6c41c619127e0a7798194b7ff18f06003ff3d041"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8284b7c1-fbb8-5456-b8e8-600d805d8618",
+      "hashes": {
+        "SHA-256": "95a6c06ac691bec0ac2140b6590c96488feb8bc6c3ca501d1fe8ee7cbf9d0f8b"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--faaf65c3-a77a-5985-aa03-5d192ade8dce",
+      "hashes": {
+        "SHA-256": "71e08a89ecdfac3bb490bec6c4115cfd71de744897fd8b7dd7383646e911858e"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e303e99c-3061-51be-aa5e-faf7fe10a92a",
+      "hashes": {
+        "SHA-256": "0482dc9c6ed46e247682e1d4ae5c5a037ef0b66f3b22af9ae25ac072028dd7a2"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e154517a-6470-5d15-aa11-55eb837093e9",
+      "hashes": {
+        "SHA-256": "38ee04ee9d3b3912013d54483d8f822eebd0367408b369bc09f46cb339a54313"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36a32ae0-0681-5cc4-9a3e-29a339bb9da7",
+      "hashes": {
+        "SHA-256": "474ba7f2fb18b7b55fc077513cda6f6d36fb79e58065c556724ea049a392e327"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23b8118b-0dfe-5fae-8a1f-b9c2013faf47",
+      "hashes": {
+        "SHA-256": "2a8a49d9c25d786a5108a53d0b3281677b299540f54580a7b49aa8de78ec0ee1"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7299fb6-69e0-5a6a-9440-e8d562de2b3a",
+      "hashes": {
+        "SHA-256": "ec669387150865b59bbf98b41a770235ba4fd632aab33433c2d493460ef52479"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfb3f709-0971-5264-b84d-407016f6b236",
+      "hashes": {
+        "SHA-256": "4f30d975121d44705a79c4f5c8aeba80d8c97c8ef10c86fee011b99f12b173b4"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6eb0fc34-fecb-5604-bd59-5c34e8cfd427",
+      "hashes": {
+        "SHA-256": "DB34E255AA4D9F4E54461571469B9DD53E49FEED3D238B6CFB49082DE0AFB1E4"
+      },
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21cd566a-2c0a-564b-9dde-b1f39647a843",
+      "value": "update.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1771892a-7409-536d-bc54-adbf5444aa0f",
+      "value": "Engine.jar",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70339c9e-eb03-5fee-adf0-8fc43efd6d32",
+      "value": "f.txt",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e2c66a3-bdb7-5bf3-b8c6-a0a32ad3070b",
+      "value": "EventCloud.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--523a46a2-4d00-5f47-85cf-624dc754a8ab",
+      "value": "SafeStore.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5a107c8-bccb-5be5-bab5-9ff3199d1c17",
+      "value": "SafeFilter.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21cd566a-2c0a-564b-9dde-b1f39647a843",
+      "value": "update.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21cd566a-2c0a-564b-9dde-b1f39647a843",
+      "value": "update.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b9a86c6-a7fc-5e13-b2a8-6715f3656dfd",
+      "value": "SyncSuite.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--839d8dee-3ae7-5d89-b80d-b4ddd63a066d",
+      "value": "OmniScript.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2d72b6f-4a69-5456-bc23-a130e4315891",
+      "value": "FortiService.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3a7843f-f44c-5634-8f10-54e0b8640968",
+      "value": "PixelSignal.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6ebc81e-14dd-5657-bedc-e12c1a747039",
+      "value": "HexaPort.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d52d610b-561b-5c05-a860-8167cebdc797",
+      "value": "ProtectConnectEU.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d52d610b-561b-5c05-a860-8167cebdc797",
+      "value": "ProtectConnectEU.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1aba213-69c3-5d88-aa5d-afd0db34d700",
+      "value": "ProtectConnectUS.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa86e7e7-4be1-55d9-8cf2-9331db0cffc7",
+      "value": "Engine.zip",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29b78a85-7410-55e1-9373-6d9b84a8142f",
+      "value": "identity.jar",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa86e7e7-4be1-55d9-8cf2-9331db0cffc7",
+      "value": "Engine.zip",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1771892a-7409-536d-bc54-adbf5444aa0f",
+      "value": "Engine.jar",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa86e7e7-4be1-55d9-8cf2-9331db0cffc7",
+      "value": "Engine.zip",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--01daff75-5ba6-5a4c-8921-a728a1465103",
+      "value": "jli.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a47edf50-67bc-5684-9590-10bde44e155b",
+      "value": "readme.txt",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a47edf50-67bc-5684-9590-10bde44e155b",
+      "value": "readme.txt",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3c32b80-13e1-535a-9ed7-fbb1ecf7556f",
+      "value": "AntispamConnectUS.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c941dcb-5603-5544-9b71-4c787c204923",
+      "value": "AntispamConnectEU.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d8bfbd6-18c1-59ff-a701-2e847e10d0a1",
+      "value": "AntispamUpdate.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eebca36e-2e9a-5395-8604-d9b2f7c071b8",
+      "value": "SkyTel.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae180959-2365-55e4-9505-84dbca2fad71",
+      "value": "AVKTray.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9196e8b0-ee98-52c4-9c41-f159d471c607",
+      "value": "ProtectUpdateB.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea33c87e-ca8c-5953-ae69-e2505ee8bdf6",
+      "value": "javaw.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea33c87e-ca8c-5953-ae69-e2505ee8bdf6",
+      "value": "javaw.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--487a347f-c831-5aca-bdba-bfe3033f6953",
+      "value": "amdvlk32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12cde49b-56d5-5f22-bf3c-1030fbcfe751",
+      "value": "safesrv.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b9a86c6-a7fc-5e13-b2a8-6715f3656dfd",
+      "value": "SyncSuite.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--23dcc5a6-fa62-59be-bea6-98153fce5c42",
+      "value": "MSIMG32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be80c0b0-478e-5987-970b-21744c13d0bc",
+      "value": "Updater.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2885294-99ea-5a95-92ec-1fb5519cb351",
+      "value": "advapi32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ba087a5-b197-541f-bfbb-7ebbc23dc7ab",
+      "value": "cabinet.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--313d0b25-5f60-5543-a4a9-baae8dc4aa0c",
+      "value": "crypt32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67100b11-c8d1-5ccc-94ca-281003f18aa2",
+      "value": "dnsapi.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06f540e1-5cc3-5bd3-b630-649601f23f11",
+      "value": "ftllib.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9111a508-1b83-52ae-a1f1-a83b27b42427",
+      "value": "ftp.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ed0adbf-344f-5b9b-bfb1-f1a52e98557e",
+      "value": "gdi32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00772a48-a19e-57e9-baa5-e1a9d8eb35e2",
+      "value": "gdiplus.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4156d297-4622-56ae-8877-adc6561273d2",
+      "value": "iphlpapi.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbd10eb1-036a-5441-b07e-6afb99e188d7",
+      "value": "kernel32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a24cf124-9090-58f1-af56-a97881139b59",
+      "value": "mpr.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2c78688-8095-5ba7-9a12-a9748b8c75cf",
+      "value": "msedge.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b887f9b2-8b2b-5e8f-b72f-5cdb5b4812ec",
+      "value": "msieftp.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a806976-863d-5be1-b6d4-553bdd839c7a",
+      "value": "ncrypt.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d1d680e7-65bd-5ca1-a1a1-77054b40eb24",
+      "value": "netapi32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6105dd80-a835-5ae3-877f-53dc43662ddd",
+      "value": "ntdll.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e3ff4670-6389-5612-9014-211204390883",
+      "value": "ole32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a927aec5-4c42-5156-9781-e679195489e2",
+      "value": "oleaut32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b627c465-fd77-51e7-bfa4-40146a7a7372",
+      "value": "psapi.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c080bb4d-fa64-5e02-84b2-61cb923572dd",
+      "value": "rpcrt4.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6eaaf46-073e-5e3b-9258-d74a12bde030",
+      "value": "samlib.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e252a407-8fe4-5ac4-809e-4eaa31fc953a",
+      "value": "secur32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--467ad46f-9161-5bd4-aae4-67da1ca438b0",
+      "value": "sg.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9cdf83e-e2ca-568c-a621-7f03cc207d62",
+      "value": "shlwapi.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90cf9374-5a42-5797-aadf-e89f85d5397d",
+      "value": "urlmon.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3d8f213-6da6-50ab-9a31-3ad5fbc7660d",
+      "value": "user32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03e7f56e-b7b6-52ef-a5b5-678f77a62e41",
+      "value": "userenv.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b60899b2-e157-50a3-9dac-3e4edf488a6b",
+      "value": "version.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0aa30bcc-5986-5510-bb9c-c2441ca2dff8",
+      "value": "win32u.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a4d44be-509b-5e1e-8130-a49fc23555f2",
+      "value": "wininet.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1998396e-b898-5763-890f-f3504d7171fb",
+      "value": "winscard.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2b2dd8a-eec9-5b4f-aa5f-ba91ec0fd6af",
+      "value": "wldap32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6587c937-1158-5c45-aa94-888c12db02df",
+      "value": "wtsapi32.dll",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d93f7fb1-a8df-5442-ba06-0867a4eaa0a9",
+      "value": "Updater.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f889119d-06c4-50b5-b63f-512644075f92",
+      "value": "chrome.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96b7fedd-aa5d-5061-8c68-3bba0c7f19b1",
+      "value": "explorer.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05ce7c4c-2631-51e9-a8c0-e1bb54a4e43e",
+      "value": "msedge.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5c94ac3-3cad-59ab-8dca-327aa217a664",
+      "value": "regsvr32.exe",
+      "x_opencti_description": "IOCs/BlackBasta_SocialEngineering_IOCs.txt"
+    }
+  ]
+}

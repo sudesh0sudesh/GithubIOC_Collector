@@ -121,6 +121,6 @@ The following sources are being collected and parsed:
 
 22. **rapid7/Rapid7-Labs**
    - Repository: [rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)
-   - Latest commit: bb61771746029ac6c757dccc391ca0830ce1c928
-   - Last updated: 2024-12-01 11:28:15
+   - Latest commit: d443538a34a02f164a71591d76c98d43cbf4c5d2
+   - Last updated: 2024-12-04 20:16:35
 
