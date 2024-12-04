@@ -1,0 +1,363 @@
+{
+  "type": "bundle",
+  "id": "bundle--dd772ab6-b7ce-47bf-a592-cabedd7dc87c",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e36bb95-7c70-5ba5-b39f-bf7b34ad2573",
+      "value": "updatenews.info",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0345af8-ce13-5f86-a934-1920fba6c41e",
+      "value": "volgogradpost.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--802c2fb9-67aa-5f33-8a95-87a63479d91e",
+      "value": "ulstergrowth.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--697806b6-91f7-5cdc-aacd-f3d27f096b81",
+      "value": "tulunet.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9d9eae9-dae1-5c1b-84ec-22d93f6679b5",
+      "value": "torinohuman.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62b6156c-c682-598f-9696-63206422826e",
+      "value": "teotihuacaneco.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8259562c-7f4f-5d76-a47e-6b81901eb85b",
+      "value": "taurustimes.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e96ba4e-c76c-5b44-9e06-087f0d4faace",
+      "value": "tarragonapost.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43c8464b-ae76-5a7b-b091-c73032c5e4ea",
+      "value": "stptb.org",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eefb87c3-486e-540e-800c-11a1b0c47227",
+      "value": "sendaishimbun.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--02a4ca61-590c-5e77-9f76-74e5bd68ef9e",
+      "value": "pollandobserver.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b32fd3d-c1b3-5d56-bcc2-df15961c1437",
+      "value": "japandigest.net",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6777fc09-9aab-5fe9-beef-db4b55c5cc0e",
+      "value": "melbournenews.org",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d16aac9-5806-5272-b1fd-81de6b54326d",
+      "value": "japanheadline.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ae6e459-7325-5ba6-acbb-a860c4672bd0",
+      "value": "voiceofthailand.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bfd74f7-252a-5e8d-b2f4-6711d7656dbc",
+      "value": "dailybangkokpost.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--099fcd22-500d-5f6a-aac3-b1a0d3365fef",
+      "value": "kolnerzeitschrift.de",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78f6f0aa-cd91-5f72-8838-7b47354944e9",
+      "value": "italiannotizie.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--610213d6-a868-5726-ad5c-01eca39fa44b",
+      "value": "macaoposts.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3aeebb6-b399-5cc9-94e8-d6e7e613fd71",
+      "value": "dailysydney.net",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de144888-c102-58ce-aa35-6c18a2aad7b4",
+      "value": "bitcoinnewstokyo.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c54dda70-7c32-55e2-8baf-6add150af579",
+      "value": "eutimes.fr",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddee5d7d-1d77-5176-9294-da4dbd81659f",
+      "value": "hurriyetbusiness.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--158fd15d-31f0-5f09-8990-33bc0e7ef30f",
+      "value": "saudiweekly.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f3274d9-22e7-50de-8048-9fe9aebc12d6",
+      "value": "newzealandgazette.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ae047b7-3eba-5928-9c2f-7f463908a99d",
+      "value": "macaomorning.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2cc4341-0555-55f0-b3e3-be77a27e8e10",
+      "value": "technologykr.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2688ac0-8cbb-5089-a525-157bb46ff2f8",
+      "value": "thaicitynews.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2c927b1-b24c-5c7a-8064-c01480358614",
+      "value": "taiwanweekly.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c04f1874-6867-578d-9790-e25b237265f3",
+      "value": "malaysiaunion.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a915fd7b-dc2a-5656-8f4b-d61bf6a4faae",
+      "value": "bitcherrynet.cn",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e7c1915-da5e-5095-be8a-f120943a4436",
+      "value": "qichetimes.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c9e81a1-05a5-57ee-82e4-a55c630f5e32",
+      "value": "digitaljapan.info",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc501a50-52a3-5b76-bffb-af45775039d0",
+      "value": "baobeimama.com.cn",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--405ebf3f-99f5-5360-bcf3-704ca43080eb",
+      "value": "moderntimes.com.cn",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44031d4e-3b4e-5572-a5bf-8a175fb5b6a9",
+      "value": "jakartapost.org",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e751340-0693-5a0f-9a67-9ab324707e4d",
+      "value": "uscitynews.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c2785d01-6091-53b3-91c0-b03b6fab820a",
+      "value": "russiabbs.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e74b7ac8-7dbb-5e77-a81d-e233b481a999",
+      "value": "turkishdaily.org",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--896f4c71-43e3-55dd-b07f-1427d1c66eb3",
+      "value": "dertagesspiegel.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8a4cc44-557d-54ef-8255-60d1256173c9",
+      "value": "dailydispatcher.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58e97471-d503-5070-ad6b-9ef8a68b4336",
+      "value": "easterntribunal.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b537223-5768-5302-979a-3df3243a306d",
+      "value": "suratkhabar.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--132f40f0-0e5d-54c5-8d67-a987d3fddd87",
+      "value": "buzzingasia.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--474ed1b8-52c0-544b-8993-40ad502a41e8",
+      "value": "internasionalkini.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a99067f-dc62-52d1-84b1-41feed0f3f3c",
+      "value": "thinkbusinesstoday.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--773cde13-7f25-52df-b6b2-772a39e56c36",
+      "value": "stargazersarchive.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e040f5a-9685-5533-8e2f-e3a5c69fdf82",
+      "value": "starsgazette.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--64f1cede-0e26-5355-bf0b-a52209bba19a",
+      "value": "glamorousnews.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d221e766-fc79-5cb0-9800-b7bb35aafd51",
+      "value": "lifevoyageurs.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--908339fb-aea1-5c07-94ee-1fdee4c70c49",
+      "value": "heartofmalaysia.com",
+      "x_opencti_description": "2024/2024-11-22-glassbridge-pro-prc-influence-operations/indicators.csv"
+    }
+  ]
+}
