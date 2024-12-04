@@ -36,8 +36,8 @@ The following sources are being collected and parsed:
 
 5. **pan-unit42/iocs**
    - Repository: [pan-unit42/iocs](https://github.com/pan-unit42/iocs)
-   - Latest commit: d1613b5dc4789d289fbfc34282824b28beedb9f8
-   - Last updated: 2024-12-04 03:24:52
+   - Latest commit: a603325fc3f1bbbcfe4edf3591f76b238ff67162
+   - Last updated: 2024-12-04 04:17:41
 
 6. **akamai/akamai-security-research**
    - Repository: [akamai/akamai-security-research](https://github.com/akamai/akamai-security-research)
@@ -56,8 +56,8 @@ The following sources are being collected and parsed:
 
 9. **PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information**
    - Repository: [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information)
-   - Latest commit: 47cb83c806c8c602d2560ef4a543c72ffb78e0ed
-   - Last updated: 2024-11-22 19:49:13
+   - Latest commit: 62a09d5ef5b45295a1f62d28245a909bae17ebad
+   - Last updated: 2024-12-04 04:17:52
 
 10. **blacklotuslabs/IOCs**
    - Repository: [blacklotuslabs/IOCs](https://github.com/blacklotuslabs/IOCs)
