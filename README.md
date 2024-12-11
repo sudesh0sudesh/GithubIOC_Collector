@@ -41,8 +41,8 @@ The following sources are being collected and parsed:
 
 6. **akamai/akamai-security-research**
    - Repository: [akamai/akamai-security-research](https://github.com/akamai/akamai-security-research)
-   - Latest commit: 5171ec5976fd9603ebd26eb1dacc08ffe8c2d206
-   - Last updated: 2024-11-06 20:12:09
+   - Latest commit: a8ed272d06eb06d21308c11e1b91d0292123da34
+   - Last updated: 2024-12-11 07:14:28
 
 7. **StrikeReady-Inc/research**
    - Repository: [StrikeReady-Inc/research](https://github.com/StrikeReady-Inc/research)
