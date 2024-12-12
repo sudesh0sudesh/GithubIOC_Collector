@@ -1,0 +1,636 @@
+{
+  "type": "bundle",
+  "id": "bundle--c11deb5d-3e16-4efa-a633-25b0bc004738",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c99ddea9-59d8-5f06-bd40-29569be6057f",
+      "hashes": {
+        "SHA-256": "0d40a18d67005a5ade12b5593df3cf9e7ae996bebedacad64de81de3ffb9821a"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c51a9b5a-5526-5dc6-8a19-a077bf6ffebe",
+      "hashes": {
+        "SHA-256": "137a54acfc324a120335bd1b9a397cb5fd7e7709b0980ac3eaeb03fa7764f259"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--528d6d48-89de-522b-966c-7d2bf6029d25",
+      "hashes": {
+        "SHA-256": "17926b988b31296c26bf8fcc5be5595f8b290112949cd9314b3ddb51216a9fc6"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f71be74-2c51-5a3a-9a3e-f2ddafe21830",
+      "hashes": {
+        "SHA-256": "1839b7152814b16b9f28326081f16bf9c5bbbb380005232c92d25c9a3e36e337"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7210dc53-58a1-5134-8a41-c372e48ee5a1",
+      "hashes": {
+        "SHA-256": "20cfcd8c67b83b282e3aac028a166539a26d44129c9860ea7464feed5a123818"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79a5c6c6-ca95-563e-8e01-0c37a473b143",
+      "hashes": {
+        "SHA-256": "27ed09b6bbce8c6306640adf76d6dd1f3b97c406915d72b215165fe1c5615ac7"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d665908a-4da4-5b79-92f1-e1482fdf1352",
+      "hashes": {
+        "SHA-256": "315615abe0592af8ae3c90b6ad3b18047084612b49699a6f26eafe1dc747d773"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea2e1ddf-1acb-54bd-8269-4831138557d3",
+      "hashes": {
+        "SHA-256": "365ed11bf82a3f59768195ab7971b6955ec0ab883b5e800c63339a4105bdec95"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--157a6278-1d5b-51cc-ad6b-351ee78a4d82",
+      "hashes": {
+        "SHA-256": "39551715b734f4a331dd0b39a953a79567f642dc38bfa173f9849a4dbdd7d34e"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--221053af-0cad-5752-8cca-238936fef113",
+      "hashes": {
+        "SHA-256": "3d2f989bf5887b1dbbfbb0030ed0e4c304dd0e6123a1e10e798ee3eb10c87f8b"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c01e519-18bb-548b-a8e2-cdc4d20584c0",
+      "hashes": {
+        "SHA-256": "402aacbb8dc07d96733eee2292f709d89d65efbe82d55e0dd4b7764cdde287b5"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee6b94eb-e75c-5a5e-8ec5-8d34381ba5c7",
+      "hashes": {
+        "SHA-256": "40e21047850b9645143ac1febe703de2be9b6c9dc684840bebb61b09a0725a85"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--616becbd-0535-5506-939c-5dd2cc2e35fa",
+      "hashes": {
+        "SHA-256": "4be6e60d9880611a354d4c4c3097733fd7ce4812c40e7a4fc9e8fca569f329f6"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72990db0-4702-522e-8fc9-a84b5cc71f97",
+      "hashes": {
+        "SHA-256": "5c019e25c46cc13a4bc05ccacf2b783f9435bed724ae945d1508c69f3490a617"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2559a9ac-69a8-59df-9dbd-12bbddad01bb",
+      "hashes": {
+        "SHA-256": "649ec4858e572e0145e35a9faa712708949b7bb1bce1594154cda580d80a0ca9"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--177a21fc-93a9-55b2-a40b-e483d194b9ae",
+      "hashes": {
+        "SHA-256": "6c58e8c3b998614567b4584cffc148e2382727997a754db68aa310881c2a5ba0"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e437b78e-98c1-594b-b03a-46d5d20ab52c",
+      "hashes": {
+        "SHA-256": "7085f5baff8a1f39a4baf11b650aad21454eef8b0afd13f9c4338fed86b99785"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db035c24-3cf1-5265-a985-9b196cf0f0ef",
+      "hashes": {
+        "SHA-256": "75da403841e014243fce87a1b666e02388c99fb96135e7c6fe5523ce2f51a5ca"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--381707d9-ad3a-50e5-a93d-6d4ac8a13eac",
+      "hashes": {
+        "SHA-256": "970f0e2741f072e9b3c0fb5059e1d5610a8b53f50be65992a210884439c5643e"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--45896e80-6adc-58a7-aa2c-978b3914bf00",
+      "hashes": {
+        "SHA-256": "9ef8d1845db29a2b4dc9e912e480bfad7e8007c96b1da364a5af123df7e01c29"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed85c591-f527-59f8-9cca-742129961eb3",
+      "hashes": {
+        "SHA-256": "a941faec5a25db96d6258d5c1e6c30f9f18ecf9937b63eb687b4d71a0af871f0"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f440d975-19a8-5f2b-a808-0f7dbfbc7921",
+      "hashes": {
+        "SHA-256": "bdd338ff606d1e08ec16d13fbc5dee1e404ad2ae857a70e81bb23888beabf63a"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb7ff6e2-8f64-51a2-9c2d-6557db2a1cde",
+      "hashes": {
+        "SHA-256": "be03aa927c5d0d61ec21af9227f48e8c4d44c696c46f275bf7510998311912e8"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--baf3c35d-2918-5085-8e99-ae3b84de0dca",
+      "hashes": {
+        "SHA-256": "d465588501d2882d1a223516c4f66bcc44ea7211245fd49b9e61a64f94831614"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--697e57e0-f097-56e7-8bf4-f566b9d55fef",
+      "hashes": {
+        "SHA-256": "e13aa5f31d2469fc4db4e54af711035ea79f63be591c0460982c0b6baf08e649"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e839fb6b-c189-5689-9d8b-a680b1c7cbf9",
+      "hashes": {
+        "SHA-256": "fcb54e221a021ff3d57c52366169a13f86bed4c16d7e5bbddbfb6a315dc7bf3f"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c5e61c63-bb69-5beb-85c9-d93a1cc99452",
+      "hashes": {
+        "SHA-256": "ff946f48f6bdf33d31f39614909115fead505c16426411897bd8e48362017d31"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--572d7acd-9e88-5879-ac00-de170ba1ce20",
+      "hashes": {
+        "SHA-256": "fa6e61f845c06cb9075806cfc8cb8ed7e1ca7dc956cce5eafbe99babf85d9e66"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97114ca7-2d9a-5cbc-af90-70adab5056ef",
+      "hashes": {
+        "SHA-256": "7c78454c853838a863c7a112e2c726e2b98d292906c73a1fa09b03cf421a5966"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be7b9895-8043-5c26-913b-0e606ed838fe",
+      "hashes": {
+        "SHA-256": "5fac3606d6153531218a608ae5cb3f40f2421a41b18b0d58f3f7fdb56366732d"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--778995e8-d351-5e51-a23b-0c6cd725da83",
+      "hashes": {
+        "SHA-256": "3450b57ff0d7f8cd7f14258d1e0e851487b5beac599a024f91f31c15e9deb075"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9240e9e4-15f2-5adc-a66c-0b580549f11b",
+      "hashes": {
+        "SHA-256": "fecd6fc43e5198b7b4427c1e23cd62ca97820da25d2bdba67bd29b3d0f100fa5"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a71f42b-d123-5b0a-a036-5202656d2dc9",
+      "hashes": {
+        "SHA-256": "fad1bf61d38d750f341cdc09174af3c2d4368b19db62171bc5d7be6401eb8c00"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d13966e5-6c89-51de-a6f0-f7d3ad483c57",
+      "hashes": {
+        "SHA-256": "faa45f2433a8da9a57c6a876779638fb14037d56e93ae85297fea7517be501f2"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--39aa32f7-aea8-598f-8000-79e4c523b1dc",
+      "hashes": {
+        "SHA-256": "f4350182d9a117138e47ce4622b3aa1ac9ebf2583f4932a6da78ea2ed7511a7f"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64956720-fa19-5249-8f71-9e31fbf8f6ce",
+      "hashes": {
+        "SHA-256": "f158c65261bcab6e93927a219d12f596a4e40857bbd379f9889710ea17251e5e"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7a7aae06-d26d-5326-a85f-775d73d10ae9",
+      "hashes": {
+        "SHA-256": "c78b8771a5b897c03008c09241fdb07160264858f49c7398f9db681fc2003971"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7103e21f-36a4-5ccd-9f28-3f31657003f1",
+      "hashes": {
+        "SHA-256": "81755e2da9fcc33dcd423c30a0ad4f9147b54dc1880721247631b34c31071de7"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5a8e2c6-118c-540b-b192-36178d0d3058",
+      "hashes": {
+        "SHA-256": "7d676c9ef817e55701ab3050a6bbde7d0fb8aa251c09779662c514c7f87875cc"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6269c24-b233-5647-b427-cc36d7a044a9",
+      "hashes": {
+        "SHA-256": "6e0c83627427e5ec9c30569a851cc72cc003ea1c7ee182db3e4dae9392285a7b"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89ff9ed6-3d78-5628-bed0-e3155e5e2406",
+      "hashes": {
+        "SHA-256": "6a3095d572991c4943f7a27dff4798d3b5286280115f7fab77a0a472ca0abdd9"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7c994712-abef-507a-ada4-178cfaee8fdf",
+      "hashes": {
+        "SHA-256": "68242a96e0283db31f7a68f6e26df99e1a27fef1f1f9d732f0ddd0b8663ba3c6"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6661b22a-e92b-5a53-bfa1-1b18251b03b3",
+      "hashes": {
+        "SHA-256": "11a6ee07c004d8c7469a9cf30b9b084ea786613a5481fcdf78ce5a2634ad2f02"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e4603a0-1514-53dd-b071-c6b5eb343aaf",
+      "hashes": {
+        "SHA-256": "04675527ea934ff3450cf20900b7233a8a86125b5f3042d97d3a6e349631f307"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c919e14e-4200-5300-afb9-bd44a5439fc1",
+      "hashes": {
+        "SHA-256": "fa58891a232e236bfde9d6103007624f0e83e17a9377bf4ac86af4bd087270d7"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d0ea58a-b7d2-5d35-bc8d-26c2eff97451",
+      "hashes": {
+        "SHA-256": "e02025280e22b826ab8997e2545406bf0c31e497f059155dc8412c34c8bad859"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79dd9ca8-292a-530f-9661-c74eaf809b96",
+      "hashes": {
+        "SHA-256": "d948e07325a1cf48bb9749e3f0a83d69c4abb96f822e3002b31b752ebb292c77"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27c34fb5-3a24-583e-b96b-034493b3cf1b",
+      "hashes": {
+        "SHA-256": "c6e595d44257f293200b926123cea0f3cdbd622b32226758e907f9829d652833"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a305a0b9-729a-5774-a798-dafe122eb42a",
+      "hashes": {
+        "SHA-256": "be0644373ab939d3e3d1766927039876b4c3511258dd5ecf3cb75f1dab5ac324"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1b0aef5-94c1-519c-915d-a8987269c130",
+      "hashes": {
+        "SHA-256": "8552afefa1cdcfe5889cf01bfae140e341c5bfb03188e65a45d2c8d90520e11e"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--efda2adc-baa3-547a-872c-6c88971b14ab",
+      "hashes": {
+        "SHA-256": "81fa2b7bd9d726d239b08595d1445efaa697ef45761551b966c3a3930288952d"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0ba4c3a-08fd-57d4-b60f-ddea4c8d8c2d",
+      "hashes": {
+        "SHA-256": "6abb9de7f6c663e542cd3d7b481b0907566f8c2acdacc6178091dacc7891d2b2"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbac5fed-604b-5932-bfb4-d42a7ce13444",
+      "hashes": {
+        "SHA-256": "5ed854b4ed07250521f0da12b810128b014b2c6e83b8ba51b80dfa9e4252a3bf"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8ad7c64-0383-5886-ad20-53e417afcb1e",
+      "hashes": {
+        "SHA-256": "34fea0c0708ecfceb592029910626ca699fb5f18595599d47a9ec87749940884"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49ef7088-e33a-55fc-9faa-61de36b85886",
+      "hashes": {
+        "SHA-256": "315e6d1736e2ec8465a172d289a6520ec127e1b02190716b383226275672170b"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9aef7cf-c8f8-5da5-8b86-abef8dbd7b8c",
+      "hashes": {
+        "SHA-256": "26ab5cf8df71135baf2661864f7d5a62262688a018f7450c5de962433c2b99c9"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e2c7e90-3c7c-5df7-a6df-b513dc7e4ab1",
+      "hashes": {
+        "SHA-256": "e72b171c1383bda2f72ad0e5cdcab833d1488c143ad9386b290d44cb2d67e702"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01b91fe1-9fec-5c1c-a318-4d483db67f87",
+      "hashes": {
+        "SHA-256": "e4536f1dc62b6bae30e6da53cece729820bb27891a020b6a6cf7c4fe566f15a4"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3365701-063f-5c8d-b025-53195a2decb7",
+      "hashes": {
+        "SHA-256": "d022c579f3619b23b74fa31b6241feb542bf089cb52609256894da08f787d2f3"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d15fe53f-e23e-5be2-bffc-15c6ba7e78c2",
+      "hashes": {
+        "SHA-256": "c73b23798aa9785f2e593db8ced278e0c325e4cb545bb9c8f9004165bd983b6d"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--330f732c-958a-58af-8adf-1d13e540f66b",
+      "hashes": {
+        "SHA-256": "a95276bc7b7474384166232e0ebe86a5e40ed6d1cdd103794b3b5af107a3eee3"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70a16bc7-62f2-5f42-8a95-d0ba0e1daed3",
+      "hashes": {
+        "SHA-256": "5e450445b628d7c1a4c31e8bb6c951e24e0a0347660eccca6d851477462a0fd4"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--475d1ae8-314f-5a96-ab51-c13ada9ddd86",
+      "hashes": {
+        "SHA-256": "25c2c9648b5be95c0a61f043f2a9e5703373c3831edbe8cc8b7c857b405f172a"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1c1da61-4e4d-5a2d-a3d3-31622bf7b3c7",
+      "hashes": {
+        "SHA-256": "174432fd986530d149a229fa4cfbb0bfe19fc9a6a52efd405a5da02c90a7f9fd"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a46a99b-d415-5e0f-af2f-9f9dd2f45551",
+      "hashes": {
+        "SHA-256": "c20e98a4190f9063f9181d8d9fc01bb89e4e56cb888d4d8883c593586ff52a09"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a5426c4-b3a7-521c-b632-1452214216c1",
+      "hashes": {
+        "SHA-256": "7544df9edd35749e132b8f586cef88127dcbea491ab128271fc3b2abd94e01d5"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--212852d5-838e-5b4b-bfac-fda05d9c790e",
+      "hashes": {
+        "SHA-256": "25e0344b3c4d17a34f59423d45c5e95015ac347e0040e51b2d5df81f3b8ceb83"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ef8124a-be43-5d76-baf4-731f3539feda",
+      "hashes": {
+        "SHA-256": "23a229c4b053f26ed5303447c17edf0ee6b02535692a558e158b3b03087bec87"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e80197c-c844-5f57-aa96-e342fac3a308",
+      "hashes": {
+        "SHA-256": "0c8f2c06eaba300751add819f419458b06acaea47b8b5983fab710a67a074873"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35de46a8-ce40-5480-a1d0-7f0c951e24be",
+      "hashes": {
+        "SHA-256": "0a6df5fb902be0b4b0ed9bfb4f53df4ab54391458a7d8833d524d16d46b33f33"
+      },
+      "x_opencti_description": "abused_certs_hijackloader/iocs.csv"
+    }
+  ]
+}

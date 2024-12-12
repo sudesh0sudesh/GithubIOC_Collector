@@ -1,0 +1,162 @@
+{
+  "type": "bundle",
+  "id": "bundle--555f8488-e19c-4581-9b02-50a4e2cdeca4",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b46a84a4-f33a-550b-bca2-5149f289d645",
+      "value": "keygenguru.com",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a1ed0dc-551b-57c1-8d51-b38a15929842",
+      "hashes": {
+        "SHA-256": "242851abe09cc5075d2ffdb8e5eba2f7dcf22712625ec02744eecb52acd6b1bf"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bbd4203-649d-54ce-8492-53163865ea33",
+      "hashes": {
+        "SHA-256": "483adf61d7d932003659d5d6242eace29ea8416ec810749333793e0efa91610d"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3ce47f7-c625-5ba2-afc7-5c3c107f10ae",
+      "hashes": {
+        "SHA-256": "50158e22481acabc56d8e3d318d6d709fcb7a9e442e76157b518d19e13f8e520"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26842440-938b-5f20-81b7-b1e612ea3985",
+      "hashes": {
+        "SHA-256": "93672d67e8100bb984f866888cb042727567d302b30b91356a2b2bc8cd3f7912"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8cbe18cd-82b7-5510-816d-d547d3f92747",
+      "hashes": {
+        "SHA-256": "b5637231e25aa7da8fe925f5b97a2ccbfd082a5463b2a05d2b3221adb35e43d9"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e953d6e-0d9b-5db2-8d2e-b1b2f78ed754",
+      "hashes": {
+        "SHA-256": "b81e857427411577552d1ecdd444efaeab23ec903192812d40ab3dd69df98ec5"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--038433c2-999a-540a-a6c3-266985807362",
+      "hashes": {
+        "SHA-256": "c8d37df88009122c890cb95dc79d895d39339fe1efdcfa5e033d0aea171ffc3d"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49017187-d85e-5aa1-a968-bf3d41a2108e",
+      "hashes": {
+        "SHA-256": "10b4b7e9469366bfe459c3cd674aeab0692cfd9272fe369ef56d2811623e4866"
+      },
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e7de813-4210-5fe6-ba4c-3550b5a49a34",
+      "value": "hrtbddd69.dll",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--956bb977-db9b-5393-b421-ebeafc083784",
+      "value": "2.cpl",
+      "x_opencti_description": "raspberryrobin/20240403_raspberryrobin_iocs.txt"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "type": "bundle",
+  "id": "bundle--b151eeeb-c7bb-4b51-aade-fcee04a22456",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--359608d2-d63d-5bd7-8740-e079db813458",
+      "value": "https://raw.githubusercontent.com/willbill4/workspaceer/,RAWDOOR",
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--03dfd98c-af4e-5f5e-ab92-e8372819d74f",
+      "hashes": {
+        "SHA-256": "52238d884006a06e363e546dcfa88c1b2cbdadd80c717e415ac26956900f40bf"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c0be6fc-0775-5462-8f78-de98891c87b7",
+      "hashes": {
+        "SHA-256": "6f9512a5f2f86938075b14e34928d07cdc78f46ed9401dea799f131f7a3d9644"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d998acbc-8c19-5d68-8501-9c1156a3b66d",
+      "hashes": {
+        "SHA-256": "6a9979638d4e4719cfef65bdd6e1d7c0b28b84df9ca73a3bc1e919e9a1df50df"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6bdda027-b6a2-5c6f-a7b1-89958a9db546",
+      "hashes": {
+        "SHA-256": "7fda8879c55398434ab0f423b0f1c75658bddd925d90437ad2e6fd8723cb1d78"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91049821-b2cc-500b-b612-2a590fce8942",
+      "hashes": {
+        "SHA-256": "76124bdee942090ec4b5f2a7e08ffe6dae758bc747d6565f6c5941ab81d79044"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df6df2b6-a0d9-55a6-8e2d-d3c40511577e",
+      "hashes": {
+        "SHA-256": "c444a2b741273b5bb86c5197d931cbd3b121043e6e6cb5604b02719415d92b08"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--01512e0e-c402-5f7c-ae30-cac9041a15ef",
+      "hashes": {
+        "SHA-256": "f332a941d786148a35cec683edb965ea4bbd6ff6bd871880f30dc7d42b922443"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8a36fe5f-9579-5cd2-9c85-6ff7b70491bb",
+      "hashes": {
+        "SHA-256": "78a20e644f593acb71d94be96ed1e3a9ba7515be2c50aef844277a9e5c03637a"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21837f61-cc00-58f8-8ceb-d90a7cd0daac",
+      "hashes": {
+        "SHA-256": "e98d8ae395ec7d2bbc29c21fa2bf79e26ada9d8bd5098487027b32aeae8b03b7"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--254d1427-d343-51e3-b436-3f0979b57384",
+      "hashes": {
+        "SHA-256": "e89079508dca536019535bb021ae388a990d9cb64e1e6bd769e6a29ec237d8be"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96b24b27-151f-5b10-a77b-493aca818f12",
+      "hashes": {
+        "SHA-256": "fade96ec359474962f2167744ca8c55ab4e6d0700faa142b3d95ec3f4765023b"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9638d583-71d0-5507-a8ca-aa19e13c93df",
+      "hashes": {
+        "SHA-256": "bd3be94afa57936741a5debde1eff537dcd7c7bc79ccfa9739c4614efc424eeb"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee376218-b78b-54f6-ae32-8cf61b06e147",
+      "hashes": {
+        "SHA-256": "74f7a3b2a5df81eb7b5e0c5c4af8548e61dc37c608dda458b75b58852f2f2cfd"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77d869eb-d9b6-5603-aed8-6c62408b3737",
+      "hashes": {
+        "SHA-256": "697db25145c2d37f0a521b3ca6b49f1f4d7c3e0c2e57804f5317b3d0b6d242fb"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2df674ba-4e0b-56e9-b48a-82ecb3cb5318",
+      "hashes": {
+        "SHA-256": "fefa00b0d9a411029f51f34bfa4ed2327559edfcd4fad5cfc1234c1c01a97c5a"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8cc60ac6-b430-5650-bff5-d510fb19b75d",
+      "hashes": {
+        "SHA-256": "c3056e39f894ff73bba528faac04a1fc86deeec57641ad882000d7d40e5874be"
+      },
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--45e731b7-6e29-52a9-9861-6b8ce40e4d3e",
+      "value": "http://web10111.googlecode.com/svn/10111.txt",
+      "x_opencti_description": "TRR240401/trr240401_iocs.csv"
+    }
+  ]
+}

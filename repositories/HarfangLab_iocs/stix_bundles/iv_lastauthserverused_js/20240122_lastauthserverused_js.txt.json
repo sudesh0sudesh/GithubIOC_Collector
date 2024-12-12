@@ -1,0 +1,104 @@
+{
+  "type": "bundle",
+  "id": "bundle--9a876427-e636-4938-8f1a-532f77d8722a",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2223e600-4ab4-56fa-b106-610db428a513",
+      "value": "146.0.228.66",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2223e600-4ab4-56fa-b106-610db428a513",
+      "value": "146.0.228.66",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2223e600-4ab4-56fa-b106-610db428a513",
+      "value": "146.0.228.66",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0b801a1d-1ee6-5e7b-9fa0-27b94976c0f5",
+      "value": "152.32.128.64",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1c0d27c-8e6d-5e9a-a8f8-23fcfa77bf7b",
+      "value": "154.223.17.218",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff886839-f87c-5107-aaff-573170b81128",
+      "value": "159.65.130.146",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff886839-f87c-5107-aaff-573170b81128",
+      "value": "159.65.130.146",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fd5a733e-2b94-57b3-a1a8-43156cdab011",
+      "value": "35.201.216.249",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c92e2ac1-cc48-5099-88e3-70d42a2a1c32",
+      "value": "45.227.255.213",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cfffcd9-694d-5392-861a-f1efe7ccfb3d",
+      "value": "66.42.68.120",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7358eb70-c855-5178-9347-16d1845ba52c",
+      "value": "89.23.107.155",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ee20eae6-e2e8-5f04-b053-9bc61bab9b06",
+      "value": "91.92.254.14",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09f80c03-b58f-5a1f-8860-93c49b0392b8",
+      "value": "catcher.requestcatcher.com",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d12978cb-cadf-5557-bc48-a18cf8fa0ff4",
+      "value": "www.areekaweb.com",
+      "x_opencti_description": "iv_lastauthserverused_js/20240122_lastauthserverused_js.txt"
+    }
+  ]
+}

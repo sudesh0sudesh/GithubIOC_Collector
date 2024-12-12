@@ -1,0 +1,102 @@
+{
+  "type": "bundle",
+  "id": "bundle--5e375b6e-1409-4cb9-b543-4d15bd26fbc8",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--259a9ae5-8144-57be-9e0a-0f812905dc21",
+      "value": "il.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--259a9ae5-8144-57be-9e0a-0f812905dc21",
+      "value": "il.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aca4fe9b-ec22-5839-8923-a3dbaca97c98",
+      "value": "sintecmedia.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aca4fe9b-ec22-5839-8923-a3dbaca97c98",
+      "value": "sintecmedia.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9484a149-a6b5-50fa-8ade-26242f071e5a",
+      "value": "view.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fbf55174-213f-5542-bb9f-cdc7c0ca2010",
+      "value": "login.microsofonlline.com",
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e9df060-d744-50d1-a85a-a94af95947b4",
+      "hashes": {
+        "SHA-256": "a8948dd8e4e4961da537b40bf7e313f0358510f93e25dea1a2fafd522bfd0e84"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e11ae3a-3529-5313-aee7-3723f080fff2",
+      "hashes": {
+        "SHA-256": "6fb531839410b65be4f4833d73f02429b4dba8ed56fa236cce76750b9a1be23b"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--badbd5fd-e06c-5730-a3a1-2b1606309444",
+      "hashes": {
+        "SHA-256": "d891f4339354d3f4c4b834e781fa4eaca2b59c6a8ee9340cc489ab0023e034c8"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--922386a3-2e92-520e-92e8-f55ba6783035",
+      "hashes": {
+        "SHA-256": "d7a66f8529f1c32342c4ed06c4a4750a93bd44161f578e5b94d6d30f7cc41581"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--46443656-b894-5611-a038-afedd8456b88",
+      "hashes": {
+        "SHA-256": "c21ad804c22a67ddb62adf5f6153a99268f0b26e359b842ebeabcada824c277f"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6aad5c2-680f-5305-ac5e-37b41144683f",
+      "hashes": {
+        "SHA-256": "2070dd30e87c492e6f44ebb0a37bcae7cb309de61e1c4e6223df090bb26b3cd7"
+      },
+      "x_opencti_description": "TRR240601/trr240601_iocs.csv"
+    }
+  ]
+}

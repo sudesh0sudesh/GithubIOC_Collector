@@ -1,0 +1,104 @@
+{
+  "type": "bundle",
+  "id": "bundle--bbd57c4a-cc21-418b-90f7-336b647e5c74",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d3cf53dd-9510-54c3-829c-57b277122040",
+      "value": "66.98.127.105",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b77198ec-10f3-5129-bd7a-14053e41cf97",
+      "value": "74.120.172.10",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--269980db-c1bb-5187-b998-e3967df64a9a",
+      "value": "101.219.17.111",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0a076772-7f3d-5ea4-a7cd-a3d92e61a359",
+      "value": "118.31.3.116",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9e9140c7-9198-5d3f-a872-ea943ccafe97",
+      "value": "1.192.194.162",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--72108281-ebb1-56f3-8df4-889d209f3fa1",
+      "value": "171.88.142.148",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9d19649f-d4ca-5b6b-82ba-6ff5e160c73a",
+      "value": "171.88.143.37",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5db1bd5-3d02-5c2a-9e58-8dd319bc259b",
+      "value": "171.88.143.72",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e370d7b4-7a9d-5f00-b8aa-8afe790320e7",
+      "value": "221.13.74.218",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d3cf53dd-9510-54c3-829c-57b277122040",
+      "value": "66.98.127.105",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b0a5b0c-3456-574b-a571-9a196e7f8f98",
+      "value": "8.218.67.52",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b77198ec-10f3-5129-bd7a-14053e41cf97",
+      "value": "74.120.172.10",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e398a509-4ec0-5c8f-a7c2-4c0c17d54192",
+      "value": "66.98.127.105.16clouds.com",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad5cdb8b-71ff-595f-ad10-c22cc70a09c9",
+      "value": "74.120.172.10.16clouds.com",
+      "x_opencti_description": "TRR240301/trr240301_iocs.txt"
+    }
+  ]
+}

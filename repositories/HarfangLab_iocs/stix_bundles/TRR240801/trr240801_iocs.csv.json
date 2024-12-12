@@ -1,0 +1,106 @@
+{
+  "type": "bundle",
+  "id": "bundle--0d95cbd0-2032-456d-a5df-880707e4f60b",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--028f3c1c-26e4-53cd-81b0-9550ea3ce65e",
+      "value": "88.80.145.126",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--679c6c82-b4be-52e2-9c7a-198689f6f77b",
+      "value": "127.0.0.1",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d9c95c3a-85a0-5acf-b939-da984d242498",
+      "value": "88.80.145.93",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e18b2311-99ed-50b1-ac3d-aa070edb8203",
+      "value": "88.80.145.122",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--93400db5-389f-5a9f-9c0a-b044161ca9dc",
+      "value": "88.80.145.137",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9cc8a81e-f083-5537-af45-f29d17149269",
+      "value": "88.80.145.132",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c4cdbb2-a74e-5c53-9d93-bf72d2d43c55",
+      "value": "autoupdate.uk",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f646122b-f29e-5c71-8ce9-5ccc7efe8b31",
+      "value": "servicechecker.top",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a87b50b-fcc7-56a4-a4c3-bc70d5f03efc",
+      "value": "servicesupdate.info",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7269c106-404c-5d94-b06a-eed30b86df18",
+      "value": "update.info",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2affac54-91ca-57a4-9efd-0b1313251fc1",
+      "value": "freeheadlines.top",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3cc4c1e5-5c83-5dfc-9b3a-a5152f54cfeb",
+      "value": "servicepackupdate.info",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16f577f7-514a-5956-b230-11c59f981771",
+      "value": "systemupdate.info",
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--107083da-f0ac-56bb-9347-e1bd73bfa6b3",
+      "hashes": {
+        "SHA-256": "fafa68e626f1b789261c4dd7fae692756cf71881c7273260af26ca051a094a69"
+      },
+      "x_opencti_description": "TRR240801/trr240801_iocs.csv"
+    }
+  ]
+}

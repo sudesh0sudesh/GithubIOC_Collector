@@ -1,0 +1,476 @@
+{
+  "type": "bundle",
+  "id": "bundle--f082ba26-d5e5-41aa-a9b1-7fe1ea25be5c",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c54d0381-d66c-59c7-b4f9-877a4738d6d7",
+      "value": "Tejasnetworks.com",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--080ba3b7-bf3d-50f1-a6cb-e55df7580b6e",
+      "value": "karel.com.tr",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f4e579ee-b122-5f80-a354-cb21c406ff9b",
+      "value": "comviva.com",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--080ba3b7-bf3d-50f1-a6cb-e55df7580b6e",
+      "value": "karel.com.tr",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c54d0381-d66c-59c7-b4f9-877a4738d6d7",
+      "value": "Tejasnetworks.com",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f4e579ee-b122-5f80-a354-cb21c406ff9b",
+      "value": "comviva.com",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1606cbc1-4f60-5670-b8df-ff5ad37cc3b4",
+      "hashes": {
+        "SHA-1": "892fedae59b274ca24916de33650d318168ce335"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a560359b-117d-5c43-89ab-ed4d386998ee",
+      "hashes": {
+        "SHA-1": "064eab6bff1b47eb92cbf1ed35f57098e5e686b2"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc73b39d-bfdf-56c4-bf17-b5bcab5f5dfe",
+      "hashes": {
+        "SHA-256": "9b49d6640f5f0f1d68f649252a96052f1d2e0822feadd7ebe3ab6a3cadd75985"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6886a96-98f7-56e0-b07b-5a49438642ff",
+      "hashes": {
+        "SHA-256": "5d7eb6c36d261adeef1a59bde9eb965f5d8d7f56a2e607da913e782167ba6cb6"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9cff3fc-b177-5c54-a111-461c3bf6c718",
+      "hashes": {
+        "SHA-256": "14c270cf53a50867e42120250abca863675d37abf39d60689e58288a9e870144"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf805d98-88b5-54d8-a16c-040d15d9cb61",
+      "hashes": {
+        "SHA-256": "638c7a4f833dc95dbab5f0a81ef03b7d83704e30b5cdc630702475cc9fff86a2"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--baf32d59-c007-59aa-9b91-a1ee3d68092d",
+      "hashes": {
+        "SHA-256": "dd2675e2f6835f8a8a0e65e9dbc763ca9229b55af7d212da38b949051ae296a5"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0cd9302c-e114-5f83-a909-03edee06e193",
+      "hashes": {
+        "SHA-256": "165a80f6856487b3b4f41225ac60eed99c3d603f5a35febab8235757a273d1fd"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9972ddf0-249d-5536-937d-45ea9cc1cfb1",
+      "hashes": {
+        "SHA-256": "d22fd0cdd6ace24e117d7330e9996a2809c2c2cb280b12f9ea43c484d2bfcfd4"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81fca143-d91c-52b5-8c07-324feef59ea6",
+      "hashes": {
+        "SHA-256": "f9c1a117de8519060a3bf189e72277e895345b8fece73fc0d750946c7f288367"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc0e7bfb-d2a1-512c-b081-9617b7421224",
+      "hashes": {
+        "SHA-256": "2722e289767ae391e3c3773b8640a8b9f6eb24c6a9d6e541f29c8765f7a8944b"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d330ef2-c049-5670-8bb5-116b883ff505",
+      "hashes": {
+        "SHA-256": "ffbe988fd797cbb9a1eedb705cf00ebc8277cdbd9a21b6efb40a8bc22c7a43f0"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--115ae486-e4a7-5336-aca1-84470cddeedf",
+      "hashes": {
+        "SHA-256": "2ae6c5c2b71361f71ded4ad90bbf6ef0b0f4778caf54078c928e2017302fbe69"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21a73a26-966a-57a7-964f-5fb4d6ac6006",
+      "hashes": {
+        "SHA-256": "c6128f222f844e699760e32695d405bd5931635ec38ae50eddc17a0976ccefb4"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--337a32a4-b31e-5064-91e7-e519cfc5061e",
+      "hashes": {
+        "SHA-256": "ff2ae62ba88e7068fa142bbe67d7b9398e8ae737a43cf36ace1fcf809776c909"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56246879-3220-5350-8e3b-690e8afaa3e5",
+      "hashes": {
+        "SHA-256": "c2f95299d8aa912e1b753f3f0780a00ea6e8b5dab0245d77fcf3b6499677c328"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--425f607d-64ff-576e-a8a2-5f10e1ac3a66",
+      "hashes": {
+        "SHA-256": "e89f48a7351c01cbf2f8e31c65a67f76a5ead689bb11e9d4918090a165d4425f"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cef20285-1998-50ad-9c59-2ccdaffa986e",
+      "hashes": {
+        "SHA-256": "326dd85d76d33f3f04cbe7eef6d10ea73f800c84bfc3ed6f3963403c981bbb6e"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--457f0457-f5dd-54aa-8edc-104022ca0645",
+      "hashes": {
+        "SHA-256": "ec553e14b84ccca9b84e96a9ed19188a1ba5f4bf1ca278ab88f928f0b00b9bd0"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd653cce-6622-59a7-8f93-a9c8b1d20d7a",
+      "hashes": {
+        "SHA-256": "09e09503962a2a8022859e72b86ad8c69dcbf79839b71897c0bf8a4c4b9f4dd6"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fb694104-8bd8-5a7f-a73f-47f106f6e2f5",
+      "hashes": {
+        "SHA-256": "fb58c54a6d0ed24e85b213f0c487f8df05e421d7b07bd2bece3a925a855be93a"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d592b83-ad77-5c3d-a79c-47e5797782a0",
+      "hashes": {
+        "SHA-256": "4b41b605ffc0e31bd9d460d5a296ac6e8cfd56a215dc131e90ec2654f0ffe31b"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4864459e-a952-5abb-8dd5-3c1722928fa3",
+      "hashes": {
+        "SHA-256": "85103955e35a1355ce68a92eaedd8f9376de1927d95bf12657b348dea6a8077b"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5422211-8312-5d20-987e-e0de09e31e3f",
+      "hashes": {
+        "SHA-256": "bab601635aafeae5fbfe1c1f7204de17b189b345efd91c46001f6d83efbb3c5a"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b9ee052-d906-5d20-82d8-27787aa3abc7",
+      "hashes": {
+        "SHA-256": "900d08037d303d9b3d4a855e1a97d1f9283c28fe279e67eefe9997f856eeb439"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84db3976-4b28-51eb-b4db-ea1795b59650",
+      "hashes": {
+        "SHA-256": "cc8be1d525853403f6cfabcf0fc3bd0ca398ece559388102a7fc55e9f3aa9b33"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--adedb8fb-f4ad-5576-af3e-b9a90dc05529",
+      "hashes": {
+        "SHA-256": "7daab239271e088f04cae95627cc0066f48a1b178a1ff60b1140aa729126e928"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0125e675-1d89-5cd5-96a6-42adadce79ee",
+      "hashes": {
+        "SHA-256": "cc4cc20b558096855c5d492f7a79b160a809355798be2b824525c98964450492"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d235aaeb-27a4-5572-ae76-e9fc15ef3364",
+      "hashes": {
+        "SHA-256": "31591fcf677a2da2834d2cc99a00ab500918b53900318f6b19ea708eba2b38ab"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d71b15ec-248c-5d5e-a6f5-26078bba7bd4",
+      "hashes": {
+        "SHA-256": "f17f6866f4748e6e762752062acdf983d3b083371db83503686b91512b9bcae3"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61047d02-147e-5f3e-9dbf-c513df1c6ff1",
+      "hashes": {
+        "SHA-256": "7e6a5e32596b99f45ea9099a14507a82c10a460c56585499d7cd640f2625567f"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a12c16b3-77ca-509a-b2fb-e679faf8a0f9",
+      "hashes": {
+        "SHA-256": "fb02e97d52a00fca1580ca71ed152dd28dd5ae28ab0a9c8e7b32cebd7f1998a1"
+      },
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15104a20-019c-5086-8edc-fce8ccbbfe0d",
+      "value": "Tejasnetworks.com.webinar.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33398656-4c60-506a-88ba-02de2fe9b54a",
+      "value": "Polaristek.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--505d4a52-70cc-577d-a12a-27bb9a4e4886",
+      "value": "nikasyonWebsemineri.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52c924b2-754d-5154-800c-8e63991f232f",
+      "value": "comviva.com.webinar.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--903cd5d7-1d2c-5df3-9314-1ff8b040d506",
+      "value": "BLUMENTAL.WEBINAR.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f790dc8-4b47-5376-87e8-d2f815f86f11",
+      "value": "IronSword.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c955d82e-dc8e-5b58-b5f5-158e75031b50",
+      "value": "software.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f46eb02-d86d-52c9-8556-b434308f1b13",
+      "value": "Salary.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--303c01bf-7a3b-5a99-837a-d8fb4cc2733c",
+      "value": "library.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--510b8652-95b3-5450-9d60-063727b9321b",
+      "value": "digitalform.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85634496-1a92-501f-9729-10fb3ec097a3",
+      "value": "nikasyonWebsemineri.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0af28b9-607b-5204-b4af-b4591abbe14d",
+      "value": "Tejasnetworks.com.webinar.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7aab35a4-07b9-50b1-9591-b8bb79ead590",
+      "value": "comviva.com.webinar.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c4a4cf8-d73b-5947-808e-7a2c1d525525",
+      "value": "software.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfa3ccb1-eafb-5c54-a58d-eb1cf34e6df4",
+      "value": "Salary.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--777543c7-487f-5a95-a5a4-ffb302d99c69",
+      "value": "digitalform.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6f347c7-446d-5958-8916-bc0681661dd5",
+      "value": "Polaristek.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--29742078-a9c4-5b67-aa7f-b6381ced646b",
+      "value": "https://v2uploads.zopim.io/2/u/K/2uKM8Mhn4WHvqm9pjHrjaogyOYub9ouO/892fedae59b274ca24916de33650d318168ce335.zip",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4759c42b-3ac3-5c56-ade8-4301ab721840",
+      "value": "https://v2uploads.zopim.io/2/u/K/2uKM8Mhn4WHvqm9pjHrjaogyOYub9ouO/064eab6bff1b47eb92cbf1ed35f57098e5e686b2.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bd944f04-1e3f-526e-980e-08e8ae8ef336",
+      "value": "https://freeupload.store/rALE7/wIHItUcE08.msi",
+      "x_opencti_description": "TRR240402/trr240402_iocs.txt"
+    }
+  ]
+}
