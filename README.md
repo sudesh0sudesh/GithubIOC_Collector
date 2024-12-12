@@ -121,8 +121,8 @@ The following sources are being collected and parsed:
 
 22. **rapid7/Rapid7-Labs**
    - Repository: [rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)
-   - Latest commit: 1c7a4a59dd57cd7b4a50411ac185476917c78a8f
-   - Last updated: 2024-12-11 08:19:43
+   - Latest commit: 1c6e66d7ccde09ccbde2f25d11e3d5defc1535d5
+   - Last updated: 2024-12-12 08:19:28
 
 23. **huntresslabs/threat-intel**
    - Repository: [huntresslabs/threat-intel](https://github.com/huntresslabs/threat-intel)
