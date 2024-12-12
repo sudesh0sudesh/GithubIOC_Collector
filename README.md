@@ -124,3 +124,8 @@ The following sources are being collected and parsed:
    - Latest commit: 1c7a4a59dd57cd7b4a50411ac185476917c78a8f
    - Last updated: 2024-12-11 08:19:43
 
+23. **huntresslabs/threat-intel**
+   - Repository: [huntresslabs/threat-intel](https://github.com/huntresslabs/threat-intel)
+   - Latest commit: b518509d4c9b7e5f1dee508033054bca0c7fe198
+   - Last updated: 2024-12-12 01:14:18
+
