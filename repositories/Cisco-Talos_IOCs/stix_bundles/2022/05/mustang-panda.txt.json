@@ -1,0 +1,1823 @@
+{
+  "type": "bundle",
+  "id": "bundle--7990618d-c0d1-4886-a74d-be07cbca946e",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--309f5524-303b-5222-bdb9-c1be374420db",
+      "value": "101.36.125.203",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b062e84f-7637-5773-8b6a-98698087de8d",
+      "value": "103.159.132.70",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9dc13390-413b-518a-9e4d-4538c331f008",
+      "value": "103.15.28.145",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4b30f0e7-5b8d-54b9-bcea-93e0049bef52",
+      "value": "103.15.28.208",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4b30f0e7-5b8d-54b9-bcea-93e0049bef52",
+      "value": "103.15.28.208",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dcbc3a2c-6f5f-5f08-b651-d6d81aaed9e2",
+      "value": "103.200.97.150",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7a5400-49ea-51d5-a026-624365fb3cd7",
+      "value": "103.75.190.50",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--34dba228-1b8d-549c-a9fb-3a6b237f32aa",
+      "value": "103.91.64.134",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b879b455-4e14-5722-8a60-5497cc1a8dcf",
+      "value": "107.167.64.4",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--104092ff-930b-5e39-ba20-2645f3e4a259",
+      "value": "107.178.71.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d6ff4c5f-ecf0-5cd8-a8b4-a25ceae80c3e",
+      "value": "110.42.64.64",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f1f9269-b9ba-5d1e-85ca-273058f4cc92",
+      "value": "155.94.200.209",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1977a34-6062-5e6a-818c-d8b9e2cb1e8c",
+      "value": "155.94.200.212",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0a72ab45-b7b2-5450-a34c-fa660e449a7d",
+      "value": "176.118.167.36",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--84bd0622-2a28-5e65-aa45-bd4f158d8696",
+      "value": "185.239.226.17",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f469788b-30fa-57bf-8b1f-5d329ee93ffe",
+      "value": "18.138.107.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--03d5893d-1bce-59a4-b4be-b6bd53d40ebc",
+      "value": "202.58.105.38",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--83f6d2e1-9431-5290-9a14-bba49db2f777",
+      "value": "45.248.87.162",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--999eace4-9ce9-515f-9c99-5bc19266b2be",
+      "value": "45.43.50.197",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b89156d9-807d-582c-a345-3dcc6f5908a7",
+      "value": "46.8.198.134",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff4d16ea-2eaf-5880-b4c8-ff6be06eed6e",
+      "value": "5.206.224.167",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--552e2870-7dd5-54f4-9337-42bdbe85bf8e",
+      "value": "61.38.252.166",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--98dc53bc-99b6-518e-b1b5-0b9e137d4f6e",
+      "value": "86.105.227.115",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a092096e-c03c-5b3e-92f3-e04b9e52bdbd",
+      "value": "91.199.212.52",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7f4eacd-d8d4-54d9-8708-c7ce5c4ea987",
+      "value": "92.118.188.78",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7f4eacd-d8d4-54d9-8708-c7ce5c4ea987",
+      "value": "92.118.188.78",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--37e1a91e-2ebc-5449-a8f1-edffa420f4de",
+      "value": "95.217.1.81",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--665de23f-4694-5913-bb96-e774566efac4",
+      "value": "123.51.185.75",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7d75226-d92c-54fb-92f6-f1d99b36b3e8",
+      "value": "103.107.104.19",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7d75226-d92c-54fb-92f6-f1d99b36b3e8",
+      "value": "103.107.104.19",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7d75226-d92c-54fb-92f6-f1d99b36b3e8",
+      "value": "103.107.104.19",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7d75226-d92c-54fb-92f6-f1d99b36b3e8",
+      "value": "103.107.104.19",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9dc13390-413b-518a-9e4d-4538c331f008",
+      "value": "103.15.28.145",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7a5400-49ea-51d5-a026-624365fb3cd7",
+      "value": "103.75.190.50",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b99aa74-38ba-5975-b0fa-4cfb88320a5e",
+      "value": "103.85.24.158",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--104092ff-930b-5e39-ba20-2645f3e4a259",
+      "value": "107.178.71.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--104092ff-930b-5e39-ba20-2645f3e4a259",
+      "value": "107.178.71.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--104092ff-930b-5e39-ba20-2645f3e4a259",
+      "value": "107.178.71.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--104092ff-930b-5e39-ba20-2645f3e4a259",
+      "value": "107.178.71.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1a791773-832e-52ff-a2cf-ec03b8e594b5",
+      "value": "155.94.200.206",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1a791773-832e-52ff-a2cf-ec03b8e594b5",
+      "value": "155.94.200.206",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f1f9269-b9ba-5d1e-85ca-273058f4cc92",
+      "value": "155.94.200.209",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9088d4c7-0429-50ba-99d3-6be184fc8393",
+      "value": "155.94.200.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9088d4c7-0429-50ba-99d3-6be184fc8393",
+      "value": "155.94.200.211",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--37e1a91e-2ebc-5449-a8f1-edffa420f4de",
+      "value": "95.217.1.81",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--37e1a91e-2ebc-5449-a8f1-edffa420f4de",
+      "value": "95.217.1.81",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc359cb2-cd84-554d-9679-3cd70a122ac8",
+      "value": "45.154.14.235",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c5e6ead4-7c4a-5bc3-bf3d-e85ebb705be5",
+      "value": "https://drive.google.com/uc?id=1BG0F1NdkPZOY6w2Y0YEs6nMGYLvSJiQo&export=download",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--20773e49-afb8-594b-b77b-4e7462fc6eb3",
+      "value": "https://drive.google.com/uc?id=1ITPqIFuWOQZ08RmMUDMmzWpg69_EbLTO",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0c2e47f1-93f8-5afd-8b01-2268213c8d98",
+      "value": "https://drive.google.com/uc?id=1NsauYfE3NaFmtI0M99RAe3DmOxO1bBak&export=download",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fbde6c74-2460-58ba-a594-fc3cb4e40ec8",
+      "value": "https://drive.google.com/uc?id=1trg9KJtKJUkKHgP57AhJSirw83-nIwyu&export=download",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ddbe010c-49d5-53f8-b33d-42e427c92620",
+      "hashes": {
+        "SHA-256": "f76f1657205d7042fccfc811077bbada92c0fef735f158da35e7825da1cc6bec"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--db5e39a3-7444-504b-83e1-c525e300755e",
+      "hashes": {
+        "SHA-256": "92f1e5424d53e3f4516d4c831afe3d64e88ed265ec143fb32717f2323836d61b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--157bcfcc-648a-5c15-a554-3c8d9ebd2fc9",
+      "hashes": {
+        "SHA-256": "0b949d6e2078771ed65ce1b81ae9b5619d24317846a4e67bb9494975049bf728"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07a418a5-b738-57c4-9ee2-3664d3964cfc",
+      "hashes": {
+        "SHA-256": "377d65bdbf2b323ef9b497b1d3e2f93521a9ce57d4f2d6c296b048ee1390173e"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80a3e6c6-f38c-54f8-958f-8d51ae8bd58d",
+      "hashes": {
+        "SHA-256": "962bf22710ff07977e3ddad66117094a2cf1c0aefca3d7ed4ba947c62ee36491"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ed79e6c-d258-563e-90f9-f9073f85bff3",
+      "hashes": {
+        "SHA-256": "bb2990a1bbc417cfec40d5f1a6a8b22cac0ef21aed869dd8503e28573cf84401"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e26f725b-7cd2-5ee9-8d58-e2088e1a1e06",
+      "hashes": {
+        "SHA-256": "c26719156e644cee5e95133d31b30b80147494313e665d4243954435511f5c11"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f3244ad-b436-5b47-ad0b-eb3cea36945d",
+      "hashes": {
+        "SHA-256": "e751834f0dcd0cb1411142761fcb940c7ac18e0b851c625ee0bca38db170a17a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27042d9c-90e2-54d6-81df-f56b37b72ff8",
+      "hashes": {
+        "SHA-256": "e3dc7be52151828d3be43fa6016bc7c134230315f0f2d3f2fdeb852b494da357"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a81abc0a-82b8-5142-898e-72f4129c7cb8",
+      "hashes": {
+        "SHA-256": "3a2aae4ad99f8aba7ff558c5b6ccee0366bcd8c69bc16eeb0aeb5f4f58340f0d"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be7876ef-4b3c-5fb7-b6d0-9dcad717cea7",
+      "hashes": {
+        "SHA-256": "a6057292247d928e6adcda5a48983d8702372ce195fc50ea4496f67c6ca57e26"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c1e602b-ed8f-5f4c-b00e-908e24323f74",
+      "hashes": {
+        "SHA-256": "ce59d8cf4b6eca3420438e05b059d6f61cc484e6fb00b1b2a7033bf36446e683"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cabf4bc7-4bab-5388-941b-8041f4aa99c9",
+      "hashes": {
+        "SHA-256": "508d6dd6c45027e3cda3d93364980f32ffc34c684a424c769954d741cf0d40d0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98b7f7d8-06db-5ced-b33a-6c1d89a181d8",
+      "hashes": {
+        "SHA-256": "e0fc2cf31a0fd7f4bfa1ba453fd8f272784330de2ecba80104455252a931789b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb00675e-7d18-575a-8ae3-00ffec9e659c",
+      "hashes": {
+        "SHA-256": "2aeef18abf22b233de5515a95cdca5aa3cbc6c21e8d2f83a68214e7272f9d947"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5123e455-d8c5-599f-914d-7e07161fe3a3",
+      "hashes": {
+        "SHA-256": "f80d84a3f951a1b62d92a5a2799b149ed0aaca292364f101c1273f135c811565"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c872b6de-89cc-5eed-b934-4bc0f1fb4607",
+      "hashes": {
+        "SHA-256": "887345540f1bf31c40755edcda2e3dd9fe640122fc9020f3873c895daa2378bf"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a964fdb6-deb6-5e01-aac9-665192c84393",
+      "hashes": {
+        "SHA-256": "4f29180005f3c2e776d1854722270287111ec073ab80dfc1b4dc1bc0d9337ddf"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8cfc5d38-c993-580e-ae7c-4a81276b1a8f",
+      "hashes": {
+        "SHA-256": "eef56bfc68959c6eaa66ab6abcaaf8fb54aa5b5a7da0866d97a1effeae0952b8"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--222ea503-6d38-5203-aaaa-b0bb8a6aa46b",
+      "hashes": {
+        "SHA-256": "a265e0db5fe311dac60171e27011087bd64b467eb442986f343fe07410e8bf46"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a7c4182a-3e5b-512d-a9b7-a67eebbd4416",
+      "hashes": {
+        "SHA-256": "d7590ee95a46bc1ca7973a8f09efe23a5b00e54d6e65b95cb16acd17a0f127e8"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--772b59e2-596c-5f1a-9f37-70454f29f756",
+      "hashes": {
+        "SHA-256": "ef3966d15af3665ee5126df394cefdf6f78fce77db7a70d5f35c19c234715035"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52de721b-6871-5423-a25d-b537b11153d3",
+      "hashes": {
+        "SHA-256": "ef54e266f8fc9eb97d71c76f2a53b65bef83fe5fc270fbfe83463f83678ff44c"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--588931bd-d228-5c24-9b68-bd62a041776e",
+      "hashes": {
+        "SHA-256": "df84d6c284dd39c2bfed6f8eb26149a4154396c27de50595ed5d80b428930dcd"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3892b6cb-790c-59cd-9813-c6a56b1b97eb",
+      "hashes": {
+        "SHA-256": "ff1dcab09f24a4c314af3ee829f80127e5b54f5be2a13e812617f77d0deeef57"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f600201-fc4b-5fbe-bd6c-c53546d32b2d",
+      "hashes": {
+        "SHA-256": "5009f65e7a8d84a9955d5adbdb86107b15304b1061bdaba5dd2ac2293dd8e6cb"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ae4b68e-4fe4-53e6-b335-0709b88cd6a7",
+      "hashes": {
+        "SHA-256": "bee9c438aced1fb1ca7402ef8665ebe42cab6f5167204933eaa07b11d44641bb"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c30afb6-cdb7-538a-97b9-d69d3a04b5ba",
+      "hashes": {
+        "SHA-256": "dbdbc7ede98fa17c36ea8f0516cc50b138fbe63af659feb69990cc88bf7df0ad"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a6a41e0-1b34-56a2-b346-514936ff2df2",
+      "hashes": {
+        "SHA-256": "18230e0cd6083387d74a01bfc9d17ee23c6b6ea925954b3d3c448c0abfc86bd2"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d6cd268-45df-5032-a033-5d13574ebe6e",
+      "hashes": {
+        "SHA-256": "19870dd4d8c6453d5bb6f3b2beccbbbe28c6f280b6a7ebf5e0785ec386170000"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d8c6734-5304-5a22-9b1e-4f5912a4e998",
+      "hashes": {
+        "SHA-256": "1d484ada6d7273ca26c5e695a38cb03f75dee458bcb0f61ea81a6c87d35a0fa0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7c893489-0cf1-5708-a0b9-493083858878",
+      "hashes": {
+        "SHA-256": "668cc21387e01b87c438e778b3a08c964869ce2c7f22c59bcde6604112d77b2e"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dacfb83c-bde1-50d9-85d2-1c6970eb2c95",
+      "hashes": {
+        "SHA-256": "8a7fbafe9f3395272548e5aadeb1af07baeb65d7859e7a1560f580455d7b1fac"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--842e117f-bf40-5296-af52-a8fbca14aa92",
+      "hashes": {
+        "SHA-256": "effd63168fc7957baf609f7492cd82579459963f80fc6fc4d261fbc68877f5a1"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f16cb4a4-7bc2-5b85-8eb4-278c35a634b9",
+      "hashes": {
+        "SHA-256": "6019e6ee3dee2ec798667ccb34a2ab8d70bf5960d35f55157a9cb535b00b243f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbfc465a-d4e0-5364-9410-e563e1e30280",
+      "hashes": {
+        "SHA-256": "436d5bf9eba974a6e97f6f5159456c642e53213d7e4f8c75db5275b66fedd886"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e5605cb-87cd-5774-ad79-0379c7640d9a",
+      "hashes": {
+        "SHA-256": "82df9817d0a8dca7491b0688397299943d9279e848cdc4a5446d3159d8d71e6f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--46978a27-a579-5738-a7e2-885f0b0e7b1e",
+      "hashes": {
+        "SHA-256": "ca622bdc2b66f0825890d36ec09e6a64e631638fd1792d792cfa02048c27c69f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b224e117-85f8-52a3-a46b-378bbbb6d8f2",
+      "hashes": {
+        "SHA-256": "a0e1a9d45ab7addf3762d3b872f6b21e8ce41a7ff290f5b8566a39d9ca51b09a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79c594b2-bd7f-5367-b74a-8200771561b7",
+      "hashes": {
+        "SHA-256": "a07cece1fa9b3c813c0b6880b24a6494a9db83e138102da3bce30ebff51909c0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a77ea24-14be-568d-91b8-bfbe793a20a3",
+      "hashes": {
+        "SHA-256": "492fd69150d0cb6765e5201c144e26783b785242f4cf807d3425f8b8df060062"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8982ca5d-74e1-561c-9168-bf32a8675154",
+      "hashes": {
+        "SHA-256": "2fc14451ef0ff0919995d46fedc7b7c7f9a9adbf9c40f6b36b480e637d581e6b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6d280c4b-a860-56b8-9245-ed8cb43edcd2",
+      "hashes": {
+        "SHA-256": "94c5c12e03ce6694bdfb5053540f53942640e2aeea22f8ef7d4bc0066b594bca"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0af960ce-0c02-557e-957a-323c87342c37",
+      "hashes": {
+        "SHA-256": "1aafbe976c3559b61531910c75f9bb90176641f565f9810a18dcde9564241164"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f8e0668-14b5-5369-a868-ac5485a971ac",
+      "hashes": {
+        "SHA-256": "7ded20b7d2c0428641a6ac272c15b444b37bf833bbbea09dc931d649e6dc5277"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac673476-d89f-5b74-88bb-7eb9a5a85e40",
+      "hashes": {
+        "SHA-256": "76da9d0046fe76fc28b80c4c1062b17852264348fd873b7dd781f39491f911e0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfc9627e-8bf6-57ab-ac8a-baf50d1e9feb",
+      "hashes": {
+        "SHA-256": "e1dbe58393268d7ddabd4bed0cdedf0fbba85d4c3ef1300580ed4c74e147aa61"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d12280fa-9796-5b6a-8336-89a67211124f",
+      "hashes": {
+        "SHA-256": "16dd94c228b5e2050d01edfe4849ca1388e9b3f811d39380f6ada3e75c69b353"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--780f4f3f-8672-57d8-9f40-a5ebf1f8af62",
+      "hashes": {
+        "SHA-256": "6fd9d745faa77a58ac84a5a1ef360c7fc1e23b32d49ca9c3554a1edc4d761885"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b0d87d7-6a70-5e55-b670-d27bc93a0e6d",
+      "hashes": {
+        "SHA-256": "706e53480da95b17d0f9f0f5dc37a50c7abc3f954ce15b4733fd964b03910627"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e63435c6-a4a4-51af-84c4-0db9c021c394",
+      "hashes": {
+        "SHA-256": "537ac2f79db06191222ba7ae7b7843f063600f87971b8dffc4a31459d6a144b1"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77919a0f-8978-59a1-a344-9e5a1022e8ef",
+      "hashes": {
+        "SHA-256": "3aa80dd8ffbc7b364234cdf0849b10bcead52004fc803a74afb1bd504d024305"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fb0f412-5ad3-5a88-a855-eac86c3b5c70",
+      "hashes": {
+        "SHA-256": "aa8fb15d63bd22b2ff15a9f1b4f4422b3c6af026915168c81d7bb38c9be2ab78"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04ba99f5-5d0f-5c31-84fd-2ceae7699023",
+      "hashes": {
+        "SHA-256": "567fb0e6e6667ce1674cbdfd0ab26a8a3f68979256ef6680facf1d2d50a25dba"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff72e79f-02af-52f8-8223-0ee27ab17876",
+      "hashes": {
+        "SHA-256": "1b520e4dea36830a94a0c4ff92568ff8a9f2fbe70a7cedc79e01cea5ba0145b0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a759b087-c690-5ddb-901f-f6103e1ab87e",
+      "hashes": {
+        "SHA-256": "4c727e21312355cd9a9f0e1e0bb8fc3379f487968a832d00ffde9d5a04b8da9d"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--782c594b-e610-53f7-86f0-b5b7f679a624",
+      "hashes": {
+        "SHA-256": "017ef960616182daa1ffabc5d5470340cc45bbd5ab3455d74987a3ae478fa118"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9c5764b-9d94-5b8d-8780-4e4777d820fd",
+      "hashes": {
+        "SHA-256": "5851043b2c040fb3dce45c23fb9f3e8aefff48e0438dec7141999062d46c592d"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e14fd2a3-7edb-5493-8f78-6e978beb3e9d",
+      "hashes": {
+        "SHA-256": "e2aff9d2f5e75bdc09712722d919f2261f638b0b4da878e405b86b927dcaf1e3"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8c168dad-ccfb-5c67-948b-54402949d828",
+      "hashes": {
+        "SHA-256": "ec32ff0c049bd8812a35aeaaaae1f66eaf0ce8aefce535d142862ae89435c2e2"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a614447-30ca-5017-8d47-54ee5e9d6e65",
+      "hashes": {
+        "SHA-256": "930b7a798e3279b7460e30ce2f3a2deccbc252f3ca213cb022f5b7e6a25a0867"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5348541-615a-5a8e-954c-558bf0a6850b",
+      "hashes": {
+        "SHA-256": "6a5b0cfdaf402e94f892f66a0f53e347d427be4105ab22c1a9f259238c272b60"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a41b5a89-571c-5621-bfdb-dfe8de67f6c4",
+      "hashes": {
+        "SHA-256": "0459e62c5444896d5be404c559c834ba455fa5cae1689c70fc8c61bc15468681"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--777dfafd-92f5-57c7-a31f-77157729365c",
+      "hashes": {
+        "SHA-256": "e3e3c28f7a96906e6c30f56e8e6b013e42b5113967d6fb054c32885501dfd1b7"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f4ab939-6276-5675-a0ae-9c82cd13449a",
+      "hashes": {
+        "SHA-256": "235752f22f1a21e18e0833fc26e1cdb4834a56ee53ec7acb8a402129329c0cdd"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94b94f03-289a-5411-b0ea-16a88a659335",
+      "hashes": {
+        "SHA-256": "afa06df5a2c33dc0bdf80bbe09dade421b3e8b5990a56246e0d7053d5668d917"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37734b07-edb7-51c6-8f9d-dd36c08e631c",
+      "hashes": {
+        "SHA-256": "fc8b2392b92860c7ca669d5274b65498ebd9c3992149cf6727d935c9d0fb48bb"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2fd89f0f-2c34-5fee-a6e5-c50c32dc1a4f",
+      "hashes": {
+        "SHA-256": "c73c644aa671d76918b56f2ce0124a09156a521e293091b68e2763d2ed386e8f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a25ce5fc-4035-5887-8da0-c2b5e2c1da49",
+      "hashes": {
+        "SHA-256": "98f139983882e443116863f795c1df50dae5ceb971075914dfee264dc1502a09"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34e8d018-6613-5eaa-bafa-0a1f8003f70e",
+      "hashes": {
+        "SHA-256": "39f9157e24fa47c400d4047c1f6d9b4dbfd067288cfe5f5c0cc2e8449548a6e8"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7caf4612-5a80-56c4-9018-508ec1c38f6e",
+      "hashes": {
+        "SHA-256": "e4766d7e0c13f42cf1ce56efa07cee57889526f398efaae948ce487410d105f6"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1681cd2c-88f0-5c54-80b2-a869adb5269c",
+      "hashes": {
+        "SHA-256": "cab5fa13c8239e97c15b04b27f9b70fb8b561d31935af7b0680bb80aec12c813"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dffce3f5-26fb-5307-9932-c939aac7e6c4",
+      "hashes": {
+        "SHA-256": "aec41c4f461cd08efe1390c8de513e54f766a5903c3c1f67ac4a9c93a3213c6b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--809f16d1-6e98-58f4-a5e9-e367f38ea90c",
+      "hashes": {
+        "SHA-256": "71d09abda31f0d7c7161cf6f371305023594bb3ef146aa9fbeab1f717885dd58"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--08bdf65c-5f40-5ec1-bdb6-d73eb0266399",
+      "hashes": {
+        "SHA-256": "8a6da7e23267cadb1b8ec3996d662cbc71342f308ca6b65f545ce78612dfc9a7"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b18c023c-18ad-5752-856e-904ead9eb4f2",
+      "hashes": {
+        "SHA-256": "86678ad613b4d05a8ad3013323875daa91c69b64411603187dd2bcc595d97a8e"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--747d79b0-b0d5-5941-b8cc-de46fd243f59",
+      "hashes": {
+        "SHA-256": "033786a482641aa901a28a3e3c314dbe86723906cea15147629167d8364907f7"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0046d1a1-68df-5e73-ba3e-7066d5dcd35d",
+      "hashes": {
+        "SHA-256": "0492124645a667b1ca39002aff4b696871f12f7f21ab0a75816aaeb53ed2f78b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--393503d4-72b8-528c-a859-00307e08f933",
+      "hashes": {
+        "SHA-256": "ce86d647df2da33c5992c790ddc0d302b56af8a0d7b1433639c235ff03bf09ad"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--94a6fba0-003c-5aba-a1bc-45c4afd2a9f4",
+      "hashes": {
+        "SHA-256": "cf7803d1546aab172d17345212cc4de9c2d98a9817c8f9c3770e64744e15e261"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac4558d3-548a-56cd-ba1b-b66046d8da59",
+      "hashes": {
+        "SHA-256": "1d3e2eeaec0707e531593aa9aadaee0ee7757b67de43eae924fad122e86f60a0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f954cf7-e887-56b0-85e7-faeca305a0be",
+      "hashes": {
+        "SHA-256": "aa9a8f143cf61118c96a3bf226c77a05072ccbef15e990c65e0a118eccbb47e6"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8bd9b0c9-b3e3-5b3f-b005-a4fe3725c438",
+      "hashes": {
+        "SHA-256": "c5455b708c1a1afe61aa5cff80dff19f07972a5b047fd398536c8377dc68a19b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--550bafba-d4fa-5ccd-9ced-5e5ae05b4a99",
+      "hashes": {
+        "SHA-256": "1e629fe7c8911a9adbde2e35af4f6f9e60ee538638c82edbcbd7cce5ad2ff4ab"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d3b5b58-3d41-5648-bb35-35098dd8ddc5",
+      "hashes": {
+        "SHA-256": "36afa5b3133667f2577687b3e83d7f6c009dd65864c20a408d860b3c6678df2a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--196d47e0-7077-580a-8380-5e067601301e",
+      "hashes": {
+        "SHA-256": "3407c5d054491ecf28ea10ec24e30e75915ba6fd3b2656955e94a89b67e0567e"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c898983-be36-52ed-9d3a-8b3e15a67a9f",
+      "hashes": {
+        "SHA-256": "67d6267e0ee81e00f97b25a892d10bd9eeb68179eb7e1b9236fcb01ec3f50beb"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a8f2ab0-2970-5c12-813f-32dba5033d8e",
+      "hashes": {
+        "SHA-256": "e92e49b7af397f6f41a225b8778c6812f78c87f4388f527e6efda0dbe2b49251"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6368a86-5410-5d67-a0bb-969fd84d05ff",
+      "hashes": {
+        "SHA-256": "2fd6e2ae0e4d78eef9d36376ac39768ec14e3bf8fe39c3ef6a347511b2cd55b1"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--854e4d41-4c5f-5e56-92ac-25a733474c1e",
+      "hashes": {
+        "SHA-256": "a1a61052eac5fbe98f28ed6b3ed38a66d333aed3f14326bcd42d0fddcc18c519"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df80a366-8409-54a4-98a8-3baf343cc4d0",
+      "hashes": {
+        "SHA-256": "a3e5473eb60e8dba6b97e626288b6742e141fa8a393ec7efeb7993449f84b14f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--258cbbcb-7be6-53ff-929d-1bafd4b3506e",
+      "hashes": {
+        "SHA-256": "ec60594018da8717fa6b8d93fb919f08e7a8b07401fbce1abe7982c959f78424"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6d77fbba-2489-575d-b5dc-2c64421e844c",
+      "hashes": {
+        "SHA-256": "fcf4efa82d477c924d42cc6b71aa672ab2381ca256769925ae34dabe2e77e025"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc917088-3870-566c-ad9b-38e9854acdf8",
+      "hashes": {
+        "SHA-256": "b9adc1433ef7c6fee4d36f73b79744ad611d51a8e039d4c384dd453e33452d0f"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18f29d14-d8df-53f3-bec4-9e6f9ed649d4",
+      "hashes": {
+        "SHA-256": "9b7615b4c2c6ebdd283afb1dae4d951b7ef928939b98ffbe7dea49cc5c5eee02"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--724367be-77bb-5db1-955d-c3aca711f36c",
+      "hashes": {
+        "SHA-256": "951b09c559fdc1c447f3dc63870b5244c2b715d728e1318a62db64bc17dcb85d"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18ae8267-b395-51a8-9528-840b2c2ff490",
+      "hashes": {
+        "SHA-256": "4743ccff0b5dbc34027165e177143018b9ee9e3232496ca5d4fa5cd56b5646f6"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--47a33e79-a700-5eb7-aef5-a0d4f6959d19",
+      "hashes": {
+        "SHA-256": "302ae30d464d6958510dcc463e3c3d8339e38bf6ff84de6cd84866303d34c8a5"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5e7c248-d7f0-542f-97a8-2535ff0f3443",
+      "hashes": {
+        "SHA-256": "4d01691573542e1676fc09102ac3120d0eec37b6791f32ec103eb0d0ee2581c1"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e825dcd-eb7d-579a-bc02-95b021405465",
+      "hashes": {
+        "SHA-256": "f863dab6504fa3c4c9f7534d264d13db95ea96679689cb7e5d0460eed8f59a37"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4c9490e-d50a-533a-861f-a852674e3338",
+      "hashes": {
+        "SHA-256": "61a194cd413614e5ac91d648a87ff6b7e78d2130f54eff8a05c4c9608a7ac3aa"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b71e91be-1040-5403-a2e0-c9460e47acfe",
+      "hashes": {
+        "SHA-256": "2bce6eb2839569ba077e24468259aa2678677275c632a0d276dcb14566cc6fcf"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eee9714d-ab9f-598c-9e8c-2f1756670723",
+      "hashes": {
+        "SHA-256": "4cf38636b0fd129c5cbb4be9cd2c8f7f401529cf17ad6853ff83a2fe36ca533b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d6443ab-ea22-5fda-8f21-6d8a1fa47027",
+      "hashes": {
+        "SHA-256": "150525f4490f43877f1281aaaccc9bce78452d556326105fb77db6156095c883"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--362a8e92-6e38-5050-a428-06d309db87a6",
+      "hashes": {
+        "SHA-256": "24437d65bee4874fba99a2d57bf050ba719a69518160cebafbd8f7441368093a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96e69d45-c9b1-5bd8-bd52-ecb0c20a7211",
+      "hashes": {
+        "SHA-256": "d1f848a8477f171430b339acc4d0113660907705d85fa8ea4fbd9bf4ae20a116"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4800870f-ceb7-5402-8b64-964619c9e2e2",
+      "hashes": {
+        "SHA-256": "acfd58369c0a7dbc866ad4ca9cb0fe69d017587af88297f1eaf62a9a8b1b74b4"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc9a7aaf-1afb-58ab-b1cc-b21d6dee8208",
+      "hashes": {
+        "SHA-256": "5928048ed1d76df1ae4f3ede0e3da0b0006734f712a78036e6f4b6a78c05f0c6"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be1389d1-85c6-5a4c-95ac-5f6d104d6b7e",
+      "hashes": {
+        "SHA-256": "a81719f585a9f40e4304c6ceb2292826676c2d3f7342e88b21f41139743436aa"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cff378ab-9b3f-544e-879a-fb8e04b24546",
+      "hashes": {
+        "SHA-256": "02ec5c7a7ab17540164b4b499fa095e80113123b3ccba6dda59b5f7021b93e6b"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e336c702-63a2-5ba3-abfa-b471ac6d63cb",
+      "hashes": {
+        "SHA-256": "c3d113bfc14a7148419d506e9bd8d44d897f3c71f8d81a63e3b2f4d843ad1c4c"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10e93a97-8e70-5f7f-a19d-cd11e1106442",
+      "hashes": {
+        "SHA-256": "1d72fdb8257a6ec78367f2512ceb18be480860320986845943776959cb4d3dd0"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9caf917-2523-5e29-a750-15e6c462fd45",
+      "hashes": {
+        "SHA-256": "8f07bd408838182a0328ea44156ad47dd5b6ccdcfbd53209717d555ed69adedc"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8713c9eb-463a-576e-b0d4-6ac21746021e",
+      "hashes": {
+        "SHA-256": "03c5f4cd4a0889f436cd1ac2634b2c76732ce7f280e294ab3a19e8c1e957f101"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73fbff07-0a5d-51c8-955d-8a95e71c5f5e",
+      "hashes": {
+        "SHA-256": "28d2fef9323884cc81b1a39f3c17734606a79e79786496c5a556e25e00bdf10a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8ef03c9-64a7-59c5-966a-e3aeeecc1800",
+      "hashes": {
+        "SHA-256": "0cc36dd25e099cc6f1798dabe1d6a3e2d8c3883aa0e0d7296e94d035cdb74f3c"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--257e12e8-0fb9-5f2e-849c-4999af4df5c5",
+      "hashes": {
+        "SHA-256": "9831526e475a4ed0d149bec15f69193a48249c3cda1ddb2f2140292afd862cfa"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a713eaf-f862-5c7c-9b7f-0d6d122d569b",
+      "hashes": {
+        "SHA-256": "709d693fafb10db63a0f27d3ca99ade4e3583359b873cb3abd80d48b604d9914"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--083cea26-9668-56cd-996d-18970e57f93c",
+      "hashes": {
+        "SHA-256": "013ae8570058567016760351fecae4d5aba5c931efbe4ff78a505d99a44ec825"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--466d8f3c-4009-5358-9014-3466ec819736",
+      "hashes": {
+        "SHA-256": "0f7e0497a96c09609972ea44512bee86663a23e9c12b8aa2aaeede3cf9fb112a"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91bdcd4e-fa17-596c-96ed-404676c59a13",
+      "hashes": {
+        "SHA-256": "36fa9236b7e30f00e459e2cd17a1bb84dc475f0ceebe10996a0db824c2fa85de"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8210b85a-4a40-534f-821f-e202e22e3194",
+      "hashes": {
+        "SHA-256": "a38c760be616943c55a688574a33d3eefab8fecab371dbf5bce18989f81df740"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a7344de-ef8b-5ee4-a385-72581625a905",
+      "hashes": {
+        "SHA-256": "afb3089a5db6949a5826e31a2a3e2a15c93e063d7d9f5515d33e8a386739ff70"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ef7d710-047e-50b3-be38-9c29b577635e",
+      "hashes": {
+        "SHA-256": "aa05917f963f2536b5a0b0136652113ea76802a9da60d3c20cea6f9d7fdd71b5"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1fc66a2-a93d-58d5-88ef-fc55b4fc7434",
+      "hashes": {
+        "SHA-256": "fceeda4269b9d38d0ae91937fe13470c4d6053f31a49a315c5764dc72f74cc1e"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8aacb6b-c5f9-5ae9-9909-3e3a2e6b523e",
+      "hashes": {
+        "SHA-256": "a897a20a35e9c449a45932a75b626de649605e132ff49c0dbc745930fc0bbb89"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dccbfce8-d6dc-5bc7-98a5-ec3b0653ac45",
+      "hashes": {
+        "SHA-256": "76d008d9955509d3db6e190acfa58fdf12fc64253884ac6981187a3e5ffdeb20"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de1a4b7f-6cd7-5610-9eb1-9ae35d75abf0",
+      "hashes": {
+        "SHA-256": "bdba1d2043bd89693895c079d57d2494a02d435eae2981bc20bd3b92e9c8dece"
+      },
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--962a5311-2525-5123-93c2-b6dd80ad9402",
+      "value": "3.3.1.slim.min.js",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e1486b11-138f-54e3-8602-1136d86aa073",
+      "value": "http://103.107.104.19/2022/eu.docx",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1f763b7a-a6c4-57a2-9929-9602db7cd8f8",
+      "value": "http://103.107.104.19/DocConvDll.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--58417c25-9c33-5e80-946d-2cfeea7e937f",
+      "value": "http://103.107.104.19/FontEDL.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dcce6c50-adcf-5270-ac02-5a73b118c8d4",
+      "value": "http://103.107.104.19/FontLog.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f16947a4-2868-5105-b190-e103df8f4605",
+      "value": "http://103.85.24.158/eeas.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cd60adaf-8c54-5034-a996-14dbdea6c918",
+      "value": "http://107.178.71.211/eu/DocConvDll.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3fd21acd-52cd-5ad1-8a2d-7f5c7d0984ce",
+      "value": "http://107.178.71.211/eu/FontEDL.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d27ed379-f605-5304-a74e-47c54db90fe2",
+      "value": "http://107.178.71.211/eu/FontLog.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9ab05bd7-b648-56dc-9213-be7f5f5f4563",
+      "value": "http://107.178.71.211/eu/Report.pdf",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ef9bf299-d8fe-54fa-a472-32c8ec837aa8",
+      "value": "http://155.94.200.206/images/branding/newtap.css",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--6aa62b1a-1fa5-52bc-b783-7e9916e2d79b",
+      "value": "http://155.94.200.206/resources/Invitation.jpg",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1c78b215-ce14-5bdb-872e-556d9f3e3c30",
+      "value": "http://155.94.200.209/assets/mail/fonts/v1/fonts/last.jpg",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a280ecac-7d5c-5172-92d8-49dabf2d3b40",
+      "value": "20countries.doc",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--793cca45-9e96-567e-9f64-c557d46e8001",
+      "value": "http://45.154.14.235/2022/PotPlayer.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3092f3a9-a947-5547-a2ef-1797fce687c5",
+      "value": "http://45.154.14.235/2022/PotPlayer.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ef17edd7-bada-5671-a19b-60a142430ade",
+      "value": "http://45.154.14.235/2022/PotPlayerDB.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d48dbe07-9dcf-5993-b3b8-6006fa359278",
+      "value": "http://45.154.14.235/2023/PotPlayer.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--704b95a7-272b-5a5f-b3a3-eaf90367018a",
+      "value": "http://45.154.14.235/2023/PotPlayer.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7344aa8-31e2-5758-bd56-adcff147a9b6",
+      "value": "http://45.154.14.235/2023/PotPlayerDB.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2647ccf0-1a38-506e-984b-3cbdc0770fc5",
+      "value": "20situation.pdf",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--869c1a38-4ae6-50c4-b978-635016389225",
+      "value": "http://45.154.14.235/PotPlayer.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--65a64a8e-f7ea-50af-a85e-db742b889005",
+      "value": "http://45.154.14.235/PotPlayer.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--187af153-b292-5694-9ce6-fb81b40cd68c",
+      "value": "http://45.154.14.235/PotPlayerDB.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fdb69de7-5ce9-5157-8a90-b8fa942fce40",
+      "value": "http://upespr.com/PotPlayer.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8ff3cb4b-8889-52b7-8b45-039dfb5dce93",
+      "value": "http://upespr.com/PotPlayerDB.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--658bfeb2-4a02-5985-aba8-9da78473f587",
+      "value": "https://45.154.14.235/2023/PotPlayer.dll",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b8580ded-a2dc-5e97-a89b-b912127c4dc7",
+      "value": "https://45.154.14.235/2023/PotPlayer.exe",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--93eac2b5-8c99-5346-a48d-e07b0ea0061b",
+      "value": "https://45.154.14.235/2023/PotPlayerDB.dat",
+      "x_opencti_description": "2022/05/mustang-panda.txt"
+    }
+  ]
+}

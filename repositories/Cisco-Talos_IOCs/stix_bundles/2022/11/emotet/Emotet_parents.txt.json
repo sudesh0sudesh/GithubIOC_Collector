@@ -1,0 +1,375 @@
+{
+  "type": "bundle",
+  "id": "bundle--4d4395a9-9e05-40e0-b271-500d947cfbf1",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a57db06b-6644-5862-bcce-dc64e9b10192",
+      "hashes": {
+        "SHA-256": "cc2147040b5c576c38e788a7a7b7f2dce15d78e1369ef9e28c1fa64025f5b263"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4afb175d-6ec8-5efc-82dc-2aaf9992deed",
+      "hashes": {
+        "SHA-256": "fed20a334b1670637e4152ac66ccbbe29478bd515d66c316daa22f5652918432"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f5b56055-5662-5b4c-80ee-d3f8876a2f5c",
+      "hashes": {
+        "SHA-256": "536d59d04c44840579d60176b0f489731b72cc9ef9e73871e16cf22d7a3e07d3"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae5ade75-01c9-59a7-afb9-2ad1a9715d0e",
+      "hashes": {
+        "SHA-256": "aa9d4af497a569aa7ef492014b1e501e5733f940dcfbbb433851f11473d5bdd9"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--080ba0ba-85d4-5925-b7d5-c2ff87471a62",
+      "hashes": {
+        "SHA-256": "828ac21a8bd9797dd371093148675226534ae24ff5732f0d672050c6453e6023"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--76e4044e-d14d-59b6-b31b-340da9e16eef",
+      "hashes": {
+        "SHA-256": "1c8c4ac938cdfca122e73664446cfbdf649645a919ddf8ef10baecc5aa7ce181"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70aee858-40c5-57fb-8119-dd97d90c0320",
+      "hashes": {
+        "SHA-256": "1e7dd5e007715ac09151795ed47d7b4dac88e695da3c71be03e0b7c8c90ee6d6"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de50d24a-f31f-5058-b181-dc5980d45931",
+      "hashes": {
+        "SHA-256": "2c3197d9523e129d514d9ce03380b0ba71ebfe5e66783f6a1a33122c029f2a18"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d00cfcc-f1c4-52d4-85a4-00318eb265ee",
+      "hashes": {
+        "SHA-256": "31d937e34c272ddd32f8bf3ea1e3e69225a42bb4870bef0c8c0da79b55488b8d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c658a99e-d9ef-5272-bfa9-ac4969b11145",
+      "hashes": {
+        "SHA-256": "3a9ea8e6f4b796ab36d42d7ae43326618396485be1b067fc9187ef9cf5c9644b"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--008b5575-ad18-5e59-be4a-991a0b41207a",
+      "hashes": {
+        "SHA-256": "432a654a0f35515df051517f13f002f2c1f7c307df4208afc8e8557907cd4a77"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22fafd96-9f90-5c78-aa90-b38daa0aca2e",
+      "hashes": {
+        "SHA-256": "646461e9a7ca538f970ce55381aad7acbf0241b497763fe70c083b69080a3a23"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05d1acd4-1d39-5651-8c49-10cae1dcfdb7",
+      "hashes": {
+        "SHA-256": "92530fe9759042be2037d80265ed28066dfdd65f2c62815cf6a0bd22b8e0b33c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--263e61d4-cbcc-53f7-b34e-aab06ed5cd6e",
+      "hashes": {
+        "SHA-256": "9e199bf932b46eacf92b36a04be87897112cf79e4127fc9fe5bd6afc21cc0323"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1133dd74-ec84-5ef3-ace1-5ac69cd8b61a",
+      "hashes": {
+        "SHA-256": "afb17492165e44a95f6d85adbed2a28c0c1af81b4ea7763252fb52dd2c05b9ce"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa5b4bc1-fd9f-5d7f-a155-9e911ecc277c",
+      "hashes": {
+        "SHA-256": "cfd44bc725874bae134af698fc46518644c9ba0785587c0ac7386787a145084d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d43606ab-ce34-5be6-8980-01fa8e30fb85",
+      "hashes": {
+        "SHA-256": "d099d8572c7ffeb800a944d8d1a18574bb386172fe91856b393792d1914649c5"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37cbd980-5829-59e7-b2ef-6e70b454684a",
+      "hashes": {
+        "SHA-256": "e7808bdf7989f8e146e304a832d1e869f6d98c568267c1963a83b9cce39d27e2"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--57487614-b958-5e72-b656-dc84ca0e5ba8",
+      "hashes": {
+        "SHA-256": "f3c30ad886ef94d8223a357c83815400c9d8c51647030a0b1f5cb967bc84121d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8825f33d-c989-5f55-9e80-d9e7992fb3ca",
+      "hashes": {
+        "SHA-256": "f4c185baf072944840579b2df9ab1ead87ed506a35493a53f298bfdaf839ba85"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--595e2e28-ebc4-540a-98e3-547cca911ad1",
+      "hashes": {
+        "SHA-256": "fd95e595c153ca2673dcadef571f6e9f87f26a616c96d2a08bb6688710396f1d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d555f509-91b8-53b5-b386-5f4eff973f53",
+      "hashes": {
+        "SHA-256": "28addba6f8f785abfdbd807151d08164a17c734d52d6d72fa585db4c06747d3c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ebbff56-71ec-5e90-a45c-24bff2f42565",
+      "hashes": {
+        "SHA-256": "382f0f203348e0e9b4e59c9b69bfcb0ec7794c05470e8522ed8a02ad8e8552fa"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42eb719f-6bf8-5b41-ace8-d08a7f3e2ba3",
+      "hashes": {
+        "SHA-256": "c4d6a32e93cd290e7ab3e9ce57a7d69e42400ffb667d3b08397264a75fc194ca"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ad4224e-70af-5817-9b6d-3a7b9b49e53b",
+      "hashes": {
+        "SHA-256": "8779ca8e3044f419805bf0feccee7936e2ac78d37639a3120730d63409b8dd1e"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f62e162d-4376-5144-a051-dc74846e25fe",
+      "hashes": {
+        "SHA-256": "ce30c162a4803235de19ce2efa5b22b4140210bc6c79820704cbca2f1c442c48"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fdd4ddd1-92d8-58f6-a9c8-17ec708ee31e",
+      "hashes": {
+        "SHA-256": "e669fcb0dcd504af70bd2aeeb730de0eb2a088af688685366915ab0b6dc0bd65"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d44c19c1-593f-52f6-8e62-2311f8451625",
+      "hashes": {
+        "SHA-256": "f2f121d1b0b12119e035ec80bac43f54db590b7b646b22a488b65f0060208c4d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a0276ab1-d67e-54c7-a234-89db50c72641",
+      "hashes": {
+        "SHA-256": "9d1b43746a73ba5ac4a5a5717f8a3bac10b9556faf983e412ad7ea13c34dcb96"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f0a66da-381f-5f91-9ce9-8ccde4e5e118",
+      "hashes": {
+        "SHA-256": "76cb1160cb8b18bb1b3911efad770aad42e17a660275bd74e4b64cd98e459022"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ed98a4f-84e6-5ac9-aa22-a26f076d87ec",
+      "hashes": {
+        "SHA-256": "ea21d9dbc57a0f6970cb320ec81f8bfbcef3aed29bdc6a771b2004deb0d5fd59"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25d63c8e-79c9-5821-9cb4-8ec4a1b0abf7",
+      "hashes": {
+        "SHA-256": "8704bb4e2b42e5f0d63abb4a0a3ea95d7e4f5165c96f2654b1e57af1b0937ffa"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d5303f01-36de-5bb8-b007-8231c015f38c",
+      "hashes": {
+        "SHA-256": "753e900eaf5765489c2837624807ecc7b74b28510d41cbfd30f9a76207ba809f"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--38dd3b5b-a77e-5ca8-8b97-061dd7f99852",
+      "hashes": {
+        "SHA-256": "e8bed46ce453e26f3b251b4cd5a88203ae34a0fe8bdaa9693b169a6470aa3316"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3a07942-fcc6-597e-ba04-0007511b47b9",
+      "hashes": {
+        "SHA-256": "6a25e47f90c9f7f08eedb15a5d2659995dab30ab078ee3b2c682b79272ce56b8"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b2c7455-bef8-58eb-836b-6ce983f3ee01",
+      "hashes": {
+        "SHA-256": "a5dcb849de8f72a3acd9a3f6c3cce759fef7ac1609e0c1e2058e6036c50c0e72"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52dd24e6-d631-59ab-906a-0472871f6dda",
+      "hashes": {
+        "SHA-256": "a86a7e4a96345d760e55a2c88efe1edceca5e626c11af755dba8506ab3d2dff4"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b294d6e8-8f46-5c78-913a-cfb6920758bc",
+      "hashes": {
+        "SHA-256": "a57a232f5956e0accdc08ff893743eec98a2e48d30a8d445ec9bd86e886bd6a5"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d3bf65c3-83b7-5e87-923a-d8a813621dc6",
+      "hashes": {
+        "SHA-256": "54338958047b69a7be4fd44a3ad288618b3d531b5f461d702bb64c66a0864a58"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6eb047fa-46ae-5078-b342-4d98d1be3f2f",
+      "hashes": {
+        "SHA-256": "efbb7a8da9a4aa40b9ff1bf8341ea1c51ee52b202aa10548ff75a3ca9621fb35"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67683932-ce95-5f0a-b596-4a51536d5dda",
+      "hashes": {
+        "SHA-256": "748377e4a7f2b9f11bc8a9e6846d70f364dc085e909c7efcef42efd28b2eee36"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_parents.txt"
+    }
+  ]
+}

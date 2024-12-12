@@ -1,0 +1,209 @@
+{
+  "type": "bundle",
+  "id": "bundle--f9d4b3e2-5677-49f9-91a7-775bdef94363",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8ee70414-667b-5b62-8c6b-b52c86b81e76",
+      "value": "167.71.4.0",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2389f95-a0fa-5baf-bd90-4eaaca50d291",
+      "value": "169.60.181.70",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2215e203-324d-5966-b34a-97fd9f00269f",
+      "value": "218.38.121.17",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fb667df7-6ff2-5304-80cf-3c38b90b15cc",
+      "value": "178.62.112.199",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d1d7de07-1d21-5d16-b636-bf089650c3ca",
+      "value": "172.105.226.75",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ab463c91-0ab9-558d-8296-fce5a5caafb3",
+      "value": "103.224.241.74",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--233362b9-6a06-517d-a241-5e4a78304522",
+      "value": "196.44.98.190",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--24735c46-8e88-58c7-bcb8-db245c63ba3b",
+      "value": "188.165.79.151",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fa9c3c51-23e3-5c97-a483-5307184c07a9",
+      "value": "94.23.45.86",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff0db6da-6eb5-5cbb-96f4-18e5094646ed",
+      "value": "182.162.143.56",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc8c12e5-1ea1-5d75-ba51-f0404742f9e6",
+      "value": "cloudxml.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff17171c-dd4e-58b8-a36b-a675f8268acf",
+      "value": "aprendeconmireia.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b4952a9-3a72-56ca-bb60-483bd13081c7",
+      "value": "cs.com.sg",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--174e2262-beda-5137-a737-0ef0f12cdd9d",
+      "value": "www.careofu.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49478eff-a5f9-57e8-bcb5-4f8c7bdabf11",
+      "value": "copunupo.ac.zm",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a0b10848-08cf-50c0-90e8-91531c33d0d5",
+      "value": "https://www.zachboyle.com/wp-admin/EA470ZrTGNkuA",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58ba0c75-f16e-5c96-ad88-1abf2ed2bcb3",
+      "value": "blangkonstudio.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbb1803c-77e3-5cf8-8959-60ae49710d50",
+      "value": "caimari.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--880fc0a9-f5a7-5b72-a9be-9d6fafa0e981",
+      "value": "https://www.elaboro.pl/wp-admin/J0hwyIMsk9YFIi",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3eab73c3-f8d2-5230-a98b-6fc847c83853",
+      "value": "https://link2thai.com/Lock/aZNj",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5a9ea8ec-f2a9-59b6-95ee-748348ec3f15",
+      "value": "https://www.melisetotoaksesuar.com/catalog/pFyl",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c75d6487-2f4b-57c0-9a9e-948edf670413",
+      "value": "https://copunupo.ac.zm/cgi-bin/bNoAgU9",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9710dee2-027b-5a18-932e-100234900433",
+      "value": "https://joomlaadvanced.com/marrowx/fbCctJXM0",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4d4918f1-7e9d-5271-bda5-c9fda9216182",
+      "value": "https://barkstage.es/wp-content/0E7NdYl7TZuHMJq7",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--aa50f4aa-9854-5a66-9518-742bbfaf1abf",
+      "value": "https://bosny.com/aspnet_client/5VLxhxQCFMinu6",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3e95e8a9-85bc-587e-8145-dfcd7a21af82",
+      "value": "https://luzytextura.com/marfinance/gdwyLku",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d8877720-5418-5c92-bc31-646477dbe711",
+      "value": "https://amorecuidados.com.br/wp-admin/t3D",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bff7f427-9da3-5f10-89ff-bde1f39bf1b2",
+      "value": "https://audioselec.com/about/dDw5ggtyMojggTqhc",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c57b0d13-2d91-5658-8df0-309572efbb69",
+      "value": "https://www.elaboro.pl",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_URLs.txt"
+    }
+  ]
+}

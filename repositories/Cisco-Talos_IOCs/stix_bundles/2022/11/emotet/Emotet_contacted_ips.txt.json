@@ -1,0 +1,174 @@
+{
+  "type": "bundle",
+  "id": "bundle--ea61c604-9002-4574-b1ae-f4637d6f7953",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f9444ecd-9312-5bd5-b40b-f373b3cbec4c",
+      "value": "179.43.117.122",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0c994252-dc90-5c8d-a3f0-313a624d892e",
+      "value": "163.172.108.69",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0e66ce84-20a8-547b-8d0f-b8edc6a49c8e",
+      "value": "88.212.202.52",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a7d0175a-c7a6-56db-ae74-f671887bd730",
+      "value": "5.255.255.77",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9788962f-e4ee-5483-99a4-40dec0603b84",
+      "value": "11.23.33.44",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6efcf838-499c-51e3-919e-3757f0174e82",
+      "value": "149.255.58.47",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ed399270-4465-5afc-95f8-0fdea4050a70",
+      "value": "185.182.57.100",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04880ff5-7434-502e-a59a-9b75d64a76c0",
+      "value": "185.176.40.57",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b8b9fa2d-e450-5567-bc96-be6ad67f77c3",
+      "value": "217.64.195.223",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c3ea17b6-0f83-51bc-9bab-d891430424f2",
+      "value": "103.45.229.10",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e640fe86-6f7d-5bc9-821b-6cc5bc688b66",
+      "value": "203.204.237.108",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5504f32a-57da-5cd4-9d56-66ffb5854fb7",
+      "value": "207.180.213.165",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--50cd5ec2-ec7e-5d1e-8574-053105b0f344",
+      "value": "5.255.255.70",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ae79c2cb-14de-531d-bc3b-96a66d79109d",
+      "value": "81.68.152.197",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c44e9035-4a91-5b1f-9475-0d4e30eea72a",
+      "value": "185.98.131.156",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b06ad8bc-7c1e-521f-aaca-77f80bb05ce1",
+      "value": "185.176.43.106",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b29e390a-5350-54d7-868e-0db02f1709d7",
+      "value": "50.116.62.25",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--93f5737c-c53a-59e3-b30e-2b7fbcdefbdb",
+      "value": "167.172.253.162",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e09549a9-e722-5743-b759-64b932458646",
+      "value": "185.148.169.10",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a53afdec-a40b-5e2c-9ab5-90638dd3e684",
+      "value": "149.56.131.28",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--79f98481-ede7-516f-bd9a-86e018ba6f2d",
+      "value": "82.98.180.154",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a5896245-fcb7-51e8-91c3-2597f197e2f6",
+      "value": "103.41.204.169",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ff0db6da-6eb5-5cbb-96f4-18e5094646ed",
+      "value": "182.162.143.56",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--90c97616-fdee-5d81-a216-389d80e6c563",
+      "value": "91.187.140.35",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_ips.txt"
+    }
+  ]
+}

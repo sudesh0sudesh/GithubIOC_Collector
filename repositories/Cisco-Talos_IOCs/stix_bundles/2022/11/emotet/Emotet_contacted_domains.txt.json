@@ -1,0 +1,370 @@
+{
+  "type": "bundle",
+  "id": "bundle--9df463f0-77c3-4b8f-a154-a2f48bbf2b1a",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--431632e6-1df1-5edd-b104-e77cfe4a1568",
+      "value": "www.conceptagency.net",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59d230d5-33ef-55ae-90f3-49a0a052c29f",
+      "value": "dacsandongthapmuoi.vn",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c9e2068-12bb-51e3-ab39-9b85e7a4c08a",
+      "value": "pricoat.com.mx",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6124c234-394a-5bd3-8714-28fa75382866",
+      "value": "tw.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--712101eb-44f3-506a-b297-b813362630b7",
+      "value": "talles.atwebpages.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ca843d2-0391-5076-898d-09e4ed02d120",
+      "value": "annuncivendereairussi.it",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4248c2e1-6f4c-5d4a-a5d5-7c2f507fb37f",
+      "value": "demo.cansunoto.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d7065726-20fe-59cb-b2d6-945f509acc13",
+      "value": "dazzlecollections.co.za",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60295ff7-06b0-573f-a74c-3502eae1782a",
+      "value": "www.daxberger.at",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abd8414b-6ad3-5cc8-b787-fe84c9e913fe",
+      "value": "mipa.uns.ac.id",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a2c96f8-5805-5ee9-83e3-38d6d29db01e",
+      "value": "controlnetworks.com.au",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cf294546-ddb4-5ce0-96e8-4d6619dc694d",
+      "value": "annunziato.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0cc6f84c-2f24-5884-84d0-1791fc9b7363",
+      "value": "chacaltattoo.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd718e59-cd73-54dc-b409-3acd217a00d3",
+      "value": "www.lysarbopaysage.fr",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4c9be29-f333-56aa-b38f-0a56a5ec465d",
+      "value": "times.my",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0631d911-453a-537c-9c89-d6f631e6af2c",
+      "value": "aymanwahdan.at",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5e42edb-0216-5288-8683-61204bb0d496",
+      "value": "amorecuidados.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b081de55-fdcf-5468-a3e4-450c14c1d55d",
+      "value": "db.rikaz.tech",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62e9b4ae-6041-5511-b345-d0e22a4c2c0b",
+      "value": "yjlianyi.top",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8e4aea7-72cb-5569-8ebe-4f5ed7b8b9ba",
+      "value": "chist.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0e3c7e8-c72b-575c-89b7-fd98c83b05fb",
+      "value": "www.iam.ch",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--249b24b2-19d4-5dcf-ba69-0bdf69ba2fbc",
+      "value": "mecaprog.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc8c12e5-1ea1-5d75-ba51-f0404742f9e6",
+      "value": "cloudxml.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b1109e0-3b18-5025-8c64-9c93af4d786a",
+      "value": "www.charmingsoftech.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4dc02bb9-4db0-5b79-a4f0-59e4e7e8960d",
+      "value": "bosny.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4f6ab26-57aa-5f57-8522-f05586dded1f",
+      "value": "retardantedefuegoperu.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b9bcc31-5eaa-5d8e-a05b-80ef1ad3161f",
+      "value": "bytesendesign.nl",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fdd5f9af-d028-584f-a9a7-d0e967098e95",
+      "value": "stickers.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0be38dcb-44f6-5dcb-8106-37d14c62bf3a",
+      "value": "demirelmarka.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6b3e213a-d025-5f89-b195-c1930d636ca4",
+      "value": "www.angloextrema.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--505aa006-5d68-551b-b1fa-68eb93756a24",
+      "value": "www.thebeginningstore.in",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--174e2262-beda-5137-a737-0ef0f12cdd9d",
+      "value": "www.careofu.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--170c8272-b708-5d7b-b88e-c76f2e66e94d",
+      "value": "royreid.co.uk",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--74297169-2c2e-532a-95e6-20f24ccf6656",
+      "value": "voinet.ca",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76d1eb95-b3c7-57c7-8791-1a2fc0e14706",
+      "value": "campusconindigital.org",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa34262e-8fcc-55d0-841e-c6c2628c14fa",
+      "value": "blacksebo.de",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29573cdb-56a4-517f-9b0c-13a25c582150",
+      "value": "barkstage.es",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfcca9df-2f7d-541e-ad47-70bb8f201419",
+      "value": "cheffsys.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e94390d-a370-51b0-8f3c-fc3d837b0c41",
+      "value": "contactworks.nl",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--862ea887-42d3-5019-a2c2-fe681ed4cb0a",
+      "value": "demarsoft.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a691760-2b72-5579-9a7b-e851d37cbfe5",
+      "value": "aibwireless.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--64d52652-d08f-5cb5-b672-0d792bcf263e",
+      "value": "spinbalence.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1992c6da-a833-52c5-b19f-55e54b618025",
+      "value": "ruitaiwz.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be7c9d7a-a194-594f-9927-a5ed2d8674c5",
+      "value": "ly.yjlianyi.top",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e27afd5e-c8c3-5ff5-af3e-cb69d01e5bb8",
+      "value": "wijsneusmedia.nl",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--323e747c-53c6-585f-936c-01b8e763466f",
+      "value": "aquariorecords.com.br",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9fc0789-5713-5d78-b093-0e1e698ea93c",
+      "value": "alvaovillagecamping.pt",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9d8ec7d-8bd0-5e58-9f8a-31387c6b8c97",
+      "value": "tn.idv.tw",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9d8ec7d-8bd0-5e58-9f8a-31387c6b8c97",
+      "value": "tn.idv.tw",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a60c3d42-ef6a-5d39-9cc1-41a8b030d9fc",
+      "value": "vourakilina.gr",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6edff07c-2192-5a6a-a2db-8bbd7c466911",
+      "value": "sat7ate.com",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--375841a2-324b-5f2e-a20e-08d0ed9f4ca9",
+      "value": "aldina.jp",
+      "x_opencti_description": "2022/11/emotet/Emotet_contacted_domains.txt"
+    }
+  ]
+}

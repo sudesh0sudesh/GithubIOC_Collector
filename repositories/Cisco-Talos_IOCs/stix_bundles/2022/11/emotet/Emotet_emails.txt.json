@@ -1,0 +1,447 @@
+{
+  "type": "bundle",
+  "id": "bundle--c363078c-a0c5-4e7a-afdf-f2113b501ba7",
+  "objects": [
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--342aec1c-1f70-576a-a374-03f63faff913",
+      "hashes": {
+        "SHA-256": "07b96028f3cacc4fbbf971059ff9cc788c5c463fb338d8941e15a67a7446731b"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e405e9d-f9d0-50d6-9a71-f340c2f152a4",
+      "hashes": {
+        "SHA-256": "14ae9e74e618fb86d1cb3902c119ea213f8f6ae2d7437b156cd7a0cbcb63871d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04b71f29-6cd4-5e62-92b5-6c4711092eca",
+      "hashes": {
+        "SHA-256": "15edc794469252f130557ded6d96eb7a95ad19162200cbbb9863511b8b226e4b"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--91d04879-0c38-5e80-bc4b-6271401da82c",
+      "hashes": {
+        "SHA-256": "160febf01f7a06b134d11985b19254ac3e3b825cdbf36cf9e38e2ceca821543e"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1abcfbc0-b789-52ca-947b-b18e1a13e37c",
+      "hashes": {
+        "SHA-256": "1df920e00c2df813ab1f33a60eb0e4e49720a05c762400213f6b71f256a5aefd"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a359a91-3d4c-527b-8d15-56b37a48d5d9",
+      "hashes": {
+        "SHA-256": "2bf0ac0ec822d2167424e9f09ed34c91a2ebff32e42c797ea55caf07d013f3b0"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ebbff56-71ec-5e90-a45c-24bff2f42565",
+      "hashes": {
+        "SHA-256": "382f0f203348e0e9b4e59c9b69bfcb0ec7794c05470e8522ed8a02ad8e8552fa"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2f95463-d8f8-5d09-bdbe-64600df4b12a",
+      "hashes": {
+        "SHA-256": "397d2edcaf9f516931c0ee70729ea497edf3b725858c9e2c5c0eb94523ee58e7"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c658a99e-d9ef-5272-bfa9-ac4969b11145",
+      "hashes": {
+        "SHA-256": "3a9ea8e6f4b796ab36d42d7ae43326618396485be1b067fc9187ef9cf5c9644b"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--24026f40-35ba-5f89-b9b5-ddedff1a5a6f",
+      "hashes": {
+        "SHA-256": "3c7a101a7f9a80409feb5eb1678be3801aebe365bd1ef93f84664d7e273faed0"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d43794a-ae46-5ae3-9eef-3991b98d9c6a",
+      "hashes": {
+        "SHA-256": "475dff7633a5e6722555da90809db9afb1c6622d38ae2be8b1d1f9bb04f22104"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69dfe1ea-ebd5-5c70-803a-cdfeb78bdf8d",
+      "hashes": {
+        "SHA-256": "4bca8975a12bfc4b583e9d91b279dcd74c5c097369052ee384265d020005feee"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed4fa82b-95f0-59f6-bca2-9a0b5856a848",
+      "hashes": {
+        "SHA-256": "4cb91868dc166224ca70392405e90bd88beb583cb86aa3fab43ddde3ca5a7797"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1021dda6-6b8d-5572-bf65-9170a94c83d7",
+      "hashes": {
+        "SHA-256": "4fa739148ca7d27ccd57032e3f15095be5154d13e53d3c9d458e11f7bc1654e7"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eacda2bd-c74f-5c5a-a0c8-e49b551e9f97",
+      "hashes": {
+        "SHA-256": "51640f2977de3fca1d17e2eb83e35692e8f35f363bccd096e79f4fc90f0d3b12"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--92daf81a-c67e-54a2-a36e-8bba1dac008e",
+      "hashes": {
+        "SHA-256": "5d6397a701ea67b87a4ad6efd21a12c827ce2b1239efeddf3f1042293c3cfb4f"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22fafd96-9f90-5c78-aa90-b38daa0aca2e",
+      "hashes": {
+        "SHA-256": "646461e9a7ca538f970ce55381aad7acbf0241b497763fe70c083b69080a3a23"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3cc28da6-0303-5126-8577-1fd2a5bed9e5",
+      "hashes": {
+        "SHA-256": "68e94c4476f0c3c0fbaa763e304d5b5cf3c0c59e17b14966bd91cedb675e4e5c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd070323-4c60-5da5-9a76-2f05b9d31755",
+      "hashes": {
+        "SHA-256": "6a5e6a9937f2513af9ee4d862fa3dad257e0d6182f8f59175f1c5583400ccffc"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b4b0162b-8964-5480-991a-e4efff77eb8b",
+      "hashes": {
+        "SHA-256": "7ed864443f2b6a479d5e1d52e505bbeb55fbfa5ee6fc2f25b0109c18fec8d534"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3ad4224e-70af-5817-9b6d-3a7b9b49e53b",
+      "hashes": {
+        "SHA-256": "8779ca8e3044f419805bf0feccee7936e2ac78d37639a3120730d63409b8dd1e"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4feda5b8-2c54-5a87-bb02-630dd0563885",
+      "hashes": {
+        "SHA-256": "887e6d5ba8a05600240f843701e0c54a80a3b227102715be79a9f20482e7cc78"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31a5a5a4-8ed0-5e4a-952f-808089dc7215",
+      "hashes": {
+        "SHA-256": "89bcc83759bc6a28be8d6dcc11f40c6dd86924350954b0bc22368d46dd552134"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ecb0cb66-3ab9-54d3-ac2e-6e0a374e4d39",
+      "hashes": {
+        "SHA-256": "8d203f8db8deeb4c6c41008895e8ea423d2168b3f07d0c0e890d2c37a4b8e4cf"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9a8ad0a-2ac3-5a1c-8d9b-1ff8bc1522a2",
+      "hashes": {
+        "SHA-256": "910731579a78d2da6452bede7dfce8e1f89c285c22d8a7d40db2eafc2fcc45af"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcf57e14-3e80-5669-85f8-348154fc183f",
+      "hashes": {
+        "SHA-256": "94e9bd71f8c738c57f28a12f31ca3da2c2e8112a7135d40c2a98d0a56a57ceb3"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff7067ca-9528-53de-984d-74cc502bf1b4",
+      "hashes": {
+        "SHA-256": "a7bb9ebb3932a6f27e3d9ef9699b51c6f3b6c56680110df311014f40919a1ce7"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ee62066-54cd-5db7-b565-f5436c4b6e1f",
+      "hashes": {
+        "SHA-256": "aa415ffbbc0ad965277e1e4b1034077b36d21628fc607cb1d87dc869ba2dc29b"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2f5883e-01c3-5562-80a0-346c96b84c04",
+      "hashes": {
+        "SHA-256": "adf4cf4e5c0e8ef628b508dbd7068483df5d2a616d8d64239d12ec81c3485d00"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16cf40c9-c6e7-56eb-a4cb-75fdcedecfa1",
+      "hashes": {
+        "SHA-256": "af25395b98bf9de5057227658e87d33c1d78023f3063a6c828ffdba91abb5bd4"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83d54b02-b461-56f8-a211-efa63a803915",
+      "hashes": {
+        "SHA-256": "b1a0f98719ed71de8e4fb31eb437f9135d4a03124c6f174703d40de4ca5f097d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23454cde-2592-5c64-a5fc-8eaea45dc9a2",
+      "hashes": {
+        "SHA-256": "b690bb7bffc972a61dc4bf0118d45c1921b3e6d749391381bae4e250cfff4525"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b879de48-d79d-52eb-ab30-7456eebc1c62",
+      "hashes": {
+        "SHA-256": "ba09bf5e05904f30a5c12ef92637e04212cd0727afe5e143b2bad04830ad2a09"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8abc4fe0-78d7-5803-b173-e5944632bba4",
+      "hashes": {
+        "SHA-256": "ba1fb74c4c3e74668ea6c6908af0c43a752099b37d6e51a773b8c7c4e9ac6f33"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42eb719f-6bf8-5b41-ace8-d08a7f3e2ba3",
+      "hashes": {
+        "SHA-256": "c4d6a32e93cd290e7ab3e9ce57a7d69e42400ffb667d3b08397264a75fc194ca"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d4c0319-8288-5f29-b8fa-48e8bfbb6113",
+      "hashes": {
+        "SHA-256": "c9e8bc837d2a469a33c9105c1143d9f3e99f8be6cc0205be2b7212bcc4ed8765"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f62e162d-4376-5144-a051-dc74846e25fe",
+      "hashes": {
+        "SHA-256": "ce30c162a4803235de19ce2efa5b22b4140210bc6c79820704cbca2f1c442c48"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6762eadf-cd0e-54cc-b73a-34a298e3f963",
+      "hashes": {
+        "SHA-256": "e194f44de56f193d67760ff1259026143e87e9d5d3f012f62d0e96d96542113c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8825f33d-c989-5f55-9e80-d9e7992fb3ca",
+      "hashes": {
+        "SHA-256": "f4c185baf072944840579b2df9ab1ead87ed506a35493a53f298bfdaf839ba85"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5bb517a5-5df8-579e-9aa1-8e0a411d59b5",
+      "hashes": {
+        "SHA-256": "f6051e434f7e2d5c8918df2cddb558985e29c3625246312b62a5cd7e97381649"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a667757-4f00-5bd1-ac59-60a5187ba45e",
+      "hashes": {
+        "SHA-256": "f6bce57ca862d89927230f77cdf241dc795b90f8bc7741bf8277be4318cf6610"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4ed98c1-ed66-58f8-9db2-ef8ccdc4b4db",
+      "hashes": {
+        "SHA-256": "f9631a73a0937ffaadd6ff4d216630966f420cec180c03f1a786784d0cf3b277"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b86d6c6b-718c-5b3f-bdaa-ad626b2319be",
+      "hashes": {
+        "SHA-256": "fa4a244a9c36bbd2883a9c134f0903ffd2996f593d0fe78d3fa19b1136471c09"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--595e2e28-ebc4-540a-98e3-547cca911ad1",
+      "hashes": {
+        "SHA-256": "fd95e595c153ca2673dcadef571f6e9f87f26a616c96d2a08bb6688710396f1d"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea2d5e9b-acbf-5501-a50a-0f93ffc0ae3c",
+      "hashes": {
+        "SHA-256": "fdcc6e1ec477d7a79e695072a066b8828eed390a28c8ff5d69f37d7378a7c879"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e996e65-93cb-588f-b731-8cc12c8efec1",
+      "hashes": {
+        "SHA-256": "fe1c95e7826e4a9fa3643ed3be757269d390d49f49bdabe0597d4491116d7613"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c971f17-d353-5f46-975c-6c60cadc6449",
+      "hashes": {
+        "SHA-256": "d034d6c654c412a519126f1fe618d9da4dc159552825199383c152fa6194270c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d555f509-91b8-53b5-b386-5f4eff973f53",
+      "hashes": {
+        "SHA-256": "28addba6f8f785abfdbd807151d08164a17c734d52d6d72fa585db4c06747d3c"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dceb0c18-7f87-553c-baeb-9d722a5a420d",
+      "hashes": {
+        "SHA-256": "bbc1d64ab5a7c9ebeea81021242a91277d4b6e43e08c56d15764fc21f2df819e"
+      },
+      "x_opencti_description": "2022/11/emotet/Emotet_emails.txt"
+    }
+  ]
+}
