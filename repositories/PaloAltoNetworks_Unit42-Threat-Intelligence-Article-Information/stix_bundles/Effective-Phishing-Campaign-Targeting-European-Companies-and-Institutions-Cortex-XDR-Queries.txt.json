@@ -1,0 +1,181 @@
+{
+  "type": "bundle",
+  "id": "bundle--232f580c-e3fa-4d6f-81c9-c8739334e8c6",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--780d03e1-c2fe-5e52-872d-566d3c93ec9c",
+      "value": "167.114.27.228",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ebf3bdaf-c5f3-55d0-873f-b8a9d44113e4",
+      "value": "144.217.158.133",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--21f5f871-81c5-5240-a113-1effe112b882",
+      "value": "208.115.208.118",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2707518-5ada-5e0a-9beb-8f3b23581b60",
+      "value": "13.40.68.32",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--07ca8f90-2881-5f07-bc70-69eb09806062",
+      "value": "18.67.38.155",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--014bdc14-bae7-575c-b11a-cdf8409ef9eb",
+      "value": "91.92.245.39",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--73ff0b63-5915-5f28-ab67-cf69ab791de6",
+      "value": "91.92.244.131",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3b063475-ac1b-5d55-8e02-c8df07080b3c",
+      "value": "91.92.253.66",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1af50c5d-aadf-54bf-837b-290aa96b33e7",
+      "value": "94.156.71.208",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f00a7e6a-7889-5117-9e05-33bb6a3a29ee",
+      "value": "91.92.242.68",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3b063475-ac1b-5d55-8e02-c8df07080b3c",
+      "value": "91.92.253.66",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--69d782e0-bc4e-5761-b256-f179e75863e1",
+      "value": "188.166.3.116",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e4bf3c46-c4a2-5f10-8344-c6ce187c96b0",
+      "value": "104.21.25.8",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d01e16c0-4973-5d3c-a23e-d273e2a702ae",
+      "value": "172.67.221.137",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--366f496c-6f6b-50be-b2f7-7f3bd16a9bc1",
+      "value": "49.12.110.250",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7f408797-921d-529f-a74e-bd558eb0a909",
+      "value": "74.119.239.234",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--640b3f5e-c2ce-5193-ba9c-462c896ef1d8",
+      "value": "208.91.198.96",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--835554c1-5a28-53aa-884e-4d3a3ad079e9",
+      "value": "94.46.246.46",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f4bdb222-0dff-505e-af29-a914bff27cca",
+      "value": "vigaspino.com",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--133e10c5-3dd5-5f26-b3d0-a28f16435045",
+      "value": "d2715zbmeirdja.cloudfront.net",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c6408d2-0bf2-53e5-96f2-530d670bb41a",
+      "value": "wr43wer3ee.cyptech.com.au",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6347fbc2-fd36-5c5f-b666-c11e141005e8",
+      "value": "espersonal.org",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54d9750b-c553-585a-bf55-ef70e00ea135",
+      "value": "9qe.daginvusc.com",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--470b633c-9185-5b57-95a3-141b3db82e54",
+      "value": "vomc.qeanonsop.xyz",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--01c733d9-132e-5454-81de-8a18ea29e96e",
+      "value": "686c5f.netlify.app",
+      "x_opencti_description": "Effective-Phishing-Campaign-Targeting-European-Companies-and-Institutions-Cortex-XDR-Queries.txt"
+    }
+  ]
+}
