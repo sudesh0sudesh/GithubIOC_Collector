@@ -16,8 +16,8 @@ The following sources are being collected and parsed:
 
 1. **sophoslabs/IoCs**
    - Repository: [sophoslabs/IoCs](https://github.com/sophoslabs/IoCs)
-   - Latest commit: ea45e467d2956a3382e8f513d037e52429c328c9
-   - Last updated: 2024-11-07 12:46:26
+   - Latest commit: 9893efe34851ac2ce5b11332161dccac5bc5143d
+   - Last updated: 2024-12-19 16:15:12
 
 2. **ThreatLabz/iocs**
    - Repository: [ThreatLabz/iocs](https://github.com/ThreatLabz/iocs)
