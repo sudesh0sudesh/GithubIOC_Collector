@@ -106,8 +106,8 @@ The following sources are being collected and parsed:
 
 19. **DoctorWebLtd/malware-iocs**
    - Repository: [DoctorWebLtd/malware-iocs](https://github.com/DoctorWebLtd/malware-iocs)
-   - Latest commit: 76a0adcf22e8d68e85880ff504962401938f367c
-   - Last updated: 2024-12-18 10:15:09
+   - Latest commit: e335e28a8f27e4b0192fdb3a0af77c78a47fa97c
+   - Last updated: 2024-12-26 14:29:58
 
 20. **prodaft/malware-ioc**
    - Repository: [prodaft/malware-ioc](https://github.com/prodaft/malware-ioc)
