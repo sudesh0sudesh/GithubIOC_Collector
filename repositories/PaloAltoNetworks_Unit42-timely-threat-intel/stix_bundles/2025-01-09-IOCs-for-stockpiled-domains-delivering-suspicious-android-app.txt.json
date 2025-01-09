@@ -1,0 +1,2848 @@
+{
+  "type": "bundle",
+  "id": "bundle--176ab11e-54fb-493b-a392-93d4f5ba088c",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4099acaf-d874-5231-b42c-500d27cf500f",
+      "value": "apkproxy928a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8ef817d-3762-5943-9794-a2bd12d1e5dc",
+      "value": "apkproxy928b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3187ffd7-00a9-5c11-a48b-c431ff803636",
+      "value": "apkproxy928c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f40b4c9b-c354-5098-8140-9e6f35b1db41",
+      "value": "apkproxy928d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a9e0eab-6602-57e4-9383-3130d8cbebcc",
+      "value": "apkproxy929a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62cd259f-ef66-59df-847b-d638b0fe2c0e",
+      "value": "apkproxy929b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--229884ba-4f0b-58d2-a6d1-f6ba9f3729cd",
+      "value": "apkproxy929c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2c48168-ce24-5709-9591-6fdd343ea35e",
+      "value": "apkproxy929d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c807579-cf87-5312-aa3c-12376365e8e6",
+      "value": "apkproxy930a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--513debfd-2019-5165-89b1-7b57c3081da1",
+      "value": "apkproxy930b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6673c224-e63b-5d7f-81ae-14b5600259eb",
+      "value": "apkproxy930c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d09cc72-4543-5825-ba4b-b6824a1725c6",
+      "value": "apkproxy930d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efad57f8-8630-50dd-ba88-34b8d219852f",
+      "value": "apkproxy101a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ccfa294-6764-58e8-bb44-7f8e970ed846",
+      "value": "apkproxy101b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b926bfa5-1883-5726-ba0e-73ef9a2b1c05",
+      "value": "apkproxy101c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--400e2658-a4f9-54fb-b9c3-9aadec077cae",
+      "value": "apkproxy101d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29ff052c-4f67-510f-a45d-0ca0a1ce8732",
+      "value": "apkproxy102a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4800c4fd-bf8f-5d8a-a64b-62445fbbd5a8",
+      "value": "apkproxy102b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7b8eec7-7eaf-5288-923f-7fc5ce87b87e",
+      "value": "apkproxy102c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7908360d-0090-5d48-a623-5275f4e504ce",
+      "value": "apkproxy102d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f719e25b-6938-5315-8727-c384fc730177",
+      "value": "apkproxy103a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a053805-ea79-5eb2-97e3-c97a5eadcb30",
+      "value": "apkproxy103b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8930f2e-9ac2-5d09-893a-9ea93039850f",
+      "value": "apkproxy103c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8df4c817-d719-5f22-a9ec-17bfa74b68c8",
+      "value": "apkproxy103d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c54b21e1-2c1a-53b8-ab8b-f8eb85533370",
+      "value": "apkproxy104a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--02378ba8-2047-50c0-827d-52bf0a396998",
+      "value": "apkproxy104b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6b1f5d9-b1e3-5214-952a-882397ece4d1",
+      "value": "apkproxy104c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3536a17f-4c5d-5c57-a251-e3068b277053",
+      "value": "apkproxy104d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15350029-839d-5624-9b1b-f221f12501c6",
+      "value": "proxyapk104a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--87d8c08e-8dd2-5eef-ad65-34f48f03e3a4",
+      "value": "proxyapk104b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfbf0f57-f527-573a-ab8a-78d3040c3418",
+      "value": "proxyapk104c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59ba2d83-3442-5a8d-95de-8ada51eeea28",
+      "value": "proxyapk104d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a20ed0ef-30df-5fd8-bebb-a9a80bd7fc5e",
+      "value": "proxyapk105a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22dc8489-51f1-58fa-84e2-79719ed260f2",
+      "value": "proxyapk105b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--adcc8d98-f48c-5def-baf2-8c45cae6529a",
+      "value": "proxyapk105c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ed7a5cac-f342-592d-a511-4340418af806",
+      "value": "proxyapk105d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b97879f1-ea9a-50ad-beb7-aca38ad1409e",
+      "value": "proxyapk106a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5216df5-039b-5e53-a569-a4f3d2357ebc",
+      "value": "proxyapk106b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d27bb6c4-ba14-5721-aca7-8e7816d0cde3",
+      "value": "proxyapk106c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b6c193d-8109-5ff7-8929-b90105479103",
+      "value": "proxyapk106d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9954389-1a0d-53c6-831a-42b51e9c1e42",
+      "value": "apkproxy107a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0f60772-ef2d-50df-8d5d-5c3ea8bec464",
+      "value": "apkproxy107b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--449978b4-b8f8-5914-a3a3-4487ed72abf4",
+      "value": "apkproxy107c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2a6318f-a8f4-57a6-a4cd-275213de59be",
+      "value": "apkproxy107d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b4421c4-a621-5ff4-a8bd-342216b1add3",
+      "value": "apkproxy108a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d64142ba-ccbd-5dc9-9e55-df0c8041b13a",
+      "value": "apkproxy108b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73558034-a094-5931-85c1-16776352fa36",
+      "value": "apkproxy108c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e76dd1e-c016-5b27-abee-8fd3a830194c",
+      "value": "apkproxy108d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec32c883-9367-572c-856b-c5acb7f10270",
+      "value": "apkproxy109a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2cc2952-bb03-53a9-90c1-2286c46bd19a",
+      "value": "apkproxy109b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a4b06a6-bedf-5413-ac78-47af56faa238",
+      "value": "apkproxy109c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d520fd32-559a-57ec-a43b-2f1968c93aef",
+      "value": "apkproxy109d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e0764e3-c4d5-5f68-9503-2a84f7004f4f",
+      "value": "apkproxy110a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a08ed70-f187-51bb-9386-7bcfe148f789",
+      "value": "apkproxy110b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51baa2e0-9d10-5c2e-80bf-5e29ac51f266",
+      "value": "apkproxy110c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb4cbe2e-0033-5b6c-8444-673b0bf73153",
+      "value": "apkproxy110d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--256b032e-0d68-5b26-8fe7-59161d659da6",
+      "value": "apkproxy1011a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84600d6f-45e3-504c-9667-1d6d149bb316",
+      "value": "apkproxy1011b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f781a880-da3f-5c96-8ba0-fc471efebdc2",
+      "value": "apkproxy1011c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c4b42b0-a34e-5ef3-b5e7-b3fc01020b36",
+      "value": "apkproxy1011d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--568a64ac-828b-5e3a-a8aa-06ceeddd4290",
+      "value": "apkproxy1012a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17dfe094-10c2-538f-9f19-85fa7b58c742",
+      "value": "apkproxy1012b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e35c36e4-f5c1-5347-810e-e0fcc71a885a",
+      "value": "apkproxy1012c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f6361ef-6e2b-55c5-b92b-fac3816f31f0",
+      "value": "apkproxy1012d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--171f9a2e-ee93-5339-8252-3ac11f1967e6",
+      "value": "apkproxy1013a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9ed5cd6-f7bd-5bc9-94a6-a6d215f7473f",
+      "value": "apkproxy1013b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4f809cf-33e8-5e9b-b3c5-6860ca6b76e4",
+      "value": "apkproxy1013c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99edea67-6498-5e36-aa97-873e124a23ba",
+      "value": "apkproxy1013d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7147b0ca-6048-552a-a4f4-4b250a702069",
+      "value": "apkproxy1014a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2da11cbf-7a16-5a25-8925-3406d1b7c047",
+      "value": "apkproxy1014b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69946032-947e-567e-a4df-68e3c227671a",
+      "value": "apkproxy1014c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69e732f5-5948-5fb0-a16c-6b3d2c47734b",
+      "value": "apkproxy1014d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4c77c85-deb7-5964-af85-f1764174165a",
+      "value": "apkproxy1015a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9af4ee0d-53a1-5a85-b5e5-d13c68cf0589",
+      "value": "apkproxy1015b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b272caf2-9822-522f-aceb-c683e4ed9b98",
+      "value": "apkproxy1015c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1eae292e-1cd6-5d0b-a3dd-918355549abe",
+      "value": "apkproxy1015d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5099db6-06cd-5621-90da-aad625eb87fb",
+      "value": "apkproxy1016a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd4d95f4-3ddc-52f4-9214-d884549cf380",
+      "value": "apkproxy1016b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f30ee31-b91b-512d-862f-1b73b7ba3de6",
+      "value": "apkproxy1016c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4c2d259-943a-5c30-aec3-bb5f680683ea",
+      "value": "apkproxy1016d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33d420a5-4985-5f26-8907-cd566f1518ef",
+      "value": "apkproxy1017a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55441099-52d5-5c31-9fe7-ed5acba9cf55",
+      "value": "apkproxy1017b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1d4ea9f-7126-564b-ae5c-ed2dbd725937",
+      "value": "apkproxy1017c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28ab7468-c221-5350-bb6a-312826d45c35",
+      "value": "apkproxy1017d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52dbab36-2559-592a-96bf-3db4623931da",
+      "value": "apkproxy1018a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78074beb-eaa9-5933-b01b-e62d600b29fd",
+      "value": "apkproxy1018b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49350ce3-8024-5a96-8a8e-00b1bfd35f13",
+      "value": "apkproxy1018c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--436367cd-e6e2-563f-8063-f4c04db803dc",
+      "value": "apkproxy1018d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a39a3799-e27d-5d23-9dd6-734837211fe4",
+      "value": "apkproxy1019a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ccd9f85f-034b-52e1-9cd9-4c17b97c2191",
+      "value": "apkproxy1019b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c42b82b3-20d0-594a-8a29-9c3fdec06e1d",
+      "value": "apkproxy1019c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--33e9e320-3359-5d76-8a5d-c54305c40728",
+      "value": "apkproxy1019d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d312aa64-4260-5ed7-85af-f40561e2ab09",
+      "value": "apkproxy1020a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d0c3690-04f4-5b52-bc65-cca2ab1eb314",
+      "value": "apkproxy1020b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f16d6c8-631c-5620-ace0-fff9b2d6dcc5",
+      "value": "apkproxy1020c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75a726a1-f662-561f-978f-ed71b4b083f0",
+      "value": "apkproxy1020d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1ee1cec-1f40-5a2b-a84c-5cc0365ff558",
+      "value": "apkproxy1021a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c075afa-e554-54fe-a782-864866fa8b1d",
+      "value": "apkproxy1021b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03af7304-f337-59a2-97c1-973129c08f98",
+      "value": "apkproxy1021c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2484094b-d21f-527c-82dd-852574823379",
+      "value": "apkproxy1021d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e720849-ad94-5c04-ac10-df764e075008",
+      "value": "apkproxy1022a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e48f7505-42cc-58b5-a492-b973aae4c872",
+      "value": "apkproxy1022b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fdb83dd-2d9b-59da-ba74-34e7bc90b28c",
+      "value": "apkproxy1022c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bbb73821-ad47-5818-bcbf-f5715553f017",
+      "value": "apkproxy1022d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16ae17ef-3034-5329-afce-b8cc8060a0b2",
+      "value": "apkproxy1023a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2960763-1fc1-5442-884d-caccc255c19a",
+      "value": "apkproxy1023b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b18298ed-46ef-58a8-8c19-334331433fe4",
+      "value": "apkproxy1023c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8096af5e-eedc-593c-b63d-7fda7e273314",
+      "value": "apkproxy1023d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b3ce22b1-6f57-52fa-a4b6-1a0803bcc599",
+      "value": "apkproxy1024a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8296eeb-25fb-5cf2-b1eb-05043e0277c1",
+      "value": "apkproxy1024b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18d6a3ab-99b7-512e-9d63-a9a450cdd251",
+      "value": "apkproxy1024c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a08070db-241e-51d7-b34e-ddde0813a47f",
+      "value": "apkproxy1024d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd724692-7b33-5e60-a53d-2e525216fe1d",
+      "value": "apkproxy1025a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b418744c-e3d4-5aca-b77d-fec6f34ab7df",
+      "value": "apkproxy1025b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f111f621-0410-515f-a55c-b311a1c80f94",
+      "value": "apkproxy1025c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6bfa5da2-3bb6-569c-9a92-4bf5492e04f8",
+      "value": "apkproxy1025d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--308ae775-da93-5c61-a2cd-88687abc9abe",
+      "value": "apkproxy1026a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--066ae4d5-c79d-5000-ad64-1ea942bb9b9a",
+      "value": "apkproxy1026b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da868137-095c-55e9-b29c-6efd9faefe1a",
+      "value": "apkproxy1026c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f53532cd-7d9a-56c8-97a8-dc6093879ad0",
+      "value": "apkproxy1026d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e625bdcc-e897-5b59-9240-f8484367b44e",
+      "value": "apkproxy1027a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5dd41ccf-3f61-5339-a963-0f138c18c22e",
+      "value": "apkproxy1027b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e475fa26-ef34-57ef-81ea-20803891cde9",
+      "value": "apkproxy1027c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--112c6fa8-ee05-5fdf-91ea-3945777f6708",
+      "value": "apkproxy1027d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ae9b832-ba92-54a9-980b-dcf2850759e7",
+      "value": "apkproxy1028a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08e1a8f2-16ea-589c-a70a-2614d4434105",
+      "value": "apkproxy1028b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4a4fe1c-0c07-52c3-8481-22d62be229be",
+      "value": "apkproxy1028c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c935cd8a-4c2c-571e-8776-9098deeee87c",
+      "value": "apkproxy1028d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3cfe6f1e-0812-58d6-a57a-734536b449ff",
+      "value": "apkproxy1029a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--016146fd-6035-53d6-b495-cef9626ef480",
+      "value": "apkproxy1029b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ffffee38-3ecc-5947-944e-82408c027929",
+      "value": "apkproxy1029c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4e3feb8-48eb-5ba1-9ab0-957644fba7e6",
+      "value": "apkproxy1029d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1951c8e3-f19d-5927-bc18-203121cdd552",
+      "value": "apkproxy1030a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9b240d8a-634a-558c-9fb7-2604194e5ae3",
+      "value": "apkproxy1030b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31664421-8bf7-568c-89f8-3d7dff553c00",
+      "value": "apkproxy1030c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eafa3d9e-d2ec-5895-9693-4bf532ab60e7",
+      "value": "apkproxy1030d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff1fdf16-33bc-555b-ae62-e2ffdf1a1f4c",
+      "value": "apkproxy1031a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--826a2b98-70fc-5ee9-bf30-0c3ebe7ca518",
+      "value": "apkproxy1031b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a00ba31-428e-569f-a132-95703eadacf5",
+      "value": "apkproxy1031c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9dd415c-b49f-5964-a611-2bdd11826f89",
+      "value": "apkproxy1031d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--34f611ad-6bc7-5e08-9d27-068ff183ff06",
+      "value": "apkproxy1101a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2dae960-31e1-5b62-8de0-afe8a14236e2",
+      "value": "apkproxy1101b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c954a1e-1a83-5fc0-ba55-46222206b040",
+      "value": "apkproxy1101c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a62310c1-02b9-595e-bb6a-ea4d400acf65",
+      "value": "apkproxy1101d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b76fde0-5c47-54f7-b3b0-28936750259c",
+      "value": "apkproxy1102a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22bbe68f-0d30-5375-95c1-7f63dde8195f",
+      "value": "apkproxy1102b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--553d08ed-669d-5d5f-8790-362e5f46c3c8",
+      "value": "apkproxy1102c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--428acf2b-6190-5086-94c4-bce803b3d639",
+      "value": "apkproxy1102d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abf2de04-9d65-5d99-a3f6-8fc046a3c48e",
+      "value": "apkproxy1103a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--829265c7-6c18-5aa1-ad19-d9b650b57f5d",
+      "value": "apkproxy1103b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a796aa92-740a-5316-ad51-21e99feb1281",
+      "value": "apkproxy1103c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--42b026a1-3c52-5e95-9e5c-a41bbd419795",
+      "value": "apkproxy1103d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--edb3fbc2-56b7-510e-88b1-c821fdefbd4a",
+      "value": "apkproxy1104a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d930e9df-7c58-5bda-9d62-224c81de036c",
+      "value": "apkproxy1104b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d35732f-ac25-5919-a8f8-0966336c02ca",
+      "value": "apkproxy1104c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1591616e-cf5a-5261-b4f1-2aa0efa3bc5c",
+      "value": "apkproxy1104d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8a65104-7ccd-5afd-b990-edb5216bf56e",
+      "value": "apkproxy1105a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d50624e5-e0c0-55a8-b258-71c28117f86c",
+      "value": "apkproxy1105b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f5c3e4c-bb7b-5faf-a022-1565cb221173",
+      "value": "apkproxy1105c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca529323-c330-5a25-a9d3-b4ecbf9e1d07",
+      "value": "apkproxy1105d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ccc75b5-e31f-5e4a-8380-353749c8d210",
+      "value": "apkproxy1106a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbf2384c-f766-5536-8ab0-015d7ac71caf",
+      "value": "apkproxy1106b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d694e13-6554-5a0a-958d-e0b58ae3ebb3",
+      "value": "apkproxy1106c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f3f1386-d370-5bd5-8035-aebb800c671e",
+      "value": "apkproxy1106d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d9ef7262-2cb8-59b8-8f52-18483c6bdffb",
+      "value": "apkproxy1107a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--05f99208-a06f-5130-b434-0e9aad97285e",
+      "value": "apkproxy1107b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec524e51-e4bf-50f9-a5d2-d184ea6f4e87",
+      "value": "apkproxy1107c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--390bba1f-f4e9-59e0-91c1-d701a1a5a31a",
+      "value": "apkproxy1107d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f3ab3b1-4661-5254-9254-d90798974ffa",
+      "value": "apkproxy1108a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0681b29f-5b7a-5d05-a3d5-97fd34ebc6ae",
+      "value": "apkproxy1108b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6cc8976-7857-5c4e-99cb-8d6557b1407b",
+      "value": "apkproxy1108c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0075f13d-096f-5ef5-88e9-e33c68b3bcef",
+      "value": "apkproxy1108d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--160a7ac0-9f3e-519b-ba68-cc72140a7e6a",
+      "value": "apkproxy1109a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1bd97e6-4aa5-5db9-a800-901060d394bb",
+      "value": "apkproxy1109b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--40523ce8-d2fe-5f39-8ec7-07521ba59bd4",
+      "value": "apkproxy1109c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0eb6d031-5ebf-5642-81ef-327c76ef9fcd",
+      "value": "apkproxy1109d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a367cf6a-4e56-5874-9c55-6058d5886a2c",
+      "value": "apkproxy1110a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dab4b241-d8ac-55e8-aaf6-8690414ab648",
+      "value": "apkproxy1110b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60825cc7-64a4-5c6d-9ca5-e39d1add144f",
+      "value": "apkproxy1110c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aabb0476-70e7-5e9d-a87b-ebd2fb91da1d",
+      "value": "apkproxy1110d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ef1358c-7f6e-5459-a953-ef3d4a6a0225",
+      "value": "apkproxy1111a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24281bc6-8ef3-5a49-898d-1a7d838be360",
+      "value": "apkproxy1111b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c216de0-f36f-51a6-a248-b8b56604e2ed",
+      "value": "apkproxy1111c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0966564b-b3ca-554e-9d0f-e4eae486e7d3",
+      "value": "apkproxy1111d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54bf47d3-2b47-5b02-845f-5ea9f763e186",
+      "value": "apkproxy1112a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--289d88cd-1c39-540b-b42b-c433bdc488b8",
+      "value": "apkproxy1112b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--594bc5bd-a58d-564a-8a33-1b3d42f4f454",
+      "value": "apkproxy1112c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31415e79-4ea9-5a34-b50a-caf0e5f38e79",
+      "value": "apkproxy1112d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6f2ed8f-09e8-579f-8d0f-d16d24bd1090",
+      "value": "apkproxy1113a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ea4fb0c-8c5e-5059-b870-468db9f00b68",
+      "value": "apkproxy1113b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df0f5957-cca0-555f-a218-a4278d422c18",
+      "value": "apkproxy1113c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14fba51b-f93a-586a-809f-2b3110d1e466",
+      "value": "apkproxy1113d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a6e8fd4-bc43-5dab-b369-0eb8e8724c99",
+      "value": "apkproxy1114a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f54f8bfb-465a-5c25-8945-90c763a176ec",
+      "value": "apkproxy1114b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50076164-12bb-5d93-aa16-fdaecd5a3595",
+      "value": "apkproxy1114c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09c90dc2-5480-55a4-b37b-5743995969de",
+      "value": "apkproxy1114d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--056e2875-4f89-519d-87c7-90133f3b4ad9",
+      "value": "apkproxy1115a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fa6b8a1-f39b-5a1b-9e50-03a8b8a93886",
+      "value": "apkproxy1115b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a49a498a-7dd6-5cc8-8933-ce7ee81809ce",
+      "value": "apkproxy1115c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d841b901-264c-55a4-994e-f3ab4f8982ad",
+      "value": "apkproxy1115d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83eb0486-3869-5f4b-8ce5-7cf10c6973e7",
+      "value": "apkproxy1116a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6866d9a-9ee4-5a00-b78d-f6434399507a",
+      "value": "apkproxy1116b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de470c2c-3ab7-58db-b34f-1374feb7261e",
+      "value": "apkproxy1116c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2fd2c4e-5476-5d91-9951-f6ef598d918c",
+      "value": "apkproxy1116d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b62721ba-4aff-5141-ba00-0a84771d908b",
+      "value": "apkproxy1117a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71f065ea-c549-5775-a0df-de5f293aba23",
+      "value": "apkproxy1117b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1417d6b-f125-5010-b614-666c75fec47d",
+      "value": "apkproxy1117c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--063cfd71-29fc-545c-aee6-cacb2163a138",
+      "value": "apkproxy1117d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cde35236-1f66-5135-b448-87796d9ffcde",
+      "value": "apkproxy1118a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--637a7d23-534b-5417-9dc9-5795de62c11b",
+      "value": "apkproxy1118b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--263bd114-18df-5206-a57d-a01456037e39",
+      "value": "apkproxy1118c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fcae3dfc-db13-5bfe-a640-8f37d0dd835f",
+      "value": "apkproxy1118d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d45d50b0-f39c-5063-936e-72fee83bb563",
+      "value": "apkproxy1119a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f31793a-e55c-53de-af30-d75f64056b7f",
+      "value": "apkproxy1119b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7af7ed93-0810-501a-8474-9a3ea4b637ed",
+      "value": "apkproxy1119c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8363fa32-e6c9-5a48-a98e-6827bc27b20d",
+      "value": "apkproxy1119d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc4e3134-758f-59fd-81ae-22e4c996ea39",
+      "value": "apkproxy1120a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2955291c-27c6-5c60-99c8-4406c7abb3ea",
+      "value": "apkproxy1120b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--288df227-a7f8-5fef-aa83-2abce2fdafa0",
+      "value": "apkproxy1120c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa71e8c5-3cbb-5977-8a00-7f1424653a72",
+      "value": "apkproxy1120d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bac6de6c-adad-50ec-ab81-f2df6d94c974",
+      "value": "apkproxy1121a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9795f413-e78e-5673-9925-d9834398e85d",
+      "value": "apkproxy1121b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8e24361-8189-5841-bf8b-39b72609b031",
+      "value": "apkproxy1121c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37968fd0-ddbc-5a6e-b961-6e65965044a4",
+      "value": "apkproxy1121d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--940fb473-f053-5708-9531-a4c25ab4fc72",
+      "value": "apkproxy1122a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--692132c4-d5f0-57ed-83fd-bd464a33de89",
+      "value": "apkproxy1122b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b69948c2-93e3-5b34-883e-5252838dbeff",
+      "value": "apkproxy1122c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f452e70-81e0-594c-a208-7290948ddcf5",
+      "value": "apkproxy1122d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bb8e9963-3e63-583e-9d20-640e1e531041",
+      "value": "apkproxy1123a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37a6b1e1-d40d-5857-858c-d82577d9558e",
+      "value": "apkproxy1123b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8208bab6-92ff-5c36-baba-ac90c6d610ef",
+      "value": "apkproxy1123c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ef3034f-6223-5cad-9b2a-392c43f6756c",
+      "value": "apkproxy1123d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fac8fbd-06e0-5c17-9173-9d76cb0b64a0",
+      "value": "apkproxy1124a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--97f39086-e057-54f4-af64-91170b9ed7cc",
+      "value": "apkproxy1124b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0a47d7ae-1581-5a2f-87b3-0918253e1bff",
+      "value": "apkproxy1124c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab2c64ee-a6b0-57a9-b4b5-d290a0e73c8b",
+      "value": "apkproxy1124d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--972d84f7-1b51-54f5-a1c1-e0c92edac0cc",
+      "value": "apkproxy1125a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eb040ec2-4665-525a-ac22-42dad36262fa",
+      "value": "apkproxy1125b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00a156d9-af89-5223-8a70-ad23996c35e3",
+      "value": "apkproxy1125c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6bdc7d2-b64e-59d9-b709-58499229baa2",
+      "value": "apkproxy1125d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c8ce199-29b1-5a12-8ce6-039adb890bce",
+      "value": "apkproxy1126a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bafd22e3-a12b-5159-8284-1c5316fee95c",
+      "value": "apkproxy1126b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7dd88803-1882-59d3-9831-db19f34aee0c",
+      "value": "apkproxy1126c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e087eac3-df17-510e-9344-c76e00d5112e",
+      "value": "apkproxy1126d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e5c34e8-871f-5b91-a653-8a57ec2a93d6",
+      "value": "apkproxy1127a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--80e0288e-1318-5d15-b9ef-b539c597e80b",
+      "value": "apkproxy1127b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9953974b-181c-5bff-a805-4730feecba9b",
+      "value": "apkproxy1127c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--024225ae-9dc0-5726-a0e3-0012956d7f9d",
+      "value": "apkproxy1127d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f62519b4-565a-54d3-b1ad-2415681ebee6",
+      "value": "apkproxy1128a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbee778b-ba2e-5523-81c5-715c49f5243b",
+      "value": "apkproxy1128b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--23be761d-5680-5d39-8c1b-3c6e9a10c60c",
+      "value": "apkproxy1128c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4eb5b80b-2c29-5571-ae2b-653793def67e",
+      "value": "apkproxy1128d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a670a2f-48d0-5b62-bee5-7359b41f5dd2",
+      "value": "apkproxy1129a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53385fc5-7c64-5955-b517-2f7dc880c337",
+      "value": "apkproxy1129b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24d9b8a9-a778-5881-a9e6-c8ab8879fffd",
+      "value": "apkproxy1129c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eae02b9b-3174-5d32-834a-67c83466573f",
+      "value": "apkproxy1129d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9348fbd-51f0-564e-a07b-bd78b89d804d",
+      "value": "apkproxy1130a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6530523c-c3b9-528c-b0bf-b36e092d5371",
+      "value": "apkproxy1130b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2299eb5e-38b9-56af-864e-23f9c6f47fec",
+      "value": "apkproxy1130c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dadac11b-d136-5c46-a146-d4a4336d39fd",
+      "value": "apkproxy1130d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7276000f-4a85-589a-8b66-156430b32453",
+      "value": "apkproxy1131a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca44143b-0c8a-5720-87e6-0f734716a37f",
+      "value": "apkproxy1131b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e41e1f7b-8530-570f-aab8-e74cfa03e156",
+      "value": "apkproxy1131c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--120dcef6-2391-511a-b8b4-cafd80dd23af",
+      "value": "apkproxy1131d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71f02130-2fda-5277-a80c-75df9d9d2e88",
+      "value": "apkmain1202a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35271e10-d5cf-5dcf-9488-a631d18909da",
+      "value": "apkmain1202b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe41e25e-8ce6-58b9-a6fd-ef095058b0ba",
+      "value": "apkmain1202c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f6a2b4b-51fb-57e1-8dec-e1f5e1b5228f",
+      "value": "apkmain1202d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2484a1ab-51f4-5eca-8033-0a15476bfa82",
+      "value": "apkmain1203a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84c02cb4-524d-5c29-8fdc-7f346d73ef85",
+      "value": "apkmain1203b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5bbe7f4-de3e-5879-ae76-d365b11473a1",
+      "value": "apkmain1203c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fd936ad-0638-5107-8dfe-b8d6ef7f499f",
+      "value": "apkmain1203d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fe7a9c5d-c57f-51c1-9304-f830aa897975",
+      "value": "apkmain1204a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f499ea7-5f3e-532b-86a4-7f8f74f82bc8",
+      "value": "apkmain1204b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5a3c1da-e123-50bb-960b-2fe518bc6145",
+      "value": "apkmain1204c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e17803e-2794-588b-997a-7548611ab81e",
+      "value": "apkmain1204d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45d4c3be-e04e-5023-ae40-2d048cb192da",
+      "value": "apkmain1205a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6df959c6-d3b8-599f-998e-6794bba4d099",
+      "value": "apkmain1205b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6af7f1ae-d877-5079-87d1-f3d0c43eeec7",
+      "value": "apkmain1205c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df9acbf2-65a4-5b29-a856-614e07f2a283",
+      "value": "apkmain1205d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f5812f75-b410-5295-ac43-c86cbef889ad",
+      "value": "apkmain1206a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--322c9f78-0cab-5b24-a79c-d910f6fcbdcd",
+      "value": "apkmain1206b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50d944ed-46cf-507d-9eed-ce995fbed5bb",
+      "value": "apkmain1206c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd61297c-a1d1-5d06-b0de-c96266180dea",
+      "value": "apkmain1206d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecacc82b-c5c3-5727-ae92-6bd2512bf8ed",
+      "value": "apkmain1208a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98b14fb1-c6d6-5d51-9a31-9e25d19d1fe4",
+      "value": "apkmain1208b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f8b18058-ebf1-56ff-9b35-95b09d61e249",
+      "value": "apkmain1208c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13e18948-1140-5885-bebe-dd900052f618",
+      "value": "apkmain1208d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc90e900-ae25-5fb9-ba49-f6fdede5fa23",
+      "value": "apkmain1210a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--444c0348-61f6-566a-ba74-360f340919e4",
+      "value": "apkmain1210b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16ae3f54-dd5c-5be9-adae-4ad26170a3d3",
+      "value": "apkmain1210c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96e1a750-4de9-5a6d-9eb2-662253f66ebb",
+      "value": "apkmain1210d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ecc63b2-11b2-51b5-bfe7-55cd143cc914",
+      "value": "apkmain1212a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--074cc2d2-0b0c-59b3-a2eb-b98d80b0df10",
+      "value": "apkmain1212b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--550b5ed9-25d4-5ddd-8b9c-83b6b9c1bf1a",
+      "value": "apkmain1212c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2327c754-1dc6-5579-b9a1-4419af600766",
+      "value": "apkmain1212d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--adea13d3-c3cf-5e37-827c-e77426db3d04",
+      "value": "apkmain1213a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94553466-048f-506d-98ee-c8eccdbe0f99",
+      "value": "apkmain1213b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f178344a-086c-5b5c-8108-6d5196ae8b79",
+      "value": "apkmain1213c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eb997681-2870-585c-aa56-43275d923d2f",
+      "value": "apkmain1213d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b497a8-f395-53ea-9ec0-71785ae90cb4",
+      "value": "apkmain1214a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8861b46-b9fe-5b12-9217-b9beb63833d2",
+      "value": "apkmain1214b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f1acb37-c974-5a42-b76e-a7b1f0c52587",
+      "value": "apkmain1214c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fce18762-13d1-5dc6-b000-3b6d3a09d571",
+      "value": "apkmain1214d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0027edbb-c0ce-5d35-86b1-1a4f61b21a0d",
+      "value": "apkmain1215a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e7e07a0-9432-5790-b0a8-6f3b1f2fdf7b",
+      "value": "apkmain1215b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ece2f4a-6cf4-5c8f-84fe-e40b1f76e21e",
+      "value": "apkmain1215c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2bca9df1-787c-531a-9f35-3a1b25694579",
+      "value": "apkmain1215d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1144bb6-9528-5a71-8285-c6869ae29723",
+      "value": "apkmain1216a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2256214b-3f25-50e2-abfa-472760f2545e",
+      "value": "apkmain1216b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--81ec3fac-46ae-53e2-82cb-61570b2b2a00",
+      "value": "apkmain1216c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff9345a1-80f4-57f0-921d-d57b048ef244",
+      "value": "apkmain1216d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be3ae946-0304-5210-b2d2-88d0ff41cf47",
+      "value": "apkmain1217a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1226f6a3-aac6-510f-8a48-bbda047f440d",
+      "value": "apkmain1217b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6bd8b837-d80a-529a-a0f0-70fd9530eb7a",
+      "value": "apkmain1217c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d9318a5-5dca-5f63-99d0-614fe5eded3a",
+      "value": "apkmain1217d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e947b8d5-d310-5e1b-b1ea-83ce1efa5e4b",
+      "value": "apkmain1218a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2111db7-3ceb-5cae-ae64-bef1c82a71af",
+      "value": "apkmain1218b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b959245-93cc-5678-a4d3-3dcb5cfd870f",
+      "value": "apkmain1218c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6618a603-5ae2-5466-997c-a02b10a0af57",
+      "value": "apkmain1218d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5cdd0ccc-03af-5276-8f7a-6306565715f9",
+      "value": "apkmain1219a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--35831283-f776-5c86-b15b-0a4ecef1d8d2",
+      "value": "apkmain1219b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e5b4fb0-c8c8-5739-807e-766a6abb9813",
+      "value": "apkmain1219c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3971e2ff-8784-5eee-81ab-d0399d99a013",
+      "value": "apkmain1219d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bbdac0fa-7122-5e19-a260-59eda6755cb4",
+      "value": "apkmain1220a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--526c89f1-7dfa-5af9-8ac5-3ccf468a9686",
+      "value": "apkmain1220b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5bc8d35-50d6-56c2-98c7-11063d04b965",
+      "value": "apkmain1220c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ff20366-7c45-58d9-9e8c-914607b4025e",
+      "value": "apkmain1220d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--579e9c71-2410-58de-acc1-4c71e6f322d3",
+      "value": "apkmain1221a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4dd10211-761f-5079-99b2-ee5adfe77d7a",
+      "value": "apkmain1221b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37a31e51-deb9-590d-a9dc-c09cfd17a8fb",
+      "value": "apkmain1221c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d0b3fff7-de88-5ba6-9f2d-d29d72d229a8",
+      "value": "apkmain1221d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9073bb00-39e7-515f-b94f-21dffdcd37fb",
+      "value": "apkmain1222a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--946ff7ff-29cd-5a40-a443-f11a08739695",
+      "value": "apkmain1222b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8cdabb15-97d2-5c34-9ba1-031983bf7891",
+      "value": "apkmain1222c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4438371d-d47c-56df-84e0-5e201a03c676",
+      "value": "apkmain1222d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7c80f08-40a2-5626-b9e1-924b57834ead",
+      "value": "apkmain1223a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67999aa3-35be-58ef-b791-b03bcecb95c6",
+      "value": "apkmain1223b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e07aa56a-2e4f-5657-b2f7-3bee4f4064c1",
+      "value": "apkmain1223c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da2d9b39-d221-5262-8853-c83d2d812ed1",
+      "value": "apkmain1223d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd3f5e30-ff3b-5a7c-99a4-8fe0b182c880",
+      "value": "apkmain1224a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5a6399be-14ff-5f0b-b482-2572c7588d50",
+      "value": "apkmain1224b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3964768-eaa6-5888-8e86-ef354532aac3",
+      "value": "apkmain1224c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31908b98-0bab-5244-9419-982fa5f92b22",
+      "value": "apkmain1224d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0dafb834-9842-5466-bea5-054dbe37d6a7",
+      "value": "apkmain1225a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c803cf99-dac9-56c3-8460-d8ff3aaba6a7",
+      "value": "apkmain1225b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--41e15a57-a187-5e59-ab7d-3b945e96efc0",
+      "value": "apkmain1225c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--81aca4af-38fe-5f77-ab30-c6f2dfcb5e29",
+      "value": "apkmain1225d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fab96c1d-b7fd-5e9a-a30f-120ff0177bdf",
+      "value": "apkmain1226a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9bf7df6-3eb0-5437-9c5c-479d9f1dc328",
+      "value": "apkmain1226b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f9c0c0f-28e5-576a-b6a4-c8b4cb7f95fc",
+      "value": "apkmain1226c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93101c8b-43d8-5ec5-9982-3bb5ec9175b6",
+      "value": "apkmain1226d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c555a440-7f2a-5a58-ba25-c3e00b12b5d1",
+      "value": "apkmain1227a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d92d204e-1d32-529c-a9d5-2cfd4b969b09",
+      "value": "apkmain1227b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cef8d4ab-2e36-5f4f-87b6-8732f6ab263b",
+      "value": "apkmain1227c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--437f1912-3a9b-5fa2-b671-8762243c002d",
+      "value": "apkmain1227d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--112c92c5-ea64-5923-8f6b-17b78a2a34d4",
+      "value": "apkmain1228a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--527a5f0a-8613-5659-a520-afacdaf14161",
+      "value": "apkmain1228b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a54ec9a-ac0a-5520-a077-969653ee5c3e",
+      "value": "apkmain1228c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2c40af6-3656-5094-b13d-74f142110eb4",
+      "value": "apkmain1228d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f67229e-b8df-592a-8967-ae95146f76bf",
+      "value": "apkmain1229a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8c7f0389-4d98-54b4-9c49-ef209b92e9c9",
+      "value": "apkmain1229b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7eb97876-9f65-5253-8010-edbd7000b526",
+      "value": "apkmain1229c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf063b58-34ce-5fd4-9ce4-17f99e014c47",
+      "value": "apkmain1229d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e04faf08-2df8-54d1-8024-aa42f1ae25e0",
+      "value": "apkmain1230a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48f69815-9775-51dd-842d-b7cb4921fe48",
+      "value": "apkmain1230b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e64aaddd-639c-5f34-8568-bd4e4892e3fe",
+      "value": "apkmain1230c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--558c5f34-de0d-5a87-a4f0-7dd6f8792d2f",
+      "value": "apkmain1230d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdd50eee-5a5d-5a1c-a2f5-b84948beb9b1",
+      "value": "apkmain1231a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43ecb9c2-632a-5ac9-b274-4d70e651554f",
+      "value": "apkmain1231b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--47148f89-9264-5d29-826c-634ad11ca5c1",
+      "value": "apkmain1231c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39fae0d0-61d6-526c-8b72-c466c6e59664",
+      "value": "apkmain1231d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5d79bf2-91ca-5f6f-9389-9b075b0abcb3",
+      "value": "apkmain0102a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7762fc91-01fe-5b1d-9ac3-866d35322a23",
+      "value": "apkmain0102b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--47755c92-fec5-51db-8e78-8402f3238b28",
+      "value": "apkmain0102c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--704358b9-27b1-5d5c-8836-0f463acd09db",
+      "value": "apkmain0102d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1188996-ff37-518e-9501-202eba76424a",
+      "value": "apkmain0103a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8f206af0-b082-5a16-ac63-e199bdfb841d",
+      "value": "apkmain0103b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff9fda54-f939-51f3-bacc-d48d436d22c7",
+      "value": "apkmain0103c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57d04abc-c5ad-5019-a583-c95f28c8d474",
+      "value": "apkmain0103d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2e01f57-db07-5021-ad26-d29c51389695",
+      "value": "apkmain0104a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7bb71135-b64f-5b1b-af77-0b08449d03f0",
+      "value": "apkmain0104b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7e69ac1-af95-5055-a967-3abe0354cbe4",
+      "value": "apkmain0104c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d018fb41-1512-57c7-ab39-beb83d742ee6",
+      "value": "apkmain0104d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ce02dc9-0604-503c-ab8b-a54c0d5e3b35",
+      "value": "apkmain0105a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2224b411-bdda-574d-b04c-c8533447dd12",
+      "value": "apkmain0105b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--838d567d-4f80-5db6-9e6d-dae33a4091b5",
+      "value": "apkmain0105c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29db2f3d-95e7-589c-a101-1885075e17bb",
+      "value": "apkmain0105d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d93f4b88-3880-573a-b063-6d977257ae61",
+      "value": "apkmain0106a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c12a9b4-db62-54e9-9d77-17611bc2bf88",
+      "value": "apkmain0106b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7701e3f-31f6-543b-99fe-ce1544b949c2",
+      "value": "apkmain0106c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12f608c1-c347-56aa-8555-88692deca221",
+      "value": "apkmain0106d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fd3f181-8f33-5dd7-968b-5edcbb6c5228",
+      "value": "apkmain0107a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d981f30e-c659-5c20-bfd4-30f50b40dd36",
+      "value": "apkmain0107b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--feec8efc-30c0-5aa2-986b-fcec4913451b",
+      "value": "apkmain0107c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c16b09fc-cc87-51ff-b027-0c6a982ee3a6",
+      "value": "apkmain0107d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71a7d55c-0feb-548d-b37b-79f7b35756dd",
+      "value": "apkmain0108a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1e9bfa4a-01b0-5500-84d6-76661e0cf1d3",
+      "value": "apkmain0108b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0f8d6820-676d-59ed-b6ed-15408015a278",
+      "value": "apkmain0108c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08d9524c-3d3a-51ab-86d0-f13493c28ae0",
+      "value": "apkmain0108d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4281a94d-43be-58c4-a5c5-5c6ccdc7d624",
+      "value": "apkmain0109a.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd61b546-4ad1-56c2-bc56-e5c6470532e5",
+      "value": "apkmain0109b.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--412d4720-7daa-5e88-926b-18b63e70620f",
+      "value": "apkmain0109c.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--df5cbafc-cdf4-541c-b23a-90864226d8f1",
+      "value": "apkmain0109d.top",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06cde470-f40b-565e-9ac6-cf84a030d79c",
+      "value": "78.apk",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--630a5e1b-dd5f-521d-92bf-3b25e6b4e49e",
+      "value": "78.APK",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    }
+  ]
+}
