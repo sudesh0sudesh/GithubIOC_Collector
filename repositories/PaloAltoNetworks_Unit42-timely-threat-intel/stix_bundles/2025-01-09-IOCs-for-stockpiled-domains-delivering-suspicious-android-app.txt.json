@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--176ab11e-54fb-493b-a392-93d4f5ba088c",
+  "id": "bundle--8bf28b38-7ff0-4266-9557-7b139886f791",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3d560ace-5113-5450-9cf4-8daa949cbdc4",
+      "value": "https://www.linkedin.com/posts/unit42_stockpiled-apk-activity-7283209937973923840-ZZtK",
+      "x_opencti_description": "2025-01-09-IOCs-for-stockpiled-domains-delivering-suspicious-android-app.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
