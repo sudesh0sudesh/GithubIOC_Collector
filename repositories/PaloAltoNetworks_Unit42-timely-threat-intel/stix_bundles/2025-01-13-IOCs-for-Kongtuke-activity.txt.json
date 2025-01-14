@@ -1,0 +1,181 @@
+{
+  "type": "bundle",
+  "id": "bundle--b03513aa-a81a-4b75-8cf2-390672611a63",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9a736c1c-e0c9-51c4-a264-3500bbde0c33",
+      "value": "45.61.136.138",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9a736c1c-e0c9-51c4-a264-3500bbde0c33",
+      "value": "45.61.136.138",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7fd5856-fc2c-5ba9-a062-a01ded9c87ef",
+      "value": "5.161.229.58",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--be21bb53-c29f-5a20-8f23-cda2b215d7f7",
+      "value": "64.52.80.211",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--be21bb53-c29f-5a20-8f23-cda2b215d7f7",
+      "value": "64.52.80.211",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
+      "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
+      "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
+      "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
+      "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
+      "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e9d26cfb-dc8e-51eb-84b0-5019ecf19339",
+      "value": "https://threatfox.abuse.ch/browse/tag/Kongtuke",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--bdf70141-5a40-5107-9372-0ae8c27ede60",
+      "value": "https://boinc.berkeley.edu",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57817e0d-9c73-5c3b-9b6b-2e0a8acffab0",
+      "value": "rosettahome.cn",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682d821d-7732-5536-a5d0-5e91c2e3e083",
+      "value": "rosettahome.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e55180b9-2ae1-5429-a6a4-8c7d72b9c849",
+      "value": "https://boinc.bakerlab.org/rosetta/rah/rah_about.php",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39f08309-c105-5fbb-ab50-38a540f023e3",
+      "value": "lggknhaffleahbh.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39f08309-c105-5fbb-ab50-38a540f023e3",
+      "value": "lggknhaffleahbh.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75339b05-4a95-5fe9-b34e-31284b00d797",
+      "value": "adlndb2k9too7vt.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67a8a924-c177-598e-b088-1107c174930c",
+      "value": "api.ipify.org",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682d821d-7732-5536-a5d0-5e91c2e3e083",
+      "value": "rosettahome.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--644e15ed-ac93-5d80-8ee6-d790d3ac3e73",
+      "value": "boinc.berkeley.edu",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682d821d-7732-5536-a5d0-5e91c2e3e083",
+      "value": "rosettahome.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57817e0d-9c73-5c3b-9b6b-2e0a8acffab0",
+      "value": "rosettahome.cn",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57817e0d-9c73-5c3b-9b6b-2e0a8acffab0",
+      "value": "rosettahome.cn",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682d821d-7732-5536-a5d0-5e91c2e3e083",
+      "value": "rosettahome.top",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    }
+  ]
+}
