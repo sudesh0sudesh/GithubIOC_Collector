@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--2056bf03-7c2f-4ded-87e6-827b0a71301a",
+  "id": "bundle--c9437522-6151-4672-b453-e687b7483eda",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -70,6 +70,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--6c295626-e73a-509a-8e4b-11d9084209cd",
       "value": "104.238.61.8",
+      "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b90a5798-0079-5bcc-bd72-5776a9d168a9",
+      "value": "https://www.linkedin.com/posts/unit42_kongtuke-boinc-activity-7284986403476717568-InKv",
       "x_opencti_description": "2025-01-13-IOCs-for-Kongtuke-activity.txt"
     },
     {
