@@ -1,0 +1,486 @@
+{
+  "type": "bundle",
+  "id": "bundle--b71b3f18-e7c5-4355-aa9b-d5aae146f4c4",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--56935465-d9c0-5dc2-9aad-c4cbbcc7a5f0",
+      "value": "62.204.41.177",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fbb95faf-5959-5302-a86a-431b5bbf627c",
+      "value": "145.223.100.233",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e644f0a3-a480-5cd6-9fa3-1c5a76e6c797",
+      "value": "67.217.228.118",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--56935465-d9c0-5dc2-9aad-c4cbbcc7a5f0",
+      "value": "62.204.41.177",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9a736c1c-e0c9-51c4-a264-3500bbde0c33",
+      "value": "45.61.136.138",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--dbc535d2-ff64-5966-9bee-980b1e44e2a8",
+      "value": "https://t1jm05fdu6748emu5oon8nix1uk2ogyn.lovesnextmeeting.com/Uswl5JAnXI",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eb845df1-39e6-5e5a-89c2-76c22c936b88",
+      "value": "mubuzb3vvv.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--682d821d-7732-5536-a5d0-5e91c2e3e083",
+      "value": "rosettahome.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--980b1676-c7f2-566d-95e5-e7c1adf9f03e",
+      "value": "xaides.com",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d9a0f67f-23aa-54d9-bdfc-f6b4f87066bf",
+      "value": "usbkits.com",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--eb845df1-39e6-5e5a-89c2-76c22c936b88",
+      "value": "mubuzb3vvv.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e5b8066-4824-535e-8f2d-6953e1c5d868",
+      "value": "nfuvueibzi4.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--187e2c9f-1442-56af-92ea-9c89caf55a24",
+      "value": "mnudybh4unh.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f40b6481-dc12-5b0a-b2f8-f6cc48d0a630",
+      "value": "nuvye89bjz4.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4b58e362-c09d-58e0-84f1-56cbe0f5a780",
+      "value": "mbuz73hb7z3.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--50709dd5-80d4-5a87-a534-7c1a0305d320",
+      "value": "tubnzy3uvz.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d8dcd6a-1456-55e7-9656-f4a3d7c3bc64",
+      "value": "nubxz4ubhxz9i.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a46db736-e407-5662-9640-dd4460d089c7",
+      "value": "poeiughybzu222.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17ff6526-243d-5fe6-9f17-cb448bc44152",
+      "value": "poubnxu3jubz.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d6871821-adab-58f9-a0bf-091d198e8fa7",
+      "value": "lgbibzuehbz.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--416faf9f-fa07-55b3-ae22-c7dd22db1106",
+      "value": "ohunhebzhbu3.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c647c1a0-f70c-5647-83cc-63f9550df630",
+      "value": "sdubvlbbuz3vzzz.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7deb8e55-22a2-5299-812b-2948c1355e61",
+      "value": "bnbuzu49ibz4.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37ebb20d-189a-5d7a-94b0-026e0027c128",
+      "value": "shd9inbjz4.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6c54275-bdc2-5029-b054-72f18195f412",
+      "value": "ngub8zb38ib.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad58c204-35a5-542c-8226-f4a3bda63878",
+      "value": "gkn33hxueub.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--629d9de1-7f75-5582-9272-028f8cdcce09",
+      "value": "mnvuz3gvy3.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--751b16c9-6802-5f62-8a1b-708f7d74c108",
+      "value": "jhubzgv3.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3cfbd406-ec36-5a38-848c-b64896cae181",
+      "value": "hkinuxb3bz.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--24ad31bd-1be7-5d72-b340-3fd83b527f22",
+      "value": "adkfnnbmakcgael.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e7a18a44-55b9-5820-8363-42b88c5a0a71",
+      "value": "hhgiflifcbmdjmh.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5dc58808-18a1-5e43-bd3a-25d2471df939",
+      "value": "blclmjamegjaffd.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a5efa6d-efb5-5283-8b82-3d3b0bf04067",
+      "value": "iblaehgffmflamn.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9b5cccf-b0a3-504e-adcd-2c7ebeeb2845",
+      "value": "bfhdkgmmhdbikgj.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37859985-c333-58f8-bed3-905a1b852696",
+      "value": "jjdgdeffjimfgne.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b43c8bdb-f5e8-57e0-8ce0-2e6a8124fc94",
+      "value": "canjjclmlnicbga.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fd346e7-8098-5013-b5f0-6e769bf0b98e",
+      "value": "jejmbadfmeenlnk.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d1ce053-1b01-5eef-9d3d-eeee554bc93e",
+      "value": "diebinjmajbkhhg.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38a34891-b76f-52dd-a240-1aa39c97269c",
+      "value": "kmaealcfcalhcac.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b85dffd6-857f-5e1a-86ab-0ed34e23de58",
+      "value": "dckhgjimeghemhl.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39f08309-c105-5fbb-ab50-38a540f023e3",
+      "value": "lggknhaffleahbh.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54b2c77e-ff4d-5ef7-8425-d2d6437551c7",
+      "value": "ekbnfghmhcaldid.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ec2e262-1cfb-5da4-bf08-d7b167350cdc",
+      "value": "lalclenfjhkinbn.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--927b94dd-dd6c-5b5c-ae78-141061b5d9b7",
+      "value": "feheecfmkmhfiij.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f654004f-71bc-573e-af4d-b6e5541bfe93",
+      "value": "midhkalfmddcece.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a3779d8-d3d9-52ce-8b3a-e363ddbfd855",
+      "value": "fnnkcnemajnnaja.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a7bb016-3563-5f1b-aa17-9fd6ea4db3d6",
+      "value": "mdinjlkfcajkjck.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c2d2a0ea-df03-5f99-a732-abebd78eb755",
+      "value": "ghecbjcmdfghfkg.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d20f5077-4a5b-56a2-a693-22156e4d49c0",
+      "value": "nlafhhiffkceadc.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7dfbd5a3-2bb6-5399-817c-e5fa9d4d3517",
+      "value": "gbkiafbmhbmbkkl.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bf900ac-3c94-514f-9d06-dfa910e5eed5",
+      "value": "afglgehgjgjmgdh.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1bf27498-9f21-59c6-acf7-8ba646514a2d",
+      "value": "hjbamcnnkmfjbld.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22c47fa3-091e-55f7-9a87-1bf75c3be29f",
+      "value": "anldfaggmdbglen.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb2f72c8-2461-5f2f-b25e-2527709e2934",
+      "value": "idhglmmnaimdhlj.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c949ec1f-35c0-5f3b-add9-6739b052777b",
+      "value": "bidjdlegcnincee.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57aca3fd-ff92-5d36-939c-a1e4a65ce609",
+      "value": "immmjjkndeekmma.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c636ed5a-b7d6-50e9-b01b-82ec9fdd9885",
+      "value": "ccibchdgfjbhhfk.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa09be8e-4f09-585c-9250-d0ab6a6ed0fd",
+      "value": "jgeeifjnhbledmg.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7eb459d9-904b-5fd5-82a3-b32020febe0b",
+      "value": "ckahaebgighbngc.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--531225ba-e06d-5436-9fc1-5b1c31c3099d",
+      "value": "afnfdijahijefmh.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88289b92-d4bf-59f4-8236-cd3b4a36529d",
+      "value": "kcehmenjdibnmni.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b4e4200-f7f7-5808-899e-034437aa1edc",
+      "value": "kdemjgebjimkanl.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bf64eaa-f2a7-5e31-9f1f-a9378c1d4d78",
+      "value": "gajaechkfhfghal.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e56365a-a383-562e-a940-fa5a1637b87f",
+      "value": "cmacnnkfbhlcncm.top",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2ad30be-707f-5cc1-bab4-dfe36ae7d86f",
+      "hashes": {
+        "SHA-256": "138d2a62b73e89fc4d09416bcefed27e139ae90016ba4493efc5fbf43b66acfa"
+      },
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69ecc897-7832-5a5a-9d4e-3d2ee4415f38",
+      "hashes": {
+        "SHA-256": "91e405e8a527023fb8696624e70498ae83660fe6757cef4871ce9bcc659264d3"
+      },
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a8317833-27a1-57a1-896d-50a5fdf9b1ba",
+      "value": "Fattura01023847.js",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28ba4e00-50b4-5d3c-899d-dc93099bbc0a",
+      "value": "boinc.exe",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    }
+  ]
+}
