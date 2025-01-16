@@ -1,0 +1,127 @@
+{
+  "type": "bundle",
+  "id": "bundle--b40deab6-df40-4f48-bfa6-f5de067c4d95",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bde71011-184d-5aa0-b708-5d0e6d7ffec6",
+      "value": "5.8.18.7",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a8989694-eef1-5eab-a312-afc98f2b5884",
+      "value": "5.8.18.159",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--693d99b9-b4e6-5e4d-9627-ba917d832807",
+      "value": "91.215.85.52",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bde71011-184d-5aa0-b708-5d0e6d7ffec6",
+      "value": "5.8.18.7",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bde71011-184d-5aa0-b708-5d0e6d7ffec6",
+      "value": "5.8.18.7",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f2b3d831-c390-5e42-bd63-b06e90d53c14",
+      "value": "https://news.sophos.com/en-us/2025/01/16/gootloader-inside-out",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d5e431ee-8e7e-5916-9a1a-54a0d51127e0",
+      "value": "game.biz",
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6d98591-2dbc-5b3e-9a79-02f04b9dd7ce",
+      "hashes": {
+        "SHA-256": "03a46ad7873ddb6663377282640d45e38697e0fdc1512692bcaee3cbba1aa016"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c7bacd6-f832-578d-b750-27634754136c",
+      "hashes": {
+        "SHA-256": "1fcc418bdd7d2d40e7f70b9d636735ab760e1044bb76f8c2232bd189e2fd8be7"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6000a8a2-1461-5a62-b789-8a926c2cdd33",
+      "hashes": {
+        "SHA-256": "258cb1d60a000e8e0bb6dc751b3dc14152628d9dd96454a3137d124a132a4e69"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3807e225-cdd8-51ee-ad14-0a51d95a4686",
+      "hashes": {
+        "SHA-256": "5d50a7cf15561f35ed54a2e442c3dfdac1d660dc18375f7e4105f50eec443f27"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb2bbf91-1eb3-531a-82c0-562f353cee77",
+      "hashes": {
+        "SHA-256": "7bcffa722687055359c600e7a9abf5d57c9758dccf65b288ba2e6f174b43ac57"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89cdd0b1-e3e8-56ed-92d1-7c17b5187972",
+      "hashes": {
+        "SHA-256": "af50c735173326b2af2e2d2b4717590e813c67a65ba664104880dc5d6a58a029"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f8e0dfd-47c0-5f7d-ac3d-bd26323d9ae0",
+      "hashes": {
+        "SHA-256": "89672c08916dd38d9d4b7f5bbf7f39f919adcaebc7f8bb1ed053cb701005499a"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b65e680-ca32-5328-9a37-c592121ca61c",
+      "hashes": {
+        "SHA-256": "0874d307fc45886d2751cd9e6816513dc3e1604e514ef1b291bbe7b1a887cd96"
+      },
+      "x_opencti_description": "IOC-sheet_gootloader2025.csv"
+    }
+  ]
+}
