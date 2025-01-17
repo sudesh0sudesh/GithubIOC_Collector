@@ -1,0 +1,188 @@
+{
+  "type": "bundle",
+  "id": "bundle--6210549d-6e2d-48b9-b354-be70fc969d0d",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e5e0eee-b46c-5001-997a-4bcf71645f29",
+      "value": "5.78.41.255",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9b20b2d5-d698-5472-b191-e751649cde3a",
+      "value": "5.181.159.48",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--15ffb95c-ccd8-5e18-87ff-7945637900d4",
+      "value": "38.180.135.232",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5984eb6b-a8ee-5883-be1f-4204474b97e8",
+      "value": "38.180.138.15",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f89b858b-cce4-5519-8e26-59c26ab6911d",
+      "value": "38.180.192.243",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1327c51a-fda7-5ffd-87fa-6440b43adf3b",
+      "value": "45.8.157.146",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c63c670-f62a-5775-be6b-ea651ba1d9f6",
+      "value": "45.8.157.158",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ceb38f5c-1fca-53ea-9d16-1c4ff2ac2332",
+      "value": "45.8.157.162",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b05e63a3-2675-54e9-9b09-87ab1fce1bcc",
+      "value": "45.128.149.32",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5ba040dd-80a4-56c1-8a3f-4f86a029733d",
+      "value": "89.185.80.86",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3412483c-fd37-5253-b608-cace077b5b31",
+      "value": "89.185.80.170",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2c2546c3-a0a2-5768-8a8b-046be0329be6",
+      "value": "89.185.80.251",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c27bea18-3fdf-5ed4-b7c8-e76ef4170083",
+      "value": "91.90.195.91",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9de76621-a372-5f3f-bfa8-2e1f34d91903",
+      "value": "178.236.247.173",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--36310407-b676-5632-9d62-127ef31b37bc",
+      "value": "195.123.233.19",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2fdcd862-3f25-5124-a1eb-23074a048244",
+      "value": "195.123.233.148",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b532a79a-1d9a-5944-8d18-32fc596d1363",
+      "value": "195.123.241.24",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e28a9148-fe8b-54b6-88d5-dd16fde28380",
+      "value": "195.211.96.135",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--24934e2e-2abf-5447-9841-52515e6403da",
+      "value": "207.90.238.46",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dea9349b-5314-5ba5-9a11-70f9058e4b36",
+      "value": "207.90.238.67",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e0e5f2f1-c271-5c9a-a5d7-de7bd9450d41",
+      "value": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cb90bf29-a2d1-5acb-8eeb-224d8c988e7e",
+      "value": "https://www.reliaquest.com/blog/black-basta-social-engineering-technique-microsoft-teams",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90247d9d-be5d-5385-82a4-7e4978dfbc8a",
+      "value": "Onedrivestandaloneupdater.exe",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d72c814b-6ed5-5cf8-bec2-626394adfda8",
+      "value": "winhttp.dll",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90247d9d-be5d-5385-82a4-7e4978dfbc8a",
+      "value": "Onedrivestandaloneupdater.exe",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d72c814b-6ed5-5cf8-bec2-626394adfda8",
+      "value": "winhttp.dll",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    }
+  ]
+}
