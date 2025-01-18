@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--9ca79a14-c32f-4ba0-b741-4bc146c37180",
+  "id": "bundle--51c51d2d-f2b6-46b6-a993-08ae75c0bde4",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -140,6 +140,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--dea9349b-5314-5ba5-9a11-70f9058e4b36",
       "value": "207.90.238.67",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c16bbde7-c779-54cc-8c66-85d684177d29",
+      "value": "https://www.linkedin.com/posts/unit42_darkscorpius-blackbasta-infrastructure-activity-7286133953743241216-4f_O",
       "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
     },
     {
