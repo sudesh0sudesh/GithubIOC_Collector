@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--51c51d2d-f2b6-46b6-a993-08ae75c0bde4",
+  "id": "bundle--5d704a64-c8c2-4451-b4b3-59c598fafcd6",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -12,8 +12,22 @@
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
+      "id": "ipv4-addr--bfbed49a-0851-561f-a1dc-09814ff5cac9",
+      "value": "5.181.3.164",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
       "id": "ipv4-addr--9b20b2d5-d698-5472-b191-e751649cde3a",
       "value": "5.181.159.48",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fa8d9754-7917-5f76-81bc-421da40694f1",
+      "value": "38.180.25.3",
       "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
     },
     {
@@ -61,6 +75,13 @@
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
+      "id": "ipv4-addr--ac1d971d-0006-58f7-8afd-7171e480797d",
+      "value": "45.8.157.199",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
       "id": "ipv4-addr--b05e63a3-2675-54e9-9b09-87ab1fce1bcc",
       "value": "45.128.149.32",
       "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
@@ -103,6 +124,13 @@
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
+      "id": "ipv4-addr--645ff338-ae15-51a0-b0d1-eac43d778218",
+      "value": "185.190.251.16",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
       "id": "ipv4-addr--36310407-b676-5632-9d62-127ef31b37bc",
       "value": "195.123.233.19",
       "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
@@ -133,6 +161,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--24934e2e-2abf-5447-9841-52515e6403da",
       "value": "207.90.238.46",
+      "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ed6aa180-1e8f-59cc-bbcb-814d3ea6771f",
+      "value": "207.90.238.52",
       "x_opencti_description": "2025-01-17-IOCs-for-infrastructure-used-by-affiliate-of-Dark-Scorpius.txt"
     },
     {
