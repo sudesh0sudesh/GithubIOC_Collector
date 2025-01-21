@@ -1,0 +1,227 @@
+{
+  "type": "bundle",
+  "id": "bundle--0fdbadc7-02e3-4079-ab4f-19e015133961",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--22da7287-248b-50a2-8171-ced3de266e63",
+      "value": "74.178.90.36",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b532a79a-1d9a-5944-8d18-32fc596d1363",
+      "value": "195.123.241.24",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--24934e2e-2abf-5447-9841-52515e6403da",
+      "value": "207.90.238.46",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--67e06813-f7e5-5b9b-acc8-e69a570fbd66",
+      "value": "78.46.67.201",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fa2c38db-47f3-5a6c-8bbf-a4631137d4bd",
+      "value": "207.90.238.99",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ce51799c-0209-5c35-978a-00f81b3c250b",
+      "value": "109.107.170.2",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--25a22a73-854d-5ca5-a386-be6d0c51bc3b",
+      "value": "195.133.1.117",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63cd6318-92d8-51b0-a403-f468ef131938",
+      "value": "206.206.123.75",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--287472c0-f574-575f-90a0-5fe2221e764a",
+      "value": "194.87.39.183",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ee38f34b-48c3-5604-9536-244ab20253fc",
+      "value": "https://news.sophos.com/en-us/2025/01/21/sophos-mdr-tracks-two-ransomware-campaigns-using-email-bombing-microsoft-teams-vishing",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1dcf76bf-3e2c-5fff-be3d-740a36891667",
+      "value": "llladminhlpll.onmicrosoft.com",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--57a903e0-9827-5d0f-889b-9f66e38e1ae7",
+      "hashes": {
+        "SHA-256": "f009ec775b2daa5a0f38dc2593a3c231611bea7cb579363915d9be1135b00455"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1aa40d94-fe01-5d7f-953e-c85f1364e5f9",
+      "hashes": {
+        "SHA-256": "3d0e55bd3c84e6cb35559ef1d0f2ef72a21e0f3793a9158d514f12f46b0aff85"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--caa4d584-08c5-5255-a806-2b078856882c",
+      "hashes": {
+        "SHA-256": "801525d7239e46f9c22d7e7bcd163abcfb29fc0770ff417f5fc62bfb005ec7ac"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed2a3bfb-4f6c-5731-8d2d-8e651404437c",
+      "hashes": {
+        "SHA-256": "ea2b3bf32cc27e959e19c365fa2f6e5310ef2e76d3d0ed2df3fb5945f9afc9e7"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa22e7d2-909e-582c-b7a9-5084677b7bb4",
+      "hashes": {
+        "SHA-256": "4b6a008c8b85803dc19a8286f33cad963425d37c4ca0b1a9454a854db3273dad"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4369f0db-0b50-5ff6-9905-cf04021324f7",
+      "hashes": {
+        "SHA-256": "a23560a3b9a9578dcd70bcd01434b2053940d6be36e543df8e4d36931ca9ea63"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2df2c4dd-396e-53f1-8be9-2e5600d73ddb",
+      "hashes": {
+        "SHA-256": "42d09288a78363cac90759ddce814a420f22d174768c1e406bf2d8fed2c38ade"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f97c5595-620e-5edb-bee6-787e2c4dc9aa",
+      "hashes": {
+        "SHA-256": "8abc8c92ebfe78f54e7488a467d1b6e90d28382067b49a954e31133691112eba"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ff20d04-e9f5-5d74-963f-58be66351ac1",
+      "hashes": {
+        "SHA-256": "697d5213d69cdfbd943c6d395f907b8fe210bbfc9d78a9d41a046ba55bebb5ff"
+      },
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1c9df35-b165-53af-820a-3af62d1630ba",
+      "value": "1.dat",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84fe482f-5660-52f6-93bb-1b2149cf3c07",
+      "value": "2.dat",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2578f668-5fcc-58b6-bd5f-68895f3a8fa3",
+      "value": "nethost.dll",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84fe482f-5660-52f6-93bb-1b2149cf3c07",
+      "value": "2.dat",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76085cf8-2b8f-55cf-bfcb-5181268c1272",
+      "value": "settingsbackup.dat",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d72c814b-6ed5-5cf8-bec2-626394adfda8",
+      "value": "winhttp.dll",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d72c814b-6ed5-5cf8-bec2-626394adfda8",
+      "value": "winhttp.dll",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d72c814b-6ed5-5cf8-bec2-626394adfda8",
+      "value": "winhttp.dll",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4df5601b-5ade-5d36-a53e-8722aba7c40a",
+      "value": "Handler.jar",
+      "x_opencti_description": "MAILBOMB-TEAMS-RANSOMWARE.csv"
+    }
+  ]
+}
