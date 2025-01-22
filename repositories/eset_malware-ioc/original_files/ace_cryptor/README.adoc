@@ -3,6 +3,20 @@
 
 = AceCryptor -- Indicators of Compromise
 
+== AceCryptor H2 2024 update and statistics
+
+These IoCs are related to ESET’s investigation on AceCryptor in H2 2024.
+
+The tweet with additional information is available on X (formerly known as
+Twitter) at https://x.com/ESETresearch/status/1881288643056468038
+
+=== SHA-1 hashes
+
+----
+4ef2761f27b0260c518ef207e668c4379eb29892
+99560d3e9e0559fa7dd6b56f31e9bb7e017ca363
+----
+
 == Rescoms rides waves of AceCryptor spam
 
 These IoCs are related to ESET’s investigation on AceCryptor in H2 2023.
