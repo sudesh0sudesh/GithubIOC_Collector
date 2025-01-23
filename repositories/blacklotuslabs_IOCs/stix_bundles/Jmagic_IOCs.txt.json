@@ -1,0 +1,49 @@
+{
+  "type": "bundle",
+  "id": "bundle--b13d1043-da94-448a-95d0-88bf390cce09",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--da222c00-4b3d-51f7-ab5f-3d1332df12b0",
+      "value": "198.46.158.172",
+      "x_opencti_description": "Jmagic_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b2bf583d-93f7-5663-9522-f66475952e09",
+      "hashes": {
+        "SHA-1": "7edc911b31b4f5dc401725c9b52e876a9fd00f3e"
+      },
+      "x_opencti_description": "Jmagic_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a44367e1-c033-5b07-8199-0920a87a810c",
+      "hashes": {
+        "SHA-256": "5e3c128749f7ae4616a4620e0b53c0e5381724a790bba8314acb502ce7334df2"
+      },
+      "x_opencti_description": "Jmagic_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a08ffa99-ebc9-5024-ab34-b7a320165aa3",
+      "hashes": {
+        "SHA-256": "957c0c135b50d1c209840ec7ead60912a5ccefd2873bf5722cb85354cea4eb37"
+      },
+      "x_opencti_description": "Jmagic_IOCs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ef15325-4103-554a-9034-e40bc28afdc0",
+      "hashes": {
+        "SHA-256": "3f26a13f023ad0dcd7f2aa4e7771bba74910ee227b4b36ff72edc5f07336f115"
+      },
+      "x_opencti_description": "Jmagic_IOCs.txt"
+    }
+  ]
+}
