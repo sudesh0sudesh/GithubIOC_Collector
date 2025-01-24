@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--b71b3f18-e7c5-4355-aa9b-d5aae146f4c4",
+  "id": "bundle--081056ff-48ef-471c-9f25-700872254f5d",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -70,6 +70,13 @@
       "spec_version": "2.1",
       "id": "domain-name--d9a0f67f-23aa-54d9-bdfc-f6b4f87066bf",
       "value": "usbkits.com",
+      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3cfbd406-ec36-5a38-848c-b64896cae181",
+      "value": "hkinuxb3bz.top",
       "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
     },
     {
@@ -196,13 +203,6 @@
       "spec_version": "2.1",
       "id": "domain-name--751b16c9-6802-5f62-8a1b-708f7d74c108",
       "value": "jhubzgv3.top",
-      "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3cfbd406-ec36-5a38-848c-b64896cae181",
-      "value": "hkinuxb3bz.top",
       "x_opencti_description": "MintsLoader/MintsLoader_Stealc_01_14_2025.txt"
     },
     {
