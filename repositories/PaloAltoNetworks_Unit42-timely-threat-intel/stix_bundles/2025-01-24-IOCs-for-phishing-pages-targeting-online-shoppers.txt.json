@@ -1,0 +1,104 @@
+{
+  "type": "bundle",
+  "id": "bundle--fea5603c-14b9-429b-b6e2-4b57fa9df778",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e6d3082-90e2-5fbb-a19e-198ec448b235",
+      "value": "6at3.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2b7e6fd-aeaf-5eb9-8fbc-4678fbe3719d",
+      "value": "7uzx.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3df92223-7532-5aa6-af3c-4c0779b4a62a",
+      "value": "amwv10.top",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b946d01-3fe2-502b-b553-411b6beefe83",
+      "value": "bjggc.vip",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--23c84f52-a2fe-59ee-8490-a8fa49c2323e",
+      "value": "dewgmee.vip",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--640f8070-8f42-5c0d-acf9-06de65cb59fa",
+      "value": "gateeioe.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f3d1d8a-9676-5501-8eec-0f97c98684ee",
+      "value": "meescnja.top",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b8030f6-1e89-5409-93c1-d3d6c819348b",
+      "value": "noon368.cc",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca153052-897d-5cd2-90b4-ae8bbc6bd12b",
+      "value": "uyugg.vip",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5fe95e4a-4dcf-5bd4-8e98-a80a6a618b48",
+      "value": "www.ababao678.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6997bd14-e720-5b24-be54-925e1d5aa8b1",
+      "value": "www.gateeioe.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7857b4e5-ebc9-51de-bfad-47a265735b54",
+      "value": "www.goodmallc.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ebf8d3e7-3893-51ad-8e6d-d85fc0fc4045",
+      "value": "www.nu9hh.com",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b55d0f0f-d065-5dc9-8383-89f8b193aedd",
+      "value": "ynjfs.vip",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    }
+  ]
+}
