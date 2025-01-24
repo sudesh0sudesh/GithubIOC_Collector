@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--0e57b870-03c2-448c-b7de-90bf94c76340",
+  "id": "bundle--8db72a55-8e93-4e95-a6b3-a5354edfaee2",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -21,6 +21,13 @@
       "spec_version": "2.1",
       "id": "domain-name--ad38b4e9-17ea-51e5-a416-f5154ac2751c",
       "value": "WP3.XYZ",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--5a0edf6f-3e18-5a37-a793-298f3045862e",
+      "value": "https://www.linkedin.com/posts/unit42_ongoing-wp3xyz-campaign-loads-javascript-activity-7288579815459196929-bEc5",
       "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
     },
     {
