@@ -1,0 +1,161 @@
+{
+  "type": "bundle",
+  "id": "bundle--9eebac0e-55e6-4724-aa78-f77ce5ed25a5",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ebceba86-6185-5eaf-a010-2df3b19c24c8",
+      "value": "192.142.10.6",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ebceba86-6185-5eaf-a010-2df3b19c24c8",
+      "value": "192.142.10.6",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad38b4e9-17ea-51e5-a416-f5154ac2751c",
+      "value": "WP3.XYZ",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60048bce-fe1f-5086-a359-e02cae5a0e75",
+      "value": "wp3.xyz",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60048bce-fe1f-5086-a359-e02cae5a0e75",
+      "value": "wp3.xyz",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60048bce-fe1f-5086-a359-e02cae5a0e75",
+      "value": "wp3.xyz",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad38b4e9-17ea-51e5-a416-f5154ac2751c",
+      "value": "WP3.XYZ",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad38b4e9-17ea-51e5-a416-f5154ac2751c",
+      "value": "WP3.XYZ",
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed6fd329-fb53-5c4c-9228-ec5272f47ede",
+      "hashes": {
+        "SHA-256": "019d52c689ccff70be8368e1aa277953818747e5b156002ff2e2174847eec6b3"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ce2d8ae-d2de-52b5-bc6a-74dc4e2b579f",
+      "hashes": {
+        "SHA-256": "0787e48cfc94bceddd7eeeaa86851f85754eb832ae90a0e98af9c288c8b842aa"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d6b1435-182b-5c6d-9eb8-8c9faef0912d",
+      "hashes": {
+        "SHA-256": "4c13d452dd5d49671bd93ca32f2b4f85c78e39b6ab0ad1f38d98ed267f8fd896"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da205990-986b-5872-b9f1-b2b6d07d3486",
+      "hashes": {
+        "SHA-256": "4e90c55877e907f8661bde60e88f91a3e3585cc681302b6e9b5befe5c9446cb5"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6d45f481-cbbf-51ee-97cd-8318be48de70",
+      "hashes": {
+        "SHA-256": "90dec6770153604ff7cf540f07e605be04d0db20286445bbc6663ace531637a7"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f9601cf-adfc-5f2c-97f7-7f47923959c7",
+      "hashes": {
+        "SHA-256": "a089f0e9525fe2df4f6a6b722f958f4dcccb9b1afff138fcc20a39585c99daf9"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8d36b9f5-7b02-5761-aac4-d2aac276f496",
+      "hashes": {
+        "SHA-256": "a2ce9b0f328753bc97c634a049623aa22b505c8444f9970b2e84c2e5c80078c3"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--88452ab8-6164-5044-b9e8-2994242a421e",
+      "hashes": {
+        "SHA-256": "c71469841afdd4be5fd6ef5825242de88fb339f1b00e002a62c346a69a99a3c0"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e35b38f7-5f00-51a3-aa44-c84022d2e003",
+      "hashes": {
+        "SHA-256": "e2b007d1590d0657a329a332f0186a92f8a64e23f0ad021b688578505c11330d"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2efd9f32-5421-5445-afb9-691138f40695",
+      "hashes": {
+        "SHA-256": "f03c0670f568500be8ad9222830517bb88ffa539ded1a5f988cb2ff103ceb3bb"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--daa11ca2-f878-53ca-8049-1f48f6ab8e01",
+      "hashes": {
+        "SHA-256": "f6ea414298f8f7343c7f27b0b0c3b448e3b4afc7afaf4c7773b42fc1f1fe63dc"
+      },
+      "x_opencti_description": "2025-01-23-IOCs-for-wp3-xyz-activity.txt"
+    }
+  ]
+}
