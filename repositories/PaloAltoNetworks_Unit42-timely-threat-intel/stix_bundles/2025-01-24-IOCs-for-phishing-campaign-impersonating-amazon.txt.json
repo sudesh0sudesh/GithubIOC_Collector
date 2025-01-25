@@ -1,0 +1,324 @@
+{
+  "type": "bundle",
+  "id": "bundle--51914a0b-aafd-4e58-8d71-de02c3e25a4c",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6ea26ac-0666-50ab-a665-5cf72e811ad6",
+      "value": "duckdns.org",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ab51aa0-3e1b-51aa-8b31-2b7a3319384a",
+      "hashes": {
+        "MD5": "e69618fc92cbc931017769d63be1bbdd"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--076fe9f8-24fa-531a-88f2-7072d40f6ddd",
+      "hashes": {
+        "MD5": "48d0e1b75b0470dc888e9d68ac4e94c5"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1581205c-b0ce-52cb-ae91-ac9d99dc5f9c",
+      "hashes": {
+        "SHA-256": "0d30813426132eb0e7058776f336be1ed788adb40429e1f14808c82cefb71cc0"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--19251a0b-9135-51cf-9d5a-72eb4fc78a9a",
+      "hashes": {
+        "SHA-256": "0f6fb7fac3185c6993ab0a95021aa45b597a53face177233e110a94563e2d94b"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--491c916b-0aff-5c03-a0a0-1a31dad79d6a",
+      "hashes": {
+        "SHA-256": "11d5a4be70b5370f70a2f9539f6a6e23f4393bc047147eda18992754b62993c4"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--438feefb-57bc-504b-9c92-dac6feaf3566",
+      "hashes": {
+        "SHA-256": "22fab6e48be2beb9cf4837a840be6e0345e7d9027c4da5168d6120bd725833c8"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c8d1963-6e8e-5b83-9073-731648db48b1",
+      "hashes": {
+        "SHA-256": "2f123f63b17c65ebdcf9bb517bd25b2a13c319979368404d2688a69a7367a4d4"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0f05632-5174-590f-9580-98d0f44bc20f",
+      "hashes": {
+        "SHA-256": "32e802617c978e2afa1052c565efb060bdbfff633988066587acd2a228a1e964"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--224716b0-bbe9-5d0e-9151-9b746fb2d6e0",
+      "hashes": {
+        "SHA-256": "35a0cf22be7fb938b18f85292a00a6a576916065555b63d4bcb224b8a2e7d812"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d8224d4c-3b01-5301-a05f-7536e9a1963a",
+      "hashes": {
+        "SHA-256": "3b824f2a7d27bf4ab264064c5716dcedf8cfb83aa8ec7ce1670c94b43508904c"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d05c960-8d48-54b8-9ebf-0d18794719de",
+      "hashes": {
+        "SHA-256": "42655606bf51695fc6b4d9afb597132626aa04497d256bd84aef406a8e8b061d"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e67f3f6-3012-5a67-9a72-eade03ca1398",
+      "hashes": {
+        "SHA-256": "4b5670c72b54b6e2b45ab143ca0fd8d75a28663a8141135e717b528beb4ac97f"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb77dde6-4600-559f-881c-9e9225f14ea3",
+      "hashes": {
+        "SHA-256": "4edd8546455b3cfdfdc90b062c43da8ce253379dfe83ea8957234cad067966d7"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1755d6fe-374d-53e5-b23d-ebfc3e18b37d",
+      "hashes": {
+        "SHA-256": "4f90e88d593e9ba8e6e67e8e1cbb4c9cbb5c58f3e515d46835865414eaa8f0b3"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3db318c6-a5da-5081-882e-f0cdb7db54f1",
+      "hashes": {
+        "SHA-256": "53c9b76a227904618cdb97a33fbec3a503a444434418dd8d91372d800778e63d"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--591263c3-1302-546a-80ec-7b7b34c2f65d",
+      "hashes": {
+        "SHA-256": "5a64f6c88d894e172ab3ed07938eafcf01ccfafea31d272dc06b0ebdc658f94d"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72e0ec16-66ae-5ed7-aa6f-a9f7045d2ddc",
+      "hashes": {
+        "SHA-256": "5d96918ca4adebbb3d594b36acf0f9198a952c50aa82047aafe854c957a82840"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6aaa834-b423-5e58-89ef-0d902751b0bb",
+      "hashes": {
+        "SHA-256": "5e8a50781d4238a324cba432d081e881f1e2ea7b2a3ae5851373094cecf7b41b"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e765236-0739-5d26-852e-d9822e72ac00",
+      "hashes": {
+        "SHA-256": "62cd345de8457a373bbc13a79436238eedba1f43e871418def1769f0f2502d0c"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10e883b5-5385-533e-826f-abef13355ee6",
+      "hashes": {
+        "SHA-256": "64d1c6685ca0e2c8ca327e17cea16bbad3ae791cf03c6c2ea22d361f7b0d0338"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53e334e0-220a-52bd-922a-ed5207f51b11",
+      "hashes": {
+        "SHA-256": "76fb339b8014534f85f9fe64e3eec279fe26098b60d255ceaa0ee177587e8b9e"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00170a76-4de3-5aff-9ca9-412002927a6c",
+      "hashes": {
+        "SHA-256": "78fcaf119b365d4171011dfdfa4ea4d5acd6c9656cd882418462ff6567cca00f"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d95a6b7e-41e2-54b1-9f96-01e24497a177",
+      "hashes": {
+        "SHA-256": "858dc5420867b6824de8143456ff521461cec1330d7d48ff0ea07a02056f1a4a"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac5acf53-4e5d-5123-91b8-a14f094a4933",
+      "hashes": {
+        "SHA-256": "8d4fd20207ee690561f5282a26b2374dff036a579527e8b1244fc6f1766c3bb2"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--14504c47-ff18-512e-84e8-4d7914c1ccf5",
+      "hashes": {
+        "SHA-256": "9add5bcfbd46b52744b6c02e829d815d3fdcd0a9221852c7254d892c4f5f984f"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bbb0805-a68b-5df4-a423-c141b4289091",
+      "hashes": {
+        "SHA-256": "a1e3214afad9332327283c956990ae0e8ddf8084c5dd5d5fde605462ebd7e45d"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d5c68aa-7051-5d7a-aeec-40af81207e32",
+      "hashes": {
+        "SHA-256": "a5f468421c9b3d66ed67c7accfb13ae19d6b1cee4050bdb505feea0d85161e9a"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f0db4fe-aeda-5a9b-bb12-9b6bc7c92bdb",
+      "hashes": {
+        "SHA-256": "beeefae8f969bb3b749a505afd53ad2bad2eb301eab28466cf4a0ed6d9da81bc"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b98f680f-20d5-5534-9047-ed92a6fd42bf",
+      "hashes": {
+        "SHA-256": "cd0b45c96062c804ff3903065d68348494db6375679e369916fdcf0b3d17f262"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99838ce4-0efa-5080-8aa9-f9228cea295d",
+      "hashes": {
+        "SHA-256": "e117c21bdcd5564b4a68b26d7148d2a073009b78485f42c4b5507723835663a0"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0051e217-341f-54a1-a71e-838ac316c056",
+      "hashes": {
+        "SHA-256": "eafc7707cdbd1936f5312491dd6c6f0726f1c04ca2dd44421ba79e9d010cee2a"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a0f6274-888e-5e4c-8c0d-1ab693cefba1",
+      "hashes": {
+        "SHA-256": "fa5aaf381d82aafca3ecabbece1cc2ff37401ec104e694b73e87bf02a9ef071a"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4fe4353e-1943-5970-8031-09119c398d90",
+      "hashes": {
+        "SHA-256": "d49e6ae0d4887490c18ef9a2d2a1b658e3164a08a2d22a1fb535bd237b594f20"
+      },
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3034ebe4-b161-58f7-bcb8-43de7f881c5a",
+      "value": "a.png",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a940b1d-d7dc-55ed-b9bc-738c31c8d2f9",
+      "value": "3.3.1.min.js",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    }
+  ]
+}
