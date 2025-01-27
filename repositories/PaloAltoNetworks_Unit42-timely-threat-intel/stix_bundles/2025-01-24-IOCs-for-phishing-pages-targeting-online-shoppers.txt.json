@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--1156a244-d878-44d8-b0e8-7716b79ce784",
+  "id": "bundle--c229a65f-45e4-419f-ac49-395a21370b41",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3c08c3e1-f0b7-5cea-93a2-7052ecce2f87",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7289699710594912256-E49y",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-pages-targeting-online-shoppers.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
