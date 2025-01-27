@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--9314b3ab-7934-4ece-a384-20326399c345",
+  "id": "bundle--32c87e94-5401-4fbd-bc96-6b6e93ea3356",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--87b4c633-3ca4-51cc-a9af-f01a6b1516e2",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7289714546305314817-6NHB",
+      "x_opencti_description": "2025-01-24-IOCs-for-phishing-campaign-impersonating-amazon.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
