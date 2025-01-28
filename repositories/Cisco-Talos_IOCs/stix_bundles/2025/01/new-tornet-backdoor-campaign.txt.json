@@ -1,0 +1,269 @@
+{
+  "type": "bundle",
+  "id": "bundle--7b2cec47-abf5-4385-893d-091bd424c758",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b90c269b-ae20-50a8-9c26-8ee2c2444e6c",
+      "value": "italzformendinggallores.duckdns.org",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5dff0e83-8b21-5100-ae27-c0a976b62e1c",
+      "value": "humblecrazeforeal8897.accesscam.org",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0e5c6ef-431b-5bfc-9b1a-b9e82c25d1a1",
+      "value": "sertiscoppersail432.freeddns.org",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e60ef0b9-7674-5a74-8efd-7df66887b789",
+      "value": "moristaetdfertal9002.ddnsgeek.com",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3801fa30-6679-5235-a3a3-2c377909bd89",
+      "value": "paradoncalleke5689.camdvr.org",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9dffaa0-b4c6-55b7-bdcb-a48c1f7c5cd9",
+      "value": "greeslieforreallcul5672.casacam.net",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--92b7cdba-7cd7-52a5-864f-ab5fdfe01f04",
+      "value": "blissfulzerooooos690.ddnsfree.com",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c27a57b8-15d2-52d0-a4c2-00a4ea605e71",
+      "value": "www.blissfulzerooooos690.ddnsfree.com",
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb359fa2-fa89-51f2-ae38-8f05a56eb400",
+      "hashes": {
+        "SHA-256": "3b4e709768d7cd0cb895de74267f45a6ef6565ebed445393878f17ae02a983e3"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00ae8465-69e3-5554-b37a-ad7f2c9ab05d",
+      "hashes": {
+        "SHA-256": "9d33726fc1d39fdc0426c70ed0cfb515e15f50d39c46d8ff38025b4faf8811dc"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--216a9324-0874-54eb-babe-1f5db38bfe17",
+      "hashes": {
+        "SHA-256": "75d2d368d735fca2bad0155510cb4a927f7f246ea72299395990027264056521"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed6566c2-dfa0-51ae-b745-f633e4f341a9",
+      "hashes": {
+        "SHA-256": "84570dac910557d0d8217db746c9a8fd4a27cd3db89135731c7f3584b37df533"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d3efe64-19b9-5730-acc6-e958362ec2eb",
+      "hashes": {
+        "SHA-256": "7ce9af599857827317a444c5a63a08929ec97765bc2624076f4834f323a41da2"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93d26d69-6299-570f-a866-5e6fa5daedf4",
+      "hashes": {
+        "SHA-256": "e9ab4772ba6de2db9add3d4bbd3ce0f2dd899f16399b57fd2a539769e6ee973a"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca17f2bb-6f10-597a-9a80-9a6feae29767",
+      "hashes": {
+        "SHA-256": "2f9c2e0bef460a7623954d65f10e6e5993c01d25e6f2905a5dc911639ca2ea75"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e413a25-3c09-5b06-8bfa-c7943d787bf8",
+      "hashes": {
+        "SHA-256": "dc513e35a6d96933e7af2b300782a32131d31445a6d1e2bbca9604128c92e7c6"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dc0d7416-d6cc-5687-9847-29ccfcc28289",
+      "hashes": {
+        "SHA-256": "57543fd3673c9595a73c836b153faf68e23938662c5a4b6675205734b688ae95"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--44262a07-5617-51e7-885a-713c95097f61",
+      "hashes": {
+        "SHA-256": "898d0451bd52c466d2284091be928f8ec1ced2184b205d903a04a747e67763ea"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ba1987ae-90b7-5f1f-9707-f0ea6b2294e2",
+      "hashes": {
+        "SHA-256": "53e7b3b72695a1eaea7146ec3cbd05d0ce2a1eba87f035ae07849feb4f59ec63"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--318ea06f-6b96-58a0-96ee-68f8cf68c2ca",
+      "hashes": {
+        "SHA-256": "bff0ec65af8b2bb37fcc5202f823b5877ebdcc8efbd32e08f309cbcb4dc2570c"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8525c40-c78b-5c4a-8aaf-2dc8d73deb6e",
+      "hashes": {
+        "SHA-256": "6774a822d9c66951be95341d50c1f876a9373fefef52f68f29eaae4efc621817"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c9fac3ee-5daa-55fe-8d52-d332bf420c1f",
+      "hashes": {
+        "SHA-256": "c32d97fb9a1681a7bea3f417abde0264a2332221e317c8543e337baac9307c67"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5be6229e-96f1-59f8-a444-d68318ff02e2",
+      "hashes": {
+        "SHA-256": "075737b17ba72aed5f45d227bf91dd5744914308e1468717a8f3100a0cca8156"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79c606a9-5f70-5fef-87b7-448f2ab622cb",
+      "hashes": {
+        "SHA-256": "a85423a1a37f604e492ee58920178080f0da306750a356ddfe1b695c12becd07"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--62df373e-5c21-5def-9a5e-17cadf83220b",
+      "hashes": {
+        "SHA-256": "4a5b8442dc2b34a270acdcd8a14cce573d59dc0922c9e49cda8fe2dd8e4a3862"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d71e7853-a426-5722-b25d-d5b58d84df57",
+      "hashes": {
+        "SHA-256": "80b80e15f605f0b8740e1989e505280394d746e8a8ee37cdb9b009d745e42da0"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--96871c14-1373-5007-9dd7-e9502c09472b",
+      "hashes": {
+        "SHA-256": "4280eb4cfa0445a40d8e1dfafdc0eb24613f3536c5959270ef0079034b30e653"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c810fbc-407c-5681-8d93-15ebc423be8e",
+      "hashes": {
+        "SHA-256": "2f1cb29e47c5b07fba3070d6a5339b00d2f3075eb7717438cf5cf53679793919"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9eea70a2-682a-54ae-8097-f5aa01539db1",
+      "hashes": {
+        "SHA-256": "252d9ed583bbd2e5d75ae5167feb393bd50b44933594f9586aaf5d9987cf78ec"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c9546cd9-9b88-52a7-b06d-f9ec962fed18",
+      "hashes": {
+        "SHA-256": "edac6216665f1c8b0a09158abdd5e7fab63a386a1c9ad31ddd5ee92a6aa811fc"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--134dda9c-2b1e-5bf3-8b84-9008a2b7cc7b",
+      "hashes": {
+        "SHA-256": "13ac538c8c6696a59f890677cf451db77b7c33539da1d380640ce549b2b70ca4"
+      },
+      "x_opencti_description": "2025/01/new-tornet-backdoor-campaign.txt"
+    }
+  ]
+}
