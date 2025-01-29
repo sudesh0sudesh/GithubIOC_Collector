@@ -1,0 +1,20 @@
+{
+  "type": "bundle",
+  "id": "bundle--0e34f1d7-6024-427d-b75f-7e0111a5271b",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ff96f90-1245-5fa7-bb6f-b6ce43e57a87",
+      "value": "deepseeklogin.com",
+      "x_opencti_description": "2025-01-29-IOCs-for-DeepSeek-themed-phishing-domains.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ff96f90-1245-5fa7-bb6f-b6ce43e57a87",
+      "value": "deepseeklogin.com",
+      "x_opencti_description": "2025-01-29-IOCs-for-DeepSeek-themed-phishing-domains.txt"
+    }
+  ]
+}
