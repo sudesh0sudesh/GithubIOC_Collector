@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--0e34f1d7-6024-427d-b75f-7e0111a5271b",
+  "id": "bundle--d1b80a51-605f-470b-9994-fa2209a93884",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b1b6a819-e160-5ff6-aa4a-bd70be1f75c0",
+      "value": "https://www.linkedin.com/posts/unit42_deepseek-llm-nrd-activity-7290836255263596544-yMIp",
+      "x_opencti_description": "2025-01-29-IOCs-for-DeepSeek-themed-phishing-domains.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
