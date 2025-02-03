@@ -1,0 +1,34 @@
+{
+  "type": "bundle",
+  "id": "bundle--6944b6ae-175c-4542-b0f7-f6545ed67409",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15f85f00-9209-52cd-a85d-cd6d1ac3f3ac",
+      "value": "api.trackszz.com",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b708f08f-86e4-5e28-b93e-47b7af71b948",
+      "value": "prizes.com",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f3b38ee-6480-5b75-ae68-96057ef6d3dc",
+      "value": "trackszz.com",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f3b38ee-6480-5b75-ae68-96057ef6d3dc",
+      "value": "trackszz.com",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    }
+  ]
+}
