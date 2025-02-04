@@ -1,7 +1,21 @@
 {
   "type": "bundle",
-  "id": "bundle--d0af2442-c92b-4114-8d9f-1ebff192dd70",
+  "id": "bundle--3ead6369-d0dd-4642-a761-d33282ce18ab",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--22c491c4-d9e9-5aab-9bfc-d00fcc0da24b",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-scam-activity-7292579683819208705-QWTa",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e5ddd24d-8802-54b1-bfd7-b61e5830f13e",
+      "value": "https://twitter.com/Unit42_Intel/status/1886814060995285206",
+      "x_opencti_description": "2025-02-03-IOCs-for-Netflix-themed-survey-phishing-campaign.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
