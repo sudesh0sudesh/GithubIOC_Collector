@@ -1,0 +1,118 @@
+{
+  "type": "bundle",
+  "id": "bundle--7f7e0e62-8616-480e-9b31-aedff9031353",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--448cfa2e-461c-56b1-a001-f8d1cca276a1",
+      "value": "198.12.86.90",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2c8a56dd-f37b-5fec-ba15-e7ba7bb95b6e",
+      "value": "affgo.xyz",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b79f25f7-7bb1-532f-b68c-f5340f0b7f71",
+      "value": "24.primerewardspot.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9900f5e4-cb56-521b-a5fd-118e8ee89a5e",
+      "value": "teedrowed.co.in",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9b7e1aa6-1065-5890-8494-a9355fe414e9",
+      "value": "gounrical.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03e45ec3-4e66-5e13-981a-0d44b836c5ab",
+      "value": "Freecash.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d11ca53-d4df-563a-9e89-57d76474d436",
+      "value": "kgmdeal.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--418cd8ea-1e08-554c-9f8c-299c425f4cf9",
+      "value": "rgndeal.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ad10918-8527-5ffe-87b2-d03f0826a10a",
+      "value": "ctadeal.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a6952ced-fd3c-5708-863f-9bc5f7281b88",
+      "value": "gtzdeal.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88eb0374-9571-54ff-8e5b-9ff93515ff63",
+      "value": "qrmselling.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a004f3d4-5ccc-5e2a-a25e-fbe5ae9798fe",
+      "value": "stecodes.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10876c06-be9c-5a27-951e-0a9af75bb8f3",
+      "value": "offerdcm.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6e11309-2f1f-51a8-8d57-e3691b3188e8",
+      "value": "mpdoffer.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82bd790e-3f75-57f4-964c-ca9bff6b53e0",
+      "value": "prveshop.com",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9900f5e4-cb56-521b-a5fd-118e8ee89a5e",
+      "value": "teedrowed.co.in",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    }
+  ]
+}
