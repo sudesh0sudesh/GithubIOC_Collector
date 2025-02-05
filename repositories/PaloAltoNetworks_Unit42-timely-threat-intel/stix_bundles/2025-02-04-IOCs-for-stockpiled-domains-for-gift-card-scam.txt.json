@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--311e3745-d19f-43f0-be4d-c437570782b5",
+  "id": "bundle--adad427f-ee1c-48d8-b274-f3d2ac28be94",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--448cfa2e-461c-56b1-a001-f8d1cca276a1",
       "value": "198.12.86.90",
+      "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f7a83341-672e-5952-8552-397073aba6aa",
+      "value": "https://www.linkedin.com/posts/unit42_stockpiled-scam-activity-7292937549319131137-XfdN",
       "x_opencti_description": "2025-02-04-IOCs-for-stockpiled-domains-for-gift-card-scam.txt"
     },
     {
