@@ -91,8 +91,8 @@ The following sources are being collected and parsed:
 
 16. **netskopeoss/NetskopeThreatLabsIOCs**
    - Repository: [netskopeoss/NetskopeThreatLabsIOCs](https://github.com/netskopeoss/NetskopeThreatLabsIOCs)
-   - Latest commit: 2947c254c9e4fc1b47b0046b638182786b6a7d1d
-   - Last updated: 2025-01-23 02:56:46
+   - Latest commit: c4bf35c4aa00a62be95e64c8cdb7b1c0b81bf943
+   - Last updated: 2025-02-06 02:23:11
 
 17. **google/threat-team**
    - Repository: [google/threat-team](https://github.com/google/threat-team)
