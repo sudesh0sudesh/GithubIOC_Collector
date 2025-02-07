@@ -1,0 +1,300 @@
+{
+  "type": "bundle",
+  "id": "bundle--4fb7995b-9028-4703-a95a-4abf0becb94a",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c6f2fb70-12a1-5999-97f4-d1fb2fb75326",
+      "value": "bestindependentreserve.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c7b632c4-76c4-54bf-92d7-f7fed53ae27d",
+      "value": "boredapeex.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d355e5a0-f588-5ca8-8990-49d72371c54d",
+      "value": "boredapein.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abb2517b-360c-5390-980e-421e7a9319f0",
+      "value": "boredapepro.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8fe890b8-4d8c-54c9-9994-eb17d04ba53a",
+      "value": "boredapest.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4a0085b-6951-556e-a6c9-53850fe71214",
+      "value": "boredapew.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--43444d9a-699f-5a59-87dd-5f00d2927f9f",
+      "value": "coinbaseproce.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6005d6ed-175f-51cc-bb29-95b0547029f7",
+      "value": "coinbaseprowl.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b52fba7b-fba7-516f-b38a-7407f2fe9ba3",
+      "value": "encryptcoinex.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--533c695c-0c7a-5766-940f-1c660ba1d980",
+      "value": "encryptcoinit.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22929b29-04e8-5f0c-aac4-f26ec2232f19",
+      "value": "encryptcoinpro.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9c4f288-46d5-52ab-88ce-7a7cd36cb990",
+      "value": "encryptcointo.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4944fbfd-318a-55c9-8005-c463ffda4fb7",
+      "value": "gcmlco.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a3fb5c10-b6fe-59ec-bc62-eba21350c74e",
+      "value": "gcmlex.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de710c8b-36b6-51e6-b259-6cc810937abd",
+      "value": "gcmlin.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--656297d6-a001-5f45-884b-475393d3ee80",
+      "value": "gcmlpro.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce3d93a0-d67a-53e1-a175-7b8aeca3c305",
+      "value": "hibtco.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d207e4a8-151d-5094-9855-994464b808a6",
+      "value": "hibtex.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e1f1f16-232c-5bd3-a16b-a4079157369a",
+      "value": "hibtig.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--211ac214-9f82-53f1-9101-619d705427ec",
+      "value": "hibtil.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4979a84-1a82-50c5-8710-934a6ab35d07",
+      "value": "hibtin.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee03e9ac-6138-5655-a3ab-c390be88c781",
+      "value": "hibtit.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e661902f-80ac-5776-9147-5a539d83536a",
+      "value": "hibtop.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6dedb0f1-a656-5dc7-846f-f36221ff5913",
+      "value": "hibtpro.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd3a54f9-c0e6-5efb-a818-f2818f4ec4d0",
+      "value": "independentreservea.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa264114-5a45-5d29-87f0-4ef3f92b561a",
+      "value": "independentreserveco.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bc0123b4-83fd-5bb4-a066-6606f2fabcae",
+      "value": "independentreserveg.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--488396e5-db10-5cda-bae7-5f146ac5b356",
+      "value": "independentreserveig.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cee9121e-992f-52c8-9091-f5b6f127f98f",
+      "value": "independentreserveil.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2fce1fb1-1fb6-5540-86e4-b6b797f8d180",
+      "value": "independentreservemax.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9e5c59c5-4d79-5066-9772-613f6f175424",
+      "value": "independentreservemg.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ffbc02e6-3a90-5cc1-a668-55dfdedaaa4b",
+      "value": "independentreserveo.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d009c441-0e55-5371-b604-5ac50f0c16c7",
+      "value": "independentreserver.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3dbb939a-4ca3-53a4-957e-804f113a13bd",
+      "value": "independentreservese.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5db70f7c-bc95-59ff-9196-cc9ff7c34db4",
+      "value": "independentreservet.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39fc02f8-90da-525c-98a4-fadeaf3f7daf",
+      "value": "independentreserveto.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94709f9b-d98b-508a-b936-ddaae39221b3",
+      "value": "independentreserveup.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e0c8764d-a966-5cde-a004-4d1e2072628a",
+      "value": "independentreservew.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bbfb9f6-dc4b-5855-8dcd-11a279f71ecb",
+      "value": "coinhakoex.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c99bbb9c-303d-5b0d-876c-d63ed8937c86",
+      "value": "coinhakoin.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1285ca5-2069-5f78-b737-ec49a7eade6e",
+      "value": "coinhakoit.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d113353-b843-5a04-a7ae-7e82b01ea4cb",
+      "value": "coinhakopro.com",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    }
+  ]
+}
