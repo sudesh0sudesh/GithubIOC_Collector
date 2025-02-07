@@ -1,0 +1,88 @@
+{
+  "type": "bundle",
+  "id": "bundle--3f4c2877-6e24-4c62-b749-8e1a3e5ad692",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--26441d8b-dd59-56af-b6c9-53d6a348430b",
+      "value": "mia.nl",
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c76a3b17-0916-5dbb-9c18-4f48dac1f3d5",
+      "hashes": {
+        "SHA-256": "c6ef0416f7008882317696e66b93885170f5999968bc36d9165d313fa57ef041"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--636838f5-1f4f-5da3-8cf9-bee7d7ad6177",
+      "hashes": {
+        "SHA-256": "868d382f98a4465b239f9e5b6dc91a46ada7f334df26af9e780dd7fa74dc4e3c"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1a11886-33a2-5be6-8264-97bfa4531a94",
+      "hashes": {
+        "SHA-256": "e6715e140ecab861235ae01c84345f7453847a9ba330512a37137bdf9e908edb"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7d787c2-f132-5750-928e-52ba5f7caf2a",
+      "hashes": {
+        "SHA-256": "bd5099e03d81613802d6ef4c2743195cb6e31d37b35a71011c924e66c40e6635"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bff0c832-abef-515e-a4e4-c1573e7799c8",
+      "hashes": {
+        "SHA-256": "ff3706e94d9b769f78e4271928382426cb034b11c5a0f6a8ffea35726cc03692"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b1d3ead8-c612-5abf-9587-4193adaeb9fe",
+      "hashes": {
+        "SHA-256": "e451287843b3927c6046eaabd3e22b929bc1f445eec23a73b1398b115d02e4fb"
+      },
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca484178-2c6c-5e69-9f8f-e2a7cf9a1dfe",
+      "value": "netutils.dll",
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a1c3fd7e-70d6-50d4-b975-7034186b9a41",
+      "value": "7za.exe",
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab92f610-5ee9-5919-b222-f5880e7048df",
+      "value": "ADExplorer64.exe",
+      "x_opencti_description": "EarthKapre/EarthKapre-RedCurl-IoCs-02-05-2025.txt"
+    }
+  ]
+}
