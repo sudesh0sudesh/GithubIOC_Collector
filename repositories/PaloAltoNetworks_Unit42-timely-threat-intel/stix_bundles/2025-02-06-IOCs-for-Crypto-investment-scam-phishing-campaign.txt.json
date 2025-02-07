@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--ddf4f49f-794b-4ebb-a581-98f49f6f0570",
+  "id": "bundle--01e7d70d-6ef5-47a7-bea6-5d3a5015f6f0",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b7664428-ebbd-56be-ba86-72b69452ac94",
+      "value": "https://www.linkedin.com/posts/unit42_cryptoscamalert-scam-phishing-activity-7293690750926565376-GeGV",
+      "x_opencti_description": "2025-02-06-IOCs-for-Crypto-investment-scam-phishing-campaign.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
