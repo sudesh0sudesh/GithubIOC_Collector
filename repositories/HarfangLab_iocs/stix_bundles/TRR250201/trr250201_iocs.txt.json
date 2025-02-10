@@ -1,0 +1,134 @@
+{
+  "type": "bundle",
+  "id": "bundle--d43b3ce4-567b-4909-b673-61a806d5461a",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f7ac93f-871c-580d-a47b-d6e64b7728ce",
+      "value": "195.133.52.87",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f7ac93f-871c-580d-a47b-d6e64b7728ce",
+      "value": "195.133.52.87",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--225a4ed2-d8df-5441-8dea-932a3868d9c1",
+      "value": "156.251.172.80",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--75dd9f4a-0ee0-5bbc-af85-76b9baddc652",
+      "value": "8.218.239.22",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--836173f8-c7d0-5822-ae9e-b672a98d9dd5",
+      "value": "www.vip8025.mom",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0b5c97b-e7e3-5cc0-bbb5-d8c3a4749fd5",
+      "value": "vip8025.mom",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7b1d021-61b1-58dc-b2ea-cd168867a3d1",
+      "value": "vip8806.mom",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ef3eac64-0557-5224-9cb0-8d6c8936db53",
+      "value": "test.vip8025.mom",
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d104eb0b-aca7-5b08-aa20-2e3d76ccc9a3",
+      "hashes": {
+        "SHA-256": "9f97997581f513166aae47b3664ca23c4f4ea90c24916874ff82891e2cd6e01e"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b214c28f-4d63-5cfd-ae3d-e26f5e85a6b9",
+      "hashes": {
+        "SHA-256": "61928ff36c5d8983853ec2f411860b97231729f047527434d3b2db8bf0b42d25"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79edc501-8338-5648-8c86-9d2f9b05d6dc",
+      "hashes": {
+        "SHA-256": "4c86e8c21451074a52cc8d60a262c683aaf4cb6b2634fea8efdd866ea2dbd3aa"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1396ad05-443c-5add-b844-a1b0150e8b99",
+      "hashes": {
+        "SHA-256": "074739c7ccdee5baef649b7f7cb53668109be8f7e016294b66a5d1469803e42b"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3ed6256-9ff5-5b95-99e2-1e19cc01ae46",
+      "hashes": {
+        "SHA-256": "7798b45ffc488356f7253805dc9c8d2210552bee39db9082f772185430360574"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5889704f-0372-528e-9a15-2984b8a37d28",
+      "hashes": {
+        "SHA-256": "cae96b72244855a3d98a42bb3f65daab1cd06e9be638553e2ebf1f8a66b5cc8a"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eacc4075-2055-580f-8d4f-116de819ba3c",
+      "hashes": {
+        "SHA-256": "18556a794f5d47f93d375e257fa94b9fb1088f3021cf79cc955eb4c1813a95da"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--daaebdcf-7b2a-5b5a-b063-8913589c0780",
+      "hashes": {
+        "SHA-256": "00109666ef878c6d61f1882bcf66e3c9ed60943ba8bc77b66de00f594174e3bb"
+      },
+      "x_opencti_description": "TRR250201/trr250201_iocs.txt"
+    }
+  ]
+}
