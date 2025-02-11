@@ -1,0 +1,555 @@
+{
+  "type": "bundle",
+  "id": "bundle--39535751-b4f8-42e1-8391-4a31a6679cfb",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
+      "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--67cf90b0-6d23-5732-a200-0bf3f1be04bd",
+      "value": "https://medium.com/@DCSO_CyTec/shortandmalicious-strelastealer-aims-for-mail-credentials-a4c3e78c8abc",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--31645ea7-68df-5ef8-9946-3808a2cc5ee8",
+      "value": "https://unit42.paloaltonetworks.com/strelastealer-campaign",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--66b5a042-3200-5d9d-8639-c43081418e22",
+      "value": "https://cyble.com/blog/strela-stealer-targets-europe-stealthily-via-webdav",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52419a95-53b0-5b01-991b-92e0ab01cc2a",
+      "hashes": {
+        "SHA-256": "0237c0247632a2ea8d80bb1a3398f1ba9b8f7704af70113e8fa0bbe688550ea1"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a533e79a-c75b-5125-8a3b-e5b3f088a8a6",
+      "hashes": {
+        "SHA-256": "0d11f84e614c5394218abcfde06dc0ca4befb4d4527ec38a009e9bd78a0a403c"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7cf2e529-bc61-539f-b56e-87f8d7c9674a",
+      "hashes": {
+        "SHA-256": "3ea9961f6b11e3fd9f09e76819ab7083f1ad924d5fbd543b466c467880e943d4"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5d64d0f7-97db-5e91-b7f4-30b73a6fee34",
+      "hashes": {
+        "SHA-256": "3fa21cc2a8b3548d82f432e4498b867f774083a879c91056afa0d0b1116d8af3"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7163f78f-038f-5de8-9140-7eb80c8694ad",
+      "hashes": {
+        "SHA-256": "4adf4847c92046a65f51a2f0886f6c97a27e4fd73e0bf3a6d7778b500f40c4a7"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--80edc6d8-ab88-5af2-aa6e-3e852579af7f",
+      "hashes": {
+        "SHA-256": "4f512c879ae57917208596543e039012e13588437e106c1986c25428ae6aa58a"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87836d5d-aaea-5f5a-b4b0-9f4316a973c2",
+      "hashes": {
+        "SHA-256": "526f99634031b5220df204148aaeaf4a105c927a9623eff4e0e6eab2fec470e6"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d2e38da-4f80-516e-9cd5-fbb19da2ffa2",
+      "hashes": {
+        "SHA-256": "56ddf2bcd35791d353cccb64f2b03b4e30d62fbf64408a53fb081acb229e7bb1"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--17df7e5b-b2d6-5f68-8a4a-92d401728b70",
+      "hashes": {
+        "SHA-256": "57a98c713f1b54cf2a15f03abd827361ba03f94ce04668558f5a3987a1f47dc6"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42af9915-ab16-5206-8c74-8f96f0777331",
+      "hashes": {
+        "SHA-256": "7e4939b5a3f45a6deca1e52fb1570a41a64eab4100819be1ce277ff05869527d"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--182c9438-55d5-5b2e-8ba1-72e39f477fa8",
+      "hashes": {
+        "SHA-256": "023fe721b61eb902dde8e89cf1d2d9a9a90a9e3016c36836f3f96eb0846e0e4f"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77c62bb9-e4aa-5f37-9278-d935818bbefc",
+      "hashes": {
+        "SHA-256": "18f2f23775a128b26139cf373373890d7165049600af5f3da6776a04c991f82f"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a35bc069-15e2-55db-9917-83038810c3d0",
+      "hashes": {
+        "SHA-256": "2e76869289964a9025f8dc20c9f4ce0c341a7b0305c3906e717c812af4efff88"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--948afb87-f929-5d4b-bd51-a8c56f2d135b",
+      "hashes": {
+        "SHA-256": "36d1eeb02cd95376360a2bb64fbd531f57a5ad1e496f1a28f9d6f8d1b30150da"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28c7fcf3-9d78-5959-9825-28f73f91605d",
+      "hashes": {
+        "SHA-256": "3d90244755ddc949ba4a46ba01dc8157dbe0ffa96aab27a43fca4e2f2f7960ce"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c47970a9-7f18-53b6-9958-7de932299e52",
+      "hashes": {
+        "SHA-256": "9f418f7c66d036b02047f0e99a86647e406f97457ba5ff05aa8c6774e2156166"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf61d17a-f760-571e-9fa5-4b11e841e8ed",
+      "hashes": {
+        "SHA-256": "b83bc3ea84a1dfa72e46905e8fe63d8102e67866be40d0f74aa25cba6467765e"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4cf94aa5-88bd-5c73-922a-591a61ce6f41",
+      "hashes": {
+        "SHA-256": "b85724ef6d750864422bae530864a6a77c7616d2dc291da74c1fc41e23ece6c3"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--222290fd-506a-5f0f-ac2b-47b3520b418a",
+      "hashes": {
+        "SHA-256": "bd7d9850ab56ea616b6762e736adbfc12809cdfd18525b0eb79712be7317200c"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6240261-5353-5927-af49-5247fd10f79c",
+      "hashes": {
+        "SHA-256": "cf7ebeeab3c143444a761b8aff25ee9cf3bb498927004e27cfe33fb7eee75c93"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69bbb463-2777-5692-b6f8-c4df22d7d81a",
+      "hashes": {
+        "SHA-256": "915c9d78cf65c4be89eda22e5f03d44d6a593bc4be02fa816871d8ee398ca8fa"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--675e5ded-e28c-5d1a-a225-93f134cd2d10",
+      "hashes": {
+        "SHA-256": "fc3518d746cdb3738da976551795b9727619f41f89ac0641533126e2f69b969a"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a8a1e1f-6e54-5d74-986f-a8469fa67d37",
+      "hashes": {
+        "SHA-256": "0e8e0a57a3cc02c8666378463e1bde1697c3e6bb14e5b773f644e06ea05ab41c"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a394878-fb94-55b2-aacf-980f8e93bf9e",
+      "hashes": {
+        "SHA-256": "cc773750eff260dc5396f878e3a61f5a79689e0078e8b679b3152f7af027a429"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da5720fe-bf5e-52cd-a681-263b96637402",
+      "hashes": {
+        "SHA-256": "f3677f29dee7338da89321564757caa15ce0c50f85540977b7470bf3a6ca0d2c"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a35bc069-15e2-55db-9917-83038810c3d0",
+      "hashes": {
+        "SHA-256": "2e76869289964a9025f8dc20c9f4ce0c341a7b0305c3906e717c812af4efff88"
+      },
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1f4faed-d9cf-5fc4-8947-a8c65fdc13f7",
+      "value": "wscript.exe",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--624f151d-3a50-565c-b9f0-53f4f2ba393a",
+      "value": "69316292209201925.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f846e03-f762-5400-b61b-a22620d186ec",
+      "value": "3930136912895510724.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49758316-7d96-58b2-81a6-f1a9a1f5cfce",
+      "value": "6296171943098930539.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--626089dd-0194-5545-b577-b21b8f8982fe",
+      "value": "28718730539521232.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fa59c14f-cd1f-515e-ba6b-556b70accb80",
+      "value": "28753186572874527511.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af46da58-db86-58a3-a433-5833744d0a49",
+      "value": "200132092063627487.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a6c7564-40e3-5a6b-a323-ff655c7c7470",
+      "value": "135081567013634423.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c93cefd5-77fe-54f7-b87b-76708fd6ed10",
+      "value": "22768300603044429766.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf0c9155-272f-5f67-9b21-f9c861686ddb",
+      "value": "673710946634315968.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9c04590-2235-58d2-8ebe-d3c91f82b650",
+      "value": "289827161103546153.js",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--990bfa57-6f0e-5c83-b583-72d6a05ce583",
+      "value": "powershell.exe",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    }
+  ]
+}
