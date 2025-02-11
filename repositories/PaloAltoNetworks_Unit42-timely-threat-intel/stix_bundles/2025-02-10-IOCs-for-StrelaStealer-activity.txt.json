@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--00a06b25-6ebf-4285-a336-7ea25c2fe13b",
+  "id": "bundle--74ce8369-e0c6-4051-bd5d-4d7527981c5a",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -210,6 +210,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--7c3a32c0-44bc-53b2-928f-0ef08c5f06f4",
       "value": "193.143.1.205",
+      "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--b7664428-ebbd-56be-ba86-72b69452ac94",
+      "value": "https://www.linkedin.com/posts/unit42_cryptoscamalert-scam-phishing-activity-7293690750926565376-GeGV",
       "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
     },
     {
