@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--74ce8369-e0c6-4051-bd5d-4d7527981c5a",
+  "id": "bundle--ad43820b-d364-43fc-93e8-729a60817b21",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -215,8 +215,8 @@
     {
       "type": "url",
       "spec_version": "2.1",
-      "id": "url--b7664428-ebbd-56be-ba86-72b69452ac94",
-      "value": "https://www.linkedin.com/posts/unit42_cryptoscamalert-scam-phishing-activity-7293690750926565376-GeGV",
+      "id": "url--0bfb396e-429c-5313-97f7-f7f788e65585",
+      "value": "https://www.linkedin.com/posts/unit42_strelastealer-malspam-webdav-activity-7295144078428491776-vyqY",
       "x_opencti_description": "2025-02-10-IOCs-for-StrelaStealer-activity.txt"
     },
     {
