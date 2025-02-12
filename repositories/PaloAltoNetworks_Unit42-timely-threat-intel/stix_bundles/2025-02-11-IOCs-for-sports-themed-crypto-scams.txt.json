@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--67934111-0912-4096-8b41-5195e71b8b1d",
+  "id": "bundle--de194b50-4935-414a-a82b-aa2106c07449",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cf993196-86a1-505d-86c9-dd7cadd27cfa",
+      "value": "https://www.linkedin.com/posts/unit42_unit42-timely-threat-intel2025-02-11-iocs-for-sports-themed-crypto-scamstxt-activity-7295520817356881923-HamA",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
