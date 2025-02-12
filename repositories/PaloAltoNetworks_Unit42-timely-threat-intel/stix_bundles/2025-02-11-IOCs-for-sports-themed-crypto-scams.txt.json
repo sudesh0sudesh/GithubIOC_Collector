@@ -1,0 +1,97 @@
+{
+  "type": "bundle",
+  "id": "bundle--67934111-0912-4096-8b41-5195e71b8b1d",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10f583da-c062-5e25-9e84-9bf96126a59f",
+      "value": "nflsuperbowlsol.xyz",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc2ed87b-099f-500f-b5ac-043fd76573af",
+      "value": "rflsuperbowl.xyz",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3c270366-799e-5779-9212-163771fed131",
+      "value": "superbowl.my",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--197edcd3-02ed-57b6-a229-4d6dd2b13ad1",
+      "value": "sbm.xyz",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--640d1015-1b98-5aad-9df8-0eb27e287f3a",
+      "value": "superbowlcoin.net",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd12b75c-1078-5445-b3b8-e1d0ac1b244f",
+      "value": "superbowlcoinflip.xyz",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--809806b8-a4a8-5c74-9c41-dd46d8665b30",
+      "value": "superbowlmemecoin.com",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--162b027b-80a4-5868-83e3-c23253666c75",
+      "value": "superfartbowl.com",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1948df5e-fe86-5638-b80c-4bfed5dda067",
+      "value": "supermemebowl.com",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7bc089b5-4525-57f5-9ae9-584b8c5448df",
+      "value": "supermemebowl.xyz",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8ec7a64-17da-5130-ae31-fdf70fb52f02",
+      "value": "superpepebowl.com",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7cb405b-08f9-5710-9f3f-e5287692b510",
+      "value": "trumponsuperbowl.com",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2023602c-a055-5b5b-8929-212c970a1d5d",
+      "value": "superbowlai.app",
+      "x_opencti_description": "2025-02-11-IOCs-for-sports-themed-crypto-scams.txt"
+    }
+  ]
+}
