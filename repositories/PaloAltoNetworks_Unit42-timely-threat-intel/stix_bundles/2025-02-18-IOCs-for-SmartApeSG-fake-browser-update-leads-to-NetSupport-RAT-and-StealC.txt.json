@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--52333fb4-0281-46f2-ad68-a3ec4b197744",
+  "id": "bundle--a92a7e20-6cab-4fa7-82b4-9c08433b6908",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -130,9 +130,9 @@
     {
       "type": "file",
       "spec_version": "2.1",
-      "id": "file--acae3dbb-6b21-5284-8cc9-25b2428d36bf",
+      "id": "file--dbff2559-d0bb-5d72-8775-58e5a50a5100",
       "hashes": {
-        "SHA-256": "021bb478b704abb95ac2040061b7d47d8e4b491e6d2633adb010c3b8b08bb4f4"
+        "SHA-256": "ff7e8ccc41bc3a506103bdd719a19318bf711351ac0e61e1f1cf00f5f02251d5"
       },
       "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
     },
