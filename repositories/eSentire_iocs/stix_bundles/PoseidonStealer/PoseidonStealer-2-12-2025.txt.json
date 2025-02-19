@@ -1,0 +1,101 @@
+{
+  "type": "bundle",
+  "id": "bundle--33dc7e6f-67ce-4a29-b62d-4fc225105ab5",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5d2e00c-d760-563c-a2de-816ead215e34",
+      "value": "82.115.223.9",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4d0dfde-950f-5149-a840-a974fb0ef14d",
+      "value": "deepseek.exploreio.net",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a377bcf8-85f0-5a56-95bd-47eb7133377a",
+      "value": "manyanshe.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9efbd8db-df9f-5cbb-8bb4-7b910da442a8",
+      "value": "storage.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9efbd8db-df9f-5cbb-8bb4-7b910da442a8",
+      "value": "storage.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9efbd8db-df9f-5cbb-8bb4-7b910da442a8",
+      "value": "storage.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9efbd8db-df9f-5cbb-8bb4-7b910da442a8",
+      "value": "storage.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9efbd8db-df9f-5cbb-8bb4-7b910da442a8",
+      "value": "storage.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d2d66828-fd60-525a-9a9a-5408e13c20b8",
+      "value": "https://deepseek.exploreio.net",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a2e11472-89e9-5291-87cf-3de151fcee2b",
+      "value": "https://manyanshe.com/macdownloads/script_67a654802ba053.47547911.php",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9fcfca7a-9bf9-579e-b1c4-7143e0b93c3a",
+      "value": "group.com",
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e753f01a-e86e-5832-b016-53332dcfbf25",
+      "hashes": {
+        "SHA-256": "58cf64e33543791869a0f08776bcfe515fd6da36942045bed0ae0c21305442a5"
+      },
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bfafbbf-fe1b-5e50-9eea-68f4751ccfe3",
+      "hashes": {
+        "SHA-256": "872a754101510bdc6c0f02399e44724f72922cd8066bdc8dcd75aa4b1f2e2268"
+      },
+      "x_opencti_description": "PoseidonStealer/PoseidonStealer-2-12-2025.txt"
+    }
+  ]
+}
