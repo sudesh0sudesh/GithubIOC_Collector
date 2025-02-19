@@ -1,0 +1,1364 @@
+{
+  "type": "bundle",
+  "id": "bundle--a1261985-4299-4320-933a-4c72f64542c1",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b245391-6a73-5804-8c17-62cf0b5d9c79",
+      "value": "34.145.16.68",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--37f8fb60-afc1-5efb-bdb2-c12e99d869cb",
+      "value": "36.72.153.32",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--728b4337-d889-56eb-a8d7-9e175e1d89d6",
+      "value": "45.130.83.119",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--78ab6eb4-dfc9-580c-b4a3-21986f1ae722",
+      "value": "45.130.83.131",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aef70793-833e-5169-a5e8-351dc507b3d2",
+      "value": "45.130.83.132",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e25e7473-a2de-5f90-af06-40598e4100cd",
+      "value": "45.130.83.133",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--072acc79-11db-5bff-afa9-4a05db37cee0",
+      "value": "45.130.83.134",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3e0f38a4-4e44-5360-bd83-e54315951335",
+      "value": "45.130.83.137",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5836e0c7-4cce-59b4-903c-c271c8c7e8ea",
+      "value": "45.130.83.150",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a217fc2a-adc8-5384-bd38-0d2359ffb485",
+      "value": "45.130.83.238",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--18ecd8c3-b436-5ce8-8530-3504cdb95f81",
+      "value": "45.130.83.239",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f3372811-750e-52b2-82a8-7b1bdb17afb0",
+      "value": "45.130.83.240",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c6f2fd6e-b3a1-51cc-b3be-843816beff05",
+      "value": "45.130.83.241",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b61340d0-1ddd-538a-9b20-e35827744a2c",
+      "value": "45.130.83.242",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b367233e-a94f-5d44-a7fd-9d05d7f46fb4",
+      "value": "45.130.83.243",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1c81a6fa-ac15-59e7-a4fb-6e490ad6f46d",
+      "value": "45.130.83.244",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b63e54c8-e95e-58eb-8655-5751e4f45791",
+      "value": "45.130.83.245",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c88d4092-12ac-59c5-939d-ace98bce547f",
+      "value": "45.130.83.246",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dbb57ccd-cb49-51e6-9c87-fb0fc501de4a",
+      "value": "45.130.83.247",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--26aec846-2485-5f1a-8e55-00db421d3fdc",
+      "value": "45.130.83.248",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8a103905-703f-5969-b66b-64a44d7abeeb",
+      "value": "45.130.83.249",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9df6e3fa-e3c4-5658-bf6b-11807e1df3c7",
+      "value": "45.130.83.250",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--67197acc-86df-51db-88ba-73fd3624f93f",
+      "value": "45.130.83.251",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--315e6702-a2e3-55b5-8ef6-92bb672215db",
+      "value": "45.8.19.99",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--32230d68-a5d5-571c-a41d-0be2a4a87904",
+      "value": "45.8.19.101",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--35a4e9a2-2a3d-5c99-988b-eb627f805fd7",
+      "value": "45.8.19.103",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--371eb0f4-7bb6-5913-b264-7ace06474199",
+      "value": "45.8.19.104",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8ead72b2-cdd7-52f9-bce5-49df08033ddd",
+      "value": "45.8.19.107",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a678b332-0390-599a-a04f-a5ac76060b34",
+      "value": "45.8.19.108",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8bed4aae-6ba9-592a-a550-552a3746fef6",
+      "value": "45.92.229.203",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--616989d5-8556-531e-9024-c2829454880d",
+      "value": "45.92.229.205",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a924eb36-6643-5792-b6f5-c5c3b5ada572",
+      "value": "45.92.229.206",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--96098653-214d-549e-9ff4-29f9a92e3a39",
+      "value": "45.92.229.209",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--58728f13-175b-5cfd-a08e-72b38f43c7c6",
+      "value": "45.92.229.212",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fbb1a3dc-d6fa-59ec-be89-cc635e827b29",
+      "value": "45.92.229.218",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1fb22207-515e-5dfb-be41-1c9246a41759",
+      "value": "45.92.229.220",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1dec5905-38ce-5e9e-905b-071f03b75bfa",
+      "value": "54.158.129.118",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cb6ecfb4-1032-5cef-9d2b-a550d90fd7e6",
+      "value": "63.135.161.45",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--908e6199-9a66-54ef-8e59-ee97067792ae",
+      "value": "63.135.161.46",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--02c71536-df0e-53f8-ab07-341fe8531a88",
+      "value": "63.135.161.49",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--108b1d04-f31f-5a60-9cfe-9139c3e24fb5",
+      "value": "63.135.161.51",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf495f-b255-509e-bcc1-577093cf919b",
+      "value": "63.135.161.53",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5803529c-fdd9-5e62-b2b9-9f8c2a60b91e",
+      "value": "63.135.161.54",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cf34724-3053-54a1-8d2b-2f1240f290d4",
+      "value": "63.135.161.55",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bbc6850a-e915-557c-8636-63bb2b31841e",
+      "value": "63.135.161.56",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3f8899d8-0c1f-583b-8cf3-b8c9a3bf182a",
+      "value": "63.135.161.58",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2156193c-9eca-5c51-88cc-d3fdf6455de9",
+      "value": "63.135.161.59",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0a6145bb-02c8-5a8e-9c46-442af516b97e",
+      "value": "63.135.161.60",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5b7fbe76-56d3-52b0-9fab-5e8264c6925f",
+      "value": "63.135.161.61",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d37a7855-e326-5c44-8336-814e6da08941",
+      "value": "63.135.161.63",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4d73a44c-317c-5337-a2a1-0a575e3d898c",
+      "value": "63.135.161.64",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--43a473a9-54bb-5e71-b518-2fcccaa87814",
+      "value": "63.135.161.65",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--efc3783f-bccf-5f57-a208-182b51be825c",
+      "value": "63.135.161.68",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f2f4bfc-95e6-53af-82ed-067809774121",
+      "value": "63.135.161.69",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--543d8814-4b05-5869-b504-b8c6b39abf3a",
+      "value": "63.135.161.71",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b4464fa2-b81a-5a5a-8d78-8b2b522e6577",
+      "value": "63.135.161.72",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0487a49f-430e-5764-95e0-b8701f5c5135",
+      "value": "63.135.161.73",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b76f7af1-bd6a-5cb5-9dfb-4b1b75bffcfb",
+      "value": "63.135.161.74",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b5b07c89-5de5-59df-a9af-795a11660af3",
+      "value": "63.135.161.75",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b234d0a6-1c83-5056-b5fe-9ee8417b4feb",
+      "value": "63.135.161.110",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--39da47d0-72ca-5470-ae1e-ac7e07698028",
+      "value": "63.135.161.111",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bfdd6acb-227c-5c28-b809-a8818a6e1d96",
+      "value": "63.135.161.112",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--25bef8fd-bce7-5094-84ec-393e0b10aaad",
+      "value": "63.135.161.113",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1c11a116-f30e-52c7-aa45-265ca6cf491d",
+      "value": "63.135.161.114",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dbb7f421-1422-5e29-bc19-b82a897ae60f",
+      "value": "63.135.161.115",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--099b74a6-8900-564c-986e-864ca96c6678",
+      "value": "63.135.161.116",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--87bc8a9b-f4b0-51bf-9f70-c6f5f7b46f97",
+      "value": "63.135.161.117",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5951f962-ab78-5134-bb22-adfecfb837f1",
+      "value": "63.135.161.118",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8289ca16-89d4-5f72-bef5-001afd879ed5",
+      "value": "63.135.161.119",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1bce87d-685a-57f1-af69-481e600571d9",
+      "value": "63.135.161.120",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--531de8f2-d892-5639-81b1-586bad33fdee",
+      "value": "63.135.161.121",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ec48e793-a6c6-5ce4-b5ce-0660bab0b7f6",
+      "value": "63.135.161.122",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d0749ded-b7bc-51fa-977f-996b31dd4bc1",
+      "value": "63.135.161.123",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--af5814b4-b935-5edc-8397-1b538ce302f2",
+      "value": "63.135.161.129",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cd011a63-1707-5bee-a2bb-81deffe6f25b",
+      "value": "64.64.116.169",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ce5c0bcb-b2c9-5d5f-97d2-b645aa636546",
+      "value": "85.237.194.218",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--56f3bd85-5dae-513e-b156-3f3b051632db",
+      "value": "85.237.194.223",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f242a2e-8a21-58d3-960f-39c3f8f08589",
+      "value": "85.237.194.231",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1ce82c7-75e4-5f88-a7d8-bb164217e381",
+      "value": "85.237.194.233",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f069c93e-003b-5892-81b8-07da43def346",
+      "value": "85.237.194.237",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c578ad3f-4cd5-563e-91ae-cc3dd15b6f10",
+      "value": "85.237.194.240",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8a926534-2065-5d04-92d0-556b3c16e3fc",
+      "value": "85.237.194.249",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--00d66bd3-e484-5248-958d-d328ff52c7bf",
+      "value": "85.237.194.250",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e9489e82-face-55cc-a5f3-a0e78621c9af",
+      "value": "86.48.10.113",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04acc4c0-7ba0-5638-9fb4-a042ac15c2b9",
+      "value": "89.108.82.105",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c33c1c92-ad9a-519c-bc29-d7e677b8117c",
+      "value": "94.131.106.251",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--56bcf708-a966-59e5-b5b6-d058bcbcc626",
+      "value": "98.159.224.12",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fe02770a-3199-5655-b4db-4f5a51f67e78",
+      "value": "98.159.224.13",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--75fb53c9-68cd-5223-8b74-eaf205211116",
+      "value": "98.159.224.14",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f87e800-abd5-56ac-b5c9-52f570525aab",
+      "value": "98.159.224.15",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ea85fb36-e8e8-5e0a-b7a7-e658182b7c0d",
+      "value": "98.159.224.16",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6cb0e787-9d4b-583e-846f-488d5373623c",
+      "value": "98.159.224.60",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d48c4c13-948e-5e30-a8f1-91be8f541e51",
+      "value": "98.159.224.61",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--13c27716-4b6b-596c-805c-72928b00bdf7",
+      "value": "98.159.224.62",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6eb91ada-e4ae-5133-8ff1-ce95f6d1f050",
+      "value": "98.159.224.63",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--74a4bd25-80e9-55fa-b038-bb497b4cb66f",
+      "value": "98.159.224.64",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4035da1d-8188-5d10-a91b-60accc26aaad",
+      "value": "98.97.79.212",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c16b85dc-34ed-5a91-90c8-7d055752f66e",
+      "value": "98.97.79.246",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--90a92a54-c5de-5132-bc28-9d6059177eb2",
+      "value": "102.215.57.82",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--33f68317-dcb3-5ef9-8757-e857a23ff6bb",
+      "value": "103.178.2.52",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e070944b-954b-5df2-b2bb-b400048a1f69",
+      "value": "104.234.53.207",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--374bccc5-47d7-51f3-bcd5-ea68c8a0ba26",
+      "value": "104.234.53.208",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6b0bb280-ba6e-50e5-984a-914f0bb7fff8",
+      "value": "104.234.53.210",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8942f8a4-86d4-5b2e-8dfa-e0d187edb283",
+      "value": "104.234.53.211",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e890c03b-fbf3-588a-a62d-d9dd40b8ff80",
+      "value": "104.234.53.212",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1d86c90-36ee-5602-9496-05c3fc960b20",
+      "value": "104.234.53.213",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c5882c3a-4409-558c-a90d-412d22cd9701",
+      "value": "104.234.53.215",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--53fb7e47-a209-546c-b408-2957e2a7111f",
+      "value": "104.234.53.216",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0802c60a-3ca6-5780-b3c1-6d389de1b0c8",
+      "value": "104.234.53.217",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--793be048-7f52-5884-9e07-3a96d050f00c",
+      "value": "104.234.53.219",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d427f461-4e17-5fb0-98ad-63ad19b1d31b",
+      "value": "104.234.53.221",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--423fb1ab-31d1-5a8d-8382-02a23a1bfa62",
+      "value": "104.234.53.223",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1c520757-0852-5481-afe6-d486c066d00c",
+      "value": "104.234.53.224",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cbc727e-19c3-5d6e-a316-e63e500436bb",
+      "value": "104.234.53.225",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ee40aad0-6ab9-5ac3-929b-743144505e9f",
+      "value": "104.234.53.226",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--68874b7c-d7fd-5acf-bf32-4a1da721d01f",
+      "value": "109.166.49.185",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c1b57d38-1d0b-5997-8627-a4b27153644d",
+      "value": "114.125.76.5",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--14345af6-80cc-5c92-a4be-115be9d3dede",
+      "value": "128.199.219.23",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ca55f4bd-8985-5826-b5f3-ee565fe38414",
+      "value": "159.223.58.222",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--af651326-3ce7-5245-9bdf-31a8bb0b672e",
+      "value": "173.239.204.177",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b03ac6bc-a2a2-5428-acab-fbdb16dcd2c8",
+      "value": "173.239.204.190",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c786b7e7-c86e-55d9-aa70-a3f68d3c369f",
+      "value": "173.239.204.191",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11f1ff32-30c2-510d-9197-050fed2a76c7",
+      "value": "173.239.204.192",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a8eac79f-eafc-505b-a509-2dc7acd607be",
+      "value": "173.239.204.193",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a155a23c-cbe5-5225-90ef-e75e61e4917a",
+      "value": "173.239.204.195",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c581497b-59fe-5b15-979e-06ecbf022643",
+      "value": "173.239.211.35",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1079196e-2c1c-5c72-ad70-641df44322ce",
+      "value": "173.239.211.36",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c95239cd-2796-500c-b006-e7f0ef54f215",
+      "value": "173.239.211.37",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11696867-744c-537f-950d-922c6591e3c5",
+      "value": "173.239.211.38",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6b9aa761-ff18-5b3c-a556-1131edc1d5f0",
+      "value": "173.239.211.39",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--268e2148-8ce1-5b5d-a7ba-5de204bb4cde",
+      "value": "173.239.211.40",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--906b81b6-7a1a-52aa-8ec6-b6e51b48588d",
+      "value": "173.239.211.41",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2acc3728-9347-5a92-bf13-a6f165e74eaf",
+      "value": "173.239.211.42",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6d78cfe0-7b92-5707-a87b-e11e11d82939",
+      "value": "173.239.211.43",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3895b9de-7b8e-5533-b492-4541992b6c21",
+      "value": "173.239.211.44",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a9a4a35f-6ac9-505d-8215-02498e5faaef",
+      "value": "173.239.211.45",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--72e9d0ab-0ed0-560d-a10f-8a57b3c6aefd",
+      "value": "173.239.211.46",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--62dbc53e-3509-54d1-85bf-ba5940aaa6bc",
+      "value": "173.239.211.47",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--221fb604-22d6-5804-b645-18a9b92dca5b",
+      "value": "173.239.211.48",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3b8a003e-671e-5a80-9a75-c31980a43aca",
+      "value": "173.239.211.49",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0589a2ee-6990-540e-9470-8b210da4c3bb",
+      "value": "173.239.211.50",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--87fe09c8-56ce-5b53-b523-529b9ef03881",
+      "value": "173.239.211.51",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a58ac5ca-78a5-51d0-965b-76f482b64895",
+      "value": "173.239.211.52",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2819b48a-5258-54fb-b8d5-148c99c4c548",
+      "value": "173.239.211.53",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cec6b553-2cc5-527d-961f-ca4e5581764c",
+      "value": "173.239.211.54",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3e657639-93c7-5045-849c-68159440c0e1",
+      "value": "173.239.211.55",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--45ee19ee-64bd-5dcf-8775-3541b8fbe728",
+      "value": "173.239.211.113",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--521ecc23-8f08-5cf5-9360-935578b4e76a",
+      "value": "173.239.211.119",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c811ba91-a238-5ff1-97a3-849062a4b94b",
+      "value": "173.239.211.139",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--efac86f5-12f2-52ff-9afa-2707f4ea6259",
+      "value": "173.239.211.146",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2ebefb7d-117d-51a2-b4ad-657824c1fe72",
+      "value": "174.215.21.14",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7ccea7d2-06fe-53dd-baff-cd4efcdaa779",
+      "value": "180.249.154.73",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e4f5be8f-3523-531b-8a0f-e26cecc17b74",
+      "value": "180.249.154.162",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a5d055c-91e5-533b-ab5e-a096cde84f6f",
+      "value": "180.251.238.103",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e10ab0df-b7fa-512b-88cf-39e357b5d57c",
+      "value": "182.1.66.249",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bf7e28e8-54c1-5bbe-b76f-4922f916094e",
+      "value": "182.1.73.253",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1c92071a-c851-50b4-b5a2-0739f2e1aee1",
+      "value": "182.1.74.253",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--75f83540-3a09-5773-9955-0c7df82f4039",
+      "value": "182.1.84.253",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d4aa99e5-e02f-5152-bf86-66c01ac9ee98",
+      "value": "182.1.88.149",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--693a7931-a378-51b1-be74-b0f34225ecec",
+      "value": "182.1.88.42",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--01eca2e3-d518-520d-b019-e404df558626",
+      "value": "182.1.90.233",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2ed07648-4523-5212-93d9-250f8e8587b4",
+      "value": "182.1.94.225",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5eeaa2c4-30ae-502b-be91-217c858965db",
+      "value": "184.82.129.170",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a768c3ea-49b0-521e-b73c-abab1b20fec4",
+      "value": "185.238.231.106",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--25d64863-edbf-5e38-b5f6-fc18778dab9c",
+      "value": "197.253.58.225",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5e856d25-2e67-5b09-b0e7-9638a50092ff",
+      "value": "197.253.58.226",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29c4744d-aa19-50fe-a337-8525c0db75b4",
+      "value": "197.253.58.227",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e1c8781d-492e-572f-a7aa-08352f21d735",
+      "value": "197.253.58.228",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b49323d0-f342-53fe-8676-2b28e2bb6c57",
+      "value": "197.253.58.229",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--94263a00-f675-5abb-8fc7-3f10cc51d690",
+      "value": "199.101.196.67",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b59910cf-458d-5c79-a975-870164c3ba3f",
+      "value": "199.101.196.68",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5efc7cb2-9a66-5fc1-89e4-05a9322d8132",
+      "value": "199.101.196.79",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--75865dd5-3cfa-5bdc-9e01-86cc162e910b",
+      "value": "199.101.196.80",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c8266cf0-88d2-50e6-9025-57dd7a2ef079",
+      "value": "208.95.72.30",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--83931272-d087-5ad7-a35c-eb1d2d84d420",
+      "value": "216.73.160.1",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cd17f1af-3985-549b-9321-34de340d0b1c",
+      "value": "216.73.160.2",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b74bf134-08bf-5084-9cca-d97cda7a5008",
+      "value": "216.73.160.12",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e54a2707-91d3-545a-bd8e-415c449d4e6e",
+      "value": "216.73.160.14",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dfcf15a3-518a-5c61-8879-bb329ae8fd9c",
+      "value": "216.73.160.15",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c1454bd-d266-52b6-a629-f6ff3caa0977",
+      "value": "216.73.160.16",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2272d006-d718-54b4-b3f1-9ba35a4265bf",
+      "value": "216.73.160.155",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--af17429a-c954-54a4-b19c-e4dd670d66c7",
+      "value": "216.73.160.158",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8118406c-2830-5849-9877-ee0159a589b1",
+      "value": "216.73.160.159",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--320c241c-7f05-58e1-85e6-9a04443fba01",
+      "value": "216.73.160.160",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--33456e0c-09ed-5a95-827a-6cf77ea4dec9",
+      "value": "216.73.160.161",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6af963a3-20c9-50a0-b57f-4ffaf8a5a0ac",
+      "value": "216.73.160.164",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8eb5e8d8-af24-5b09-bfbe-c9ab3b8fe700",
+      "value": "216.73.160.165",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fa127df7-5a7e-58c4-a959-e4a7c607214a",
+      "value": "216.73.160.168",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ef7e8181-d24c-5b08-8c35-57a1242780ba",
+      "value": "216.73.160.170",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8f21a598-961f-54ed-b52d-007eca8b9b43",
+      "value": "216.73.160.171",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d509c885-0425-5faa-93bc-cb1e9f839061",
+      "value": "216.73.160.172",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9bba29ab-cbfb-5bea-b656-ee5e2d829df9",
+      "value": "216.73.160.173",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--369547e9-2327-59ae-8123-d3182f58bd48",
+      "value": "216.73.161.170",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a412493f-15fe-5ca0-9c9d-e33b7a5ef838",
+      "value": "217.142.185.26",
+      "x_opencti_description": "List-of-IP-addresses-for-JavaGhost-activity-between-2022-and-2024.txt"
+    }
+  ]
+}
