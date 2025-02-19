@@ -1,0 +1,198 @@
+{
+  "type": "bundle",
+  "id": "bundle--52333fb4-0281-46f2-ad68-a3ec4b197744",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9f8fefd5-9821-5fc4-aa2e-70bdf129ecf9",
+      "value": "194.180.191.229",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9f8fefd5-9821-5fc4-aa2e-70bdf129ecf9",
+      "value": "194.180.191.229",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
+      "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--764aa723-6d36-5c5b-9ec1-0f38b622e1da",
+      "value": "https://www.threatdown.com/blog/smartapesg-06-11-2024",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2be84900-dbd4-5dbe-b63d-9bfc088ce699",
+      "value": "https://blogs.vmware.com/security/2023/11/netsupport-rat-the-rat-king-returns.html",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4da73cc8-52c3-5331-b0f0-c64dcd2af471",
+      "value": "https://malpedia.caad.fkie.fraunhofer.de/details/win.stealc",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8dca7f1-6b3d-59cf-b7e2-fdef4f8c2784",
+      "hashes": {
+        "SHA-256": "47f59d61beabd8f1dcbbdd190483271c7f596a277ecbe9fd227238a7ff74cbfc"
+      },
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9be06b0e-3cf5-5b45-881e-f577f3d99853",
+      "hashes": {
+        "SHA-256": "b71f07964071f20aaeb5575d7273e2941853973defa6cb22160e126484d4a5d3"
+      },
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71172ef5-4e15-5e46-8233-d612c956e139",
+      "hashes": {
+        "SHA-256": "e9eb934dad3f87ee581df72af265183f86fdfad87018eed358fb4d7f669e5b7d"
+      },
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--acae3dbb-6b21-5284-8cc9-25b2428d36bf",
+      "hashes": {
+        "SHA-256": "021bb478b704abb95ac2040061b7d47d8e4b491e6d2633adb010c3b8b08bb4f4"
+      },
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--acae3dbb-6b21-5284-8cc9-25b2428d36bf",
+      "hashes": {
+        "SHA-256": "021bb478b704abb95ac2040061b7d47d8e4b491e6d2633adb010c3b8b08bb4f4"
+      },
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0fb1626c-4ca6-543b-84cc-54655cdc5a52",
+      "value": "203.png",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8500a697-1f95-53de-bd12-a7df20ca3852",
+      "value": "bg.png",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82c3a7cb-211e-5fba-9349-65c5c4cefd17",
+      "value": "7673.js",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7f7ee9e-1888-51af-a3a3-e97c7b2e0e82",
+      "value": "mfpmp.exe",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--209e88b9-aa40-52f3-b89b-a15b964f5620",
+      "value": "rtworkq.dll",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--209e88b9-aa40-52f3-b89b-a15b964f5620",
+      "value": "rtworkq.dll",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b7f7ee9e-1888-51af-a3a3-e97c7b2e0e82",
+      "value": "mfpmp.exe",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    }
+  ]
+}
