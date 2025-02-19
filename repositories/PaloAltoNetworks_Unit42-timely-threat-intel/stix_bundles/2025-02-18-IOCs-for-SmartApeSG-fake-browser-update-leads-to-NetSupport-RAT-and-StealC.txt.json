@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--a92a7e20-6cab-4fa7-82b4-9c08433b6908",
+  "id": "bundle--bd405348-c58c-4da4-9002-22057a7dbc2d",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -77,6 +77,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--d04a9232-2589-5baa-802e-ce7da751bd3c",
       "value": "62.164.130.69",
+      "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--facc15eb-34ea-5f74-9445-5e1a62251b17",
+      "value": "https://www.linkedin.com/posts/unit42_smartapesg-netsupportrat-stealc-activity-7297994624814432256-HOrX",
       "x_opencti_description": "2025-02-18-IOCs-for-SmartApeSG-fake-browser-update-leads-to-NetSupport-RAT-and-StealC.txt"
     },
     {
