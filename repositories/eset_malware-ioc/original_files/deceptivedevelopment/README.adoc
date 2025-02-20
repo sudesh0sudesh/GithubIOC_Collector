@@ -1,0 +1,38 @@
+== DeceptiveDevelopment targets freelance developers – Indicators of Compromise
+
+The blog post on DeceptiveDevelopment is available on WeLiveSecurity at https://www.welivesecurity.com/en/eset-research/deceptivedevelopment-targets-freelance-developers/
+
+=== Files
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+|SHA-1 |Filename |Detection |Description
+|`+48E75D6E2BDB2B00ECBF4801A98F96732E397858+` |FCCCall.exe |Win64/DeceptiveDevelopment.A |Trojanized conferencing app - native BeaverTail
+|`+EC8B6A0A7A7407CA3CD18DE5F93489166996116C+` |pay.py |Python/DeceptiveDevelopment.B |InvisibleFerret payload module
+|`+3F8EF8649E6B9162CFB0C739F01043A19E9538E7+` |bow.py |Python/DeceptiveDevelopment.C |InvisibleFerret browser module
+|`+F6517B68F8317504FDCD415653CF46530E19D94A+` |pay_u2GgOA8.py |Python/DeceptiveDevelopment.B |InvisibleFerret new payload module
+|`+01C0D61BFB4C8269CA56E0F1F666CBF36ABE69AD+` |setupTest.js |JS/Spy.DeceptiveDevelopment.A |BeaverTail
+|`+2E3E1B95E22E4A8F4C75334BA5FC30D6A54C34C1+` |tailwind.config.js |JS/Spy.DeceptiveDevelopment.A |BeaverTail
+|`+7C8724B75BF7A9B8F27F5E86AAC9445AAFCCB6AC+` |conf.ps1 |N/A |AnyDesk configuration PowerShell script
+|`+5F5D3A86437082FA512B5C93A6B4E39397E1ADC8+` |adc.py |Python/DeceptiveDevelopment.A |InvisibleFerret AnyDesk module
+|`+7C5B2CAFAEABBCEB9765D20C6A323A07FA928624+` |bow.py |Python/DeceptiveDevelopment.A |InvisibleFerret browser module
+|`+BA1A54F4FFA42765232BA094AAAFAEE5D3BB2B8C+` |pay.py |Python/DeceptiveDevelopment.A |InvisibleFerret payload module
+|`+6F049D8A0723DF10144CB51A43CE15147634FAFE+` |.npl |Python/DeceptiveDevelopment.A |InvisibleFerret loader module
+|`+8FECA3F5143D15437025777285D8E2E3AA9D6CAA+` |admin.model.js |JS/Spy.DeceptiveDevelopment.A |BeaverTail
+|`+380BD7EDA453487CF11509D548EF5E5A666ACD95+` |run.js |JS/Spy.DeceptiveDevelopment.A |BeaverTail
+|===
+
+==== Network
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+|IP |Domain |Hosting provider |First seen |Details
+|`+95.164.17[.]24+` |`+N/A+` |STARK INDUSTRIES SOLUTIONS LTD |2024-06-06 |BeaverTail/InvisibleFerret C&C.
+|`+185.235.241[.]208+` |`+N/A+` |STARK INDUSTRIES SOLUTIONS LTD |2021-04-12 |BeaverTail/InvisibleFerret C&C.
+|`+147.124.214[.]129+` |`+N/A+` |Majestic Hosting Solutions, LLC |2024-03-22 |BeaverTail/InvisibleFerret C&C.
+|`+23.106.253[.]194+` |`+N/A+` |LEASEWEB SINGAPORE PTE. LTD. |2024-05-28 |BeaverTail/InvisibleFerret C&C.
+|`+147.124.214[.]237+` |`+N/A+` |Majestic Hosting Solutions, LLC |2023-01-28 |BeaverTail/InvisibleFerret C&C.
+|`+67.203.7[.]171+` |`+N/A+` |Amaze Internet Services |2024-02-14 |BeaverTail/InvisibleFerret C&C.
+|`+45.61.131[.]218+` |`+N/A+` |RouterHosting LLC |2024-01-22 |BeaverTail/InvisibleFerret C&C.
+|`+135.125.248[.]56+` |`+N/A+` |OVH SAS |2023-06-30 |BeaverTail/InvisibleFerret C&C.
+|===
