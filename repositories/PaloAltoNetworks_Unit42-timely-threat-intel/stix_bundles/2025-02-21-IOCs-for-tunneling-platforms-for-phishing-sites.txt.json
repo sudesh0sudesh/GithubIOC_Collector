@@ -1,0 +1,41 @@
+{
+  "type": "bundle",
+  "id": "bundle--cf83c88e-4cd4-4954-b141-fe2452c6a159",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e4d33f61-4b11-5707-bf1d-084062eb6418",
+      "value": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f331f7a6-f583-5ef6-b693-a64abf0fdc4a",
+      "value": "https://localxpose.io/docs/tunnels/http",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--84c0ea6f-8f01-56d1-ba6d-cdf2d2d73d7b",
+      "value": "https://ngrok.com/blog-post/data-at-ngrok",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7f6d615b-b53e-55e5-b207-c86feff7df54",
+      "value": "packaging.trycloudflare.com",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f9bcde9-fe8d-588a-9c66-5afc05e38898",
+      "value": "referring.trycloudflare.com",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    }
+  ]
+}
