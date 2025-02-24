@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--cf83c88e-4cd4-4954-b141-fe2452c6a159",
+  "id": "bundle--0ea5829a-3c99-4cdb-b646-dcfb6061c842",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fa50e7e8-6dae-5856-b99a-8627fcf0b62a",
+      "value": "https://www.linkedin.com/posts/unit42_open-source-phishing-kits-include-features-activity-7299835749103759361-RhRK",
+      "x_opencti_description": "2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",
