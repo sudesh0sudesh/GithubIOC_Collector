@@ -1,0 +1,671 @@
+{
+  "type": "bundle",
+  "id": "bundle--7a5bd3db-5572-4e2d-a31c-c6a923e10121",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--296486ee-8584-586f-a4a5-7ab510ab7c36",
+      "value": "164.90.154.221",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ec317ed5-be38-5a47-bdb5-f402f1d6c8c0",
+      "value": "164.90.152.138",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e7a5361-a79b-5494-9ce5-87904a33e7b6",
+      "value": "152.42.241.245",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0e113370-03ee-5f92-97c3-e62373f60176",
+      "value": "24.144.108.154",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7a8116c3-6af5-5511-b725-b65d9bbfc18d",
+      "value": "181.215.176.73",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--32a795e7-70c1-52d9-af8a-baa193401d88",
+      "value": "89.249.74.170",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9f48ace1-2491-5b18-8aa5-0cdc533e7d9f",
+      "value": "45.8.19.123",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5a7b6381-3798-527d-ab9e-0877bceb374a",
+      "value": "216.73.160.250",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e21c3396-02f3-537c-bcf4-529e45fa15c7",
+      "value": "216.73.160.108",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--948ddcb8-3697-59ef-b161-7fe8a3f2cff2",
+      "value": "45.8.19.119",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0c19ee67-3091-5f02-8a0a-f5a9e362b8cf",
+      "value": "91.193.232.128",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8a3d46c5-67e3-51fc-9431-c19ed07e4a6c",
+      "value": "91.193.232.84",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cbed251a-002e-5cc5-bacc-b91f06065c4c",
+      "value": "91.193.232.5",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d082dc1d-52ba-5825-9d9b-d739af04ada0",
+      "value": "84.239.47.141",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--80b39ac5-2790-56cb-8bc0-655e20c0be6d",
+      "value": "91.193.232.125",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d7e73cc8-f354-5ed8-84f1-a8a729b63f1c",
+      "value": "193.56.116.251",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--48a132ba-60b9-5497-8623-ecb3bd2d5802",
+      "value": "23.163.0.30",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--93e95694-fbc8-5992-baeb-8a72d96c0d9c",
+      "value": "98.83.220.177",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e2ea7608-3a83-531a-a19e-abbc41749cd2",
+      "value": "52.53.231.42",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6ebc73d-5bba-560b-9f17-b45441b824a4",
+      "value": "198.144.189.57",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4ada8f7-d994-5acf-a2d2-957d2a7cab3d",
+      "value": "enhancedz.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--445c4e60-d69b-5463-be1c-3e9620d79b34",
+      "value": "megamountains.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc4093a7-5b81-5d87-946e-b2cf802d6f4f",
+      "value": "topseotraineez.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e676b975-a378-5984-9ab0-31886d949f1b",
+      "value": "aviencez.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--447bc5ad-5920-5fc0-917e-dfd11462a36b",
+      "value": "beehivedroned.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37e104b9-e8a9-554b-a36f-1907b55146d7",
+      "value": "imblager.ru",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bcc771d8-6f0f-5279-b499-0f18ef450741",
+      "value": "ruesswe.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--752dfc85-7112-507e-b213-dc74a6864b4c",
+      "value": "hazemaesauction.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2957c830-a203-5941-9bec-4c0cdc38cef5",
+      "value": "bemadshop.net",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae22ab65-4029-51bb-937c-4469db6b69a7",
+      "value": "luminexcorps.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6af17e99-3c23-5a0b-8eb7-39ec59871189",
+      "value": "newsportcomm.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c3dbdd81-2c60-59d8-8aec-1ecafd6a809a",
+      "value": "lentacfab.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--483fe421-aa67-5d85-97a5-f21a086cda4b",
+      "value": "gtcdistribution.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b10ceef-4a99-5468-93c6-03999e57f216",
+      "value": "hmdepartments.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5aa1c072-64e7-52ac-a24b-35cdab92f7c0",
+      "value": "ptr.tech",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38e42693-e1c4-594b-b385-2483894bb203",
+      "value": "aliccom.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bb21675-359b-5f6f-a08a-dbb74b3ada0c",
+      "value": "officecentrumsynot.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0bcdf08b-6c91-5ef7-aa20-9b4bdaddafb5",
+      "value": "allorganichome.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98a720af-345c-5c63-a086-834ec57c9b9f",
+      "value": "vectorizier.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e656711d-7004-5aa5-9d61-6fb6813bd2fb",
+      "value": "dillanddlil.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--313b6a62-9611-5fad-bf59-1a8d8d45edbd",
+      "value": "cad.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a12ced5-a495-58a5-88fb-301b5cc325f8",
+      "value": "renaissancemantenance.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e416f80-562f-5c97-bfa9-aab93f890259",
+      "value": "aaeipsa.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ba90f2a-4bc7-5252-bc10-c47fc7a7ad1e",
+      "value": "signregyinc.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--804ff97d-6c38-5fcd-a028-3dd6a33b14f0",
+      "value": "ovalwox.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9635d84f-a5fc-5eee-8d08-9d2253f4d201",
+      "value": "stationshouston.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2da9f21e-bb99-5f07-98d9-e1bf7a244d1f",
+      "value": "ct0s.cc",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dcd8bb32-89be-5fb3-8b03-ae7057380d69",
+      "value": "panasiancorps.net",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85aa7611-1cc6-58bc-a744-259bf6fad84e",
+      "value": "adasmckinleys.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88ae00cd-4979-53a6-adcb-4ba36fdc14cf",
+      "value": "rautitan.ru",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c12713c0-7452-5dbe-83c6-aa4134715430",
+      "value": "theparadeofhomes.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--210e3f7c-21f7-513e-ae48-453da5b51d9b",
+      "value": "marcianz.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf522425-2e53-5622-bc91-e2a98e635d7c",
+      "value": "attlink.net",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfcf76e3-da54-51a5-a665-4586ed8f0d50",
+      "value": "sporting.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ae2035b-a49e-5a7c-b4bf-bae43703a7c5",
+      "value": "mytraiscobremen.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2194a5ce-8d24-5079-bf9b-8e4e76375702",
+      "value": "davidgeekideas.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83e05614-fd82-5803-9cdb-fab6c49e3723",
+      "value": "biglpond.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5057421e-2f7d-53f3-8ef5-2a76682a8ba8",
+      "value": "toitoiiusa.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1dd84258-d08b-5fb5-93ca-9771778846b0",
+      "value": "buydentalbright.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f3de240-a4dd-54c7-b85e-9d32721838aa",
+      "value": "narohealthvalue.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e49b1984-8380-59b2-9a3f-1da2f3522ebb",
+      "value": "chadochki.ru",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76e8ac20-55fa-53db-b067-2f4c42b77037",
+      "value": "jlmoorenic.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6481060c-9509-5c17-850d-963e5265d91c",
+      "value": "jeffcofirez.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37abcbba-3a72-5f9f-a2bc-cc9ec006faa6",
+      "value": "enclaveon.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76e1f707-f743-5a31-90d6-9ce44bbfd2a7",
+      "value": "dzokoreanbbq.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ddff99aa-d9ff-5692-a8e2-0ea29cf9b440",
+      "value": "bobssrevices.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9aba74b0-32ef-52a9-ac8b-da1f2cc486f9",
+      "value": "hivedispenser.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--efa9877f-b22f-5e22-a99e-25ada5785f28",
+      "value": "flexsjets.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9459f0fc-7b95-5e0e-befb-21b41ee931f9",
+      "value": "nashalliancez.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63e37180-e916-52f4-83b6-ed3b04d14c1b",
+      "value": "therenoviz.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d70b4156-5503-5b57-9926-ec48a166826d",
+      "value": "383520.xyz",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0cd5ca1-9c0c-53d6-98dd-d158de339cb9",
+      "value": "pressureworth.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f5f509b-982d-51fe-b07c-6fa9c178af8c",
+      "value": "andruszz.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c80fb5a-7104-5b2c-8543-a3023d648486",
+      "value": "harpurt.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fecc4d9-5fac-5b7e-8f5a-ba5831bffb28",
+      "value": "rnail365.it.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d86c496a-5fcc-5014-b693-1d603c2cee02",
+      "value": "ganshuai.es",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a28f32e4-b15d-5606-91dd-179848157ca4",
+      "value": "gehwha.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b8590207-2f7c-52a9-954b-490ef19340a5",
+      "value": "dynalynk.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--02feea70-73ab-5186-ba9f-3dfd82d9af90",
+      "value": "financialdocc.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f18d752-9aab-5953-afba-c8f552df5d3e",
+      "value": "pronkoenterprise.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c552d23f-ffa8-5399-8468-1b60cf321b39",
+      "value": "bemadshop.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--589b6f7d-7ac7-5b63-9a2b-ef5dfcd809dc",
+      "value": "krholdingcorp.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--160131ba-fa6d-56d2-a5a9-0e89faded492",
+      "value": "trmrooflng.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac5fb56a-d043-53bb-aa48-582b5d320139",
+      "value": "ptfjanesvilles.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b02cf76-3c62-59f7-80c7-0195e8a11f4f",
+      "value": "478237832mains.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fee293d-1e59-5d09-88fa-54d7feb37175",
+      "value": "surajufirm.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16e86cc2-d140-5402-bb99-382a136a7511",
+      "value": "pinewoodgolfmnz.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--244db841-b539-542c-b920-672a0ec0919e",
+      "value": "spsursfaces.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--767562fc-ca8d-570e-bb02-97f409b7a370",
+      "value": "hesctonplum.org",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--724bd123-6551-5b71-8c13-b7cd33abce1d",
+      "value": "kw0klaw.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c317dc04-039b-5cfa-98fe-b94b52be40b2",
+      "value": "excelfarmsincs.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f3db51a7-4329-5eee-b2c8-953e0fc54cbd",
+      "value": "acctingreceivables.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9883649e-e043-5139-abbf-afbadf0d2e0e",
+      "value": "shuabins.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dc36420c-b9ad-5ce0-8843-cd55569f71b1",
+      "value": "sss.hs.vc",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69947901-27b9-553b-915e-205d7cf428d9",
+      "value": "bastadeinflacion.com",
+      "x_opencti_description": "Sneaky2FA/Sneaky2FA-iocs-02-22-2025.txt"
+    }
+  ]
+}
