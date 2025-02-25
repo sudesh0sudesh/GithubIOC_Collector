@@ -1,0 +1,22 @@
+{
+  "type": "bundle",
+  "id": "bundle--207a4c83-99da-487d-8a0c-17aae8ca7c4f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b794ff40-60e2-5d1c-8b2f-1061effbbf99",
+      "value": "103.234.54.179",
+      "x_opencti_description": "2025-02-25-IOCs-Stately-Taurus-Pubload-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--caaf059a-f1f4-547c-8f7a-0570b61085c1",
+      "hashes": {
+        "SHA-256": "d665f55555f87b515cb8ef1adce9592a83662a8c4efa34f6ffdd022475bd176a"
+      },
+      "x_opencti_description": "2025-02-25-IOCs-Stately-Taurus-Pubload-activity.txt"
+    }
+  ]
+}
