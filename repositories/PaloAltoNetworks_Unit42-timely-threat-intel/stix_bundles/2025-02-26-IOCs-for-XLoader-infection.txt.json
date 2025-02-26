@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--bcaec097-360c-46a2-85f4-2f5aaf5d4e99",
+  "id": "bundle--586ea518-d7ed-406e-b091-30e0cc910a6f",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -21,6 +21,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--6ac47564-ba1e-515f-add3-518b6bd74ab0",
       "value": "162.158.159.20",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--292fd242-fbc7-5179-a4ff-242f7ad637a8",
+      "value": "https://www.linkedin.com/posts/unit42_xloader-formbook-malspam-activity-7300644313238016000-5EnT",
       "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
     },
     {
