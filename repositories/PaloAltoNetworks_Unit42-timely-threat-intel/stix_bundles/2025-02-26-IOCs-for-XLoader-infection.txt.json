@@ -1,0 +1,215 @@
+{
+  "type": "bundle",
+  "id": "bundle--bcaec097-360c-46a2-85f4-2f5aaf5d4e99",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ec7b6745-f296-5826-ab1d-1c50fb49f37f",
+      "value": "162.241.139.204",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7019297f-8c7a-5808-9daa-0d5384a6587e",
+      "value": "173.225.105.73",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6ac47564-ba1e-515f-add3-518b6bd74ab0",
+      "value": "162.158.159.20",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7578d9fc-59bc-53c8-bdb0-66f84b8633f0",
+      "value": "https://www.acronis.com/en-us/cyber-protection-center/posts/trojan-as-a-service-from-formbook-to-xloader",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--497817a4-dd1a-5ce4-b34a-872e1477b53c",
+      "value": "https://attack.mitre.org/techniques/T1574/002",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d34158f-dca5-5b89-846e-32a4420f6ee5",
+      "value": "5350184.suv4x4custom.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d34158f-dca5-5b89-846e-32a4420f6ee5",
+      "value": "5350184.suv4x4custom.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08033ea5-9d19-5c77-b080-0911d9ac7d25",
+      "value": "sima.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2106a4e-f076-558d-8158-2f20aa8974a0",
+      "value": "basurishop.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d69ca2e9-d1d5-50ed-8600-6356d89f31df",
+      "value": "www.autoabmeldung.net",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--91a5c267-be24-5f72-b6bf-24c258932eb1",
+      "value": "www.awhgfr.info",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17754c22-1576-544a-aaee-c9c0b859d880",
+      "value": "www.camgirlsporn.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--65f910c7-b1e2-5a28-b746-054783fa2c1a",
+      "value": "www.carfie.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14fa5112-3d83-51de-abbc-76acbcfaff6e",
+      "value": "www.covsds.info",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fd186ff6-3b62-5e51-b0d1-6b72484038d2",
+      "value": "www.dilgxp.info",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--71ef4641-c10f-5d8c-aab7-d86d1bba0c5e",
+      "value": "www.enkisan.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--951610a8-2058-514b-bb35-69b1ba86cb0e",
+      "value": "www.fz977.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfade7d4-9a2c-5bac-9fdb-f23e637d47f1",
+      "value": "www.gr",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f9ecfe1-d233-57fd-86fc-4e777eae7051",
+      "value": "www.inegatu.info",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd63676f-4666-52b2-be8f-5aa2d69743e8",
+      "value": "www.maceoconsultores.net",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a1dad50-e184-5700-bcd4-5a8b154c53ea",
+      "value": "www.superhoroz.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5ff237f-5771-5a26-9b75-d0d37adfab72",
+      "value": "www.yusufzdemir.xyz",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a9d454b-95c4-5d3f-98f6-91b86d501077",
+      "hashes": {
+        "SHA-256": "a32093a900a13c4812ec5cd176f1aee4340b7d88322f41d07d7e0348d897e746"
+      },
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a26ed60-2721-52df-ad30-8ca9a02021a9",
+      "hashes": {
+        "SHA-256": "5807b25a7c109110ba44e9828852111a10e7beb3f85b1af8af81a9d6ec1369c5"
+      },
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a86ecdb-7b95-5b62-9d9e-b878e96d28e5",
+      "hashes": {
+        "SHA-256": "3aa5e5fe507a59cbdb3f47dadf16f4609f079383a4471e3a18aa6dbed398b71a"
+      },
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--6cdbf0ae-807e-5fd4-8e47-36215eafe10f",
+      "value": "noreply@sima.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--ae182a01-e74e-5162-b072-466919aef4a1",
+      "value": "JMTob8otwuh3c4H1oWDEvYIx4MAyM5w1wYficVj7DM@basurishop.com",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--964d5cbf-edde-5533-84dc-f39daafc71ea",
+      "value": "Electromech.pdf",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--964d5cbf-edde-5533-84dc-f39daafc71ea",
+      "value": "Electromech.pdf",
+      "x_opencti_description": "2025-02-26-IOCs-for-XLoader-infection.txt"
+    }
+  ]
+}
