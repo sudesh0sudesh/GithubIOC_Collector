@@ -31,8 +31,8 @@ The following sources are being collected and parsed:
 
 4. **Cisco-Talos/IOCs**
    - Repository: [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs)
-   - Latest commit: 57e6215da469eea1244cf83ecf02ed27cba00505
-   - Last updated: 2025-02-25 11:25:34
+   - Latest commit: c0852fc70861405845d3f917a9d7422c093f4738
+   - Last updated: 2025-02-27 10:35:21
 
 5. **pan-unit42/iocs**
    - Repository: [pan-unit42/iocs](https://github.com/pan-unit42/iocs)
