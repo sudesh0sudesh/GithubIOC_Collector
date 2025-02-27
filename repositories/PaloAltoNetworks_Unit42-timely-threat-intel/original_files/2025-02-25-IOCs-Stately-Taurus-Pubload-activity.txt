@@ -7,8 +7,8 @@ AUTHOR:
 NOTES:
 
 - Stately Taurus is our designator for a China-based cyberespionage threat actor first observed in 2017, but possibly active since at least 2012.
-- This group has recently targeted government and military entities in Myanmar, Nepal, the Philippines, and Sri Lanka.
-- A file masquerading as CCleanerReactivator has been observed leading to PubLoad malware infection. 
+- This group has recently targeted government and military entities in Myanmar, Nepal, and Sri Lanka.
+- A sample masquerading as CCleanerReactivator has been observed leading to PubLoad malware infection. 
 - We continue to track infrastructure and malware associated with this group.
 
 SHA256 HASH FOR PUBLOAD SAMPLE:
