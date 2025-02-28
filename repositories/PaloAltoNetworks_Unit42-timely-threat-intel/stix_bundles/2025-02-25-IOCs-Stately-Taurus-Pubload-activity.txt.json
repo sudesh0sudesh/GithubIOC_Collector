@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--f4468dfc-410b-4bf1-9694-9920dea412b5",
+  "id": "bundle--1db229f5-c686-4113-8bd7-a3d2deedaa88",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--b794ff40-60e2-5d1c-8b2f-1061effbbf99",
       "value": "103.234.54.179",
+      "x_opencti_description": "2025-02-25-IOCs-Stately-Taurus-Pubload-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--a59fb6b3-b936-5a16-9ca7-e21dd9aac42f",
+      "value": "https://www.linkedin.com/posts/unit42_statelytaurus-pubload-infrastructure-activity-7300939017640886272-QmqA",
       "x_opencti_description": "2025-02-25-IOCs-Stately-Taurus-Pubload-activity.txt"
     },
     {
