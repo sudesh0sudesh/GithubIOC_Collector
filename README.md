@@ -111,8 +111,8 @@ The following sources are being collected and parsed:
 
 20. **prodaft/malware-ioc**
    - Repository: [prodaft/malware-ioc](https://github.com/prodaft/malware-ioc)
-   - Latest commit: 492299176ae0be58820e401f0580fd6cb6cb6b95
-   - Last updated: 2025-02-24 14:49:16
+   - Latest commit: a26a85be54472df83b36357fe146457067711714
+   - Last updated: 2025-03-04 11:25:14
 
 21. **WithSecureLabs/iocs**
    - Repository: [WithSecureLabs/iocs](https://github.com/WithSecureLabs/iocs)
