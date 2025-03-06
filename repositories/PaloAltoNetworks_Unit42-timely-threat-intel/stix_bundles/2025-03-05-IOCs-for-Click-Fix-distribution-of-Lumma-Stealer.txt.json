@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--69a7db8a-c381-4950-8cb7-e53a3b874de7",
+  "id": "bundle--89e148fe-5933-4de8-b79d-3a78ea3e1e72",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9470fbdc-0bd8-5dd5-abf9-4f9274cd031e",
+      "value": "https://www.linkedin.com/posts/unit42_clickfix-lummastealer-activity-7303479506592243712-2Ncf",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
