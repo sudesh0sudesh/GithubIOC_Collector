@@ -1,0 +1,181 @@
+{
+  "type": "bundle",
+  "id": "bundle--9b4bc323-6fa7-4205-ae78-d03898d802fa",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--621a5c88-b3b5-5503-8505-5b564c80d345",
+      "value": "https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16b01b0f-3041-5aa2-8e76-6c81a1408e3a",
+      "value": "2h98.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--384cdfab-eeee-56a1-821c-d8ace1c976b1",
+      "value": "etc.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7724c858-ca69-5d57-b8f2-08ffd13f9cc2",
+      "value": "courtfees.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f29e91a5-377a-5c2e-a2f4-dd373f70a081",
+      "value": "fastrakeu.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecd2d70e-aa55-54ec-b433-0dcaed9fd100",
+      "value": "penalty.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d03661dd-41af-51f8-a5cc-5885fedd28b3",
+      "value": "securebill.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a680d4e9-0a8b-5f6f-903c-d3ee62e434ae",
+      "value": "securetta.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c275791b-97b2-5363-bb57-51844d4a3ef4",
+      "value": "ticketd.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cede4dc7-d537-520f-ba44-d9fe532ef3b4",
+      "value": "tickeuz.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--feec4999-8dcd-5757-9446-76f0630cb014",
+      "value": "ucla.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9cdf29f3-46f5-5d4c-a173-a5166c429606",
+      "value": "ezdrive.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--16b01b0f-3041-5aa2-8e76-6c81a1408e3a",
+      "value": "2h98.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--451a7eaa-480b-51fd-bb50-a689c7edb921",
+      "value": "ezdrivema.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--384cdfab-eeee-56a1-821c-d8ace1c976b1",
+      "value": "etc.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9774eb52-dc21-58b0-be41-a46b7e5af427",
+      "value": "zpassiag.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7724c858-ca69-5d57-b8f2-08ffd13f9cc2",
+      "value": "courtfees.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e4c4902-a85d-5a65-986a-e96360e24294",
+      "value": "thetollroads.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f29e91a5-377a-5c2e-a2f4-dd373f70a081",
+      "value": "fastrakeu.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--451a7eaa-480b-51fd-bb50-a689c7edb921",
+      "value": "ezdrivema.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a680d4e9-0a8b-5f6f-903c-d3ee62e434ae",
+      "value": "securetta.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--405dad21-303e-5002-ab20-d8db4d25dd28",
+      "value": "zpassny.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c275791b-97b2-5363-bb57-51844d4a3ef4",
+      "value": "ticketd.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f3aca05-cd50-563a-a8fe-52545cbfb208",
+      "value": "getipass.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cede4dc7-d537-520f-ba44-d9fe532ef3b4",
+      "value": "tickeuz.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    }
+  ]
+}
