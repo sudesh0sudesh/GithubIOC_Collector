@@ -14,7 +14,7 @@ NOTES:
   -- Registering domain names that mimic domain names used by legitimate services.
   -- Impersonating different legitimate services to convince users to paste malicious script into a run window.
   -- Also abusing legitimate services like Google Sites to host these malicious pages.
-  -- Using data binaries that contain a combination of text binary data that execute as PowerShell script.
+  -- Using data binaries that contain a combination of text and binary data that execute as PowerShell script.
   -- Using zip archives that contain decoy files and a legitimate EXE to side-load a Lumma Stealer DLL.
 
 - This post contains some recent indicators and two examples of malicious pages impersonating legitimate services.
@@ -26,7 +26,7 @@ ACTIVE DOMAIN AND URL HOSTING PAGES IMPERSONATING LEGITIMATE SERVICES:
 - windows-update[.]site  <-- site active, domain registered on 2025-02-19
 - sites[.]google[.]com/view/get-access-now-test/verify-your-account
 
-OTHER DOMAINS ASSOCIATED WITH THIS CAMPAIGN:
+OTHER DOMAINS ASSOCIATED WITH THESE CAMPAIGNS:
 
 (Read: date registered: domain name)
 
@@ -119,7 +119,7 @@ EXAMPLE OF POWERSHELL COMMAND SENT TO COPY/PASTE BUFFER FOR VICTIM TO PASTE INTO
 
 URL FROM THE ABOVE POWERSHELL COMMAND:
 
-- hxxps[:]//overcoatpassably.shop/Z8UZbPyVpGfdRS/maloy[.]mp4
+- hxxps[:]//overcoatpassably[.]shop/Z8UZbPyVpGfdRS/maloy[.]mp4
 
 FOLLOW-UP TRAFFIC:
 
@@ -129,6 +129,6 @@ ASSOCIATED FILE:
 
 - SHA256 hash: 15c80b5be235bf2a8c38291eb697a702c07dde087eb459e9ea46a2bee17c5f03
 - File size: 2,461,812 bytes
-- File location: hxxps[:]//overcoatpassably.shop/Z8UZbPyVpGfdRS/maloy[.]mp4
+- File location: hxxps[:]//overcoatpassably[.]shop/Z8UZbPyVpGfdRS/maloy[.]mp4
 - File type: data
 - File description: combination of ASCII text and binary data that can be run as PowerShell script
