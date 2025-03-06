@@ -1,0 +1,151 @@
+{
+  "type": "bundle",
+  "id": "bundle--98db7ac3-8bd8-4928-bc6f-3b519aa6ac0a",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b358966a-da33-5c34-9161-51c1464d26c7",
+      "value": "38.14.255.23",
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fd1f83f6-98d0-58a4-848e-7ab790925b6a",
+      "value": "118.31.18.77",
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b358966a-da33-5c34-9161-51c1464d26c7",
+      "value": "38.14.255.23",
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b358966a-da33-5c34-9161-51c1464d26c7",
+      "value": "38.14.255.23",
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d661f053-8ca7-56c8-8b7e-fb4d4bbd97da",
+      "hashes": {
+        "SHA-256": "a2f493769c0cd1cb3518571678f071588d683703ed368830f15405c1eb4028b2"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--51f88be9-d5cf-5829-afc6-457c2bb90f5d",
+      "hashes": {
+        "SHA-256": "73d908725a08dcfebf300ef187dab1c5ba1c3cba8343c678df49335ba7e89e47"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5240b95b-9f91-5125-a3a5-6c224eb3aab7",
+      "hashes": {
+        "SHA-256": "83290b2f6e7b3fb1bcfa90ed1e550acaeb85c7dc0cb4476b35818436af9395d2"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2d6c54d-029f-51bb-b82f-97f5baf8bf80",
+      "hashes": {
+        "SHA-256": "cec655cc4c6bfcbc336d3afc4e5537e619bcf58329d291a51f39b3d3a250e962"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--218369e3-9e76-52fc-af5b-c884599f9cff",
+      "hashes": {
+        "SHA-256": "ccedc244ad5933537231139e24b4cad0df3e44d3b2944ef3b28dea5973396185"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3a56df05-5ed8-5e6a-bda5-7545560a82b3",
+      "hashes": {
+        "SHA-256": "f7396835d69675b138d0e2bee9b4ceb0a048bf705cb2f1012f1eee51e406d6e6"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ea8a3ec-8401-5447-a24b-df3399725b47",
+      "hashes": {
+        "SHA-256": "6b5a75dcc505ac1c065844be27ee6d4693ac51abfc04aaf9bbfc1a06e69a19fd"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6623d52-e9a7-5fd8-b527-9851de8025e3",
+      "hashes": {
+        "SHA-256": "ad5f610e8fb4f0d74d5d761532c8c8b2b9e01a2a402ba89389794d15ecca8337"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20469484-b077-59ed-ad2f-1e4ca7c2b52d",
+      "hashes": {
+        "SHA-256": "07d8a505492566daeb6174c312a4f7114dc60efcd1d17fef12ca0b8d6303fb2b"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d18885e-4c45-54ae-bc94-96533ca02300",
+      "hashes": {
+        "SHA-256": "8015b6036ecbae1f9e850af6bdf361d7598201cd4d4c55ae334ed72cf17ba94d"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe4d991f-5fbf-5682-829d-716e559677f3",
+      "hashes": {
+        "SHA-256": "0ff87724012499381266e5eb8481117ed4549f44fa88be2c517afee899c2179f"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8145c483-a3b7-58ae-aa81-671ed5476f24",
+      "hashes": {
+        "SHA-256": "829c5a07b065b15969ea8c519705d64fc4c1c39c05e898fc9abfbdb289c484d5"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--36941704-196f-53d8-ab3a-b34bb45bd865",
+      "hashes": {
+        "SHA-256": "3c6511b15e3b0e8c378a549347fa0f0745fd371aaa86206cb03528fdc0a23b29"
+      },
+      "x_opencti_description": "2025/02/new-persistent-attacks-japan.txt"
+    }
+  ]
+}
