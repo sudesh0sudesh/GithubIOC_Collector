@@ -1,14 +1,14 @@
-2025-03-06 (THURSDAY): OVER 10K DOMAINS REGISTERED FOR SMISHING IMPERSONATING TOLL SERVICES
+2025-03-06 (THURSDAY): OVER 10K DOMAINS REGISTERED FOR SMISHING IMPERSONATING TOLL AND PACKAGE DELIVERY SERVICES
 
 AUTHOR:
 
 - Reethika Ramesh
 
-
 NOTES:
 
 - A Threat actor leveraging the same domain pattern has registered over 10k domains for various SMS phishing (smishing) scams.
 - The root domain names all begin with the string: com-
+- Since the root domain begins with "com-" next to a subdomain, the full domain might trick potential victims doing a casual inspection.
 - The domain names indicate pages impersonate toll services and package delivery services in at least 10 US states and one Canadian province.
   -- US states: California, Florida, Illinois, Kansas, Massachusetts, Pennsylvania, New Jersey, New York, Texas, Virginia
   -- Canada province: Ontario
@@ -35,12 +35,17 @@ NOTES:
 - com-tickeuz[.]xin
 - com-ucla[.]xin
 
-7 EXAMPLES OF FULLY QUALIFIED DOMAIN NAMES (FQDNs) FROM THIS CAMPAIGN:
+12 EXAMPLES OF FULLY QUALIFIED DOMAIN NAMES (FQDNs) FROM THIS CAMPAIGN:
 
+- dhl.com-new[.]xin
+- driveks.com-jds[.]xin
 - ezdrive.com-2h98[.]xin
 - ezdrivema.com-citations-etc[.]xin
-- e-zpassiag.com-courtfees[.]xin
-- thetollroads.com-fastrakeu[.]xin
 - ezdrivema.com-securetta[.]xin
+- e-zpassiag.com-courtfees[.]xin
 - e-zpassny.com-ticketd[.]xin
+- fedex.com-fedexl[.]xin
 - getipass.com-tickeuz[.]xin
+- sunpass.com-ticketap[.]xin
+- thetollroads.com-fastrakeu[.]xin
+- usps.com-tracking-helpsomg[.]xin

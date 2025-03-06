@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--9b4bc323-6fa7-4205-ae78-d03898d802fa",
+  "id": "bundle--d2af721f-c2aa-4d7d-9682-7129b31716dd",
   "objects": [
     {
       "type": "url",
@@ -82,6 +82,34 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
+      "id": "domain-name--dc3d562b-1d6d-5102-9e5a-398e1e127a29",
+      "value": "dhl.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de3da46f-8b14-5615-9aad-82bcbb78651c",
+      "value": "new.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c44fbe2e-b827-5033-be4f-86888a5f4ec9",
+      "value": "driveks.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b421dc2-b014-59b6-aa28-c491cc910e58",
+      "value": "jds.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
       "id": "domain-name--9cdf29f3-46f5-5d4c-a173-a5166c429606",
       "value": "ezdrive.com",
       "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
@@ -110,34 +138,6 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--9774eb52-dc21-58b0-be41-a46b7e5af427",
-      "value": "zpassiag.com",
-      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--7724c858-ca69-5d57-b8f2-08ffd13f9cc2",
-      "value": "courtfees.xin",
-      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--5e4c4902-a85d-5a65-986a-e96360e24294",
-      "value": "thetollroads.com",
-      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--f29e91a5-377a-5c2e-a2f4-dd373f70a081",
-      "value": "fastrakeu.xin",
-      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
       "id": "domain-name--451a7eaa-480b-51fd-bb50-a689c7edb921",
       "value": "ezdrivema.com",
       "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
@@ -147,6 +147,20 @@
       "spec_version": "2.1",
       "id": "domain-name--a680d4e9-0a8b-5f6f-903c-d3ee62e434ae",
       "value": "securetta.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9774eb52-dc21-58b0-be41-a46b7e5af427",
+      "value": "zpassiag.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7724c858-ca69-5d57-b8f2-08ffd13f9cc2",
+      "value": "courtfees.xin",
       "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
     },
     {
@@ -166,6 +180,20 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
+      "id": "domain-name--cb616870-a804-5b8f-b34d-08f9cd3fdc41",
+      "value": "fedex.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--abfb0b59-8274-5adf-b368-a1127f848c3f",
+      "value": "fedexl.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
       "id": "domain-name--3f3aca05-cd50-563a-a8fe-52545cbfb208",
       "value": "getipass.com",
       "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
@@ -175,6 +203,48 @@
       "spec_version": "2.1",
       "id": "domain-name--cede4dc7-d537-520f-ba44-d9fe532ef3b4",
       "value": "tickeuz.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5f4ce78-ddc2-5ed8-af13-5088ccce0b77",
+      "value": "sunpass.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecabac6a-bbef-533b-9e88-9a52c67d9f60",
+      "value": "ticketap.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e4c4902-a85d-5a65-986a-e96360e24294",
+      "value": "thetollroads.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f29e91a5-377a-5c2e-a2f4-dd373f70a081",
+      "value": "fastrakeu.xin",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b653df7a-ee15-514b-b6d6-ebdc4baa4c13",
+      "value": "usps.com",
+      "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06ab4417-55b7-51ba-b317-eb73f841fe56",
+      "value": "helpsomg.xin",
       "x_opencti_description": "2025-03-06-IOCs-for-smishing-activity.txt"
     }
   ]
