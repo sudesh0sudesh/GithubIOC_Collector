@@ -83,7 +83,7 @@ INACTIVE LUMMA STEALER C2 DOMAINS THAT DID NOT RESOLVE TO AN IP ADDRESS:
 - quietswtreams[.]life
 - earthsymphzony[.]today
 
--ASSOCIATED MALWARE:
+ASSOCIATED MALWARE:
 
 - SHA256 hash: 909ed8a1351f9a21ebdd5d8efb4147145f12d5d24225dbd44cd2800a1f94a596
 - File size: 4,958 bytes
@@ -91,7 +91,7 @@ INACTIVE LUMMA STEALER C2 DOMAINS THAT DID NOT RESOLVE TO AN IP ADDRESS:
 - File type: UTF-8 Unicode text, with CRLF line terminators
 - File description: PowerShell script retrieved and run by copy/pasted PowerShell command
 
- SHA256 hash: 0608775a345c5a0869418ffddd1f694cb888fe8acde6d34543516db1a01e3ef8
+- SHA256 hash: 0608775a345c5a0869418ffddd1f694cb888fe8acde6d34543516db1a01e3ef8
 - File size: 7,714,905 bytes
 - File location: hxxps[:]//plsverif[.]cfd/1.zip
 - File location: C:\Users\[username]\AppData\Local\Temp\download.zip
