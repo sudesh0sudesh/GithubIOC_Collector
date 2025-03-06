@@ -1,0 +1,98 @@
+{
+  "type": "bundle",
+  "id": "bundle--1ee3f5f6-f6e4-4bf0-8300-861ad03d8eb6",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4121eabd-a151-53d2-9b33-eba08c5532f7",
+      "value": "safeguard.com",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f14506a-fb58-5b6d-a354-b90804c976a1",
+      "value": "berachain.net",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ff288b1-f6d2-568d-bafe-cb8ccf012903",
+      "value": "hyperfoundation.net",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75f5944a-d257-5e54-85df-9b707f876ae9",
+      "value": "security3.com",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--80546fa6-bb2c-5e38-8927-1acd4b5a0c06",
+      "value": "codxefusion.top",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1166059-9222-55be-8712-3c85ef560e58",
+      "value": "techspherxe.top",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ffdc2bf-3bf1-577d-88a5-15d00db5aed4",
+      "value": "farmingtzricks.top",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0ebfdcb8-c8e2-5a2c-972e-a15e554528c6",
+      "hashes": {
+        "SHA-256": "909ed8a1351f9a21ebdd5d8efb4147145f12d5d24225dbd44cd2800a1f94a596"
+      },
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02834b1a-d823-5ef5-b449-65ab03439d7c",
+      "hashes": {
+        "SHA-256": "0608775a345c5a0869418ffddd1f694cb888fe8acde6d34543516db1a01e3ef8"
+      },
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5773e942-3632-586c-9749-f3129c3f6daa",
+      "hashes": {
+        "SHA-256": "b3e8b610efc0eef57332e50c29b54b0da5f497de1452d5e178009a0f354d7058"
+      },
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6d58d3b-816f-58f9-a33d-0917f17e0855",
+      "hashes": {
+        "SHA-256": "15c80b5be235bf2a8c38291eb697a702c07dde087eb459e9ea46a2bee17c5f03"
+      },
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd63c014-8dfe-563f-9564-8a248e12e3bb",
+      "value": "1.txt",
+      "x_opencti_description": "2025-03-05-IOCs-for-Click-Fix-distribution-of-Lumma-Stealer.txt"
+    }
+  ]
+}
