@@ -36,8 +36,8 @@ The following sources are being collected and parsed:
 
 5. **pan-unit42/iocs**
    - Repository: [pan-unit42/iocs](https://github.com/pan-unit42/iocs)
-   - Latest commit: e98075658cf68700ea0eccd4d9611afa9413bb46
-   - Last updated: 2025-01-30 22:12:11
+   - Latest commit: 009aa7c4ea1cd04d8915755ec99ae303c13c03c4
+   - Last updated: 2025-03-07 18:18:34
 
 6. **akamai/akamai-security-research**
    - Repository: [akamai/akamai-security-research](https://github.com/akamai/akamai-security-research)
