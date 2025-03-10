@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--83b79378-d5ab-4b73-9954-79167642d22b",
+  "id": "bundle--e588a943-9271-419e-ae00-9bebbfcd0489",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -14,6 +14,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--8e990c16-39c4-5983-ba34-23027b8efb95",
       "value": "206.123.152.51",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--62495866-a2f1-5fe5-9a12-ce8889456c0f",
+      "value": "https://www.linkedin.com/posts/unit42_remcos-rat-keylogger-activity-7304958245322768385-tu-a",
       "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
     },
     {
