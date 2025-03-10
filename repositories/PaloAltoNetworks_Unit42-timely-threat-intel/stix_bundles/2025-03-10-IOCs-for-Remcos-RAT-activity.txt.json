@@ -1,0 +1,103 @@
+{
+  "type": "bundle",
+  "id": "bundle--45614e16-f4ce-45fc-8ccd-92db72be02ec",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--34872442-611a-5057-aadf-c65c2321d1e2",
+      "value": "54.38.59.202",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8e990c16-39c4-5983-ba34-23027b8efb95",
+      "value": "206.123.152.51",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--792aa659-9848-5feb-8e2e-af630922929d",
+      "value": "ara.biz.pl",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--792aa659-9848-5feb-8e2e-af630922929d",
+      "value": "ara.biz.pl",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dc1fb2c4-9e60-5cbe-b4b3-a5b36f1607d8",
+      "value": "hftook7lmaroutsg1.duckdns.org",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b8f17da-cffe-547c-ba1c-891b1170a040",
+      "hashes": {
+        "SHA-256": "f21e796e0ea71e76542d7196593ad8337012760d9183eb5abdb78c74e4702531"
+      },
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bbb48405-6725-5a7d-ad7e-3df1683a992b",
+      "hashes": {
+        "SHA-256": "f6946b226d21d0f716980980d61ef1a6ca429bed0c42c4ad51c9d813ee626469"
+      },
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07da35e1-343a-5f38-8f0f-c5afda702cda",
+      "hashes": {
+        "SHA-256": "1b0eb55bb50d0286b192accbe408826c4c2e6c59a78d52743ce4f84ac0b1d6d0"
+      },
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "email-addr",
+      "spec_version": "2.1",
+      "id": "email-addr--5d50152c-47da-58a4-8f72-0aa4a5513676",
+      "value": "laser@ara.biz",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--792aa659-9848-5feb-8e2e-af630922929d",
+      "value": "ara.biz.pl",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07c5bf1d-481f-5d4b-9bb5-64cb5eadb1da",
+      "value": "CIPL.7z",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07c5bf1d-481f-5d4b-9bb5-64cb5eadb1da",
+      "value": "CIPL.7z",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5e17d9e9-7ab4-52c6-b842-ea8e7a74a7af",
+      "value": "CIPL.bat",
+      "x_opencti_description": "2025-03-10-IOCs-for-Remcos-RAT-activity.txt"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿2025-03-10 (MONDAY): REMCOS RAT ACTIVITY
+
+AUTHOR:
+
+- Bradley Duncan
+
+NOTES:
+
+- Email remains a consistent vector for malware distribution.
+- Most of these emails are caught by spam traps and other security filters.
+- Criminals continue trying different methods to sneak malware past this filtering.
+- One such method is using a different file extension for an attached zip archive.
+- In this example, the email attachment is a zip archive that uses a file extension for a 7-Zip archive.
+- On a Windows 11 host, File Manager extracted the malware from the zip archive, 
+  even though the file archive used a .7z file extension, and 7-Zip was not installed on the system.
+
+INFECTION CHAIN:
+
+- email --> attached archive --> extracted script file with .bat extension
+
+EMAIL INFO:
+
+- Received: from ara[.]biz[.]pl (unknown [54.38.59[.]202])
+- Date: 2025-03-09 05:15:09 UTC
+- From: Cristina Madlos <laser@ara[.]biz[.]pl>
+- Subject: REF : MDRHZBOL2503407N2    BOOKING NO: BOL2503407N2   SO NO:  181CN25E0110247M1  // CIF
+- Attachment name: MDRHZBOL2503407N2 CIPL.7z
+
+EMAIL ATTACHMENT:
+
+- SHA256 hash: f21e796e0ea71e76542d7196593ad8337012760d9183eb5abdb78c74e4702531
+- File size: 535,272 bytes
+- File name: MDRHZBOL2503407N2 CIPL.7z
+- File type: Zip archive data, at least v2.0 to extract
+
+EXTRACTED MALWARE:
+
+- SHA256 hash: f6946b226d21d0f716980980d61ef1a6ca429bed0c42c4ad51c9d813ee626469
+- File size: 726,568 bytes
+- File name: MDRHZBOL2503407N2 CIPL.bat
+- File type: ASCII text, with very long lines, with CRLF line terminators
+
+REMCOS RAT C2 TRAFFIC:
+
+- 206.123.152[.]51 port 3980 - hftook7lmaroutsg1.duckdns[.]org - TCP traffic
+
+IP ADDRESS CHECK BY THE INFECTED WINDOWS HOST:
+
+- hxxp[:]//geoplugin[.]net/json.gp
+
+FOLLOW-UP BROWSER PASSWORD VIEWER TOOL SENT THROUGH REMCOS RAT C2 TRAFFIC:
+
+- SHA256 hash: 1b0eb55bb50d0286b192accbe408826c4c2e6c59a78d52743ce4f84ac0b1d6d0
+- File size: 698,895 bytes
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: 
+
+COPIES OF THE ORIGINAL SCRIPT FILE FOUND ON AN INFECTED WINDOWS HOST:
+
+- C:\Users\[username]\dwm.bat
+- C:\Users\[username]\Appdata\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\StartupScript_d7b85a22.cmd
+- C:\Users\[username]\Appdata\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\StartupScript_e0a9e9c0.cmd
+
+DATA FILE USED BY AN OFFLINE KEYLOGGER:
+
+- C:\Users\[username]\Appdata\Roaming\dasgbtisot.dat
+
+REGISTRY UPDATE:
+
+- Key location: HKCU\Software\kmbgnrgsd-2X9W02
