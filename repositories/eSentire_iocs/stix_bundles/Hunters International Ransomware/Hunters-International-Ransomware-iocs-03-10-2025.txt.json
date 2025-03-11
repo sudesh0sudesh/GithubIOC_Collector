@@ -1,0 +1,109 @@
+{
+  "type": "bundle",
+  "id": "bundle--9b298b48-f1cf-490f-bcc0-deed3a7131f1",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c2c2d94-6594-5976-858c-9affb51b5df1",
+      "value": "192.155.106.11",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d5c7f36-d52d-5201-be57-2aca19ccaf03",
+      "value": "winscp.net",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ae5208e-70fb-5e9f-98f0-d417126e4e72",
+      "hashes": {
+        "SHA-1": "7ee1fd53457c9a73308ae98c01722aa2b9170ef1"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12d99238-b453-500c-8f61-3db0da4304a6",
+      "hashes": {
+        "SHA-1": "b5d2e0fbd6cd0f6a679fbf95e588c6a2dfd4d5dd"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e0502efb-852c-5c95-82e1-8e05d3297b99",
+      "hashes": {
+        "SHA-1": "07136cf4b61c53db7a802ff1e34d36b818ad077b"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--07573d05-d40a-5765-a27a-8dd039396b5b",
+      "hashes": {
+        "SHA-256": "d0c1662ce239e4d288048c0e3324ec52962f6ddda77da0cb7af9c1d9c2f1e2eb"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5a90eb6-863b-5f61-8e0d-9fedf21c0f57",
+      "hashes": {
+        "SHA-256": "26d5748ffe6bd95e3fee6ce184d388a1a681006dc23a0f08d53c083c593c193b"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--985bf74d-59ef-524a-800d-79984020080d",
+      "hashes": {
+        "SHA-256": "63e86d50bd3e28b2f19d86114f589ff12c85cebba208e05ece896bcf4dce2aa2"
+      },
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa33ce60-bcf4-5469-abb9-6ee31fe527f0",
+      "value": "port.exe",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--90952a8d-cab8-5d03-b088-34dee1da046b",
+      "value": "Rclone.exe",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf8f2794-334e-5d10-ad29-b7265f3c0f2c",
+      "value": "Setup.exe",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c18dc466-f281-56dd-b9cb-d811bc856e0d",
+      "value": "rclone.exe",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--410908c1-4f2b-5e66-a7f0-6aa6b6a4fbbe",
+      "value": "rundll32.exe",
+      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
+    }
+  ]
+}
