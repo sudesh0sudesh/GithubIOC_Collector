@@ -1,0 +1,45 @@
+{
+  "type": "bundle",
+  "id": "bundle--1c57d752-7dd2-4311-9d86-0ba630567c67",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--88a0ec85-a1de-534d-86c0-e715868d016d",
+      "value": "https://clearbit.com/blog/logo",
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f351f9b7-5cee-5095-b68b-39da6fe95ca3",
+      "value": "authenticationaccessvalidationprocess47358f83948of.quercus.org",
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4ce6016-5a7b-5931-8185-1d4576f9ec12",
+      "value": "webauthmailjp.agerespais.com",
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5911893f-1eef-5c13-b09a-f123b40a4795",
+      "hashes": {
+        "MD5": "0798b167efe449f3bd2a046e446b8a39"
+      },
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ea501ff2-41a7-5b20-8c95-119ddfa245a0",
+      "hashes": {
+        "MD5": "4cd90db9d4b14c9e955a0578e3e56332"
+      },
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    }
+  ]
+}
