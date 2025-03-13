@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--5e6f2f78-22f0-4c96-902a-b76cc548bcf3",
+  "id": "bundle--9fe45361-19bb-489e-af77-03cfdf6aa13a",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3dc96a13-9143-5d45-b078-24705bcf413d",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7306013718927089664-3Raf",
+      "x_opencti_description": "2025-03-12-IOCs-for-phishing-activity.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",
