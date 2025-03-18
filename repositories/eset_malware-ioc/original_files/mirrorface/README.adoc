@@ -1,11 +1,53 @@
-= MirrorFace: Operation LiberalFace -- Indicators of Compromise
+= MirrorFace – Indicators of Compromise
+
+== Operation AkaiRyū: MirrorFace invites Europe to EXPO 2025 and revives ANEL backdoor
+
+The blog post on MirrorFace is available on WeLiveSecurity at https://www.welivesecurity.com/en/eset-research/operation-akairyu-mirrorface-invites-europe-expo-2025-revives-anel-backdoor/
+
+=== Files
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+|SHA-1 |Filename |Detection |Description
+|`+018944FC47EE2329B23B74DA31B19E57373FF539+` |3b3cabc5 |Win32/MirrorFace.A |AES-encrypted ANEL.
+|`+68B72DA59467B1BB477D0C1C5107CEE8D9078E7E+` |vsodscpl.dll |Win32/MirrorFace.A |ANELLDR.
+|`+02D32978543B9DD1303E5B020F52D24D5EABA52E+` |AtokLib.dll |Win32/MirrorFace.A |ANELLDR.
+|`+2FB3B8099499FEE03EA7064812645AC781AFD502+` |CodeStartUser.bat |Win32/MirrorFace.A |Malicious batch file.
+|`+9B2B9A49F52B37927E6A9F4D6DDB180BE8169C5F+` |erBkVRZT.bat |Win32/MirrorFace.A |Malicious batch file.
+|`+AB65C08DA16A45565DBA930069B5FC5A56806A4C+` |useractivitybroker.xml |Win32/FaceXInjector.A |FaceXInjector.
+|`+875DC27963F8679E7D8BF53A7E69966523BC36BC+` |temp.log |Win32/MirrorFace.A |Malicious CAB file.
+|`+694B1DD3187E876C5743A0E0B83334DBD18AC9EB+` |tmp.docx |Win32/MirrorFace.A |Decoy Word document loading malicious template normal++_++.dotm.
+|`+F5BA545D4A16836756989A3AB32F3F6C5D5AD8FF+` |normal++_++.dotm |Win32/MirrorFace.A |Word template with malicious VBA macro.
+|`+233029813051D20B61D057EC4A56337E9BEC40D2+` |The EXPO Exhibition in Japan in 2025.docx.lnk |Win32/MirrorFace.A |Malicious LNK file.
+|`+8361F7DBF81093928DA54E3CBC11A0FCC2EEB55A+` |The EXPO Exhibition in Japan in 2025.zip |Win32/MirrorFace.A |Malicious ZIP archive.
+|`+1AFDCE38AF37B9452FB4AC35DE9FCECD5629B891+` |NK9C4PH++_++.zip |Win32/MirrorFace.A |Malicious ZIP archive.
+|`+E3DA9467D0C89A9312EA199ECC83CDDF3607D8B1+` |N/A |MSIL/Riskware.Rubeus.A |Rubeus.
+|`+D2C25AF9EE6E60A341B0C93DD97566FB532BFBE8+` |Tk4AJbXk.wsb |Win32/MirrorFace.A |Malicious Windows Sandbox configuration file.
+|===
+
+=== Network
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+|IP |Domain |Hosting provider |First seen |Details
+|`+N/A+` |`+vu4fleh3yd4ehpfpciinnwbnh4b77rdeypubhqr2dgfibjtvxpdxozid[.]onion+` |N/A |2024-08-28 |MirrorFace’s AsyncRAT C&C server.
+|`+N/A+` |`+u4mrhg3y6jyfw2dmm2wnocz3g3etp2xc5thzx77uelk7mrk7qtjmc6qd[.]onion+` |N/A |2024-08-28 |MirrorFace’s AsyncRAT C&C server.
+|`+208.85.18[.]4+` |`+N/A+` |Vultr Holdings, LLC |2024-08-27 |ANEL C&C server.
+|`+45.32.116[.]146+` |`+N/A+` |The Constant Company, LLC |2024-08-27 |ANEL C&C server.
+|`+104.233.167[.]135+` |`+N/A+` |PEG TECH INC |2024-08-27 |HiddenFace C&C server.
+|`+152.42.202[.]137+` |`+N/A+` |DigitalOcean, LLC |2024-08-27 |HiddenFace C&C server.
+|`+64.176.56[.]26+` |`+N/A+` |The Constant Company, LLC |N/A |Remote server for FRP client.
+|===
+
+
+== MirrorFace: Operation LiberalFace
 
 The blog post about MirrorFace is available on https://www.welivesecurity.com[WeLiveSecurity] at
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities
 
-== Host based indicators
+=== Host based indicators
 
-=== SHA-1 hashes
+==== SHA-1 hashes
 
 ----
 F4691FF3B3ACD15653684F372285CAC36C8D0AEF
@@ -15,18 +57,18 @@ A8D2BE15085061B753FDEBBDB08D301A034CE1D5
 E888A552B00D810B5521002304D4F11BC249D8ED
 ----
 
-=== ESET detection names
+==== ESET detection names
 
 - Win32/Agent.ACLP
 
-=== File names
+==== File names
 
 - `PART_01\【参考】220628<redacted>発・<redacted>選挙管理委員会宛文書（添書分）.exe`
 - `K7SysMon.Exe.db`
 - `31558_n.dll`
 
 
-== Network indicators
+=== Network indicators
 
 ----
 5.8.95[.]174
