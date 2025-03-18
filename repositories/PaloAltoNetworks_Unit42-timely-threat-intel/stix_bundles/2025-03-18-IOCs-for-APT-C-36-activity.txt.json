@@ -1,0 +1,331 @@
+{
+  "type": "bundle",
+  "id": "bundle--004de0f9-3587-4d8a-b1f1-66ab38f6c978",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e032a0e-8f06-5d2b-a8fa-b8de56ba22a1",
+      "value": "191.88.252.140",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
+      "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e032a0e-8f06-5d2b-a8fa-b8de56ba22a1",
+      "value": "191.88.252.140",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e032a0e-8f06-5d2b-a8fa-b8de56ba22a1",
+      "value": "191.88.252.140",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fb3a9903-c8d8-5b3a-bd53-736cfdefa036",
+      "value": "177.255.84.37",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--423a64a9-628e-57e2-820c-69caa4b6c55f",
+      "value": "https://research.checkpoint.com/2025/blind-eagle-and-justice-for-all",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c520fade-6759-5563-9e6f-f913dff78733",
+      "value": "ip.net",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c520fade-6759-5563-9e6f-f913dff78733",
+      "value": "ip.net",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a3c8503-1072-5684-ab09-8922e78f0e60",
+      "value": "ip.com",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--895532a8-fc07-59e1-b891-155166c828be",
+      "value": "usuariofebrero25.dedyn.io",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48fbf1b2-2282-5ccf-9320-2eb30368d986",
+      "value": "activistascol25.myonlineportal.net",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2183d240-f292-5e80-b30b-564f3c1e5815",
+      "value": "Camino003.duia.eu",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--3245068c-9d19-532f-8ee6-7b53e9752b4c",
+      "value": "https://attack.mitre.org/groups/G0099",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0409a21b-6d64-591d-9cbd-41e041d04610",
+      "value": "https://web.archive.org/web/20190625182633if_/https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4aee6fd6-e2e7-5349-8dc7-7a67fc9f5d4e",
+      "value": "https://malpedia.caad.fkie.fraunhofer.de/actor/apt-c-36",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b320dcb-dab9-579b-bfba-35346d2812bc",
+      "hashes": {
+        "SHA-256": "47569431f421ff3ecf20a7898515ef4af78c27f3d53303a57f7c4f4225787191"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--790be2a8-cde3-5eef-ba8c-aea87daea761",
+      "hashes": {
+        "SHA-256": "5335603a304e42c6fef4d2fe76cbb92cf1b136d2ec9bea5a648fc002f392f2b1"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--015b5a3e-726e-5606-8f7e-98b9255ac4a0",
+      "hashes": {
+        "SHA-256": "5590b65c4114fc8bb0eecad6cfe83b5efb1c667e57507a2c699812e282563f13"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b98d7bd9-0c60-5538-8295-0c8329363124",
+      "hashes": {
+        "SHA-256": "82788e1057e5d1634e5aa3d33b15b44899635a93c7da02ec96f6c793031b4dd1"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c4001b5-eb6f-5293-9276-af3b67ab7029",
+      "hashes": {
+        "SHA-256": "a08f11d4a8fd48e6f2dd5a3b1ea281e579f3f04293e67da8adb2ccd7b74acedb"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e8c7dea4-8b8d-5659-9591-13e298c2ec7d",
+      "hashes": {
+        "SHA-256": "cec6dceccc5b3937ab34de1bdd3c66cfa58875459fc5174194c89b5c4fa133d6"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1cf985d0-9096-5bd7-9412-5b3dd2bef45c",
+      "hashes": {
+        "SHA-256": "f7cc357c11576175e97990254bbb03e9764879a47e6dfd1ffcf06fb1dd192aad"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f9d3f78-74ed-5f6e-ab7d-12bc192900c3",
+      "hashes": {
+        "SHA-256": "157f03405b2658baa1ee8f76f4801403ffdeb217df37d8d95e867787608de6e3"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98a7241e-385e-5e06-b2b9-446c05548416",
+      "hashes": {
+        "SHA-256": "346530ea86a7fb02e7184736ed67363d736ba4fab6ab70f79129a962e61dd8fa"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2c1a0ce9-bbdf-50ba-abe1-38c4ac51f327",
+      "hashes": {
+        "SHA-256": "61fb41b9fcf85698908bd772155e7a3e27c8cc33e1ed233b67a3a3063f522b63"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64d82c20-60bc-59b4-9e4e-89ec4c86dba3",
+      "hashes": {
+        "SHA-256": "7234b5f14e83326a2f3db2c5180624c8c30da0495020caa4c80e5d03f14ebb56"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--003e36d3-9364-5e6e-a022-13c4b5d10785",
+      "hashes": {
+        "SHA-256": "83cc9395582825c673c7738afbb9f53a95b83aeb21365ad42703bcedf1ded219"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8aa68fa2-62da-5297-b701-6fecbaab0837",
+      "hashes": {
+        "SHA-256": "bf4ce102f2685d5c2e1096de43ea95c8eeaebb7378486ed02541226f1c1ada83"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--536efe69-773c-549c-b17f-e54e2130dfe5",
+      "hashes": {
+        "SHA-256": "e9df6fc0cd0fb856bd15a378653b76b33e9620735474daec01a413a205cf0832"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--708be330-c694-5ee5-9101-4edae66f202e",
+      "hashes": {
+        "SHA-256": "2ab78e5d801c37d36d0941f74105bbb49917a89761b104527acc594faf95dc3a"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9f70426-a8a4-570a-af78-3edc41be5c51",
+      "hashes": {
+        "SHA-256": "4deec3644eb9b38695579cd49eed7628d750d49b8c3ea59ce3e4989a823813bf"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e4fcd95-4e08-5801-9243-39b7586391e1",
+      "hashes": {
+        "SHA-256": "65d4f56e2813800de90ba1a3cbf13054fa238f233fc7b9db6a8caf1f2f987a90"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e037e3d-1f89-57df-9c68-cf1e268da497",
+      "hashes": {
+        "SHA-256": "ab9e926e4df55e4791b87167c7af7d58817e9b69b55cbaa8b54ce1ed3b032736"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1296cbb0-c303-5f09-bfd1-b71de58e44ed",
+      "hashes": {
+        "SHA-256": "dd3706144ba3f88dd1606e7d06e6b0ecc4b848108a5eb6c5612b8912da3bc6c2"
+      },
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    }
+  ]
+}
