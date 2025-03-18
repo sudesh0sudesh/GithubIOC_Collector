@@ -1,5 +1,6 @@
 62.60.226.112
 191.88.252.140
+191.88.252.140
 62.60.226.112
 62.60.226.112
 62.60.226.112
@@ -44,13 +45,13 @@ e9df6fc0cd0fb856bd15a378653b76b33e9620735474daec01a413a205cf0832
 65d4f56e2813800de90ba1a3cbf13054fa238f233fc7b9db6a8caf1f2f987a90
 ab9e926e4df55e4791b87167c7af7d58817e9b69b55cbaa8b54ce1ed3b032736
 dd3706144ba3f88dd1606e7d06e6b0ecc4b848108a5eb6c5612b8912da3bc6c2
-file[:]//\\62.60.226.112\file\590_9883.exe
-file[:]//\\62.60.226.112\file\2430_1471.exe
-file[:]//\\62.60.226.112\file\877_6120.exe
-file[:]//\\62.60.226.112\file\932_6199.exe
-file[:]//\\62.60.226.112\file\2744_6673.exe
-file[:]//\\62.60.226.112\file\4917_8531.exe
-file[:]//\\62.60.226.112\file\7309_9071.exe
+file[:]//\\62.60.226.112@80\file\590_9883.exe
+file[:]//\\62.60.226.112@80\file\2430_1471.exe
+file[:]//\\62.60.226.112@80\file\877_6120.exe
+file[:]//\\62.60.226.112@80\file\932_6199.exe
+file[:]//\\62.60.226.112@80\file\2744_6673.exe
+file[:]//\\62.60.226.112@80\file\4917_8531.exe
+file[:]//\\62.60.226.112@80\file\7309_9071.exe
 https[:]//github.com/fresas2025/fresa/raw/refs/heads/main/agropecuario.exe
 https[:]//github.com/fresas2025/fresa/raw/refs/heads/main/CON3.exe
 https[:]//github.com/fresas2025/fresa/raw/refs/heads/main/DesignsCornwall.exe

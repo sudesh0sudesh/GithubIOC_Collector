@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--6ab7893d-4724-4b98-afe5-facd25d122f4",
+  "id": "bundle--7a11e03f-e7ce-4227-a5de-93ce7042410a",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--29cf92d8-efe3-5da7-93a2-229d1171d242",
       "value": "62.60.226.112",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2e032a0e-8f06-5d2b-a8fa-b8de56ba22a1",
+      "value": "191.88.252.140",
       "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
     },
     {
