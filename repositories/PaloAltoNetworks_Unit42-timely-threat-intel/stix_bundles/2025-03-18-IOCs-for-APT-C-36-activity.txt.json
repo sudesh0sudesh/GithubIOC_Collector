@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--7a11e03f-e7ce-4227-a5de-93ce7042410a",
+  "id": "bundle--67d234db-053a-44e6-bec3-64c79120370b",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -91,6 +91,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--fb3a9903-c8d8-5b3a-bd53-736cfdefa036",
       "value": "177.255.84.37",
+      "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7f5980ed-d43e-5f72-b8b3-21051de1c3b9",
+      "value": "https://www.linkedin.com/posts/unit42_2025-03-18-tuesday-weve-found-new-infrastructure-activity-7307918496909139968-CWf7",
       "x_opencti_description": "2025-03-18-IOCs-for-APT-C-36-activity.txt"
     },
     {
