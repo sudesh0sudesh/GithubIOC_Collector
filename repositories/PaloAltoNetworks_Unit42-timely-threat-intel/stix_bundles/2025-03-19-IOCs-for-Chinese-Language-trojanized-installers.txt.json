@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--584761f3-c4c0-4bcc-88ce-5a34da9f0e44",
+  "id": "bundle--abbfd8af-5d62-4fde-b98a-465cf07b0096",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -306,6 +306,60 @@
       "id": "file--2d3528eb-9cba-5b6b-9793-bc31fba7c837",
       "hashes": {
         "SHA-256": "e5d6f7138fcccd1a579d681ef354c4660deab3c216f3db1a330a8212d99fbea1"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--48396351-9deb-5b98-889f-6d801af6b63c",
+      "hashes": {
+        "SHA-256": "0076f6ea4346af5ae43db08205664092029e06bb353e3406ee649e98723182eb"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--85cae93e-2eba-5991-bb23-5fab8c6870ef",
+      "hashes": {
+        "SHA-256": "1395627eca4ca8229c3e7da0a48a36d130ce6b016bb6da750b3d992888b20ab8"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2b122471-107a-50a2-9fc0-15b8c3d2df76",
+      "hashes": {
+        "SHA-256": "299e6791e4eb85617c4fab7f27ac53fb70cd038671f011007831b558c318b369"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e4bb8d3-f17a-5905-aa12-9c436be46535",
+      "hashes": {
+        "SHA-256": "45c62ebe5cd2441ca25a86ddc7023bc938c8d47f12ea626d5245875bf0a13c02"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a41d7320-a933-59b3-8312-8af09a68de44",
+      "hashes": {
+        "SHA-256": "77c12dcdacd58f1f0cbf032fcf52b18aa06cd30c8a763a4dd3b2216f9c78e9a4"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28657c0d-69e4-5567-9afe-4b95189a5202",
+      "hashes": {
+        "SHA-256": "c333e4ed8e0d5c3b1f26fa12f51a1dc66db4cca344a646061e2c95f305560aa9"
       },
       "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
     },
