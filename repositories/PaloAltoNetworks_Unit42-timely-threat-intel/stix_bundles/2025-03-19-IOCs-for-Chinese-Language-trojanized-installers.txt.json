@@ -1,0 +1,350 @@
+{
+  "type": "bundle",
+  "id": "bundle--584761f3-c4c0-4bcc-88ce-5a34da9f0e44",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ca6e2533-112f-5cf4-a384-a8fb7bf5b46e",
+      "value": "154.82.84.227",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b154e136-1c52-5bd6-8caa-08ac0ee09dad",
+      "value": "156.251.25.43",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2cae7441-c072-5b2c-823f-a9e2d2473330",
+      "value": "156.251.25.112",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bb5f8450-9dd1-5faa-ba41-13c2b71df7cb",
+      "value": "103.181.134.138",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--120b5377-5a3e-52c5-b31c-223268444155",
+      "value": "xiazailianjieoss.com",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0923801b-c2f1-524a-9d7e-13be7e35063c",
+      "value": "xiaobaituziha.com",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ae1ca746-a900-51a7-b268-6c83703c5ec1",
+      "value": "fs1.com",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--affd5c76-db08-50b1-99ed-b590a8c69828",
+      "value": "i4toolsearch.vip",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d2b38754-269c-5fc3-943c-fe5090e0ee84",
+      "value": "i4toolssddsl.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b00fc632-4a3a-5ea5-83c7-f6e2939e13b0",
+      "value": "i4toolssddzp.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e4b8321c-6070-5356-8a11-b1ed15e200a9",
+      "value": "i4toolssddzq.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f8c77a0c-4d14-5f98-929e-3031a2b4e4fd",
+      "value": "i4toolssddzr.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--121a0659-a76e-5a04-9d9f-58c7d5f73626",
+      "value": "i4toolssddzt.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--466c07e2-0072-5239-a247-455df71aa8ff",
+      "value": "i4toolssddzu.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b60059ab-9c5d-526a-aa75-96068289daed",
+      "value": "i4toolssddzw.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da5ce79e-78f3-5677-bfa2-54fdbc9bbdf2",
+      "value": "i4toolssddzy.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5de7eecc-95bd-525f-afcc-8f07af633d89",
+      "value": "i4toolssffna.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c166f605-7249-5d4d-bbf4-c597bcbdf9da",
+      "value": "i4toolssffnd.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6712f22a-0851-5466-95fc-801ece506436",
+      "value": "i4toolssffnf.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b08a4f32-54c2-5723-939f-880737e54e24",
+      "value": "i4toolssffng.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d3c5519d-2b8c-527b-ae0e-9bfad2dc3eaa",
+      "value": "i4toolssffnh.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--585611ec-f4bc-50f3-9dd7-bacf14dfecd8",
+      "value": "i4toolssffnj.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ed17745-e552-54f8-90b4-15c353f8c56d",
+      "value": "i4toolssffnl.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39fbdc7f-cbf3-579d-a664-931ad85f21e3",
+      "value": "youdaohhnf.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--294ab4a3-3825-5d22-bde3-5752c619bdb0",
+      "value": "youdaohhsh.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17a23718-bd7e-53b1-8424-6fee167297fd",
+      "value": "youdaohhvw.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--39136c34-e93a-5434-91da-b608dfba4e2f",
+      "value": "youdaohhvy.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc336840-16cd-5296-b9b2-30995cda72d3",
+      "value": "youdaohhxf.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b35b4108-941a-52ec-80a9-fd211919ff4a",
+      "value": "youdaohhzi.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1f33185-e38e-5002-85be-bfba420aa397",
+      "value": "youdaohhzy.top",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0923801b-c2f1-524a-9d7e-13be7e35063c",
+      "value": "xiaobaituziha.com",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a3ad0dd3-7795-5f22-8e4a-02d0848e9692",
+      "hashes": {
+        "SHA-256": "61bb32673e33c7aa1a0825e18629880b4d870fdeb4666d8b0ca954866d110a07"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--487116c3-6943-5af3-a91b-de2c3357edf5",
+      "hashes": {
+        "SHA-256": "c37d0c9c9da830e6173b71a3bcc5203fbb66241ccd7d704b3a1d809cadd551b2"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--273e0ba0-54d2-59cd-a70f-ed1d86473787",
+      "hashes": {
+        "SHA-256": "7a4d5219956854db9581c98d9cee7d6ebe61c5498988ec2655cd80f3548f7bed"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31f10eef-89ea-51fa-916d-cc3e329eb428",
+      "hashes": {
+        "SHA-256": "af1a08578a5ebb02835cf10a9a45393349bcaa2caa6eb9e823e7fc08db37da66"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f7bdabf-4863-5795-b1e0-ed173c9443ec",
+      "hashes": {
+        "SHA-256": "23a96252ba2a3cff76158fa598f4de904780f24fbbd426f36258077628e8cfc2"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00a6d485-042b-53a4-a40c-b12bbf706f17",
+      "hashes": {
+        "SHA-256": "d9efd833d31365c25bc10bb2a34845add5ff89bd660da1d9405dea82d035a308"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be408dce-71a6-5f86-b710-eb4a411a362d",
+      "hashes": {
+        "SHA-256": "33414abc9d5d4767a2612f85fe3b0555f3cbef646163ef3d1d9ddb753df5efbf"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad3db611-5b31-5942-9519-5c9fc8a5492b",
+      "hashes": {
+        "SHA-256": "1a13dc5488612aff33c3ad378d6b06b76551a2c6defb30b132547a633df03076"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3280683f-de6c-5b27-8dd2-17be35fbeb50",
+      "hashes": {
+        "SHA-256": "d44603abdcd6a4eb3283d5d4be88b93cc359d6f0efaccfd546c10e3349ccb4ed"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d3528eb-9cba-5b6b-9793-bc31fba7c837",
+      "hashes": {
+        "SHA-256": "e5d6f7138fcccd1a579d681ef354c4660deab3c216f3db1a330a8212d99fbea1"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef8a4ba7-d4d1-55e0-b39b-490c25b69f00",
+      "hashes": {
+        "SHA-256": "2232612b09b636698afcdb995b822adf21c34fb8979dd63f8d01f0d038acb454"
+      },
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0301b1b8-0d9b-560c-abd7-004ad7d09f45",
+      "value": "YoudaoDictSetup.zip",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0cfe56ac-2b59-5114-a78f-88e13f2a995e",
+      "value": "YoudaoDictSetup.msi",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0301b1b8-0d9b-560c-abd7-004ad7d09f45",
+      "value": "YoudaoDictSetup.zip",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0cfe56ac-2b59-5114-a78f-88e13f2a995e",
+      "value": "YoudaoDictSetup.msi",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    }
+  ]
+}
