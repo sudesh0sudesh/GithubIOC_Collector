@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--3841876b-2e8e-4f03-ad83-3ff5ea041853",
+  "id": "bundle--b72c120a-cc81-4f75-a138-05a34d120c67",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -28,6 +28,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--bb5f8450-9dd1-5faa-ba41-13c2b71df7cb",
       "value": "103.181.134.138",
+      "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8de183e3-5973-5526-b88d-eb349d0b9efb",
+      "value": "https://www.linkedin.com/posts/unit42_trojanized-malware-ghostrat-activity-7308519731873951745-tTnS",
       "x_opencti_description": "2025-03-19-IOCs-for-Chinese-Language-trojanized-installers.txt"
     },
     {
