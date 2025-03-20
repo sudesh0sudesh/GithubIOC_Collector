@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--3ba38023-b635-4436-a9f6-ad38cc0277de",
+  "id": "bundle--80bc70d6-6527-483e-b421-6fc206500711",
   "objects": [
     {
       "type": "domain-name",
@@ -89,6 +89,13 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
+      "id": "domain-name--81bc9fb4-2ea6-5cab-8585-5a861e2a7b84",
+      "value": "phinzone.com",
+      "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
       "id": "domain-name--d10a1b66-7720-54a4-8e60-98c08e23cf8d",
       "value": "debate.xyz",
       "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
@@ -98,6 +105,13 @@
       "spec_version": "2.1",
       "id": "domain-name--2f61f9a5-eef6-50a5-ae75-7fe645ee34b5",
       "value": "verbs.xyz",
+      "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--38f4205e-3b32-55c8-b43d-abac92aee3e3",
+      "value": "remember.xyz",
       "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
     },
     {
@@ -117,8 +131,8 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--81bc9fb4-2ea6-5cab-8585-5a861e2a7b84",
-      "value": "phinzone.com",
+      "id": "domain-name--75a7ecca-6578-59ab-8d60-fa3938c8228c",
+      "value": "us.linel.top",
       "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
     }
   ]
