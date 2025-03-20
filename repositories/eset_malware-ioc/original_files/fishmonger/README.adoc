@@ -1,0 +1,37 @@
+:toc:
+:toclevels: 2
+
+= Operation FishMedley –- Indicators of Compromise
+
+The blog post on Operation FishMedley is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/operation-fishmedley/
+
+== Files
+
+[options="header"]
+|===
+|SHA-1 | Filename | ESET detection name | Description
+|`D61A4387466A0C999981086C2C994F2A80193CE3` |N/A |Win32/Agent.ADVC |ShadowPad dropper.
+|`918DDD842787D64B244D353BFC0E14CC037D2D97` |`log.dll` |Win32/Agent.ADVC |ScatterBee-packed ShadowPad loader.
+|`F12C8CEC813257890F4856353ABD9F739DEED890` |`task.exe` |Win64/Agent.BEJ |Spyder loader.
+|`3630F62771360540B66701ABC8F6C868087A6918` |`DeElevator64.dll` |Win64/PSW.Agent.CU |SodaMaster loader.
+|`3C08C694C222E7346BD8633461C5D19EAE18B661` |`DrsSDK.dll` |Win64/Agent.CAC |SodaMaster loader.
+|`5401E3EF903AFE981CFC2840D5F0EF2F1D83B0BF` |`safestore64.dll` |Win64/PSW.Agent.CU |SodaMaster loader.
+|`A4F68D0F1C72C3AC9D70919C17DC52692C43599E` |`libmaxminddb-0.dll` |Win64/PSW.Agent.CU |SodaMaster loader.
+|`D8B631C551845F892EBB5E7D09991F6C9D4FACAD` |`libvlc.dll` |Win64/Agent.BFZ |SodaMaster loader.
+|`3F5F6839C7DCB1D164E4813AF2E30E9461AB35C1` |`sasetup.dll` |Win64/PSW.Agent.CB |Malicious password filter.
+|===
+
+
+== Network Indicators
+
+[options="header"]
+|===
+| IP address | Domain | First seen | Details
+|`213.59.118[.]124` |`api.googleauthenticatoronline[.]com` |2022-03-20 |ShadowPad C&C server.
+|`61.238.103[.]165` | |2022-03-10 |Spyder C&C server.
+|`162.33.178[.]23` | |2022-03-28 |SodaMaster C&C server.
+|`78.141.202[.]70` | |2022-05-18 |SodaMaster C&C server.
+|`192.46.223[.]211` | |2022-06-22 |SodaMaster C&C server.
+|`168.100.10[.]136` | |2022-05-12 |SodaMaster C&C server.
+|===
