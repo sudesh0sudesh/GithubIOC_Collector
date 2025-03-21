@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--80bc70d6-6527-483e-b421-6fc206500711",
+  "id": "bundle--2d1ab904-d825-454a-8a53-cd079cf8a362",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--399fc3d5-95be-524b-ac93-a30dc3f095a1",
+      "value": "https://www.linkedin.com/posts/unit42_scams-strategicallyaged-activity-7308866269410115587-h7TO",
+      "x_opencti_description": "2025-03-20-IOCs-for-strategically-aged-domain-activity.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
