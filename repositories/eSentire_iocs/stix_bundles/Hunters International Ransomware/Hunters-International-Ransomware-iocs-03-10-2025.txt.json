@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--22b0ca62-846f-4e2e-9053-22f33f3b1074",
+  "id": "bundle--3f9bf11e-7cdd-44c1-b438-c797f2ca67a5",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -14,13 +14,6 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--3b322474-54b6-5a79-9a86-1549e196f434",
       "value": "195.123.243.81",
-      "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--6d5c7f36-d52d-5201-be57-2aca19ccaf03",
-      "value": "winscp.net",
       "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
     },
     {
@@ -80,9 +73,9 @@
     {
       "type": "vulnerability",
       "spec_version": "2.1",
-      "id": "vulnerability--3b275f6f-e989-4460-9ae0-dd787cda8f20",
-      "created": "2025-03-11T22:32:00.83708Z",
-      "modified": "2025-03-11T22:32:00.83708Z",
+      "id": "vulnerability--3f9bba89-6cc1-4584-b5ae-23a399090c8d",
+      "created": "2025-03-24T21:13:09.998331Z",
+      "modified": "2025-03-24T21:13:09.998331Z",
       "name": "CVE-2024-55591",
       "x_opencti_description": "Hunters International Ransomware/Hunters-International-Ransomware-iocs-03-10-2025.txt"
     },
