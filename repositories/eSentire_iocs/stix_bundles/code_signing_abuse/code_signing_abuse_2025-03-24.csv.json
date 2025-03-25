@@ -1,0 +1,2868 @@
+{
+  "type": "bundle",
+  "id": "bundle--01b8a936-a93b-4963-ab6a-08fb17df1ce4",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdf3e25a-9dc0-5b5b-b3c8-5322b6d7ffb3",
+      "value": "SSL.com",
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--398e237a-ec5d-559d-bd03-d22ffb7747ad",
+      "hashes": {
+        "MD5": "465CED3B7CCC4501558680ECA61BBB9E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ecf3242-f493-5a93-8481-6f0635e0e958",
+      "hashes": {
+        "MD5": "7010DF2D3C8A608E6CF69B79C7AD074E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a18de6f8-18e0-5fa2-ba71-bc38f682585e",
+      "hashes": {
+        "MD5": "316BB5E6D2D5FF1F4C2C60028E1CEC08"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6602036-103a-5934-ba10-1b2726327892",
+      "hashes": {
+        "MD5": "06B6D93159708182E93C6EA793F5EA1F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5c2d50f-834c-55bb-9960-96491475ee6d",
+      "hashes": {
+        "MD5": "22CD8B39C5186E4CA6217F6F0EF06933"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f1f3250e-f10e-5286-9b20-8fc5665c4fbc",
+      "hashes": {
+        "MD5": "46EBF14BF2B2F88F2EE3372CB0F6AA9E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b6b59fea-31eb-51c4-8cdd-e4576db20857",
+      "hashes": {
+        "MD5": "3487F6776C8B2565336755E086868AB1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d85e0cb4-82ba-50b1-a222-7cce6edf1cdf",
+      "hashes": {
+        "MD5": "721A46AC53182005B04CFFC2E743EB66"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f120bd5e-529f-5bad-bc7a-1a6d60fbdd3c",
+      "hashes": {
+        "MD5": "66F965DEE2E387D6B5233CF39DFDE75F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--49f8de4f-8d2f-5f42-a010-778abab95f7d",
+      "hashes": {
+        "MD5": "4F0E9913D60904BC7917AE8CBFA11DF6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6102907e-77cb-5bd0-8f3a-bc211fcdd972",
+      "hashes": {
+        "MD5": "56E7441971712C25563CA0202DF64313"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d1396ac2-fea5-5409-82ac-085905627c24",
+      "hashes": {
+        "MD5": "5D0F5A3545E7F903EA79DB0E57235288"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67100069-ea47-5097-801b-5115cc53da4c",
+      "hashes": {
+        "MD5": "36C5DB58902613F6221E388B95DCF8A4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ade8e5bc-739e-53ec-baca-973aa57e3d16",
+      "hashes": {
+        "MD5": "627BC57981E18D8EC4DD9D1AA500A8CA"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7acc04f8-81ad-5b7a-9e0c-de82a46571c2",
+      "hashes": {
+        "MD5": "0C7C3D057E97CA0CB7A00DA10EF2F477"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eced4578-6b3e-53ff-90b3-fb7bd59472c8",
+      "hashes": {
+        "MD5": "15D82B35761FE064DF2BC72C62D69A04"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ffe4c389-7ec5-58d4-8a8c-b203330df84f",
+      "hashes": {
+        "MD5": "1B4174AA6AAF8921F344AAB138FF7F33"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5f9be7c7-97e3-5f0b-89f1-2f4234e341db",
+      "hashes": {
+        "MD5": "6033E9E272BCA9961C424D5AF7258E62"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be18860a-fbad-5a91-b788-57217a07dbd8",
+      "hashes": {
+        "MD5": "27CD9AAFD8A9E3C32C365F75DF24C59F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--268caae5-96e1-5384-8ce0-8b17fe12fe5c",
+      "hashes": {
+        "MD5": "5258128CB8E2C4816C2F9F13BAF422D7"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28a91c79-a63c-5db5-a192-7aa1284c56be",
+      "hashes": {
+        "MD5": "0445579500D62BABFC28FD8CAA4F305D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--19f190fa-fe54-59a5-9c31-504b0be3e208",
+      "hashes": {
+        "MD5": "57E43478EAD985E2C781F377BF551614"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b7010060-93ae-53b5-bccc-2aee4d3310ed",
+      "hashes": {
+        "MD5": "43BD8D6AA3FECB65766396C09E9EEDEA"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ebc5ea0c-bfe4-5284-973b-2f1222e5c405",
+      "hashes": {
+        "MD5": "6CD23039DFDA4B9363F3666113C2CBC8"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d75f43e-c081-5a3b-bca7-c993c12c87a5",
+      "hashes": {
+        "MD5": "7DBC9D5DE3181ADE787B91C1F6E57E48"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--72568345-cd56-5994-8e0b-5d6b062f4117",
+      "hashes": {
+        "MD5": "465DC834C3185EF4F0ECF74031134D21"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e002910-4527-5b04-a981-eed33c5e2fbb",
+      "hashes": {
+        "MD5": "6F243A754279474D61BC06CA813DC62F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--efcea115-76d9-5945-87e7-c75c5d5f66de",
+      "hashes": {
+        "MD5": "47EC895C33BBE4A80A3EB1BCBBF6128B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ddae2a37-bdf6-5ac7-98b9-48b49defddd2",
+      "hashes": {
+        "MD5": "03FC0BBCD0A7F34E9FD5A4DBCCF9C7F5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a51acae8-7f16-5ac5-8378-babb22fd7289",
+      "hashes": {
+        "MD5": "4AB8356851C98B0F4EE96B813A738AD1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e447c87a-27c5-575d-8803-396f89373623",
+      "hashes": {
+        "MD5": "7F499BDE31B8E09D7A7395BC8335DCC3"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ce94e1f1-1e4a-501e-9204-fa49b562ec1f",
+      "hashes": {
+        "MD5": "5556D68E17AD6356D0B6DBEFC087FDE2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5356637-621e-50fb-818a-f50a2a8b4ee5",
+      "hashes": {
+        "MD5": "1E1B78894C8C355B5EFAF81B6B3CB051"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac1c1ceb-db19-51de-b75a-9ecf642ba0f8",
+      "hashes": {
+        "MD5": "7CE6D17250E006C15A67A0D108B63DA2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--83d0a1ee-49c5-5413-b03e-a2eba6a72013",
+      "hashes": {
+        "MD5": "57B80004869FA005EA8D294906B0A37E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6eed9f4-9913-5147-ae09-7094b9164392",
+      "hashes": {
+        "MD5": "3CCAA910608E55352E5340C47D01A9D8"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--470e56df-f75e-5fb6-8355-11247a6693cd",
+      "hashes": {
+        "MD5": "33BDE5F92AC49B0711BA6187CEE1359B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--001311a0-55b6-54ed-b37d-82d79ac43df8",
+      "hashes": {
+        "MD5": "34A3D0B1D2F8BA5101F9B47B1BCC4B1E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ef01d5c-154f-5d04-b323-36c7b97e8b19",
+      "hashes": {
+        "MD5": "09A5770FFD6135C238D95E7D5B32F034"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--60cb3fd2-05a9-5d7a-af7e-e933d017862d",
+      "hashes": {
+        "MD5": "3094CA76D0BF4D5CA3E6F9A29C147E95"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f1e4897-0251-5fd1-9cf7-283ca73e3a95",
+      "hashes": {
+        "MD5": "31486FA17304A15BD3EF5ABC58FF3D9D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cb5f9d6c-e421-5e55-a16a-5a0aeef2ed62",
+      "hashes": {
+        "MD5": "04F9E61FE8FCAFD921A56B23AB262A34"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59e1a2f0-ac8e-542f-a130-610c7926f8b6",
+      "hashes": {
+        "MD5": "48A839BE7BEB80384479084EE640DC54"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a9da9a1-0786-5592-a84b-b3d814453e36",
+      "hashes": {
+        "MD5": "5BEA962268D7A85542AADBA4A9B7FF2D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89c23867-ca57-59ef-b6b6-f4380c32b827",
+      "hashes": {
+        "MD5": "7BC5EBCE60E231C20CE56703FE461C0C"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9b2cabb-b046-5c77-b251-8493c3c27337",
+      "hashes": {
+        "MD5": "6BDB08B7DDB773720764005D7E7DED8B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22267045-51a3-5b83-b3b3-53c10245b109",
+      "hashes": {
+        "MD5": "579B9E221C8CC22FCF33CE826CF3737F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0312274d-a04c-533a-9d28-88e27229722d",
+      "hashes": {
+        "MD5": "4D0E13F913C4C8BB5753B53DB46110F0"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6cead377-6933-5001-bfe9-b65929ad3542",
+      "hashes": {
+        "MD5": "22D2367F46F93A3893E608768BB8F79A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4a86f3d1-b2f4-557d-83d2-1f9bc38f1018",
+      "hashes": {
+        "MD5": "5499FE809B614A77BA2436132C56B91F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c22b9783-16cf-586b-a072-fa33b2ee4d21",
+      "hashes": {
+        "MD5": "2BBB9B7FE942FB6EA60F86D578A64EAD"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1100fbe6-fd6a-561c-8107-3a86921c384f",
+      "hashes": {
+        "MD5": "22B49BC752F530388C00E5A68FA4A344"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--89607825-7769-5d3b-a25a-4c39b1ee8cb6",
+      "hashes": {
+        "MD5": "5537908F151E7077149B1954A28632B4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9660142-4111-53eb-9e5f-91905ead1087",
+      "hashes": {
+        "MD5": "383BB880E7ACBA2928D2CBC6AB7BBE5C"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7c74ef6-86a8-5298-98ee-23f90c320b82",
+      "hashes": {
+        "MD5": "5AA4B480B9EDB666AE374175B0D70A82"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64e4172b-4ad6-5f45-bc4d-edf1662c7c71",
+      "hashes": {
+        "MD5": "5B94F53D8844A4FBB20A82957B117588"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--406618da-97b1-506e-b3b8-4cd8901b4495",
+      "hashes": {
+        "MD5": "54153343A319758492C3771B8717FBFB"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04e1f787-0819-59b2-92b7-bdc9864601f7",
+      "hashes": {
+        "MD5": "4CFE79222ADA3FEA60BA98EFBE6E44A5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--daa0c5f7-235f-5f39-97d0-bc4298a3d7b4",
+      "hashes": {
+        "MD5": "24F1C528ACBA226708DC92F692431A2C"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98a19dce-ab29-587c-a0d0-57d086857464",
+      "hashes": {
+        "MD5": "0B3C5F51042466CBB5A00EE692614668"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b59221af-ca65-514a-9456-b29e037a113f",
+      "hashes": {
+        "MD5": "4BE22CD193252962EB5F342E7C5F533F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--074cfbda-48d1-5414-9b5b-6df9e904c45b",
+      "hashes": {
+        "MD5": "0B4003DD1778E77C7B3230A4962E5558"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--af1c85fa-5b93-55af-abb3-61a31496dcfe",
+      "hashes": {
+        "MD5": "08D1567946272BF2CF666885FAB99E03"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e543e4e5-3773-54f2-8f70-33c63878f4b5",
+      "hashes": {
+        "MD5": "754F9989D8A8E889539B29BF502FA74B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbfe43da-ae09-5c8c-af26-e1f85dcd1cd1",
+      "hashes": {
+        "MD5": "43098196E3855161C52769A0FEEFDBAC"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d14c0ed-3edf-5ff6-b2ba-49a72b0def22",
+      "hashes": {
+        "MD5": "584C7B537ABF0DD673CC35C9CF040E91"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16041329-93c8-52b9-9890-46a4e687be31",
+      "hashes": {
+        "MD5": "46D8111B3080ACFE06AB32EBB3572A44"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84aadf3c-5fdc-5fd6-9831-4d4d87b82789",
+      "hashes": {
+        "MD5": "3724A8692FD4C9C2ABE250C83FE61A0D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c39295eb-cbda-5a96-9380-ae8c25746df1",
+      "hashes": {
+        "MD5": "2C82D1E68B3333CAE38B05E128522A37"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70b0bc0e-eaf1-5889-a81b-3c8fab2256c8",
+      "hashes": {
+        "MD5": "60FAC7DEA1D94581674A68276485FCC5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f56a8271-0539-5b94-9443-eaea50a8c3e2",
+      "hashes": {
+        "MD5": "1595F609B85F702108D66F78373A8C1F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4d77a7bb-68e3-5b56-83d1-b3b798979654",
+      "hashes": {
+        "MD5": "7A562978D709B11CAC4D6FCBA14954DB"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--59742d66-e6dc-5d36-a65d-d5f9ffcb48da",
+      "hashes": {
+        "MD5": "5FC048331F8E9572BDA7ABBF8F0CAB0B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--56893b84-7889-557d-b23f-2f22a68b39f7",
+      "hashes": {
+        "MD5": "0FF89952DE8FDAF149D86308829F12EE"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ff98fc9-f42d-5fd2-bc17-cc670b5ffa19",
+      "hashes": {
+        "MD5": "6DE3B9456FB0428164F6AA5264E8C24D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--99f82c4b-acc9-5712-93d6-ed8378b1c4f6",
+      "hashes": {
+        "MD5": "71F122B17613E367D58FFCD08DEA6AF4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--405dcbd4-854d-5caf-b5b5-88b37350d537",
+      "hashes": {
+        "MD5": "48095E8078225651A5346BE4226D5A74"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86455a80-5a3d-536a-bbb1-72a5fca2258d",
+      "hashes": {
+        "MD5": "6065907A370AC3B27ABA472CD9F7ED3D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--26a79fe0-6770-5172-9563-d1d5a2c88184",
+      "hashes": {
+        "MD5": "3469F7DBCE7DB328DBB07BA35CDBA98A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c6f5a635-2160-5fb4-8435-fffb87ce8772",
+      "hashes": {
+        "MD5": "12697443E6FE59C5E187059F7161B615"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--13e4619c-0733-569e-8328-e2e8e3ff4ef8",
+      "hashes": {
+        "MD5": "4DEBD035CAFE5E73D5C7E0960D450AFD"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb14850d-07f3-51ef-871f-56e3b9a5bef8",
+      "hashes": {
+        "MD5": "3A8AE46D9DE62F166EB621649B6A6E2E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fca9223-0506-56bd-8016-1702cee52287",
+      "hashes": {
+        "MD5": "7712F772C44D3360D635863E7414F34B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--380ac618-c3a7-570a-9d1b-d93ab3edac3a",
+      "hashes": {
+        "MD5": "78A5FDD08C94E7D6BFF0A1B882E88087"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fac0679c-58ab-5de2-a0fe-3c23ebf6393d",
+      "hashes": {
+        "SHA-1": "49CDFC26AE060028F5FEC00E18DC52540470A328"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f111e571-8c30-5e87-a913-2dbe7b60c375",
+      "hashes": {
+        "SHA-1": "27C2E54C69BCD81490999F1FC5E8DA18D2C1192B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bb476aa9-1473-55c2-a62f-5e3d6d6222ad",
+      "hashes": {
+        "SHA-1": "129C2424E2CF3CAB9F1195D0EB90337C5187C5EA"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e307dfe0-76fe-5dc2-a057-3ee7fd010fe5",
+      "hashes": {
+        "SHA-1": "4761A2225BC36B9CDDA3B26553DCEA94C79AC150"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7c6be51-483a-5169-9166-bbbb78cae682",
+      "hashes": {
+        "SHA-1": "432BBA0314FF92DC5E3988CBD46D50D2533F61C2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e6af120-4968-51ec-806d-1f883dd0c592",
+      "hashes": {
+        "SHA-1": "88F53BCA3C84A4184D2C79A7ADEFA552048843D1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ab88580-86c6-5fee-a829-03e1afd41d2c",
+      "hashes": {
+        "SHA-1": "81F223057B0FBB6DAF6FC1C2BE8315E603E9ECA8"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc532a52-e967-5d03-b33a-10213ac93d80",
+      "hashes": {
+        "SHA-1": "1473005A61848671CEF1C8776C6C989EDD776D55"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d18817f6-61be-5576-a691-4c10251cd9de",
+      "hashes": {
+        "SHA-1": "22164A50E1447B7B7B04A7B02087BB2035D9651D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--174978e3-5173-553e-8c15-42e9a8be2a81",
+      "hashes": {
+        "SHA-1": "2894E68AA4B8AF304F6877D39A218214B458D71C"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18ae6608-3caa-5c12-91ed-a532dcb10672",
+      "hashes": {
+        "SHA-1": "4D9276AA8BA55CCDE5ABD449D6AE4CE025EB84D7"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9955912-790b-58bf-8395-b263405fea52",
+      "hashes": {
+        "SHA-1": "DCA3C823A7E4E4591DE17640A96803F6E496A3FF"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e26d1f2-3343-5e58-a56b-e9ec7276ff92",
+      "hashes": {
+        "SHA-1": "4919C99F5826B6E47218B2F59CEBBE6A1CF0E898"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--be35f3c2-61ea-5f55-a284-da08bfbf71a8",
+      "hashes": {
+        "SHA-1": "8CBA06BD53411043CB7DF4F6ACFE7856D9440815"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2fb086d5-f7d3-5a8b-94dc-2c0ea4ce86b9",
+      "hashes": {
+        "SHA-1": "152B35C0C7ABC1AEBCB211753BA0D49446D3E34E"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b8ee03e-e826-5e78-98fb-12aeb41e3184",
+      "hashes": {
+        "SHA-1": "5FF0B85D1650C4CD4BBF44134F846DFCFB12B769"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e1de6b48-7c51-5ba7-826e-b516dd5de060",
+      "hashes": {
+        "SHA-1": "B9C03DF2C57C398DA548FCC57F7B46E6BA8E2780"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3f6bd6e5-592b-59f6-bd21-a8767b64d630",
+      "hashes": {
+        "SHA-1": "E823FD216198C8647D78D83E9947918B68B0D27A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a4b3abc-451d-5b5f-86ec-bce1ed1c7b32",
+      "hashes": {
+        "SHA-1": "2ED62904790ED79AFB7AD84D5E9406D65F433C96"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6da5bbae-612f-58a3-87ac-8df03117c691",
+      "hashes": {
+        "SHA-1": "9F1A0A1F31FEEE993F5B3ECBB9FE5EE536B85594"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b814b19e-4ce3-530f-8c73-ac72b03b3909",
+      "hashes": {
+        "SHA-1": "2DDDE1128529FA31F6B7E6D817DB09667BF3E803"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b3f85e71-d9f3-5856-84ec-408d0fc129c7",
+      "hashes": {
+        "SHA-1": "57F629EDE7002C2BEA1AF8B60062C303FA12F957"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--209712b2-e224-58a9-b0c0-1add6f3c50ca",
+      "hashes": {
+        "SHA-1": "DC656AF416A78304F08264E379DA8AB1DF6C4432"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9f75d514-d5ed-595a-a5bf-93ef29a549ed",
+      "hashes": {
+        "SHA-1": "BC89457220753CA347D15E24C328D24A5886AF13"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d7da8b2b-e971-50d9-8a2f-a579f9f106f2",
+      "hashes": {
+        "SHA-1": "ED892EDC5950D96116F97900995B1CEE43A12598"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cf21643e-85c7-5a40-a8f8-0a19c867937d",
+      "hashes": {
+        "SHA-1": "ED6EBDA8E7450F2F6C5181FA27EA5A7865080696"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0e7390b6-a88b-5ab8-ba23-00675184840d",
+      "hashes": {
+        "SHA-1": "3DF175D0E8E90DA439BA0D6B790FF41C787AEAFC"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e38ef5cc-3526-592b-9c77-60d1ae4844a8",
+      "hashes": {
+        "SHA-1": "30ECFA55AFA1BE2A3F67B13F16BE98A9C8C86879"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--527c80d0-4d50-5c31-890a-336285b8e429",
+      "hashes": {
+        "SHA-1": "1DD356A251076D5F1AFEC33531A00F659A025037"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e14b3e6b-d1d0-5126-8049-49a4faa1631c",
+      "hashes": {
+        "SHA-1": "C78EC5CF3C77D1432911A72D9CD017139BF4BA47"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6aecb92-65b7-58ac-9f84-0159396a4658",
+      "hashes": {
+        "SHA-1": "B4F05F1D350989E65666340113F7001C94BD11E9"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ae501833-5fd5-5199-ac34-8a9a71524bcd",
+      "hashes": {
+        "SHA-1": "F9EF8652D7AAB03E9FBD929CE8C961A200F91662"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d054fbf7-1863-5ebd-8d37-22f7149f8fa3",
+      "hashes": {
+        "SHA-1": "DA677B43EA753A482835C11337DE2F223CE16C18"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8de9cbc6-78a1-576a-8a72-db36d0592fad",
+      "hashes": {
+        "SHA-1": "F721E4E6A432929134F137AF2727CFA76FDC6826"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53ff3f12-daa3-559f-8fc6-2f157c7227ef",
+      "hashes": {
+        "SHA-1": "91332F61C65CE008BA9E992003310C0DE175DA15"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4638885f-b818-5d82-8a32-cc42b094d5b6",
+      "hashes": {
+        "SHA-1": "893C93A879EE8B4F75C01255AC95EADFA17079DB"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df392beb-6b2c-5b53-9bb2-2257a57f32a7",
+      "hashes": {
+        "SHA-1": "C8212E991BCAF313DF45F1C14C8AAD5EAF27746B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--566c27c4-4914-5054-a1f5-58e8e9537b0e",
+      "hashes": {
+        "SHA-1": "78383AD96F00C6843126052D391DF597400925EA"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2cd9e6a3-ec86-53a5-a3b7-117dfd966035",
+      "hashes": {
+        "SHA-1": "D7A5FC29265E7447A27134127AA009C2C6D171B3"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--42aec137-c525-539e-a58d-a2cf04f01b22",
+      "hashes": {
+        "SHA-1": "201CD26069D568B0647206AADFBD3793F0C84918"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b470331-8fec-5767-b68f-dbffb63d4573",
+      "hashes": {
+        "SHA-1": "2AE6EC4FE575314C176D15B29CBE50DD946D3E9F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e5eba4d-14df-54b5-b738-775557ae0d1d",
+      "hashes": {
+        "SHA-1": "D30FAAE824902AB96EA412D28B7D2058E0A607FD"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9ab11f31-c5d9-5e6f-ab4a-8a2c2bb96457",
+      "hashes": {
+        "SHA-1": "30194B95D2E4F240B40AFD57F7A5AC2EB8DC11EF"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--978c7cf5-e186-5ab7-a359-b8285a2ba104",
+      "hashes": {
+        "SHA-1": "7A67E5E2027644FA1F74D40711A124B752FA66A6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6f7b5b03-ec12-50c5-8717-c966fbeca419",
+      "hashes": {
+        "SHA-1": "44B038A4EFD755EF6B88832D19DFAB2BBBD9237B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5e5c5118-26eb-5620-ac0b-5a86c5cbe10f",
+      "hashes": {
+        "SHA-1": "C4232291AD05DB6C435CD8A727F4DAF0BF6507D4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--73e296ea-2336-5487-8605-ccff59926338",
+      "hashes": {
+        "SHA-1": "1B2B17BADBFE11858FD56243105EC9429724B6F6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2207997-eac7-54c0-830a-b577ff9ab1c8",
+      "hashes": {
+        "SHA-1": "F65D1315C9B5DABF3BE1CE4F17F5D85E88484013"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c09d53a5-ef9b-54f0-8f7a-05d27ee16fae",
+      "hashes": {
+        "SHA-1": "0ECBC9F0E2714A5520621C33781A7EC65805B669"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f687731c-e209-5e0a-953d-eb48e764d594",
+      "hashes": {
+        "SHA-1": "8AB0BE341C5E80501E70775A5CFD24D945595568"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfe07b62-9509-5229-9226-b466f81c1224",
+      "hashes": {
+        "SHA-1": "5F2F1060CBB416F8DAEA275A2DBB6A8C6877C6F0"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67445180-5dd1-5ca6-9336-aee79eb20f5e",
+      "hashes": {
+        "SHA-1": "7D5E2E3C2D29FC941438187AC34567FE1210968A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e3a5f313-4c8c-575d-8aa1-1b7cccadf82f",
+      "hashes": {
+        "SHA-1": "3DEFCB7054AD6C39664013ACE33DAF675DEEB9AB"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da12ba1f-ba3e-5540-87ab-7bdd958170ac",
+      "hashes": {
+        "SHA-1": "B7962BCBF0953078C35FD5D811CF255018EB26BF"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a584d36c-783d-5085-91a0-b63d22d31e34",
+      "hashes": {
+        "SHA-1": "00208976D65AF03024D301306F19C74C3F9EDB22"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2540658-9cbd-55b6-9ce9-edd1c37d117c",
+      "hashes": {
+        "SHA-1": "B00982260BAABDBA964EA131411684DDF43DEB1C"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--289e788b-8f4a-59d6-b8a2-b8bc865d2e8c",
+      "hashes": {
+        "SHA-1": "6056787F07F92C123A775057A9F7EB9C8905E1EA"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--53fc0e1e-5150-5f19-882a-2d33e54f062d",
+      "hashes": {
+        "SHA-1": "23C2F06803C6B4301ADACFD87C99D898C0BB463F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8791005-7941-553c-9aa1-8569714dacbe",
+      "hashes": {
+        "SHA-1": "7E8865A242D35BAF812A5E39851B4497102CBF09"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--972d99c9-8756-5a2c-9e80-50c3be1aa897",
+      "hashes": {
+        "SHA-1": "A5540F1A24B23406A5B7B98357FFEFCB3B269F44"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dff97b6a-e3ac-5fcd-836d-1ca7ad1edc4b",
+      "hashes": {
+        "SHA-1": "BC442B6500814DBC2BA2120C33409D303189AB82"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bfbe7a1c-d473-5f6f-b40b-942f09f967b3",
+      "hashes": {
+        "SHA-1": "CDFA577CE2EC5E0117967D8F65566030B96349A1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--585f2437-8b2e-532d-b7ff-d04c67e6c684",
+      "hashes": {
+        "SHA-1": "72BBB1470BDD449901E2A2FD109337B21756C45B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aad216f5-b291-593a-93e6-8c05cc5f9243",
+      "hashes": {
+        "SHA-1": "124C66197CBC4DE925E6CC86240F0CD3B74D2F4D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ce1aee52-05b1-5f88-b78c-2d5fa9e91559",
+      "hashes": {
+        "SHA-1": "2FE6D426B391CC9DE6CB57EB9C9E9AC0B61CE857"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0dbffa8d-74f4-5ce8-a2e3-18fc5bac8d11",
+      "hashes": {
+        "SHA-1": "44A3056EE75B31799D9C74B1956AA3038FA63785"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--441c56a2-2c9c-5f40-8ea6-eea1f6fcd873",
+      "hashes": {
+        "SHA-1": "57AC3537F14B3059FA016FEAA5825FE72704AF2B"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1f5e1c5-1d4b-5f2d-8056-0bb73ee6d017",
+      "hashes": {
+        "SHA-1": "16AFD0940C8FC1A3E0367CAFDFDEADE273AF46D4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e1db423-1ff3-5cc9-9e72-673507757b88",
+      "hashes": {
+        "SHA-1": "FC925E894C131D85BEA5EABA92C3460D6CD54935"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98f36c35-16e9-5ab5-be21-a19b4a75a721",
+      "hashes": {
+        "SHA-1": "4D4299F14DC4EE5B58DFE20A5F73F467185A0403"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5b1484c3-2f5b-5cf8-a37e-d1db37b481ab",
+      "hashes": {
+        "SHA-1": "905127E4799A152D516273EE79A58DB9CCAAEC87"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b342b210-89ce-55a8-ba03-c7f8f0c2a68c",
+      "hashes": {
+        "SHA-1": "F0BB5D277B6396D23F53813F3D3EF127CD7B3BB9"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3fd6f27d-7425-5bd2-87b3-ea12e8b2bae3",
+      "hashes": {
+        "SHA-1": "A0958D50807E1F6EC11A45A6A0332D9A12E15A25"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--aa250927-2308-5338-bbbd-9e25ef595f75",
+      "hashes": {
+        "SHA-1": "3B9A5962CD3A79E3801C47D1F55785FA34DF473A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--650432ff-8568-535e-a535-d000463a8672",
+      "hashes": {
+        "SHA-1": "E019D7719F55161534BB0C37DFFEFF1EF564AC31"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--98cf0688-cfb4-5f4b-aa94-371c59dfe3f7",
+      "hashes": {
+        "SHA-1": "886B9AF7AFAB9006FA8D14ACB69431372273B11F"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7c6a9b57-25f2-5c70-8c42-737321588edc",
+      "hashes": {
+        "SHA-1": "26CF92F790EC122CF6B38887CFDF080A923377F3"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--693b603b-d5f1-52e3-9933-75920c3678e3",
+      "hashes": {
+        "SHA-1": "FC4535994E75B0DC4820C8EB258298986FBD8945"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1335e1ae-00ad-5152-b06c-b8eff8ea3714",
+      "hashes": {
+        "SHA-1": "CE30FAED4BB6BA0440970E7F3F341EAE3DA98806"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eeeb8645-18ae-5c91-b3ca-d81fc05d4e40",
+      "hashes": {
+        "SHA-1": "320ECD6F82F874CDC0CDD2EAEF8164298E9943F9"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0f3eb28d-b3e6-5890-8819-513f36e41477",
+      "hashes": {
+        "SHA-1": "8DBB4A47E95F34E8E685BD4B7664D61D0863B278"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cbb54481-d4cf-5b6e-a6be-dec3ef618cfe",
+      "hashes": {
+        "SHA-1": "E098218628CF43BB0A0B14ADFD827402B403D9A3"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0d012d6c-7f8c-56a2-a76d-c66375a21d36",
+      "hashes": {
+        "SHA-1": "BF238E703FDE9EBA42A6BE99974C53A47F587F8A"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f188b260-c1b5-54d9-8c31-3e81ce14ec71",
+      "hashes": {
+        "SHA-1": "65DBAEEF00FC82E957E01D7B37502C0B73EADE31"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e81aeb78-79ae-53be-8f66-a5e3006e264d",
+      "hashes": {
+        "SHA-1": "DCA5A873EEE4F19E6884A304D295E969F8EBE5E4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8469de3-a0ed-56c9-a57a-03449884fecb",
+      "hashes": {
+        "SHA-1": "32A6FB73AE60BDC0287701BD75DC26881F8E2036"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--da5931f8-b926-5a07-b7b0-0dcb197fbb3e",
+      "hashes": {
+        "SHA-1": "67F7B364DB53E7B45EF28E9AD16FA16D7625EFF1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93311798-31aa-5cb8-ae4e-c9ae8b83015b",
+      "hashes": {
+        "SHA-1": "5662AD9653AF2C8A3FC00043F7EC150F2641C39D"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--428f9a7d-4736-5d2a-a957-74d7cb77fa61",
+      "hashes": {
+        "SHA-1": "F3BF3DACCD411EB9A1207EA86D8B208FB894D0E1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd8abab3-2fbb-572e-9113-abd3d995b0f8",
+      "hashes": {
+        "SHA-256": "5b04d7fee45d12dd86decd6b8ee075e95b3f1d7d689df824df0bffdcf9c0b6c8"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb9f0121-2fa7-5c5a-914e-c7b7600375e7",
+      "hashes": {
+        "SHA-256": "524bfdb6922acdb543165762769df5bc7f6871751769c8923b213c3ac7ebd9ca"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8beb8c54-c4a4-5a92-8b08-a3f89ac50c65",
+      "hashes": {
+        "SHA-256": "cb517c016416fc55bd64a82fe1d9c5d5e05e227fa6a6878d2ec98903e1bc9ecb"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f9f0cd24-ed7c-561e-9fc0-a939beb4c245",
+      "hashes": {
+        "SHA-256": "9fa68287729336e8d77a29ce1a9c71ff47e8ad54e4627623ca6ec581f3285146"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23fd6d3c-4bb4-5ae4-9a3b-52edc0c5c4bd",
+      "hashes": {
+        "SHA-256": "ab1e644201b5b72b588210769a3065a8244729d4ad33815551a09131a12b3ab5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dac489d2-c211-56b9-b2e7-8b4e9ab8a99c",
+      "hashes": {
+        "SHA-256": "341b7c4f0a76487e345ed2e79e29c3c1043f5ca77e0a2008928fc8d7bf51cd18"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4892f975-a121-5e6e-b736-f845e53d7010",
+      "hashes": {
+        "SHA-256": "e70ae269c2ce3d77bb5b5494bd64be7154d542ab84948fed6c68addae735bbf4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--21bdcba4-5a9f-500b-9885-affdb0c0df33",
+      "hashes": {
+        "SHA-256": "5436d1607e673ed60dc18778c8bebdb6a6d6091cb67668f93732546b745ec08b"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d990d282-1506-53b3-a6ab-c348a09716ac",
+      "hashes": {
+        "SHA-256": "b7bd2a1969234d77ce7bdab808d77243e31899412e918c269b9f1b6748434be1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27d7734e-9a61-5c0d-ab9b-43ec004307fb",
+      "hashes": {
+        "SHA-256": "e16ef57ddac8cf1ab3b4b20e1915bd0790eb049aabff91f4576c883246914de4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--acbdc7df-8740-5102-b4fc-46022ddaa6dd",
+      "hashes": {
+        "SHA-256": "8f700d6ac2bc4e939e959b14b42c637a516c78d16fdbd3605c83872254a1065e"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e80acbbb-beee-5d2c-abc1-d351d3dfdd94",
+      "hashes": {
+        "SHA-256": "7f6bd2fb62b7d513213a4ea7e6da2750506600c60c1b42b32c75502906d428e4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a4cb8afa-8a29-5cf3-92f9-8e2969c7dea4",
+      "hashes": {
+        "SHA-256": "bae3c4cfcb9525a6b024d0f69c34d040133474fa3f8dd9007179828e234708fa"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e87c212b-826d-5a92-a088-a8a12a87107b",
+      "hashes": {
+        "SHA-256": "6d7fddff5b509fdd5372caa740e2227a8b0be2db1a7e9a59e16873ffc4f351e4"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c45e74e0-ccb7-56ed-bcfe-4cd89ce45c4b",
+      "hashes": {
+        "SHA-256": "0fe151a3925e90f87ca716372a8eb7b4195dcfa7e64591a350ad6655ca36446d"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1e064737-dce7-544d-930f-f965c16563e0",
+      "hashes": {
+        "SHA-256": "bd71ab909ad6fa9c57c00d0d31c721d55983da819b9c09da78f91a0658df9b41"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93cc33db-8471-56a5-9de3-cd37daa91160",
+      "hashes": {
+        "SHA-256": "4e25b7cc56cbf7a5670d696f9833a794885b6698e4d9b002957ea09645af763d"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f2048bb7-0a60-5fb6-9e66-7ef584a6d782",
+      "hashes": {
+        "SHA-256": "0ec34875eaef4719aaea86ca037cb6fe89f897a1cbbdd01013e71637fa7e89e1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a35160f3-da87-57d1-9317-39233976ca84",
+      "hashes": {
+        "SHA-256": "b1c9d857b8c56f6c1cf164e0a521e96ec1f48ddb818f6172b66223ad42829299"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35a56b61-045d-5cfb-bf2f-8b8deae47b9c",
+      "hashes": {
+        "SHA-256": "36ddf45c5d3b0bd830107dd4b31742372e31b81db79b757c2357049bf37de9a9"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--04f5d4ef-72e2-597d-8a2a-89fef5e24309",
+      "hashes": {
+        "SHA-256": "a8b56d92607550947e223d22e0baba8a05c8a3f1c9efe6db30c2a54bc6dec3ff"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a60b702-0959-5d6f-8909-4e898592e3f2",
+      "hashes": {
+        "SHA-256": "dd004507cf28c1a965b6475afa071e0aad2644056a84e173ce74b73cbcc8facb"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f525a45-cba6-5726-ad87-45a09791f73a",
+      "hashes": {
+        "SHA-256": "58c12cdf6fd101f2aec69cac01147393f7132de474920aa0cf2a4b95689bc5b7"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e9eb337-5280-55c6-bd08-3517e2ed2bf1",
+      "hashes": {
+        "SHA-256": "c241d88e64697f8a7e4a80b10677952bf6df072465e3a75ad5295d010cb5f4d2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fbe0d178-5740-58f9-a055-d96f1b0c1d11",
+      "hashes": {
+        "SHA-256": "511e21b8c183fee710862aa39fe11cd87d632377b123b0ecba4e979100237f42"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9e574989-e89f-5686-bb5f-7d8662242a24",
+      "hashes": {
+        "SHA-256": "d0db968846f45699ee000f88f208b290be4ce116126164c3644dd413859b08fd"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--daea6400-84fa-5a11-9ee9-eb77b8b7b4ea",
+      "hashes": {
+        "SHA-256": "89756b6cff919b03e88c1251a46d132723a79866227785a835d7e67ad4123032"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a93e3da2-0d31-5e23-beec-63ccd0e97a7e",
+      "hashes": {
+        "SHA-256": "068e030b5144e2e3ec7d6531dc852a20396f9bea66bf0636ac9b9b8406c518a0"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe97b261-94f3-5fb2-bee8-8f77ffc2db82",
+      "hashes": {
+        "SHA-256": "1af98d338a6193914a73a656797d05803b968cee3048176a30abe5b77b1b2362"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--195afc1f-a831-5375-8772-d9f354360043",
+      "hashes": {
+        "SHA-256": "d4c9ee556fda527e59a0431bfa7f4324318ca384001fa0856635c39bae337431"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--333f6da6-0769-5039-a6d3-7c6739119f01",
+      "hashes": {
+        "SHA-256": "43cc21310beb59713919f022c2e04bb3818de06f069afc24abad47424d1c0b85"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3eff7301-b1e6-575a-8e4d-3472dd690ead",
+      "hashes": {
+        "SHA-256": "b9cfc08d3e1d8eae9ba814107b196a55c842d43fa27031278e7463ef05d0aef1"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2b8cbc1c-29af-5331-983f-7b2e9fda56bf",
+      "hashes": {
+        "SHA-256": "ef5870488f255bf29b3c25cfa010e543119f2cf417eed6ada09d7e40b69dd52e"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e48984b-2fc6-5914-909b-594e57901c49",
+      "hashes": {
+        "SHA-256": "6ba4231e13c7ca51dbf672e477e633f83ba59e1392b9755c301c14abe35cdf61"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7e310df0-2a85-5bb0-a346-9016de338405",
+      "hashes": {
+        "SHA-256": "a2768e6bb920bc9224662c08c7da7d0c09fb2101662a8265a20a27b90140122d"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2372867c-56be-5ba6-8217-7954944d9c83",
+      "hashes": {
+        "SHA-256": "fc1060dbded7cacfa2edd46b7c894c4e6757f5a28f096e64392aac85ebbcf8d0"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8ffae02d-8558-58a0-91b3-b0dbb0502129",
+      "hashes": {
+        "SHA-256": "924f4ff9847cf14599576551370779a2f3ca1163100b4f71b94f18d9e1446ab9"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd94d7e1-17fd-5633-813a-d0c12e62a48e",
+      "hashes": {
+        "SHA-256": "a236dd959abe6e818b494ebb9559d1e3909d828d32ebc7104bdb47a81982cfa2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bd88fea7-fa46-5004-b3e7-5ac71a81e0da",
+      "hashes": {
+        "SHA-256": "93a005a078dc412b1e24cb5ed30639bb15ca0e8f7d7ce9a3b608b763bdbbc030"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12370efd-3593-5d66-8204-5c1a0647756f",
+      "hashes": {
+        "SHA-256": "e8de3d58f329400152c70f395d4bea2991841a91c3a35a3bec5dfc08a2057078"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7a4d7c77-09e8-55d9-895a-e7d4ed7a0d3b",
+      "hashes": {
+        "SHA-256": "8dc74a08a67d2dd84f2c676b14cc2c6e83f97b87e2a668d9cc3321f7b9a29601"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb0e9a74-83e5-5620-ab1b-ba4b2398e1b3",
+      "hashes": {
+        "SHA-256": "df400f2ae6ce76db40d1ed46cd648965658a2417b4b577116b89a9293ba8e385"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5871ba15-9731-56e2-b5b2-baca0439ae9f",
+      "hashes": {
+        "SHA-256": "9ed7717cfd1d386e9179d259246e82914406c4481cb116fc24d3c22d5fc0a161"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--86333659-4c31-5ae9-a5ab-01ec09eafb42",
+      "hashes": {
+        "SHA-256": "e9aab10f7244a4efdc8946ae994a1155f21412590ba30b5abc9e5a9a69a8542e"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e63e87db-9e13-5626-aa8d-8fc90318662a",
+      "hashes": {
+        "SHA-256": "42836bce8422d4faa74f52ff3515c73996a7b8f635d8848242988be677e2c556"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9c071581-1683-501a-b298-de3ae8982f75",
+      "hashes": {
+        "SHA-256": "a1464bece4aa329bb639d2d3ff6c7d5d4d349289cd477c86c669975db4824443"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d719ff1-1777-545b-b8d7-14a90a8f5292",
+      "hashes": {
+        "SHA-256": "5d84ec3475fac25a1691b3bc831737b5b3d02454613ccb492de4972432494cf5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a1991380-d4c9-5e0b-9b35-f515ba204a07",
+      "hashes": {
+        "SHA-256": "5f9557f616ab8c007422a7bf034b75548c73d818fdac84f82ef48b7f26662de6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7755d75-3e3c-5367-b9ce-36b0424e43e2",
+      "hashes": {
+        "SHA-256": "5660d461a24e9a15ecb60891bd725a464f8d9a5d20d07852838604f58ba8ff77"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--25a1a5be-0183-52a0-9f56-991d5955cf5a",
+      "hashes": {
+        "SHA-256": "6b0f9719d92524c111de00bcd3edc1db9a3cccaaa736d9036a83396ac618571a"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1147cb22-271d-54ce-ba4c-c10a505140fc",
+      "hashes": {
+        "SHA-256": "5663eb21e88082bedc1545e21cdb25ad17b44bdeca5ca28c359b191d048efc94"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c7a70deb-2fa4-5eaf-9b42-daad893c1dcc",
+      "hashes": {
+        "SHA-256": "356299531dd96ee5a3567a8a303f0104979f355bbabb50c0cddc6aa18f564b07"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d50e30ab-7abd-59b3-8144-7efd2e315c8c",
+      "hashes": {
+        "SHA-256": "647012c5141844a860ba474ef3b239a845170e8c4f5631e8cbdc7781dfe468a2"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b8b819f9-4338-5945-90d7-bb23f8749632",
+      "hashes": {
+        "SHA-256": "e3ad2367d6e1e15a2f937310c4fa798fc33ef3300dd1c4c00785d914fb5bfb80"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--431be3ef-4994-59ac-8993-41cdff6810aa",
+      "hashes": {
+        "SHA-256": "b0804a60d9992f6af63e247258fae4715816c19a76341f1cd2245fd1385a66f3"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0efd4778-0c2c-579b-a8d5-e806629e8771",
+      "hashes": {
+        "SHA-256": "900cc09fcdd78ee16eacc91459abf31c088dc0434907390c7329469129dc917e"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f29345af-871f-5b2e-bb7d-d36227f7e8a3",
+      "hashes": {
+        "SHA-256": "ce33a8aabc0095ee679cb0cbf6e7fb69b50611abfa85533d1daa18d7dcadb2b5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ad2b929-56c7-5499-a446-d47228025d59",
+      "hashes": {
+        "SHA-256": "12001dd924c265a33f33e33f29ed1bdc05aef8dbbabaa234b5695353649c8b4b"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cfb56bbc-836c-556e-a17d-99cbeee119c2",
+      "hashes": {
+        "SHA-256": "d22ef24a4e943d5fb36260ea2e46b046d2d6ce29f725e52167c00bfce0d94bdb"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f4ef16d-6096-5ac3-9a5b-e981f7498fca",
+      "hashes": {
+        "SHA-256": "0c2997d95062a86ef9845f7bfd595d476e578db07def8e89ae26614c78a4e025"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--570bcceb-2ad9-509b-805c-734e24a74e37",
+      "hashes": {
+        "SHA-256": "c1b0fe35669f425304e005f5839440356276cc20eb1cd6ceb8d0b5e6b1f96f7f"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e78c5d74-74fe-5088-b3cd-1364f5533778",
+      "hashes": {
+        "SHA-256": "2020038974f763287b465795b52cba40e6ed533e8d1b67e690a2c88248e99d34"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e2712620-56dd-5b85-8d73-6ad07401c0a5",
+      "hashes": {
+        "SHA-256": "aed717381cc8b42276cbbf2d702be4395cebcbecb3b823b3f7ac98dd92bf68dc"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8a0da63-9e97-5423-8076-a59a8d03eb81",
+      "hashes": {
+        "SHA-256": "bbc1dd5ce5d7079b77927b72918810e5effe54cdeab042c848b0b20624119f75"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--627ad924-c444-5bfe-a94a-bb6b4418d769",
+      "hashes": {
+        "SHA-256": "68b904897bf6a9124c75dec50fc8cb292069491357785f05f667f91096736960"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fc3c9fda-808e-5a9a-8df3-7ca3f4354514",
+      "hashes": {
+        "SHA-256": "eb986a5ea4c7068fadcecc429c133fd501215d422448f95c9b7b1cf158b2f8a6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c3444f54-52e7-569e-8e6d-0f376bdc88f4",
+      "hashes": {
+        "SHA-256": "ad6bcffb161cb9fb0eca2905ca8c4c0365aa4febab6f47acabcbf8b4b75d478c"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d31b437-031c-5c6d-934d-7e249085e9ba",
+      "hashes": {
+        "SHA-256": "96c4b76ad445db36e273d4bfa23b3e9cb1a30db836d0b0c940d6f8c41b9d81c5"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--023e4275-f028-5e72-b8e1-0fe3a8aa9169",
+      "hashes": {
+        "SHA-256": "d42d30f58b5b3443212310c7fdebc2f611d5cecc6c1f924d7c948fb1b1c819ea"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6b5ed90-7e4a-5a03-b788-4fd710ac8a0b",
+      "hashes": {
+        "SHA-256": "9e503796d957d0f00e1d4102a4b7690f679219fb609de4b3343612bb939b1c24"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b97ca680-f443-55b0-a749-d4957bf94f16",
+      "hashes": {
+        "SHA-256": "69184f6861718a2d47ca10f0e7b0b9790f46c2bdc50c94ee5050dc5bebfb380f"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e7246b1b-a12b-5631-b9bc-c5357e8fe30e",
+      "hashes": {
+        "SHA-256": "0a27e7cbb5ed1aa3e517d4d1d3fa1974409cb3379707853cfa58be4181e24827"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--107b73be-312f-5102-b657-4a7874becce0",
+      "hashes": {
+        "SHA-256": "ee4012f2a0dfd5a557b244c850b01484f52cda93aaed423398b2ef859d3b907d"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d70d4f92-ad77-5898-9992-c7ffb23ab4cb",
+      "hashes": {
+        "SHA-256": "c6bb166294257e53d0d4b9ef6fe362c8cbacef5ec2bd26f98c6d7043284dec73"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7d2cc442-576c-5182-8211-8bd024d01023",
+      "hashes": {
+        "SHA-256": "e4799b54d657d4d9c64d49bc936772cdcca6329e05be972d3b1ec6ad08d8f4ea"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d62865a0-0460-5068-9f0f-2dcb261c4c66",
+      "hashes": {
+        "SHA-256": "47470a874bcccca211f495e49db5b726f200ebd80fea3fc18b0ae7b059452fb6"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12fd1d95-2503-5dcb-b43d-cdbe1a48340f",
+      "hashes": {
+        "SHA-256": "0f4262fcff68c06c8d0be7184263135d1dce951b52af8b6010e0dd18fe7f4937"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a138bc4f-2b3d-51fa-ba9f-fbe73d3bc14a",
+      "hashes": {
+        "SHA-256": "964d609b0fcf5ade742e9e6fe504bdfbe131b84f3cbab5ed59e977bd4036f405"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--18dd49af-31f7-59ac-a041-d8e17dc726a5",
+      "hashes": {
+        "SHA-256": "e257cf8c1fc5332bf81f85408123762457a698709f745da15607dc594742019f"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--05301ed4-e7ad-556e-be9b-65a1417fbea3",
+      "hashes": {
+        "SHA-256": "398b47cfbdba5e8512998a2823d6ab493b3b0ed0cec0c583d0907b9f4e86febb"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8b2157e0-e1ed-510f-8391-d870d4330438",
+      "hashes": {
+        "SHA-256": "277a9093786d4cb2dd267ea6e15eaeb22a568bdc72c4ea6d1aa9b355a190d812"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8177acb5-5b44-58eb-b8e7-3d5e900150af",
+      "hashes": {
+        "SHA-256": "30e554562e154d288bcd3eb43897507d58ac410ff47ed75b4edda651c033a64c"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12eeb178-1b07-56d8-b169-7c97698f81ea",
+      "hashes": {
+        "SHA-256": "9b85aaf4d8e2945d735235615611c7bc5215dcb1358565fa2f38c75375cb81b0"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f020d2b6-abef-5262-b04d-f5de552b1df0",
+      "hashes": {
+        "SHA-256": "7ef83d9bbc288d5140ba999cbb7f65c7c2b25c0120bc7a7a2f0fa93bf8f86b97"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3254a583-a305-5ff1-a58d-aec447a08517",
+      "hashes": {
+        "SHA-256": "d04530a24016d143e32bedca60b7d2b6a6ea41acd2b7e7edb29c2221cf166553"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ab8a40fc-16bf-584f-9bc4-de06b9cae5f8",
+      "hashes": {
+        "SHA-256": "125b397a627f37c70e2cf2461c6a6583a975ba78617995751cacb32525a3b875"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5a61dba-0356-578c-9045-ba8bded1a8b3",
+      "hashes": {
+        "SHA-256": "3a157e439b3c4601463022f2165358ebfc9f80dd2d33c9a6afc5467c3f858567"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79ba2ffa-715f-54fd-9dda-e9da4005dee6",
+      "hashes": {
+        "SHA-256": "0b5352660dd555c0ab55ab90020a36b1f34fe9debd312c4649606adab6c957cf"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5bcdd98-a8e5-54e9-a691-3b4bd8042028",
+      "hashes": {
+        "SHA-256": "b25005b4361d67a5fb56513b50f59a1995856fbb8de32d5e5dec51f26744220d"
+      },
+      "x_opencti_description": "code_signing_abuse/code_signing_abuse_2025-03-24.csv"
+    }
+  ]
+}
