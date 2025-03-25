@@ -1,0 +1,147 @@
+{
+  "type": "bundle",
+  "id": "bundle--96d74718-18d9-4c37-ab90-ac887259fd0f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bca08830-392d-505e-a506-6b1ad29dee00",
+      "value": "94.247.42.253",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bca08830-392d-505e-a506-6b1ad29dee00",
+      "value": "94.247.42.253",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdbbd355-aab3-55e7-be9a-aa24dd8f533c",
+      "value": "embeds.googleusercontent.com",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e34caa3e-0e02-5e31-8054-28de437eda2c",
+      "value": "casettalecese.it",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--70a838e9-4fc5-59ab-9b53-c2b3147dd4b6",
+      "hashes": {
+        "SHA-256": "0779090496343e6365fd3a273600213e8fea9cf77d09d6fa551114fa5a3b23c5"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec21fb32-7e06-57e9-b6d7-9d6fbfc3c6d9",
+      "hashes": {
+        "SHA-256": "70835a8f7ea6c93942935a6f9fef1ae4591c22e873e3b06000ef01437f2090c1"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbc63015-40fb-57de-947c-0e2ff7aaaacd",
+      "hashes": {
+        "SHA-256": "d3cdb6765d1d043cb78dbe520f4c678df37beba3b19b7f7e894f2a6fe29a821b"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cac700a1-eab2-5a8d-b842-f55cd7708271",
+      "hashes": {
+        "SHA-256": "a145f97523db8f8f7c83733c217d5af8f316fab356b86c559dd9c33b042c38e5"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--37e3ac3f-c023-5029-b112-21cf0dedf339",
+      "hashes": {
+        "SHA-256": "123ec130beb175419b0e8c8b9c4d44a7f024f7c6e7e705718e2e07ab3dd083ad"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ffd9685-b48e-5271-828d-570188874b10",
+      "hashes": {
+        "SHA-256": "dbea0387cea59ca3fffda6aa56788cf6423374356c98abe74149a5890676c4ff"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7017d06c-3706-52e5-87e5-ec66397d8490",
+      "hashes": {
+        "SHA-256": "6a79ced77846f964e877d404cb8a5c829ca6bac0b28bd161afd329685064c10e"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6b8bcf44-4613-5fad-bb14-52a07678aacb",
+      "hashes": {
+        "SHA-256": "1c17f14563f55bccfb48f81882476b38887ee450126f6977f8550657ceb2e8ec"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dcbd7041-3c1a-564e-86bc-b677e7425f8b",
+      "hashes": {
+        "SHA-256": "1b8d49c9481293784859223356ac9c50dbd1a8db680d0f1d30d264dcceb8c3e3"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ca710a98-3724-5fe6-9ebb-f1052166c0c3",
+      "hashes": {
+        "SHA-256": "f827228165291851e5fdc5d06219bd30877050c7c7a17672066984487b3f1200"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5c604c4-ae51-5b2a-9a68-643b28c635f3",
+      "hashes": {
+        "SHA-256": "c6373d61b5c4f12e2d88ce6a326f655b86393ed206ba710f8e67730667b5ff4e"
+      },
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6488124f-14ce-52aa-be4c-a7fa628b33da",
+      "value": "g1siy9wuiiyxnk.js",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9240ddf4-ef7c-5abf-a19f-b23ab30c23de",
+      "value": "i7z1x5npc.js",
+      "x_opencti_description": "Koi/KoiLoader-3-20-2025.txt"
+    }
+  ]
+}
