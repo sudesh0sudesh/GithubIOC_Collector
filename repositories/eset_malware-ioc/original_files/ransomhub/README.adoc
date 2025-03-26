@@ -1,0 +1,41 @@
+== Shifting the sands of RansomHub's EDRKillShifter – Indicators of Compromise
+
+The blog post on RansomHub's EDRKillShifter is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/shifting-sands-ransomhub-edrkillshifter/
+
+== Samples
+
+[options="header"]
+|===
+|SHA-1 |Filename |Detection |Description
+|`+97E13515263002809505DC913B04B49AEB78B067+` |amd64.exe |WinGo/Kryptik.CV |RansomHub encryptor
+|`+BF84712C5314DF2AA851B8D4356EA51A9AD50257+` |Loader.exe |Win64/Agent.DVP |EDRKillShifter
+|`+87D0F168F049BEFE455D5B702852FFB7852E7DF6+` |amd64.exe |WinGo/Kryptik.CV |RansomHub encryptor
+|`+2E89CF3267C8724002C3C89BE90874A22812EFC6+` |Magic.exe |Win64/Agent.DVP |EDRKillShifter
+|`+3B035DA6C69F9B05868FFE55D7A267D098C6F290+` |TDSSKiller.exe |Win32/RiskWare.TDSSKiller.A |TDSSKiller
+|`+5ECAFF68D36EC10337428267D05CD3CB632C0444+` |svchost.exe |WinGo/HackTool.Agent.EY |Rclone
+|`+DCF711141D6033DF4C9149930B0E1078C3B6D156+` |anydes.ps1 |PowerShell/Agent.AEK |Script that deploys and password protects AnyDesk.
+|`+E38082AE727AEAEF4F241A1920150FDF6F149106+` |netscan.exe |Win64/NetTool.SoftPerfectNetscan.A |SoftPerfect Network Scanner
+|`+046583DEB4B418A6F1D8DED8BED9886B7088F338+` |conhost.dll |Win64/Coroxy.J |SystemBC
+|`+3B4AEDAFA9930C19EA889723861BF95253B0ED80+` |win64_1.exe |Win64/Agent.RA |BianLian backdoor
+|`+460D7CB14FCED78C701E7668C168CF07BCE94BA1+` |WKTools.exe |Win32/WKTools.A |WKTools
+|`+5AF059C44D6AC8EF92AA458C5ED77F68510F92CD+` |pfw.exe |Win64/Agent.RA |BianLian backdoor
+|`+67D17CA90880B448D5C3B40F69CEC04D3649F170+` |1721894530.sys |Win64/RentDrv.A |Vulnerable driver used by EDRKillShifter
+|`+77DAF77D9D2A08CC22981C004689B870F74544B5+` |Killer.exe |Win64/Agent.DVP |EDRKillShifter
+|`+180D770C4A55C62C09AAD1FC3412132D87AF5CF6+` |1.dll |Win64/Coroxy.K |SystemBC
+|`+DD6FA8A7C1B3E009F5F17176252DE5ACABD0FB86+` |d.exe |Win32/Filecoder.PLAY.B |Play encryptor
+|`+FDA5AAC0C0DB36D173B88EC9DED8D5EF1727B3E2+` |GT_NET.exe |MSIL/Spy.Grixba.A |Grixba
+|===
+
+== Network
+
+[options="header"]
+|===
+|IP |Domain |Hosting provider |First seen |Details
+|`+130.185.75[.]198+` |`+N/A+` |Pars Parva System LLC |2024-08-20 |Server hosting PuTTY.
+|`+79.124.58[.]130+` |`+N/A+` |TAMATYA-MNT |2024-08-22 |Server hosting MeshAgent.
+|`+45.32.210[.]151+` |`+N/A+` |The Constant Company, LLC |2024-08-09 |SystemBC C&C server.
+|`+149.154.158[.]222+` |`+N/A+` |EDIS GmbH - Noc Engineer |2024-07-25 |Server hosting BianLian backdoor.
+|`+92.243.64[.]200+` |`+N/A+` |EDIS GmbH - Noc Engineer |2024-07-25 |BianLian backdoor C&C server.
+|`+45.32.206[.]169+` |`+N/A+` |The Constant Company, LLC |2024-07-25 |Server hosting WKTools and EDRKillShifter.
+|===

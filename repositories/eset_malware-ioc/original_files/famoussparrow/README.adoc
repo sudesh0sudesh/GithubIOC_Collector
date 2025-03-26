@@ -1,4 +1,114 @@
-= FamousSparrow: A suspicious hotel guest -- Indicators of Compromise
+:toc:
+:toclevels: 2
+
+= FamousSparrow -- Indicators of Compromise
+
+== You will always remember this as the day you finally caught FamousSparrow
+
+The blog post on FamousSparrow is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/
+
+[options="header"]
+|===
+|SHA-1 |Filename |Detection |Description
+|`+C26F04790C6FB7950D89AB1B08207ACE01EFB536+` |DotNetNuke.ashx |ASP/Webshell.SE |ASHX webshell.
+|`+F35CE62ABEEDFB8C6A38CEAC50A250F48C41E65E+` |DrmUpdate.exe |N/A |Legitimate Microsoft Office IME 2010 used for DLL side-loading.
+|`+5265E8EDC9B5F7DD00FC772522511B8F3BE217E3+` |imjp14k.dll |Win32/Agent.AGOZ |ShadowPad loader.
+|`+A91B42E5062FEF608F285002DEBAFF9358162B25+` |dph.exe |N/A |Legitimate VLC cache generator.
+|`+0DC20B2F11118D5C0CC46B082D7F5DC060276157+` |vlc.exe |N/A |Legitimate VLC media player used for DLL side-loading.
+|`+EF189737FB7D61B110B9293E8838526DCE920127+` |libvlc.dll |Win64/Agent.FAY |SparrowDoor loader.
+|`+D03FD329627A58B40E805F4F55B5D821063AC27F+` |notify.exe |N/A |Legitimate Yandex application used for DLL side-loading.
+|`+3A395DAAF518BE113FCFF2E5E48ACD9B9C0DE69D+` |WINMM.dll |Win32/ShellcodeRunner.LK |Loader for modular SparrowDoor.
+|`+0925F24082971F50EDD987D82F708845A6A9D7C9+` |WindowsUpdate.exe |N/A |Legitimate Fortemedia Audio Processing used for DLL-side-loading.
+|`+5F1553F3AF9425EF5D68341E991B6C5EC96A82EB+` |FmApp.dll |Win64/Agent.EEA |ShadowPad loader.
+|`+CC350BA25947B7F9EC5D11EA8269407C0FD74095+` |FmApp.dll |Win64/Agent.EDQ |ShadowPad loader.
+|`+DB1591C6E23160A94F6312CA46DA2D0BB243322C+` |K7AVWScn.exe |N/A |Legitimate K7AntiVirus Messenger Scanner Stub used for DLL side-loading.
+|`+1B06E877C2C12D74336E7532BC0ECF761E5FA5D4+` |K7AVWScn.dll |Win32/Agent.AGOJ |SparrowDoor loader.
+|`+EBC93A546BCDF6CC1EB61D7174BCB85407BBD892+` |start.bat |BAT/Agent.DP |Batch script to deploy the ASHX webshell.
+|`+D6D32A1F17D48FE695C0778018C0D51626DB4A3B+` |dph.dll |Win64/Riskware.LsassDumper.EN |Program to dump LSASS memory.
+|`+7D66B550EA68A86FCC0958E7C159531D4431B788+` |Ntmssvc.dll |WinGo/ShellcodeRunner.EC |Modified Spark RAT.
+|`+AA823148EEA6F43D8EB9BF20412402A7739D91C2+` |taskhosk.exe |Win32/Agent.AHCV |SparrowDoor/HemiGate with built-in plugins.
+|`+5DF3C882DB6BE14887182B7439B72A86BD28B83F+` |taskhosk.exe |Win32/Agent.AHCV |SparrowDoor/HemiGate with built-in plugins.
+|===
+
+=== Network
+
+[options="header"]
+|===
+|IP |Domain |Hosting provider |First seen |Details
+|`+43.254.216[.]195+` |N/A |Hongkong Wen Jing Network Limited administrator |2024-06-27 |FamousSparrow C&C and download server.
+|`+103.85.25[.]166+` |N/A |Hongkong WenJing Network Limited administrator |2024-06-06 |SparrowDoor C&C server.
+|`+45.131.179[.]24+` |`+amelicen[.]com+` |XNNET LLC |2024-07-05 |SparrowDoor C&C server.
+|`+216.238.106[.]150+` |N/A |Vultr Holdings, LLC |2024-03-11 |ShadowPad C&C server.
+|===
+
+=== MITRE ATT&CK matrix
+
+[cols="0,",options="header"]
+|===
+|ID |Name
+|T1588.002 |Obtain Capabilities: Tool
+|T1588.005 |Obtain Capabilities: Exploits
+|T1583.004 |Acquire Infrastructure: Server
+|T1584 |Compromise Infrastructure
+|T1608.001 |Stage Capabilities: Upload Malware
+|T1608.002 |Stage Capabilities: Upload Tool
+|T1587.001 |Develop Capabilities: Malware
+|T1588.001 |Obtain Capabilities: Malware
+|T1190 |Exploit Public-Facing Application
+|T1059.001 |Command-Line Interface: PowerShell
+|T1059.003 |Command-Line Interface: Windows Command Shell
+|T1106 |Native API
+|T1047 |Windows Management Instrumentation
+|T1547.001 |Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder
+|T1543.003 |Create or Modify System Process: Windows Service
+|T1505.003 |Server Software Component: Web Shell
+|T1574.002 |Hijack Execution Flow: DLL Side-Loading
+|T1068 |Exploitation for Privilege Escalation
+|T1078.002 |Valid Accounts: Domain Accounts
+|T1055 |Process Injection
+|T1055.001 |Process Injection: Dynamic-link Library Injection
+|T1140 |Deobfuscate/Decode Files or Information
+|T1564.003 |Hide Artifacts: Hidden Window
+|T1070.004 |Indicator Removal: File Deletion
+|T1070.009 |Indicator Removal: Clear Persistence
+|T1027.009 |Obfuscated Files or Information: Embedded Payloads
+|T1027.010 |Obfuscated Files or Information: Command Obfuscation
+|T1027.013 |Obfuscated Files or Information: Encrypted/Encoded File
+|T1036.004 |Masquerading: Masquerade Task or Service
+|T1036.005 |Masquerading: Match Legitimate Name or Location
+|T1036.008 |Masquerading: Masquerade File Type
+|T1620 |Reflective Code Loading
+|T1564.001 |Hide Artifacts: Hidden Files and Directories
+|T1003.001 |OS Credential Dumping: LSASS Memory
+|T1482 |Domain Trust Discovery
+|T1087.002 |Account Discovery: Domain Account
+|T1049 |System Network Connections Discovery
+|T1087.001 |Account Discovery: Local Account
+|T1083 |File and Directory Discovery
+|T1057 |Process Discovery
+|T1012 |Query Registry
+|T1082 |System Information Discovery
+|T1033 |System Owner/User Discovery
+|T1518.001 |Software Discovery: Security Software Discovery
+|T1570 |Lateral Tool Transfer
+|T1021 |Remote Services
+|T1005 |Data from Local System
+|T1025 |Data from Removable Media
+|T1039 |Data from Network Shared Drive
+|T1071.001 |Application Layer Protocol: Web Protocols
+|T1573.001 |Encrypted Channel: Symmetric Cryptography
+|T1008 |Fallback Channels
+|T1105 |Ingress Tool Transfer
+|T1095 |Non-Application Layer Protocol
+|T1571 |Non-Standard Port
+|T1020 |Automated Exfiltration
+|T1041 |Exfiltration Over C2 Channel
+|T1030 |Data Transfer Size Limits
+|===
+
+
+== FamousSparrow: A suspicious hotel guest
 
 The blog post on FamousSparrow is available in WeLiveSecurity at
 https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest
@@ -6,32 +116,32 @@ https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest
 [options="header"]
 |========================================
 |SHA-1 hash|ESET Detection Name|Description
-|`B9601E60F87545441BF8579B2F62668C56507F4A`|Win64/Riskware.Mimikatz.H|Mimikatz
-|`4DF896624695EA2780552E9EA3C40661DC84EFC8`|Win64/Riskware.Mimikatz.H|Mimikatz
-|`76C430B55F180A85F4E1A1E40E4A2EA37DB97599`|Win64/Kryptik.BSQ|Lsass dumper
-|`873F98CAF234C3A8A9DB18343DAD7B42117E85D4`|Win32/NetTool.Nbtscan.A|Nbtscan
-|`FDC44057E87D7C350E6DF84BB72541236A770BA2`|Win32/FamousSparrow.A|Dropper
-|`C36ECD2E0F38294E1290F4B9B36F602167E33614`|-|Legitimate K7 Computing binary
-|`BB2F5B573AC7A761015DAAD0B7FF03B294DC60F6`|Win32/FamousSparrow.A|Loader
-|`23E228D5603B4802398B2E7419187AEF71FF9DD5`|-|Encrypted shellcode
-|`2560B7E28B322BB7A56D0B1DA1B2652E1EFE76EA`|-|Decrypted shellcode
-|`E2B0851E2E281CC7BCA3D6D9B2FA0C4B7AC5A02B`|Win32/FamousSparrow.B|Loader
+|`+B9601E60F87545441BF8579B2F62668C56507F4A+`|Win64/Riskware.Mimikatz.H|Mimikatz
+|`+4DF896624695EA2780552E9EA3C40661DC84EFC8+`|Win64/Riskware.Mimikatz.H|Mimikatz
+|`+76C430B55F180A85F4E1A1E40E4A2EA37DB97599+`|Win64/Kryptik.BSQ|Lsass dumper
+|`+873F98CAF234C3A8A9DB18343DAD7B42117E85D4+`|Win32/NetTool.Nbtscan.A|Nbtscan
+|`+FDC44057E87D7C350E6DF84BB72541236A770BA2+`|Win32/FamousSparrow.A|Dropper
+|`+C36ECD2E0F38294E1290F4B9B36F602167E33614+`|-|Legitimate K7 Computing binary
+|`+BB2F5B573AC7A761015DAAD0B7FF03B294DC60F6+`|Win32/FamousSparrow.A|Loader
+|`+23E228D5603B4802398B2E7419187AEF71FF9DD5+`|-|Encrypted shellcode
+|`+2560B7E28B322BB7A56D0B1DA1B2652E1EFE76EA+`|-|Decrypted shellcode
+|`+E2B0851E2E281CC7BCA3D6D9B2FA0C4B7AC5A02B+`|Win32/FamousSparrow.B|Loader
 |========================================
 
-== Network indicators
+=== Network indicators
 
-=== C&C server
+==== C&C server
 
 `++credits.offices-analytics[.]com++`
 
-=== Delivery domain
+==== Delivery domain
 
 `++27.102.113[.]240++`
 
 
-== MITRE ATT&CK matrix
+=== MITRE ATT&CK matrix
 
-[options="header"]
+[cols="0,",options="header"]
 |=====
 |ID       |Name
 |T1588.005|Obtain Capabilities: Exploits
