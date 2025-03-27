@@ -1,0 +1,133 @@
+{
+  "type": "bundle",
+  "id": "bundle--7b7f19c7-0957-4dc8-8e49-79133067ce06",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--18fa1c06-11c0-5b5d-bf60-f9928cf1918e",
+      "value": "https://news.sophos.com/en-us/2025/03/27/pjobrat-makes-a-comeback-takes-another-crack-at-chat-apps",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--783c4de4-6790-5691-b75c-b4ca46acb0d7",
+      "value": "westvist.myftp.org",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44ae64c4-d5cb-5f56-bdbb-943790d4e9a4",
+      "value": "toolkitapi.xyz",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49295bc0-f940-5317-bcde-582303185ed5",
+      "value": "itechcube.xyz",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ca0bfe18-5765-5be4-ab34-52bbb4e7f84d",
+      "value": "dependablework.wordpress.com",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e9df65a8-da7d-5881-9e2d-2a96ab5c03e3",
+      "value": "lifestylespractice.wordpress.com",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63e302a8-81e6-515d-91e0-b54d943d1159",
+      "hashes": {
+        "SHA-256": "0ad9cd56764ef70bdfbd3b2d269020557135f075d63327dbaab1bf0e9d816fb5"
+      },
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd336e2f-c062-538d-900c-17eab7743f47",
+      "hashes": {
+        "SHA-256": "0ebcfbcda27b84b8f0db6d50abb1b0ff7831938913912156d27880704e69f1f2"
+      },
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c4b3a087-8454-50b2-b57e-991bf6d415ae",
+      "hashes": {
+        "SHA-256": "37c390ff137ac71004223c73b99a9d8eec8ae2e879dee679bda29c09e1b11a37"
+      },
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f66403ea-7ca5-5b52-8375-0b68d5a33a86",
+      "hashes": {
+        "SHA-256": "44a05d1e36938c0d6039e0986de91744482d86d641d1d981f3e8a61385fb33a3"
+      },
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7cb46ef8-b422-5cf4-8159-321cf10ffbf1",
+      "value": "com.happyho.app",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7cb46ef8-b422-5cf4-8159-321cf10ffbf1",
+      "value": "com.happyho.app",
+      "x_opencti_description": "PJobRAT_IOCs.csv"
+    }
+  ]
+}
