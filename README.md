@@ -86,8 +86,8 @@ The following sources are being collected and parsed:
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
-   - Latest commit: 860cdc206143c420c581079d5dd3780ed6aee394
-   - Last updated: 2024-11-18 21:26:33
+   - Latest commit: baf106774ae02051368add6f281123d73fc8a1ae
+   - Last updated: 2025-03-27 19:11:51
 
 16. **netskopeoss/NetskopeThreatLabsIOCs**
    - Repository: [netskopeoss/NetskopeThreatLabsIOCs](https://github.com/netskopeoss/NetskopeThreatLabsIOCs)
