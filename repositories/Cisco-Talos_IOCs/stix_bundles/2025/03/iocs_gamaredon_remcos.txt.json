@@ -1,0 +1,859 @@
+{
+  "type": "bundle",
+  "id": "bundle--8259e1f1-5478-4f83-9b7e-0d47eabfdc67",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--667d852a-bae9-57bc-90ca-8009293f0940",
+      "value": "146.185.233.101",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ca7bec54-e2a2-59b2-9caf-2fe55c1a78c0",
+      "value": "146.185.233.79",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dab44019-96f8-5695-a8dd-805045d40832",
+      "value": "146.185.233.90",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b926669-9edd-508c-82d4-dae9e418f211",
+      "value": "146.185.233.96",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6ff978c8-dba1-545f-ba2a-a5990fb0b377",
+      "value": "146.185.233.97",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--22dafc19-3dd4-5903-8107-a41e89273646",
+      "value": "146.185.233.98",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--914cd0ec-c945-5002-8dec-277f9e6a8970",
+      "value": "146.185.233.99",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aac43255-95e9-5fd4-946d-4134643f5cb0",
+      "value": "146.185.239.33",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--de918401-c602-5dcf-9aaf-799ae2a488bc",
+      "value": "146.185.239.45",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c433aab7-7032-59da-b121-2675311fab37",
+      "value": "146.185.239.47",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--24ff4f4d-d31a-5f7e-adea-acbe2bf4f086",
+      "value": "146.185.239.51",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fc623f7f-3a14-5179-b96b-f8bafb78b3e9",
+      "value": "146.185.239.56",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d08ab55a-cfd0-548d-b4e2-6a628ee1660a",
+      "value": "146.185.239.60",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ef07980b-cffc-5666-afa5-706090714f06",
+      "value": "80.66.79.155",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7aea8a91-807b-5431-8618-298ad85f8238",
+      "value": "80.66.79.159",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--266bdf8e-c6bc-5c9c-9ea6-5c103310b58b",
+      "value": "80.66.79.195",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e365910f-821e-5758-8658-0ebf4df0e629",
+      "value": "80.66.79.200",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b66828b7-7409-598f-acdf-3e5811ef265d",
+      "value": "80.66.79.91",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b3915b3a-a1bd-5c69-96f0-008f3581cc03",
+      "value": "81.19.131.95",
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c957d6b-edfc-554c-ae4d-518ac6aa9942",
+      "hashes": {
+        "SHA-256": "15a2e86d950ac4b11cc38c437f7d38b6be47f5e03ab9bdf05db344afddbc73ae"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad19a09a-defa-5686-a6d0-1bc37f10efb3",
+      "hashes": {
+        "SHA-256": "0321758329ca44f1c9f7e15a37f081df39ba37598b1547d2f2bbc839b34f0b2b"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3d0ae73e-3b2b-5804-8cf5-6fe7ee011a61",
+      "hashes": {
+        "SHA-256": "033de779278ecfdee7117d5d0a710e22eb501421e0c5f93e4ea3e82f414bbb90"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--28e6c991-4b62-5001-a35c-6c8199ac38c9",
+      "hashes": {
+        "SHA-256": "048642a4773c5b3bb0b1cbc260a4f08c5db6c95a390971347ea5b055ed1b4dbe"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fd17aaf5-c8eb-592c-a0d2-b2186180ee0e",
+      "hashes": {
+        "SHA-256": "0737b47a47defc6051cec713f53d8fd4d532ff0011fc94d6b01c5a525bfbae44"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2206926c-98af-5446-ac28-6bdc42e5b8e2",
+      "hashes": {
+        "SHA-256": "0c0d6e88326574a8b761f71c9e0bb186ce17bdd4fe1ac68d080113fa3f0a6fdd"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--41de30e5-0677-5bb6-a91d-e6825b912276",
+      "hashes": {
+        "SHA-256": "0ca3239a90cc3421062090129932050f793e2fb81498711703a9d32967aba9ce"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2c978329-9119-5b25-a116-58c08f9c435d",
+      "hashes": {
+        "SHA-256": "121746df4264aca0c138d35bbe5e2c6eaaa60b72967a527687e83d7e2c653207"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b29a264-059a-5bfe-b883-bfc0fa595984",
+      "hashes": {
+        "SHA-256": "134d02ddcc75a2d7e0e1824d430ba2e9a2a96682452fa6ec84660ed5d0a88023"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--64187d0f-0601-50d4-8236-6cf206b803dd",
+      "hashes": {
+        "SHA-256": "15a5e11ea8f416f7d27d02ce876bfa8dcd22cdedb93764bffc8db4c5a922ae18"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6e0caff6-e79d-5c61-969e-6648f77999f6",
+      "hashes": {
+        "SHA-256": "236850ae28015cf9b0f20a677ade5bef2a85bef665585c48d88cc00a823323ad"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ec8f02cb-47b5-50be-94c4-e7d0928f1625",
+      "hashes": {
+        "SHA-256": "27e226d57abfb671b676eb82fe286db0964d35fff73c905573550052e0242176"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bf43849c-40a0-5580-9b74-49206c2570cf",
+      "hashes": {
+        "SHA-256": "28a5acd85516b62d870bd89df464360ecc705324c8e5266e81e7622b25c9d4ff"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dd09d9ba-314f-580e-b6ef-c5522e9e13ca",
+      "hashes": {
+        "SHA-256": "292fce69ac86ae1db56589d018bd390596847a9fe531797102a18c9ff7697d42"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2d05e8ef-3e0e-50c5-ada3-cb3e91b08f04",
+      "hashes": {
+        "SHA-256": "2bc8446ee880b1097e1220e1922251f209b5368e1388c135c032ba01f32b8b5a"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4c6ad768-02cb-5391-970f-60d80b8a80a0",
+      "hashes": {
+        "SHA-256": "330d36e248881a0a24a7d0612f3ac9a5a24cc960b36c2fe9ba0d63941b12fc18"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9dcb7592-2ca8-5934-be82-bed8811952bb",
+      "hashes": {
+        "SHA-256": "393421a3673ef684fb916c4b61efdde54d76f14787b422e1a469e5e97b5c098a"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77e6fa66-a09f-59f7-8b92-9606537d5e87",
+      "hashes": {
+        "SHA-256": "4117245310c57f687d0c353c06a6eda4c1e93ebee33fb5f712142c272a3c1108"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--609722de-3642-5e72-8dfa-baba18c38502",
+      "hashes": {
+        "SHA-256": "43a9f0a3963d700a6d586c65fc7fdd1bb562b861942c384e7767213cf1059ef9"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eabafe5a-af93-52c2-8a95-2e92a435d049",
+      "hashes": {
+        "SHA-256": "48c9152e48c525960663f98579edaa35f94025015403bb382f32cb78d69fd850"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e55f5e17-9091-5b56-9347-bdfc9f5a2d13",
+      "hashes": {
+        "SHA-256": "502104d48d0a4735a6a051744277c9231f8da156311ec99367bca50b7a47a613"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f29bef8e-acc3-5f89-b764-ef0d3d94c2ad",
+      "hashes": {
+        "SHA-256": "5300b4624e8e95c8dd86859f1f84c054c26a4869c4c3d714e9c6d7a01b2c11ae"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2303d5c1-6cf5-5127-899d-6ad1a951b0ae",
+      "hashes": {
+        "SHA-256": "58c651a2fa72cee6d867fc80790b9b26eca30b9cb0dbb129ac1b175b25d38c3a"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ed101c8d-dcb9-5019-96a5-81994b3f39bd",
+      "hashes": {
+        "SHA-256": "5a26624600d7ef102375317a32db739531bfab91335131edd1e2362f2753e693"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0a9bc7e3-a9c7-56af-8c31-56ef3d291e6d",
+      "hashes": {
+        "SHA-256": "5b2ad349dd02a00bc8860294657139d681b0c786afcbcb1ffab77f57b01e7b00"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2f93a2f8-5487-5716-9a78-648d061a29db",
+      "hashes": {
+        "SHA-256": "5baa482ac4553b9939c49c16da6e0f4fda2cf9f2ae0248774214943c2d86389c"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1c376a17-1e90-50e8-9d5d-d619fc886763",
+      "hashes": {
+        "SHA-256": "693874fcf694a9a9ad04fe75d96de7fe9ebe2e07ee1441c79ac3e8eb8aeb06b5"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--694b688e-6ec2-50cc-9cfd-b097a3d960a9",
+      "hashes": {
+        "SHA-256": "71b900826c223ca6c73882346375434b7f29f3955e3904bd240b88fc6ab6e802"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ab8b1a4-4d7d-5e75-b7c6-e22e362fae07",
+      "hashes": {
+        "SHA-256": "7919c32cf82736197cf7ea99056560c18e28f8b726a6be8700625508524e5167"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9f696cb-bb74-5ab5-8a60-6783cc1d89c9",
+      "hashes": {
+        "SHA-256": "79af449339eb1410e8f3ed8d7fe7649b079e0143a06ef91cc78f296b0e927901"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b464922c-9b13-550c-974c-c79c01f7a1d1",
+      "hashes": {
+        "SHA-256": "7c50be91304ee573c2bc8823f67ea4f45a1988ceb73ffe5ebcaccaf59e5c1cce"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c66e4393-d001-527f-8d71-02d8242f51ea",
+      "hashes": {
+        "SHA-256": "7df17642229f1776a5fb8e64365d95ce345484cbadec23332a3c00657c2f360f"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f6098f87-9130-5808-8be6-9c5273048987",
+      "hashes": {
+        "SHA-256": "7ea77f4746f21e89df52c9a54c12135f3f45f7a342e8b1dba09abf2a7e8c4f15"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--290a5ca9-1fb4-5d5c-80b0-67c80a95c248",
+      "hashes": {
+        "SHA-256": "802f56cc84689a68112a2cf76ddce70e1e3956038e19bb8c58f74d5713d72a5f"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e0d4963-2009-59db-a954-c1936300af5d",
+      "hashes": {
+        "SHA-256": "8087db3c43840caccb9756893cdaff707311dc195f34de471cc259b1b62e3411"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10d0ee16-4c06-5051-9cc1-205eed95a0bf",
+      "hashes": {
+        "SHA-256": "83024c7a9ba256a36fb9b751926170c08dd4daa1866c119856cd091b1275897f"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e70871d1-ec78-5e6c-9023-b38e3116c924",
+      "hashes": {
+        "SHA-256": "83dab2e356e1069fe48bfba91e1c2cc73ce2738e2870813f9997cee984be583f"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d2f6a811-969e-5f8f-bf3b-7bae861c37bc",
+      "hashes": {
+        "SHA-256": "86a22e164f96a2d194095419c746cdf12737b78af629d251e0c881f381932a48"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c1d69603-b83f-5ce2-ae91-eb5807e78544",
+      "hashes": {
+        "SHA-256": "8800edc6961be56a9d44f843d224f19b47834bd57037cff2041b7c563d3d2422"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b31b8b08-043c-5d96-b5d6-7bec53b24dc0",
+      "hashes": {
+        "SHA-256": "899a46e956e82b9da2b86eae8cbdec1e68521c708a87bce1a2ae11b20538eb55"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6a0bf6e0-5ea2-581c-9215-efaa16e5b3c2",
+      "hashes": {
+        "SHA-256": "9139646892f67f12dd2a9d2b43a7ae28f1556f5e42332effcf6ea17a63794a44"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ff7e9f4-aa43-5366-bf77-5846fb7fa8d1",
+      "hashes": {
+        "SHA-256": "949ef0168d19d61cc39a369d18f5c2949686801bbea6f7136f66cfe92fe85907"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a20aeda5-3c4b-54da-8c59-e6c3665875b8",
+      "hashes": {
+        "SHA-256": "94ca1389a8af382e347772bb4d977aa7516ea742c99306b78c486f5104b34a1b"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--df58ef7a-8061-5fd3-986c-a4a691b245f6",
+      "hashes": {
+        "SHA-256": "953b5b7878bb2c4f40f2b131a01399c1b170731206bc09cb5a133ab996ec691c"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad4c9a28-26ca-5146-9f42-00c2fb88d7a5",
+      "hashes": {
+        "SHA-256": "995f76b1f695f92179f2ec93fd1f67d5a58753bc6d0ff00a46653d634e3000fe"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1bcdb1ca-327e-5c7a-9e29-6ab7550d265b",
+      "hashes": {
+        "SHA-256": "9b01625fb72ba8c3c840ab46d1eaebcff87a0f109f36c6744ba191ee82784981"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4f3752d4-d4f5-5308-9236-e612adc3a727",
+      "hashes": {
+        "SHA-256": "a3e5337650a53d3d6cbe13b1cd32e493f0292dec9d9483de8f8322fe634f63c5"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c68643fd-fb4f-57d5-9407-8934071b3361",
+      "hashes": {
+        "SHA-256": "a73226550f0b97c3f25411ba62181aa011e8410dec4a1444412f40114704d4c2"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e9f9fee8-9061-5d3e-b399-77baf8c70329",
+      "hashes": {
+        "SHA-256": "a98810a2ba2427067d2412bf67f47f93e22989607d69fc17ff9ac6fc774674cc"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fa825884-c5a3-56c2-8838-3ae637443496",
+      "hashes": {
+        "SHA-256": "ab1fc7f73bf3867dfc471f9aeb815af0d83e4e2c5eeb85365a266daf53af39cb"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--632987ed-4aed-5a15-bcf3-0205199d7641",
+      "hashes": {
+        "SHA-256": "acb3954b95e3c897d5ac69a8cc09ed81aace7b3193aa637f5ceb2a4a23204078"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0daa8917-99db-576b-ab05-d2909ce6650a",
+      "hashes": {
+        "SHA-256": "b34cc0a4ee0bfff6d788387730a748ad9055456a648d072d436e44ef7050babc"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--447ff465-faad-52bd-b46d-e7b8c9021ada",
+      "hashes": {
+        "SHA-256": "bf7bed4724ec1cf1dda5ac1a1ace33eaa52394c0ee9976ade1bbef17d4b1a717"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12dee58a-6eba-5630-aa59-c22e30196778",
+      "hashes": {
+        "SHA-256": "c160899ba65ab2c3651dcb98fa13dddea892f72c0aaa1ff63cb98aac67367c56"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe206319-f707-5dec-963b-d95e94f7a038",
+      "hashes": {
+        "SHA-256": "c4d4213ff3b737fe20248362687a0cd3008b630a65b230b06fba282379665c83"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6ebc82a8-cc85-58e3-a690-180394062578",
+      "hashes": {
+        "SHA-256": "c64554c29d798e6006aa5845da7252f18c01e305f61071e314a23ab143ed73f8"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--390ecb73-a5a1-57d5-9cd8-ee9e03f85485",
+      "hashes": {
+        "SHA-256": "c85f1325590ee8600759334d3a2c807eae599eff4a4255dab0f59c31667e6bdd"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7a8f7936-7371-5861-ba5f-26f8ab08d5f7",
+      "hashes": {
+        "SHA-256": "c8a636d150a0045eb799ccc7c5e2fa46156f3f72167b9e49456a358e484eac8b"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7a8be51a-a48a-5f56-b0fa-3ca884cc544f",
+      "hashes": {
+        "SHA-256": "c91841bd675c5a02d577567baa3a71be3cd37fdb59412f133a3773de6ee10602"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2accf8b8-15f3-58d2-8ac8-43f7533b8359",
+      "hashes": {
+        "SHA-256": "cb6458227f8b4b3edbac12bef66edd5b0d8d3712637a6c77db67040360897023"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b75a92d2-2d82-5a3d-9f3a-b46e47ab9754",
+      "hashes": {
+        "SHA-256": "cd229d29ef929feb9a74a6b265fd26caa3fd5be2d2150ba359336307799872be"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cc80d2ca-2dcc-5d8e-8d12-1dd6b3f62969",
+      "hashes": {
+        "SHA-256": "cdd21e4f9ff1d1cfcf4888342fa2be5452eb3cbe7ba28e4e98fa44c879fe0265"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f98117f2-e437-5d5d-a36b-ab4a27e5c416",
+      "hashes": {
+        "SHA-256": "d00418cd52123f9f6a9bd0edafc77d7fa39f68de6be84ec07ed67a735872f939"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a5ce5a5-2f2c-5fc8-b727-c703c634ff14",
+      "hashes": {
+        "SHA-256": "d0e8a91af95d62dc58dbfd64970f1b255c6bffedeaf21b3e6ec4e89496f6c67a"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ddeb682-d1d1-547b-bfbd-5ad661c7ff48",
+      "hashes": {
+        "SHA-256": "d4fbc5702731a01d96cbaa21bd60333f1d03a994adb5b931687281282c938f12"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0c9a192f-ce54-5662-983a-6751f848b4aa",
+      "hashes": {
+        "SHA-256": "d73bac6e8a5679394152bb33e64fbe5840ff13953b9ca024003a5045dce715ae"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dce84141-1e85-5d0c-8e2e-671f537fe371",
+      "hashes": {
+        "SHA-256": "d7c0655c6f1db4acb14bb4c1ddec34ce8f3849c9e0bf9e28d28c8f1c00121fd7"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ac15fc99-c3e9-520c-9fbb-593486c100c4",
+      "hashes": {
+        "SHA-256": "dc02cfebbc64d6dbcc3a1b1a2cc91cb763c0be9a72ac141c2f06db74aa56cfe7"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7b0f4d31-4ea7-5bd5-b6fd-7142e63c5381",
+      "hashes": {
+        "SHA-256": "dc92d2870219833832ea758afcb19c285f65bf3a6a3ace225b499f744d6063a4"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--97de3870-ceb3-5ed8-89c2-9f25830689d3",
+      "hashes": {
+        "SHA-256": "e66e9df50f40aa73dc847f6afdf9852000782841df6b808a75e090e9787604dd"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--69b917ff-6430-57e6-8d8c-215f67fb2164",
+      "hashes": {
+        "SHA-256": "e6df89bb9d51817fff1b7704e70d406584d80839e1bb1cb319c4150015b84914"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a2c4591e-8958-5a73-b787-1533ea203d11",
+      "hashes": {
+        "SHA-256": "eb8da26034035f08946acb6fc127e3b2db884a024a61aea99397c46aedc70145"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--846462e9-3aaf-5909-907e-63e24581e5b0",
+      "hashes": {
+        "SHA-256": "ecb3d3466686f3201719528b067e306d58f1c61228e1d6e8c7c510cc1536ebd9"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f8a3159d-4138-52cc-a2d6-444f20814a10",
+      "hashes": {
+        "SHA-256": "ecf7e135bcdcad3274e94c6ab918b683da619e91a9e0c68bd8d6355b33bfc5da"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bdf254a4-ab7c-525b-855b-f8f582a69659",
+      "hashes": {
+        "SHA-256": "ef0b2e0c337e11a94279025f9cdeba519d1aee7c1af3013053fe510955e2aa85"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ecaa0e8-bf86-52ff-a792-1ae3084a4a61",
+      "hashes": {
+        "SHA-256": "f028c4086990756ee37dee303015053c73ec1c4d358e3a6a50b3e88a6c7ffe8e"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0087b9cc-9f23-5566-9c0f-e641ee8ef2eb",
+      "hashes": {
+        "SHA-256": "f06702618720df5bd9b12ee68fa6b498cacea0ce162cd92267748a6dede6f789"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bc658d5b-1647-510b-8b8d-e1cdd2cff397",
+      "hashes": {
+        "SHA-256": "f76dfaab6e248d88241a17b5a58fd2405d0d1954364bce9144156eba3904dd6a"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9bf9616c-73bb-5180-be23-ee4cdc68e032",
+      "hashes": {
+        "SHA-256": "fbd030b53088a536d7e6b6a80e4767c097fbfcb11a921dd7c0fa938322f96842"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--de411cba-69e8-5ce8-8a2d-7fb961b301a5",
+      "hashes": {
+        "SHA-256": "ff26b2cc11696d5931757cc6bdafb1163f48b7f41f17d1e593ea3ee9f5176e2e"
+      },
+      "x_opencti_description": "2025/03/iocs_gamaredon_remcos.txt"
+    }
+  ]
+}
