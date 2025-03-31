@@ -26,8 +26,8 @@ The following sources are being collected and parsed:
 
 3. **eSentire/iocs**
    - Repository: [eSentire/iocs](https://github.com/eSentire/iocs)
-   - Latest commit: 4a77204c6e5bd4eec970df4a914b047ec50749c5
-   - Last updated: 2025-03-31 14:36:16
+   - Latest commit: 99d832055e2309828aa7232ca2903dc126c598ba
+   - Last updated: 2025-03-31 20:39:12
 
 4. **Cisco-Talos/IOCs**
    - Repository: [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: a9319fb75278b49d8ec6c20d756519dbbb4847a0
-   - Last updated: 2025-03-31 20:16:23
+   - Latest commit: ef284c86b45e329415e45bb2c38cc5c628bbbd49
+   - Last updated: 2025-03-31 20:39:14
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)

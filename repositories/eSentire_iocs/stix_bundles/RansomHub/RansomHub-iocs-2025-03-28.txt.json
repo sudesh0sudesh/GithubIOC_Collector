@@ -1,7 +1,119 @@
 {
   "type": "bundle",
-  "id": "bundle--a59ee843-e901-4b28-b4eb-5fda131ff196",
+  "id": "bundle--699ee1ac-c0ec-4c7d-9d1b-d4654f859c58",
   "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c3314cc3-a0e0-5a82-a9ab-39cb234fbff7",
+      "value": "92.118.112.208",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d005cdf6-2683-5e05-a30e-3cc60550bd70",
+      "value": "173.44.141.226",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cb7aaf5f-a979-57b6-ab95-1fd6a5ea174f",
+      "value": "45.82.85.50",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9b072b31-c43c-5cce-be28-8121b2c15288",
+      "value": "92.118.112.143",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--17367acc-fd49-50bb-aa6e-d3e90930e8bc",
+      "value": "38.180.195.187",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7d4cc0d7-30de-520a-b805-85547abcbf34",
+      "value": "185.219.220.175",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0988f84e-f83f-5ba5-a391-7593f1ec1b94",
+      "value": "193.203.49.90",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--95ba1f58-9abb-5cdc-81b5-82908b9db8a2",
+      "value": "88.119.175.65",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3cf68b00-1b54-5edd-81a0-00e3c59e0228",
+      "value": "104.238.61.144",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--60bbb57f-de7f-5f78-8c56-216dacb2d4fa",
+      "value": "38.180.81.153",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f622802b-58a3-59f8-955b-46056ee2c197",
+      "value": "185.33.86.15",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--702b2e9a-db3e-5ac2-bc90-342a4e12155e",
+      "value": "185.174.101.69",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--53ff8746-cdec-59a7-ae8e-5930b1475c47",
+      "value": "162.252.173.12",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3a362bf8-71f0-5f46-9ee1-8e00b28c1612",
+      "value": "38.146.28.93",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e2a847f-a864-5d04-a51a-5b86b1744c7d",
+      "value": "185.174.101.240",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e5407ac0-744e-5d56-8319-d676dd68df80",
+      "value": "172.210.82.245",
+      "x_opencti_description": "RansomHub/RansomHub-iocs-2025-03-28.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
