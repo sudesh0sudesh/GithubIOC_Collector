@@ -1,0 +1,577 @@
+{
+  "type": "bundle",
+  "id": "bundle--c1434cb0-22f7-4a51-9700-52d32c424afc",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--66daf7b8-1194-562e-adfe-6884de3dc304",
+      "value": "188.72.236.249",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--66daf7b8-1194-562e-adfe-6884de3dc304",
+      "value": "188.72.236.249",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--66daf7b8-1194-562e-adfe-6884de3dc304",
+      "value": "188.72.236.249",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44600210-473a-51ab-8a9c-a02fceb990c2",
+      "value": "admi2fib4exit.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22aa97b9-52fb-54bd-93ec-670ba7c5e5e8",
+      "value": "ef.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dbe31e02-8bca-5dcf-ad81-f587f0516f4d",
+      "value": "troy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7afe8ec-c60f-55c0-b057-199febd40171",
+      "value": "medii.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cedc7a8a-3151-52c0-9a3a-f341ee59bd83",
+      "value": "cool.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1e5a8d8e-fb0d-544d-a07c-97282ad647db",
+      "value": "top.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c170f4b-465c-5334-9fc8-8e15d2516741",
+      "value": "good24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1e5a8d8e-fb0d-544d-a07c-97282ad647db",
+      "value": "top.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95fa4b41-07ee-5521-b4e2-aaae4c8a0ee2",
+      "value": "bestknowledgegood.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bfe589de-3f24-572f-8be6-59fe0cb35ba1",
+      "value": "centra.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0759da41-e899-53ed-8e40-f146140aaeba",
+      "value": "net.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--787affa7-7abf-5377-9058-16f56c32a10b",
+      "value": "tankka.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5747a382-e535-5c14-a769-4a32cbfbf6f6",
+      "value": "perit.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfd709f0-05cb-5c5d-adeb-0cef6474681a",
+      "value": "shafii.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--66aa09b8-69c4-579d-a0db-9478f48a002d",
+      "value": "fun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee021c6e-3c74-5f45-9723-35afc089e3e0",
+      "value": "fun24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6d58fb2-f7bd-523f-a36b-6c497fc3a4b7",
+      "value": "creditfileaccessnetworkshop.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c40a04b4-4858-5f78-a51e-23e8e16d37e1",
+      "value": "creditfilechainalleasycompany.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--19cb9380-3069-5979-8444-96f4ec41aae0",
+      "value": "creditfilechainallsimple.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e5e06736-079d-5c2a-b061-c16ee7023f91",
+      "value": "creditfileparteveryfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--da4ecae0-f304-5da5-862b-201e2476a223",
+      "value": "doup2dalf4if4shou.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff771694-bee6-5d61-84bc-b4c671f97a7b",
+      "value": "piki.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c4f36cef-6e3d-5f99-8c9b-53b974081ba4",
+      "value": "ecb4teg4sepd4bunt.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad4e1d0b-7303-5ae9-8fc0-62d8622fd826",
+      "value": "web.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2d2c7fd-083b-595f-bcbb-305244007ed9",
+      "value": "easy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a7481b2-12da-5a17-98d7-42f172dac7e0",
+      "value": "ez.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad4e1d0b-7303-5ae9-8fc0-62d8622fd826",
+      "value": "web.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2d2c7fd-083b-595f-bcbb-305244007ed9",
+      "value": "easy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49b2d86e-d16d-5091-ad5d-d83d6dc52265",
+      "value": "simpleshop.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--66aa09b8-69c4-579d-a0db-9478f48a002d",
+      "value": "fun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1d8e4021-bb52-5ce7-85fd-406f8a82d63f",
+      "value": "fileaccesscenter.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48c482ae-741e-59d7-9012-0943101b27d9",
+      "value": "fileaccesschannel.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ef3c019-08ee-5171-a0e4-15354b2772ca",
+      "value": "fileaccessibilitynetwork.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e267fa18-3760-5ad0-bf60-27dffe150e23",
+      "value": "fileaccessnetworksecurity.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2f9d23a-8f0e-564d-b398-690bdf23db31",
+      "value": "fileaccessnow.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1394c36-a656-5189-90c4-7acdfb2e4bf3",
+      "value": "filelinkallezcompany.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84f757a2-21c1-54b4-9f7c-273113f2c507",
+      "value": "filelinkallsimple.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f9d2ef0-ccfe-54c7-8068-2b6819ce2b7f",
+      "value": "filepartallfunclub.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5faa92e-dc16-561f-8b5b-d7ebc4b499de",
+      "value": "fileparteveryfun24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c190a931-868c-5c85-93dd-ebc9cc6b89c8",
+      "value": "fileshareallfun24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b41c1657-e3e4-5f56-b382-824484645344",
+      "value": "tellee.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2d2c7fd-083b-595f-bcbb-305244007ed9",
+      "value": "easy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f3c7899-485f-5287-9c45-8e3fb63f6f43",
+      "value": "globalfileshareeveryfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c46985f-61ae-5d41-921f-b959c7f6f599",
+      "value": "globalfileshareeveryfun24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4cb9e637-0247-5c3e-91f7-ba15d23fc28c",
+      "value": "globalgreatexperiencegood.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1c170f4b-465c-5334-9fc8-8e15d2516741",
+      "value": "good24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fea2df0-684f-510a-9590-49e7cda21463",
+      "value": "greatknowledgegood24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5aab405a-1ba7-5238-b105-d99ea70d5d0f",
+      "value": "hell4rec.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc075e53-3d64-55ab-b87c-e7b872d1ebc2",
+      "value": "exiler.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af3ae272-015a-5ab2-ac3e-1167b807d8d8",
+      "value": "infoaccessnetwork.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c631514e-b929-5e5a-805d-dcd1e907557d",
+      "value": "glee.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--82703554-b06e-5445-9005-7a72340bcab7",
+      "value": "cats.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d3a90d4-4b5f-5d1d-885d-52337aa28662",
+      "value": "shivey.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac5ecc22-6516-5e76-b375-a7b3231fa780",
+      "value": "premiumexperiencegood.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5a098243-9f07-5eb4-a5fb-4c42f2d9f54b",
+      "value": "premiumknowledgegood24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e61d3deb-59b5-576e-a6cd-9ec003f79190",
+      "value": "realcreditfileparteveryfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--66aa09b8-69c4-579d-a0db-9478f48a002d",
+      "value": "fun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--104a26db-0c30-5a39-9860-a8df018a8750",
+      "value": "realfilemindparteveryfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2d72b097-eaf2-5130-bc8c-e31466a136aa",
+      "value": "realfilemindshareeveryfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7670842e-7752-512e-8285-5eea083cf967",
+      "value": "realfilepartallfun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--046e634f-466e-5f51-af88-5a0ab4b851be",
+      "value": "realfileshareallfun24.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8b05339-6783-5e43-99dc-6a2cda026c44",
+      "value": "realmoreupload.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b274965a-9c97-5e98-96b0-c637543f0457",
+      "value": "mayda.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13e54461-be25-50ad-b7b8-23056741ce1a",
+      "value": "sendfilelinkalleasy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73797c83-103f-5991-a509-43d57918c9f3",
+      "value": "slud2mill.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b48444fe-3c02-5d80-a39c-f4bd95e1af97",
+      "value": "liter.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d81e80b1-3cde-5d4f-a9af-676f1479b3ae",
+      "value": "thebetterfileupload.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--66aa09b8-69c4-579d-a0db-9478f48a002d",
+      "value": "fun.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9dab02ce-38d0-5f91-b2c6-258d71443ca3",
+      "value": "themoreuploaddesign.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--83eaf719-18eb-5161-ada4-841605047a2c",
+      "value": "themoreuploadllc.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4532cfb-bce5-5df7-8ce4-d328de92b688",
+      "value": "upgradeupload.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2d2c7fd-083b-595f-bcbb-305244007ed9",
+      "value": "easy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2d2c7fd-083b-595f-bcbb-305244007ed9",
+      "value": "easy.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e8378da-123a-507e-a57e-5c3c1fe56baa",
+      "value": "simplecompany.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7223ecb6-ac47-541d-98b1-560d3c960f1b",
+      "value": "webfilelinkallez.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8748d7d1-26e3-5d83-a205-b45dc86b5d0c",
+      "value": "yourdownloadbest.com",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dba0906a-a52d-5703-a3c7-0bb61863f336",
+      "hashes": {
+        "SHA-256": "21df75dccea2946c1a28d9c46e722cdeaee00482a57bca9286cda59b172b2d9b"
+      },
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12cd27ab-859f-5976-bfb9-61f8863b872a",
+      "hashes": {
+        "SHA-256": "eef55d89a46dd43a2bd72852a5bd2929458da58f293e65f951a1d17c3a784440"
+      },
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    }
+  ]
+}
