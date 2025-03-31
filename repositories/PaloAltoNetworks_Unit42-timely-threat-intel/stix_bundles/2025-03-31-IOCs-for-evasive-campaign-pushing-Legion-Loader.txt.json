@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--faca5d9c-761a-4c2c-a0d5-3e474b316fe5",
+  "id": "bundle--3d499a3a-a52b-4895-9ae4-2cf76a7c6b6f",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -21,6 +21,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--66daf7b8-1194-562e-adfe-6884de3dc304",
       "value": "188.72.236.249",
+      "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4cc5837f-2174-5348-bff9-57780c793060",
+      "value": "https://www.linkedin.com/posts/unit42_pastejacking-clipboardhijacking-legionloader-activity-7312586510409572353-OH4t",
       "x_opencti_description": "2025-03-31-IOCs-for-evasive-campaign-pushing-Legion-Loader.txt"
     },
     {
