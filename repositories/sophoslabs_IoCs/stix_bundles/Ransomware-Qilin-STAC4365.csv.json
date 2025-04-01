@@ -1,0 +1,127 @@
+{
+  "type": "bundle",
+  "id": "bundle--9fe83f3d-3558-4a34-8e2a-a7f56ba23887",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1380fee2-59e6-5852-a555-24003e45614e",
+      "value": "186.2.163.10",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cf2f894-dc43-5ee5-a980-429b1463abc3",
+      "value": "92.119.159.30",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5907ffd3-0ee4-57da-a2ef-b57a436579a6",
+      "value": "109.107.173.60",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dbdb7297-a96b-51c4-b268-251a16ea78c8",
+      "value": "128.127.180.156",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6e532c8a-c2c4-5eea-b401-df8636652e2d",
+      "value": "109.70.100.1",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--77f4ac55-da69-556c-a451-e1fb8ed13ded",
+      "value": "b8dymnk3.r.us",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4448c2a-5d0d-5ee2-ac55-0656ef72ca6d",
+      "value": "cloud.screenconnect.com.ms",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--cd6e5020-f4a9-59c9-b818-4b4686652689",
+      "hashes": {
+        "SHA-256": "fdf6b0560385a6445bd399eba03c8662be9e61928d6cbc268d550163a5a09285"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9a7bb59c-8c95-5c51-aa0f-0937229905d6",
+      "hashes": {
+        "SHA-256": "0b9b0715a1ffb427a02e61ae8fd11c00b5d086eb76102d4b12634e57285c1aba"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--154cb3b4-48af-5d10-b46e-4ed69873e5e0",
+      "hashes": {
+        "SHA-256": "9da70c521b929725774c3980763a4aed9baf9de4e6f83fc8f668c3a365a55f82"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--79db1edf-6bbe-5d4a-b0c2-17cb7a9f2d91",
+      "hashes": {
+        "SHA-256": "b52917b0658cd2a9197e6bb62bade243ee1ad164f2bb566f3a1e09dfa580397f"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c25c8888-f28c-5ca6-817f-824a217ec87c",
+      "hashes": {
+        "SHA-256": "ef3e42e5fa24acaee2428ff0118feb2be925bfe6b1ea4eccce8b70a7ac5ab2cc"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0abc4bef-7ec0-5051-893f-a98fff7b5c04",
+      "hashes": {
+        "SHA-256": "45c8716c69f56e26c98369e626e0b47d7ea5e15d3fb3d97f0d5b6e8997299d1a"
+      },
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--1d253fd7-17c6-4602-b2d5-afc920a2f8c9",
+      "created": "2025-04-01T13:51:07.920499Z",
+      "modified": "2025-04-01T13:51:07.920499Z",
+      "name": "CVE-2023-27532",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--809866c3-7450-48b5-b61e-19bbbb77a55e",
+      "created": "2025-04-01T13:51:07.920955Z",
+      "modified": "2025-04-01T13:51:07.920955Z",
+      "name": "CVE-2023-27532",
+      "x_opencti_description": "Ransomware-Qilin-STAC4365.csv"
+    }
+  ]
+}
