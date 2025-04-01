@@ -101,8 +101,8 @@ The following sources are being collected and parsed:
 
 18. **elastic/labs-releases**
    - Repository: [elastic/labs-releases](https://github.com/elastic/labs-releases)
-   - Latest commit: 5129437795785c4d4c3624dbfdd86c8c527b0a3a
-   - Last updated: 2025-03-27 12:29:05
+   - Latest commit: 2b28f8bc4f7839973a7d05983bd2ecb8616138dd
+   - Last updated: 2025-04-01 13:39:48
 
 19. **DoctorWebLtd/malware-iocs**
    - Repository: [DoctorWebLtd/malware-iocs](https://github.com/DoctorWebLtd/malware-iocs)
