@@ -116,8 +116,8 @@ The following sources are being collected and parsed:
 
 21. **WithSecureLabs/iocs**
    - Repository: [WithSecureLabs/iocs](https://github.com/WithSecureLabs/iocs)
-   - Latest commit: 29adc4b6c2c2850f0f385aec77ab6fc0d7a8f20c
-   - Last updated: 2024-11-06 23:59:10
+   - Latest commit: a5e50e76f7829cbab219bec94bf1887dea9bb304
+   - Last updated: 2025-04-02 07:40:59
 
 22. **rapid7/Rapid7-Labs**
    - Repository: [rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)
