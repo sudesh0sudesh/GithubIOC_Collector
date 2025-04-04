@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--e632d5b8-6b46-45f1-afe9-0ab428c01cc7",
+  "id": "bundle--bb4ec7e9-45ff-41c0-ac1a-28d5dbcde7fd",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -56,6 +56,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--74cb9230-73e6-5d27-ba66-08e353061834",
       "value": "173.232.146.62",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--55d666bf-d847-5b5d-b850-9a546d146825",
+      "value": "https://www.linkedin.com/posts/unit42_kongtuke-captcha-clipboardhijacking-activity-7314019453262839808-nB2",
       "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
     },
     {
