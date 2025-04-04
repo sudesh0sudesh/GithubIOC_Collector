@@ -1,0 +1,97 @@
+{
+  "type": "bundle",
+  "id": "bundle--2b865994-0828-4d3c-bee2-5abaa679df45",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--537c27fd-cc2b-5081-ab55-d15ceb6a93e9",
+      "value": "138.199.156.22",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--537c27fd-cc2b-5081-ab55-d15ceb6a93e9",
+      "value": "138.199.156.22",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--537c27fd-cc2b-5081-ab55-d15ceb6a93e9",
+      "value": "138.199.156.22",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--537c27fd-cc2b-5081-ab55-d15ceb6a93e9",
+      "value": "138.199.156.22",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--537c27fd-cc2b-5081-ab55-d15ceb6a93e9",
+      "value": "138.199.156.22",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5439d947-b7e9-5f22-bac7-b19091346092",
+      "value": "185.250.151.155",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5439d947-b7e9-5f22-bac7-b19091346092",
+      "value": "185.250.151.155",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--74cb9230-73e6-5d27-ba66-08e353061834",
+      "value": "173.232.146.62",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--e9d26cfb-dc8e-51eb-84b0-5019ecf19339",
+      "value": "https://threatfox.abuse.ch/browse/tag/Kongtuke",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--048adf38-750f-553e-a050-18fcce4620f6",
+      "value": "ecduutcykpvkbim.top",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--51c3ef9e-4401-5f38-93f6-ac22d8efd06b",
+      "value": "bfidmcjejlilflg.top",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ddd377a-0ca4-536b-9ff9-4d4db7d130c1",
+      "value": "8qvihxy8x5nyixj.top",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--67a8a924-c177-598e-b088-1107c174930c",
+      "value": "api.ipify.org",
+      "x_opencti_description": "2025-04-04-IOCs-forKongTuke-web-inject-leading-to-fake-CAPTHA-page.txt"
+    }
+  ]
+}
