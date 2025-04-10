@@ -1,0 +1,314 @@
+{
+  "type": "bundle",
+  "id": "bundle--95a309d9-3f6e-4288-9beb-478df3c03133",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f619be30-253e-5517-9806-a85d1a9896fd",
+      "value": "82.147.88.22",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b451d6f0-9da5-5cd6-80c5-19889e0ecce6",
+      "value": "45.152.115.161",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cea9b06b-e3c7-5740-88d4-274638032353",
+      "value": "43.156.47.209",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21147c9d-31f6-5cd1-9e6a-300333351c0f",
+      "value": "gtg.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b133b74-0038-54e3-85f3-baaa4e3b2abf",
+      "value": "wa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ffe2f91-e5aa-5ea9-8a18-7416ee9dd3a5",
+      "value": "togo.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6db0942e-d163-5ef2-805e-353a941847e1",
+      "value": "gtgwa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a60c20d-9acb-55ca-aa8e-02f9958b56dc",
+      "value": "2go.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d922d79-611d-554b-ba98-460bc0e9cf16",
+      "value": "tollwa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--352c3c20-74b3-56e8-a4ae-f45714659358",
+      "value": "wagtg.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21147c9d-31f6-5cd1-9e6a-300333351c0f",
+      "value": "gtg.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f91622c8-a6e0-5147-9482-663a76154af5",
+      "value": "dot.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17c80ca9-964b-5fe5-9696-90070c705345",
+      "value": "road.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd488eea-756d-5514-83af-a5f6f6aae467",
+      "value": "pass.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd347288-0189-5126-9e49-4fa97841dc14",
+      "value": "fl.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6d55f7e1-8b1f-5bac-8b98-073e9d95d0a9",
+      "value": "account.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17c80ca9-964b-5fe5-9696-90070c705345",
+      "value": "road.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a9a39de-fe8a-5c60-a873-e3301917bd4c",
+      "value": "route.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a395fe0a-3ac3-5f16-9c89-a38e1b1c48bc",
+      "value": "pa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a395fe0a-3ac3-5f16-9c89-a38e1b1c48bc",
+      "value": "pa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a395fe0a-3ac3-5f16-9c89-a38e1b1c48bc",
+      "value": "pa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a395fe0a-3ac3-5f16-9c89-a38e1b1c48bc",
+      "value": "pa.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75867416-bc37-5df1-9a12-2c22c0941a25",
+      "value": "plate.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a04d8ac-3053-5a9a-a69e-aab34d5053d9",
+      "value": "ilroad.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--778ccd32-bb7c-5c06-b289-75740ae45d8f",
+      "value": "iltolls.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a9a39de-fe8a-5c60-a873-e3301917bd4c",
+      "value": "route.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27f25127-5798-591b-a4bc-e4acf3f9b841",
+      "value": "va.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--15f3c7e3-1f9a-5d34-9ace-1ded843efb09",
+      "value": "toll.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27f25127-5798-591b-a4bc-e4acf3f9b841",
+      "value": "va.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2a7481b2-12da-5a17-98d7-42f172dac7e0",
+      "value": "ez.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--369b2f54-132c-5dd9-82b8-a4a98e304718",
+      "value": "lane.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--369b2f54-132c-5dd9-82b8-a4a98e304718",
+      "value": "lane.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45ce242c-baa5-5a7a-b78a-ca411f12b92a",
+      "value": "drive.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8394a5a-3ff3-5bd2-a711-850ec97b8408",
+      "value": "ks.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27a0532c-5d39-59e6-89c7-6073fc9f0081",
+      "value": "zpass.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c479a0da-d85f-5f91-a5dd-d3b5b056fad3",
+      "value": "etcjr.xin",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--405dad21-303e-5002-ab20-d8db4d25dd28",
+      "value": "zpassny.com",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d151319-e6fe-53b2-8e97-fd0a96ace4a0",
+      "value": "etkh.xin",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c363e58-35ee-5cbc-aac5-bbc3b5cbd5d1",
+      "value": "zpass.vipsm.xin",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--00f1a7ac-8d22-51aa-97d3-1a6bb289b3d4",
+      "value": "zpass.vipss.xin",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf66aac7-d77d-57e8-b380-533b83ed26d1",
+      "value": "txtag.vipnd.top",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--97038fa2-44ff-5f30-87c2-5f6d8b613931",
+      "value": "txtag.vipnu.top",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98cb1732-0b74-525f-8fc5-fcdfd327e579",
+      "value": "txtag.vipso.top",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a18f4d2d-828b-5afe-acd0-37611e04d4f5",
+      "value": "txtag.vipsf.top",
+      "x_opencti_description": "2025/04/US-Toll-Road-SMS.txt"
+    }
+  ]
+}
