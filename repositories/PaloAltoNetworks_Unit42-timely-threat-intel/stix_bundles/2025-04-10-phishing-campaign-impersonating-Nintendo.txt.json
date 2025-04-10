@@ -1,0 +1,83 @@
+{
+  "type": "bundle",
+  "id": "bundle--b62d87df-69ae-47a6-bd0d-bf5bb874e7c7",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78c69edc-30d1-5e6a-ada5-fcd75f9faacf",
+      "value": "classicnintendo.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0c6809c-0393-570e-8fcc-da630b9bf7ae",
+      "value": "nintendobro.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1b0f1d87-dab0-5601-90f4-88e077ff05b9",
+      "value": "club.top",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--34a7eb21-f79c-501b-b1be-7c36fc8854a4",
+      "value": "games.top",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--847f466e-bd6f-5ce0-965a-befa8b7522c0",
+      "value": "htnintendo.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee307e69-f128-5f71-a6d8-df719fc1ef00",
+      "value": "httnintendo.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--11d6c8fb-c7cd-5279-b4b6-e51adbd3a1e2",
+      "value": "nintendogamersguide.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6002f0c9-ca8d-5e67-9889-b5b4361fbd72",
+      "value": "nintendogiftcard.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4fa165e3-7ac1-5414-b62e-737cbe885778",
+      "value": "nintendothailand.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78c69edc-30d1-5e6a-ada5-fcd75f9faacf",
+      "value": "classicnintendo.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c0c6809c-0393-570e-8fcc-da630b9bf7ae",
+      "value": "nintendobro.com",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    }
+  ]
+}
