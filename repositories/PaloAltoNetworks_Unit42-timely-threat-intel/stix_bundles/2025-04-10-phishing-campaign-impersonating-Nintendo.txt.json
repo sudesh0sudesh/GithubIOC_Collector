@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--b62d87df-69ae-47a6-bd0d-bf5bb874e7c7",
+  "id": "bundle--d4b9bbf5-ad9e-4529-98b6-1665aad4207c",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2a01f66e-bb0f-5e0e-9184-b04dae113607",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-activity-7316194533443096576-MM2f",
+      "x_opencti_description": "2025-04-10-phishing-campaign-impersonating-Nintendo.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
