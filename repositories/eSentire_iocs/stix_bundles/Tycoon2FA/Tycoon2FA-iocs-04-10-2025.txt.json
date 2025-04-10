@@ -1,0 +1,13 @@
+{
+  "type": "bundle",
+  "id": "bundle--0fd1ffea-0fbd-4823-94eb-c4696db1612e",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f01ec52-133c-56eb-a881-a4ab90718f60",
+      "value": "o6d4ac.br",
+      "x_opencti_description": "Tycoon2FA/Tycoon2FA-iocs-04-10-2025.txt"
+    }
+  ]
+}
