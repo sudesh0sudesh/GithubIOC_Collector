@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--404917af-e79e-463a-b362-b31c7bdf9054",
+  "id": "bundle--6bbbad70-935a-4aea-ac8e-b3cddcff0a54",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -14,6 +14,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--1195f1a3-370f-5e06-bce9-e376972fef60",
       "value": "188.34.180.125",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--999dba70-63a9-5656-9c73-108140995973",
+      "value": "https://www.linkedin.com/posts/unit42_pastehijacking-activity-7318017292108185600-TEH_",
       "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
     },
     {
