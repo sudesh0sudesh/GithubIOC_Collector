@@ -1,0 +1,423 @@
+{
+  "type": "bundle",
+  "id": "bundle--404917af-e79e-463a-b362-b31c7bdf9054",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1195f1a3-370f-5e06-bce9-e376972fef60",
+      "value": "188.34.180.125",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1195f1a3-370f-5e06-bce9-e376972fef60",
+      "value": "188.34.180.125",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f091ae3-a0e3-5a0e-a059-ecc915b7200e",
+      "value": "irs.fax.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0307af2b-6389-524d-8830-5c912001950c",
+      "value": "irs.org.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c68e92ed-13a0-5937-92bd-5a6c8976e283",
+      "value": "cause.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--538ed19f-e64c-5234-8773-9b527d85ba2f",
+      "value": "correspondence.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d49b6e60-a5e1-57ce-9342-6b9c9d65812c",
+      "value": "could.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ccd1f8eb-2ed9-55f1-a106-bf758d3e7b8b",
+      "value": "delays.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62fc5662-9014-53b0-b2ba-e6a25edaddd7",
+      "value": "enter.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4f94b02e-a64c-5531-96d6-a1b302b6d53c",
+      "value": "expands.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1536a1f0-8ba7-58e6-b56c-c50b164cbd88",
+      "value": "aid.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc407667-d5a5-5d6b-9c18-864cf89a9059",
+      "value": "grants.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0835435-2b9c-5fdd-8cec-474fd2600abe",
+      "value": "individual.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--997b019e-19eb-5d6d-964f-4c5b2cab66cc",
+      "value": "instructions.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5cd7d096-a8f8-5969-aa0e-5446bd2bf460",
+      "value": "letter.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ccdd068d-0fb8-558f-96c2-c031a7b03ee1",
+      "value": "manage.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5979e721-24bc-550a-bfac-5fe4ea202b47",
+      "value": "notice.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48bfdb99-8381-5f05-af68-637a97af0664",
+      "value": "related.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--897fcf71-c732-5e97-8c97-c0d21df704cb",
+      "value": "retreat.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1f5308d-68f4-5679-8f55-dcda92aa2f88",
+      "value": "rogas.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--867c6c4c-e9fb-5535-85eb-285231897468",
+      "value": "selecting.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff697d25-38fe-58c2-a31a-f493387b4eac",
+      "value": "subsidy.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--46c94980-6fe1-5e0e-bb48-109961d553a1",
+      "value": "system.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f523501-8b69-5c15-a69f-29ff87faa98a",
+      "value": "taxpa.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ba48b6fb-c326-5a61-9fa0-ca51a35b0a81",
+      "value": "understanding.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d474f3a-6110-5e23-9054-88c2101c07a6",
+      "value": "update.xyz",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99965be1-d354-5948-8bc6-f097599cc68c",
+      "value": "verify.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5debedf2-4e12-5765-ae62-62c13fb0a4d1",
+      "value": "irs.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e61d20fb-077a-57eb-ae11-1bdc50963afa",
+      "value": "azure.microsoft.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0307af2b-6389-524d-8830-5c912001950c",
+      "value": "irs.org.gov",
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--85607184-8bb8-5413-8892-1f0b7cf15d61",
+      "hashes": {
+        "SHA-256": "9c4bf39efc448dacbaf7051ef9ee8d8c709b48841be90654c1c53befac3c76d3"
+      },
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f23b2ee-ab74-5403-a8e9-270bdc503a8e",
+      "hashes": {
+        "SHA-256": "7ec7b41bba47f175c666eb359f31d383feb7162f1b977df4340d5df5abe042e9"
+      },
+      "x_opencti_description": "2025-04-15-IOCs-for-IRS-themed-domains-used-in-CAPTCHA-style-paste-hijacking.txt"
+    }
+  ]
+}
