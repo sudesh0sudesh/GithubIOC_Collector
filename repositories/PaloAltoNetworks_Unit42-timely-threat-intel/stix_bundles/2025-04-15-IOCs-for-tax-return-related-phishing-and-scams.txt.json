@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--f0a7d6ed-09f7-4efb-bb67-959044d9f4f8",
+  "id": "bundle--4b97b065-a493-4446-9281-804f10eb42c2",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c522abbc-fd44-5ce3-90e9-7d1f05a089b3",
+      "value": "https://www.linkedin.com/posts/unit42_phishing-scam-taxreturn-activity-7317952896019378178-btP1",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
