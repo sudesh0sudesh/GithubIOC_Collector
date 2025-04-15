@@ -1,0 +1,146 @@
+{
+  "type": "bundle",
+  "id": "bundle--cd45825b-1124-4eb5-bdb2-d984bbf30493",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--baf44cab-5736-5853-9301-25105ece1d8a",
+      "value": "besttaxreturnprep.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d5c6c68-3b3b-5d3d-976b-3c8e8ff31b40",
+      "value": "besttaxreturnpreparation.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ed949b60-fd44-586f-a7f5-0b52032dafc1",
+      "value": "besttaxreturnpreparer.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21e2172f-7ee6-5582-af65-2c1d6cf23826",
+      "value": "besttaxreturnpreparers.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--06ab895f-0218-58a1-b6e7-4c45888c40fd",
+      "value": "bestincometaxreturnprep.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea1480cb-f441-5a13-a727-f5fa818a4c41",
+      "value": "bestincometaxreturnpreparation.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--801fa51b-dec6-5ac9-a44e-a744b8afc9ea",
+      "value": "bestincometaxreturnpreparer.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--979ed88d-0705-58a0-968b-039f89835fbc",
+      "value": "bestincometaxreturnpreparers.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c56c6407-a0c7-5101-a70c-4b9973b4d64c",
+      "value": "bettertaxreturnprep.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af285e2c-0bbd-546f-8226-c1b5e643f16e",
+      "value": "bettertaxreturnpreparation.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--919146c2-9803-5afb-8629-05ba549c3d88",
+      "value": "cpataxreturnpreparer.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--070a8e7a-d25e-5720-8e3d-0405bf354954",
+      "value": "experttaxreturnpreparer.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1ced927a-04ba-51f8-9125-c923fec969cf",
+      "value": "superiortaxreturnprep.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d844a2e-00a0-526a-915b-3b28b75d20d4",
+      "value": "superiortaxreturnpreparation.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f7fd8c47-0af5-5577-b84a-b00e4a607adb",
+      "value": "activetax.pro",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b07de9a7-801d-5ced-9fb0-fc8a508dcee4",
+      "value": "activetaxt.pro",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f13eb48a-598f-5d12-b6a4-a452fbff3d1f",
+      "value": "active.pro",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--773abdde-b64e-5105-bf99-e1778643adbf",
+      "value": "taxsactive.pro",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2cb706ce-9f9d-5c25-925d-a9ccf257c4b5",
+      "value": "2024.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08e0a2de-4a32-564a-aec3-a95ac1b3a919",
+      "value": "turbotax2025.com",
+      "x_opencti_description": "2025-04-15-IOCs-for-tax-return-related-phishing-and-scams.txt"
+    }
+  ]
+}
