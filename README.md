@@ -51,8 +51,8 @@ The following sources are being collected and parsed:
 
 8. **HarfangLab/iocs**
    - Repository: [HarfangLab/iocs](https://github.com/HarfangLab/iocs)
-   - Latest commit: 7b1ad1345d5760960aa1acdf82bb6f669732864e
-   - Last updated: 2025-02-10 18:18:41
+   - Latest commit: 1df815f4210f1d26151026cdd9658dbfc262b019
+   - Last updated: 2025-04-16 09:49:08
 
 9. **PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information**
    - Repository: [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information)
