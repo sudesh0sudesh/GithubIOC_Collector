@@ -71,8 +71,8 @@ The following sources are being collected and parsed:
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
-   - Latest commit: 0b6937b4bf68beb1632fa18e878b18485cca66e0
-   - Last updated: 2025-03-26 14:14:33
+   - Latest commit: 4e9b8aa0c2525749ce1bfb2a937f4fe2e49a9066
+   - Last updated: 2025-04-16 14:49:57
 
 13. **hpthreatresearch/iocs**
    - Repository: [hpthreatresearch/iocs](https://github.com/hpthreatresearch/iocs)
