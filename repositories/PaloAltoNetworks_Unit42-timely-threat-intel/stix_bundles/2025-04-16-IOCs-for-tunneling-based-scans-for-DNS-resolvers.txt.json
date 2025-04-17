@@ -1,0 +1,57 @@
+{
+  "type": "bundle",
+  "id": "bundle--4f50cdef-643b-4460-83a8-d9720fca94f4",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2573aac-8462-500c-9700-4dfae86c175b",
+      "value": "209.141.56.200",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0ffe717e-f989-5f39-91b2-7d94065be0a7",
+      "value": "198.110.118.251",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7bcd34a4-0fb4-5b1d-a898-ec1c694aa701",
+      "value": "https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2876baa9-c713-5b87-a721-cb699e20dcd4",
+      "value": "isavscan.biz",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--387a2719-90dc-54c8-b063-231275343bab",
+      "value": "isavscan.christmas",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4bdd3a9-8a0f-562e-bdd6-57efd5ce1e66",
+      "value": "owkky.c8030120000007210000000025000000.0.v6.isavscan.biz",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--02a7c998-f514-5f90-8d70-345432fd4ffc",
+      "hashes": {
+        "MD5": "c8030120000007210000000025000000"
+      },
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    }
+  ]
+}
