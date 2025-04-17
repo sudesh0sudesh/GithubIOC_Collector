@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--4f50cdef-643b-4460-83a8-d9720fca94f4",
+  "id": "bundle--584005bf-6a8d-4675-9236-133192bfeca2",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -21,6 +21,20 @@
       "spec_version": "2.1",
       "id": "url--7bcd34a4-0fb4-5b1d-a898-ec1c694aa701",
       "value": "https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--037970ea-1d99-575a-9bd2-48fb9f807735",
+      "value": "https://www.reddit.com/r/paloaltonetworks/comments/1jto6wm/seeing_dns_tunnel_traffic_tofrom_our_public_ranges",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--62e10156-1059-574d-a90a-9ac4c70f3c56",
+      "value": "https://live.paloaltonetworks.com/t5/threat-vulnerability-discussions/seeing-dns-tunnel-traffic-to-from-our-public-ranges/td-p/1225728",
       "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
     },
     {
