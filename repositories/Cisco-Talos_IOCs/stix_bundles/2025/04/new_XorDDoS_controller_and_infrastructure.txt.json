@@ -1,0 +1,1242 @@
+{
+  "type": "bundle",
+  "id": "bundle--3c76df07-a9cc-4ff4-8a6f-4d0f9a6beba7",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c8c0f07e-1230-564d-8b6a-23b573861aff",
+      "value": "58.60.184.214",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--08f7c994-7fd9-5a1b-af1d-149b84983c22",
+      "value": "102.102.40.93",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fe9900ab-1613-5f43-98d3-93680682b54c",
+      "value": "89.54.90.113",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d57b6414-c3bc-55a7-9da1-4ea4676d2aa9",
+      "value": "19.92.109.169",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--95971ad6-adb9-5920-b332-6bf33dadcf08",
+      "value": "126.131.151.182",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f2683e5c-eb79-54e0-995c-3c69ad9be77c",
+      "value": "221.137.188.10",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--31c86d33-718d-5068-bb98-a2a73516cd99",
+      "value": "54.59.0.130",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c8d21ed2-9241-5fb9-8f56-75dd1223d107",
+      "value": "135.80.130.171",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b6389a72-f3bb-509a-a514-f57194fa018a",
+      "value": "71.136.118.192",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b4b901fb-c8b3-5627-ba65-3bdf4ebcdeb9",
+      "value": "55.26.131.230",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e2541859-9d1e-518c-a5cf-ca44da9b9f13",
+      "value": "98.2.205.78",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d2c8c32-12d1-5fdb-800b-bbff29544683",
+      "value": "28.155.77.80",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc805862-9af6-5888-a397-2484d2a567c4",
+      "value": "73.95.47.244",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--96a924d1-3728-5672-8220-358f177485fc",
+      "value": "113.4.120.133",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--74a0105f-496c-5ef1-a0ea-d96e82d52ef5",
+      "value": "42.189.51.36",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--706d1e3a-adf0-506e-89b4-6505ddfc7c5e",
+      "value": "29.180.243.229",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b75a5381-62aa-51d8-a716-abff6ef0fdc0",
+      "value": "88.57.63.244",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--df0d39ed-25b9-5dcc-ba38-80c69bc5eeb7",
+      "value": "83.222.159.154",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cdf8483-4b5b-5579-bfdb-32ac04bd6e6b",
+      "value": "69.69.2.11",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--89b11a9e-fe05-53e7-9460-0183bf7831ef",
+      "value": "160.66.194.46",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a7b39cd6-423f-501d-8e37-f2bc1cf8d428",
+      "value": "53.87.218.39",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63e00823-f0f6-53ee-8179-cbc7253e8008",
+      "value": "62.170.108.36",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--84ff1e9d-9875-5e61-9fbb-7b9dad8faf72",
+      "value": "142.53.46.88",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d709db15-6f6a-5329-8a8f-974b92853ab0",
+      "value": "43.220.64.255",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9df8d5c7-220e-5433-a4d6-7b8b2f67c014",
+      "value": "60.156.128.82",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8cd3aec3-b862-58f3-92b2-1f879ff0b69b",
+      "value": "153.135.4.100",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--31c0f1cf-0b8c-502c-9889-6635a57d5063",
+      "value": "11.90.157.105",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1222a8e5-550f-50ff-8d8f-b85f5cbdcabf",
+      "value": "71.130.126.169",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8ea5b64b-0b78-57dc-92f0-9ae308c3dc84",
+      "value": "66.79.176.61",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e969a046-91ea-5eab-8237-3232004711e1",
+      "value": "189.47.95.188",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--eef70afb-c339-5d38-a94e-e49358d06983",
+      "value": "46.102.78.38",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f521a132-1902-5110-b98d-58f8aa92b3cd",
+      "value": "33.110.9.107",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4695f307-cb5d-5221-b1bc-723675db0c9c",
+      "value": "130.220.81.136",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3f2bfb16-ec86-508b-87e6-c93150b7cee5",
+      "value": "217.69.203.76",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04d43c29-d5e0-5e63-b7bd-22af588b4076",
+      "value": "148.130.188.55",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4a4cf691-2f9e-56f0-a1e9-bfaa7218a9f3",
+      "value": "47.77.88.203",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--132d4be5-2b37-5656-a1c7-3958d3b0c2e9",
+      "value": "32.103.199.94",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--87024c7b-9404-535c-a7b2-67a48d2b8761",
+      "value": "145.148.78.213",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7c9b8435-cd2f-59ea-8e3e-1473ed89c3a3",
+      "value": "128.201.165.117",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--13e2747e-93b9-546c-8aa3-9a08c9234e34",
+      "value": "20.150.29.7",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b75fe8e4-2247-51a1-a46d-6328be815f81",
+      "value": "8.133.158.119",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b62a6ca2-51e5-523b-ac90-7edf1e709ac4",
+      "value": "2.36.134.24",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--79b79f2f-6ac9-5a1b-84c6-3761c52b4a72",
+      "value": "2.77.15.250",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c44f39bf-4857-5fa4-ac6d-2eefce6ac5b5",
+      "value": "91.54.10.57",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ce3bbe3c-649d-527c-b3f4-ed21aaa76812",
+      "value": "28.201.96.131",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--389e19fc-8f79-5bba-b203-485db928a184",
+      "value": "193.72.100.178",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f893dee4-c7db-56be-8b80-71b3dda87159",
+      "value": "169.19.44.236",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f0527e63-17b8-558d-a9bc-16b911a29dba",
+      "value": "70.189.186.116",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2b45d5c0-661e-5ce6-b85c-d66638823920",
+      "value": "189.202.168.57",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--780898b3-291a-5666-a2d4-3dca4bce243b",
+      "value": "79.75.239.146",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4b5931ba-5479-5dc9-ac57-c6d862e40c49",
+      "value": "132.210.208.126",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8c94bffd-5c13-55e1-8619-b1a1c8895004",
+      "value": "211.185.232.213",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a4c69f0e-1bce-5267-a10b-d3bfd496f401",
+      "value": "21.109.28.217",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3c5566d3-4247-56da-b5e5-3d9438c0ee2c",
+      "value": "221.205.226.233",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5dc81b48-6971-50ef-b103-7fe9fa4b2330",
+      "value": "24.114.63.133",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d206de3-c8e5-58db-80b9-0642486c9d9f",
+      "value": "83.179.130.214",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d88a6bbc-9c03-5203-a6f0-a97e16d722dc",
+      "value": "101.19.17.63",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e2e9a0a0-4fad-562d-8cd6-406e35123892",
+      "value": "103.67.204.12",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b2d6f5ed-2101-5b59-aad6-96d88687dddc",
+      "value": "105.204.157.116",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4450e476-db22-5a22-86e2-a354acfbb557",
+      "value": "142.147.137.57",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1a9ebc50-ac37-5b2c-82de-dc9ad1579da4",
+      "value": "208.160.103.78",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bad48108-3027-58ca-bc88-2a93a69b2465",
+      "value": "172.164.145.39",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--12beceae-09eb-5e0e-9662-7ad9bb222fe5",
+      "value": "139.5.72.243",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bf16936f-5e46-50c3-8206-9cbbab120da4",
+      "value": "6.187.63.174",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--8b8d0109-939d-5044-8804-67b4531cd62e",
+      "value": "182.250.145.200",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4e018f15-c674-5528-9758-81e96b031a9d",
+      "value": "60.255.204.219",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0bd68eb2-7671-5324-ad9c-e48b772c25eb",
+      "value": "114.93.129.252",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--48efd72e-e4cd-5bc0-b994-8a05005108c4",
+      "value": "201.37.105.118",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ac504dcc-b630-5fe4-a513-4633036e9478",
+      "value": "197.147.63.205",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--908ca46a-b70e-51e4-b85e-c5400d57bbc7",
+      "value": "204.228.249.108",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--094c88c6-d3af-5b35-8069-55f1d4fa6ad0",
+      "value": "158.90.0.57",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f7445df2-d74f-5c0f-a332-80964f82f5aa",
+      "value": "81.205.6.128",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6c792107-c50a-522c-bb33-0fbb0567d45f",
+      "value": "5.209.26.204",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9140c8ed-e562-5793-a234-8d2c0e005008",
+      "value": "218.131.25.110",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0710e139-e123-5cdc-b401-782702178416",
+      "value": "217.69.177.221",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0d3c0056-3a73-588e-b068-e119b12a5d1e",
+      "value": "20.52.55.108",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f608d9b-dd56-5b5d-a80c-a73bc25a90a9",
+      "value": "72.251.246.128",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e38a4a3c-3a19-5262-ba8f-0e11b8e23cbc",
+      "value": "70.109.15.46",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--66e85c46-2ae3-530f-9127-b2d36670d337",
+      "value": "4.111.141.150",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--42ac5f98-2b09-50ba-9ef1-7e7c3951054d",
+      "value": "11.120.253.147",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fec818bd-f501-56fa-b16c-64f81a76fca2",
+      "value": "19.54.27.231",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b55c5efd-85a1-511d-b481-220a496bb480",
+      "value": "46.242.77.170",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f199f3a7-8947-52f6-ad31-72b456a7d807",
+      "value": "11.94.220.78",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0a042ec0-d9d5-524d-baec-85c3af1693e8",
+      "value": "164.65.179.249",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--146c3a96-03e0-51ab-9069-d7e7dfdf5911",
+      "value": "66.152.9.129",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--00dd33a7-56c6-503b-aaca-f0b24dfb882f",
+      "value": "110.198.221.255",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1037cc43-782c-5f8a-aa5f-714aa3840282",
+      "value": "89.106.211.21",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--df93525f-7e8a-5a9c-a000-36d9c69cea92",
+      "value": "112.82.170.116",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ad97b726-d080-5459-8f1d-a906323fb26a",
+      "value": "215.169.69.253",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--648b13e9-f639-5a56-b3ae-8f51e62ab0ab",
+      "value": "113.39.108.38",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f41b27e0-b75a-5380-904a-a87e9f9946c7",
+      "value": "56.160.63.29",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9a658614-2ac6-5a3f-b621-fbbae3349ef1",
+      "value": "59.117.62.235",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9cb2c70f-a491-53f1-b332-1afb465f348f",
+      "value": "223.39.125.83",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2f7e4705-2dae-566d-993b-1e67db82e6b8",
+      "value": "94.249.26.200",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9dd11b5e-c541-5172-9dbd-041e8643f71e",
+      "value": "209.142.199.108",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--62b56699-a69b-5aa5-b1f7-700df2bed527",
+      "value": "70.174.94.91",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--268ef46e-990d-5d66-b9d9-9db756521c55",
+      "value": "199.75.66.7",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5a0ea2ec-b209-5782-b6ee-2a63541a910a",
+      "value": "85.57.171.146",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--de6cebfd-93f6-52b9-8894-2a7e6247a0e5",
+      "value": "181.180.191.184",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--20492b1f-7642-58ab-b847-1da03a700aa1",
+      "value": "216.111.225.121",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63c59e0c-5aae-56cb-97f5-cba8fe24980b",
+      "value": "19.29.200.49",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0e57421c-dca9-5335-826c-6d05a4899cfa",
+      "value": "44.236.83.193",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--aa343cbd-ed4e-5c8a-9196-80a1b21d1d4e",
+      "value": "171.141.101.142",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--eb66d44c-362d-5206-b76b-c882fb706d3b",
+      "value": "105.82.165.229",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1a541292-48a5-5d7b-a801-a31e58a1a40f",
+      "value": "49.14.187.47",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--55ed766b-b2f4-58de-8e1b-f2f3b796c9b6",
+      "value": "136.21.19.226",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e0533334-7ba1-558c-b7b5-7a3756cb6320",
+      "value": "56.80.128.46",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1b197556-f160-5e8c-8c7c-507a303f8b9f",
+      "value": "76.12.154.30",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e82164cb-29c8-5597-8934-82a87bcb4491",
+      "value": "74.1.137.255",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--024a3d1a-bec1-58cb-a40c-b40d519c8188",
+      "value": "199.255.31.187",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d0399aa2-d50f-532a-9e70-14879fa46bc1",
+      "value": "69.170.30.33",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--54f41fb9-9e4d-5f53-9f20-b909db3bee5b",
+      "value": "61.7.67.243",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ee6d2320-42ed-5569-ac5a-e0fdc15aaa96",
+      "value": "152.53.201.191",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7a078e4e-5300-5692-b7f5-93c7a0f65f1f",
+      "value": "128.213.58.181",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--843ce3e8-722b-5f7a-9f0b-aada59e054f0",
+      "value": "115.47.150.194",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1ff9fc9b-c347-5d0e-880d-b6bcce4375ee",
+      "value": "163.111.174.25",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--40ef2360-b83b-5215-8563-4e70f4de5a5b",
+      "value": "83.50.5.138",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f8b9ecca-7709-5890-8e2f-83ac915b9216",
+      "value": "130.149.28.49",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--410e1908-4384-548f-a53b-d97fdee94539",
+      "value": "85.67.160.134",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5cbd65a6-2d82-5030-9d94-9df8dd46a4d0",
+      "value": "145.231.225.189",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3bf69e28-6811-5383-b245-cf01af117090",
+      "value": "202.254.97.111",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f6060579-f7c9-5dfd-aef0-54ff819775f2",
+      "value": "48.138.207.203",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cbe43895-0627-5dc9-a1a7-528fb6559429",
+      "value": "134.179.122.20",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--4f6648cb-a4d9-5f10-a986-d25bdbf56a50",
+      "value": "155.121.26.72",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--729cd3b2-2758-5701-8a03-a9c140898546",
+      "value": "197.138.181.205",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7ef1cfcd-7c80-5104-bfc0-7bcff5b69253",
+      "value": "105.154.197.21",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bb5c09b2-6aac-57e2-9e82-5b2524467b83",
+      "value": "76.169.112.216",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0bcc960e-b5f8-5e4a-b7c2-53d68d8eaef3",
+      "value": "108.6.121.201",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--59ab7b64-c43d-5b32-9395-5c85eb20da6a",
+      "value": "52.178.131.251",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bb6f8ada-8870-5558-9edc-a9e609570d48",
+      "value": "100.186.28.101",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--62d70bc1-ca14-5dd8-b8df-70de140d95a4",
+      "value": "206.97.241.198",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fe0cd412-5b01-516e-b351-c0d51364e89f",
+      "value": "122.253.213.233",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d4a86c13-9efc-5185-9640-255312e40177",
+      "value": "132.22.130.182",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--df7c9d52-a3c1-5b8f-88ec-33e97002b54c",
+      "value": "135.215.42.239",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a1f39ff5-0c03-57a2-a4d3-f45601310947",
+      "value": "30.242.210.74",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c6442d05-4dbd-519f-9033-18ea4869a6e0",
+      "value": "117.211.25.159",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5dcd807f-dae5-5895-b55b-5bf53c33581b",
+      "value": "51.183.72.67",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1e7a0d4b-2d36-5a1c-a19b-18776635a9f1",
+      "value": "16.245.213.94",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--6dfffccf-5e17-52c9-a9c2-121f9df70ebe",
+      "value": "196.173.160.72",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7ede5d19-205c-53c1-91f3-0a61a6cdec3d",
+      "value": "141.56.191.234",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--495150e3-da26-521e-9967-e0e3ddde031b",
+      "value": "138.223.171.81",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e48d3693-2d9f-59bf-a945-ea80744d3bb4",
+      "value": "181.74.116.236",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--79a9fd50-c090-5115-a406-321bfc51d24c",
+      "value": "80.84.123.83",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--602c7680-ff54-50d0-a918-503dc23e1556",
+      "value": "130.13.170.191",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3aebeb06-bade-5b52-af85-c291c5a7d2f0",
+      "value": "67.111.174.34",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f4fb541d-23be-511c-8bab-89173ce36505",
+      "value": "202.40.100.109",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3a0a449b-8f86-503f-b640-edfb06481914",
+      "value": "198.210.156.184",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--516071eb-8abb-51f8-a192-4ea335de988d",
+      "value": "103.233.139.67",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c2236d26-298b-5a14-99c5-c925ab54560d",
+      "value": "142.128.90.47",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0a95fa31-3eaf-54cc-99d8-bc7807d0250b",
+      "value": "99.222.161.114",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5afa80e9-7e47-5c58-bc2e-e7564965f691",
+      "value": "45.220.152.136",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--929625e2-88d3-5c88-8d2a-e884d391861e",
+      "value": "53.137.188.173",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5a7a057b-3719-5431-ae82-81e9844d1578",
+      "value": "130.92.41.45",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--99154684-05c8-5802-b18c-64fe89fafe3f",
+      "value": "184.207.146.227",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1a1717af-f82f-5936-8720-6c51cb7e8167",
+      "value": "177.60.27.182",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--07638069-7076-53ec-9f57-31851ec14305",
+      "value": "200.41.207.138",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cef18cb2-d719-5a6f-b452-b04e49fff27b",
+      "value": "205.166.57.152",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dc0e4390-26ec-5901-a9ec-b0667b756222",
+      "value": "102.104.20.163",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--33cd629e-ff6c-5772-860c-b7f7d8ef7f43",
+      "value": "115.54.123.68",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d57bafeb-2af6-57f3-9e45-dd7aa9ad4eb5",
+      "value": "206.87.16.148",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bef4390d-aed4-5505-85cf-848e32f9e75f",
+      "value": "187.196.123.241",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--607b8288-8f5e-5131-8db0-4848c9952b61",
+      "value": "52.152.113.213",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--0d0e9963-afd3-5324-98f6-960059f9531c",
+      "value": "63.142.154.110",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f5b491f5-f19a-53bf-90ce-ddf58ceafaf2",
+      "value": "69.61.83.248",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d6c77598-e08e-5d3c-95de-0511158e744c",
+      "value": "92.118.168.196",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1efc7c9d-df6b-551d-a50a-9d1836b81f77",
+      "value": "74.77.87.71",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a8ff2590-7625-50dd-b8bc-eaa83121352e",
+      "value": "19.3.185.48",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--61573fdb-4ebd-50aa-ad89-5a94548c992a",
+      "value": "32.113.253.123",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--834e4658-ca8d-5b85-b67b-9aa673dc46cb",
+      "value": "96.222.90.160",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--001c59e1-4ca7-5019-bf17-5f2982169d63",
+      "value": "78.66.242.133",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--c8ff8ed7-d031-5828-adb6-c5af2134c5ac",
+      "value": "47.42.59.162",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bac1084-001f-5180-9560-d07b367589aa",
+      "value": "ppp.xxxatat456.com",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--14d60bf2-dba9-5c65-a90f-c980edb1ba21",
+      "value": "www1.gggatat456.com",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4f53158-5d5a-56f7-8ed8-27224b85f9e9",
+      "value": "ppp.gggatat456.com",
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5a9422ee-eee0-5907-9206-d2089174d3c2",
+      "hashes": {
+        "SHA-256": "70167bee44cde87b48e132a9abbac66055277cb552f666ca8b7bf5120914e852"
+      },
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--31181b6b-9dd2-5d84-a0cb-fed77b1f1015",
+      "hashes": {
+        "SHA-256": "d09731c39d57e1c38b771f530422815bb01c338870645e655e53d55266e81556"
+      },
+      "x_opencti_description": "2025/04/new_XorDDoS_controller_and_infrastructure.txt"
+    }
+  ]
+}
