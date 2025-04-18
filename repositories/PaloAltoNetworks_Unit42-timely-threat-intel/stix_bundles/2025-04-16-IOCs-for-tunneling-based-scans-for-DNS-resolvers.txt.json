@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--584005bf-6a8d-4675-9236-133192bfeca2",
+  "id": "bundle--5b05089d-6cb7-44d6-b514-a425c6669a44",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -14,6 +14,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--0ffe717e-f989-5f39-91b2-7d94065be0a7",
       "value": "198.110.118.251",
+      "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8030f88b-c061-5980-a8f0-d1491c1317e5",
+      "value": "https://www.linkedin.com/posts/unit42_dns-tunneling-scans-activity-7318711123665461248-fhk6",
       "x_opencti_description": "2025-04-16-IOCs-for-tunneling-based-scans-for-DNS-resolvers.txt"
     },
     {
