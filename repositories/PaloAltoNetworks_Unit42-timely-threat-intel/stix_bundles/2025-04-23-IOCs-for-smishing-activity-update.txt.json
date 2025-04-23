@@ -1,0 +1,69 @@
+{
+  "type": "bundle",
+  "id": "bundle--8cd166ab-e2b7-4cc7-b448-33f1f7ca978e",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c60f6b37-5265-5cce-a542-2520c9a8ca3d",
+      "value": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-03-06-IOCs-for-smishing-activity.txt",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--9c2cba43-1414-540c-b8c9-218f4867ee5d",
+      "value": "https://www.ic3.gov/PSA/2024/PSA240412",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de92392b-bccf-5bca-a620-9ea1fca638e1",
+      "value": "mfc.com",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7292820e-3bb6-57b6-a21e-39c4dbbac65b",
+      "value": "https://driveky.gov",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3ae483ef-dc1e-5d16-b558-2c520869bfe1",
+      "value": "ikbf.win",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d19443e7-b543-59b4-a48a-f4c407ce973f",
+      "value": "ncquickpass.com",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--80f3eb0a-0525-5d2e-b4cf-293a2f14aebb",
+      "value": "ic1.top",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3e122e88-e261-5e13-8db2-0faf14499158",
+      "value": "paytollwec.vip",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d319e92c-8f75-54f0-a9a1-1c0b77abafd3",
+      "value": "activity.txt",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    }
+  ]
+}
