@@ -1,12 +1,26 @@
 {
   "type": "bundle",
-  "id": "bundle--a494fc70-62ef-49c5-8148-a95fa8c09d06",
+  "id": "bundle--0b0b2ad5-2a31-40ed-add1-ec9989782a78",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--df231f66-f673-521c-a8d3-733af9abbd32",
       "value": "156.251.27.213",
+      "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc771050-ed4f-57e7-9892-7f84a34b968f",
+      "value": "2Fbridge.walletconnect.org",
+      "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc771050-ed4f-57e7-9892-7f84a34b968f",
+      "value": "2Fbridge.walletconnect.org",
       "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
     },
     {
@@ -105,6 +119,24 @@
       "spec_version": "2.1",
       "id": "domain-name--6d66636a-57fa-5907-a1f1-f1f54369ca9f",
       "value": "ht888888.xyz",
+      "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8f57d28f-ad21-5d27-b5d6-c597ff49afe2",
+      "hashes": {
+        "SHA-256": "855576dbee6c517b5fa953403378e6989333836cfd8d53baa365494874847aab"
+      },
+      "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f3ed482f-8fe0-5cba-a7c0-996410a5515d",
+      "hashes": {
+        "SHA-256": "a58fac4c490c477f9fe6bd8ac9dc2fd44c6d2291fb34381f6a394bc7be1d0825"
+      },
       "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
     }
   ]
