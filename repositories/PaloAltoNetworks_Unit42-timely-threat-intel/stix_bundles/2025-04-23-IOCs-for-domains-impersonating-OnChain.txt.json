@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--0b0b2ad5-2a31-40ed-add1-ec9989782a78",
+  "id": "bundle--b8944499-8322-44bf-9033-b21ba3963b25",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--df231f66-f673-521c-a8d3-733af9abbd32",
       "value": "156.251.27.213",
+      "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--4ddeb40f-91c6-58e7-a7e7-44579003e7ed",
+      "value": "https://www.linkedin.com/posts/unit42_scam-phishing-crypto-activity-7320893239681523714-kSMT",
       "x_opencti_description": "2025-04-23-IOCs-for-domains-impersonating-OnChain.txt"
     },
     {
