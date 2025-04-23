@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--8cd166ab-e2b7-4cc7-b448-33f1f7ca978e",
+  "id": "bundle--14cfa456-db8a-4bd7-9444-2518fd4f9beb",
   "objects": [
     {
       "type": "url",
@@ -24,10 +24,10 @@
       "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
     },
     {
-      "type": "url",
+      "type": "domain-name",
       "spec_version": "2.1",
-      "id": "url--7292820e-3bb6-57b6-a21e-39c4dbbac65b",
-      "value": "https://driveky.gov",
+      "id": "domain-name--fb78eea8-6963-5a1e-ba67-b1e101d8bcb8",
+      "value": "driveky.gov",
       "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
     },
     {
