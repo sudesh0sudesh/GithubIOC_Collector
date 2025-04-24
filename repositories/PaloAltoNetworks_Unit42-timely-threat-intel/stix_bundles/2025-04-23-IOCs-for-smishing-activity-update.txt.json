@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--14cfa456-db8a-4bd7-9444-2518fd4f9beb",
+  "id": "bundle--a8d9533f-9db5-494d-8948-16a77abe0e95",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--56304dbd-222f-5c24-a3bf-828186758032",
+      "value": "https://www.linkedin.com/posts/unit42_smishing-activity-7321235270035554306-liaY",
+      "x_opencti_description": "2025-04-23-IOCs-for-smishing-activity-update.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",
