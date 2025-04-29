@@ -1,0 +1,230 @@
+{
+  "type": "bundle",
+  "id": "bundle--4914774c-cc9b-4527-8d71-e6eef184069c",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--65f6a914-c666-5313-b271-740b379394a5",
+      "value": "162.0.213.235",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--7e950f0a-ef9b-5757-8de0-fd033cafbefc",
+      "value": "5.255.105.18",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--22fd0284-c7d7-53ca-b1bd-02dc61b765da",
+      "hashes": {
+        "SHA-256": "a0dd0beeecac7ca0e4f6104616d8533213ec67aa4d94a2da4909b52f062c4a1a"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--5ee24a49-8029-5e94-9c8b-db69bc8c28dd",
+      "hashes": {
+        "SHA-256": "91b0b1f842b5380d81ecf3f023a2b8a2a7abb86dc9ef4de58f569752dbe15f52"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--186950fa-e1d5-5c02-824d-b7dc708268a0",
+      "hashes": {
+        "SHA-256": "322ed79719c6d3094295df5534343b8f5558ae087717a57d524c8bf0aa0fc5f6"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f7a4606f-143c-5fcc-86fc-b44a7b511c53",
+      "hashes": {
+        "SHA-256": "fff4b96876b0c78da96e57cf7ca1b0e0cbee4fde52047a9bde52e25b062d69ca"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7db8b41e-e560-594d-b10d-1a7fbdeac178",
+      "hashes": {
+        "SHA-256": "912018ab3c6b16b39ee84f17745ff0c80a33cee241013ec35d0281e40c0658d9"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35a01b7d-9a3d-5a13-9bb3-6a54cb9d264b",
+      "hashes": {
+        "SHA-256": "4b5229b3250c8c08b98cb710d6c056144271de099a57ae09f5d2097fc41bd4f1"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f55cb418-0bd9-59d2-87bb-09d7ed306cc5",
+      "hashes": {
+        "SHA-256": "3337e3875b05e0bfba69ab926532e3f179e8cfbf162ebb60ce58a0281437a7ef"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e4367b69-9e99-56b0-a083-5fbf66b2fbda",
+      "hashes": {
+        "SHA-256": "703886aa621c2f7ccfbb76b738ae837d411014180d1311ce2bbfb6317050ed84"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--14130167-374e-577f-a338-93ff48d0e399",
+      "hashes": {
+        "SHA-256": "abeabe84579bcd564161cbb1be06e6a8dfd6c802aba84233652244df45973f96"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--349ef88a-18b5-5c10-8b6d-d1ebb3082d9d",
+      "hashes": {
+        "SHA-256": "dac0c2b600c70e72da037f702000cb91f999358025833ba501770dea26860f4c"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2e23f7ce-b0e7-53d1-bb55-0742d2f35d51",
+      "hashes": {
+        "SHA-256": "30cb73a9b84a18a7405770cf28c49226a38a8fdfa84127e057dc62b640078b46"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b2610ee-eda9-5cc4-b3e1-3b907094cd14",
+      "hashes": {
+        "SHA-256": "bb574434925e26514b0daf56b45163e4c32b5fc52a1484854b315f40fd8ff8d2"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--053648e9-fe1a-5d6e-badc-90867f780c18",
+      "hashes": {
+        "SHA-256": "c794803d94efa2eef5fb20b96faf20692ddc9cdac59e3866239a2687bbf00f79"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--acd2f01a-9250-5f65-b55f-c11e025510f0",
+      "hashes": {
+        "SHA-256": "9b41121f8e7675355b8352b83327ed680f1fb33f38e96d7ca1abdbf8ad7d4162"
+      },
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5438ceb-162a-59e2-be5e-9bba80f6e3ea",
+      "value": "f6d1c85e.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b26823e3-903a-5fdc-a3e1-2e6dbe395ed1",
+      "value": "AnyDesk.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5271b891-b493-51fb-9418-a03089beb695",
+      "value": "Mim.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2c28595-d92a-5669-ae03-f55b51340e2d",
+      "value": "kallmekris.sys",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--37c94e37-ed51-5ad8-8cd5-0b4eb5b35af7",
+      "value": "pse.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e08dfbf9-7a43-5f0f-8432-cb0e8276d355",
+      "value": "fzsftp.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea2efe92-ff23-57e9-b6bd-76ab8ccec542",
+      "value": "Filezilla.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c6489fd-3874-5488-8947-0302af09ce7d",
+      "value": "upload3.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3d36426c-438a-56f5-87dc-794f43484cee",
+      "value": "NetScan64.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3905b30f-4ad0-5ddc-a9d4-77bc6b393019",
+      "value": "img0.jpg",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c6c257ff-3a6d-59ad-8fc1-37ab78937119",
+      "value": "netscan64.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--be08e1ed-2ed9-5fb6-8e8a-4f8687438892",
+      "value": "VeeamHax.exe",
+      "x_opencti_description": "Monti Ransomware/Monti-Ransomware-iocs-04-2025.txt"
+    }
+  ]
+}
