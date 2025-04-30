@@ -1,0 +1,692 @@
+{
+  "type": "bundle",
+  "id": "bundle--2f3e3a8a-0dcb-47f5-bc43-5ea365a24cb9",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--91f97a53-6a8d-50f3-ac5c-2584fa6628dc",
+      "value": "https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-browser-hijacker-how-remove",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--cf09a321-35d9-50b4-a08c-a88129a72151",
+      "value": "https://support.mozilla.org/en-US/kb/what-search-hijacking",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--987ad3c5-dd7a-524c-9c40-8e779b2e0896",
+      "value": "cast.avilornik.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4151e71f-4836-570b-8251-39666238c846",
+      "value": "cast.larianiot.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75889348-5ec2-5adc-988e-7cd20dff96c1",
+      "value": "cast.sarchcrystal.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7388eea9-21e2-5ad8-8674-aefe98b4c6f7",
+      "value": "drop.bringithis.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0427cdca-a224-58a5-9d43-f801fac453ec",
+      "value": "grt.thisbrng.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--531cbc3b-b681-5009-a414-cf5110758dec",
+      "value": "dsc.searcharchiver.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f1bb265-552f-5f0b-a9de-f70671e78ad5",
+      "value": "lookup.searchitfalc.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2380f01f-5b1f-5293-b3df-787d2a2edd56",
+      "value": "lookup.searchitziptech.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5de3cf5a-ce5d-5f11-933e-03fbbf018c9e",
+      "value": "lookup.searchitral.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a75762e4-948a-510d-aac0-57a15a21f1f1",
+      "value": "lookup.seekittral.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--987ad3c5-dd7a-524c-9c40-8e779b2e0896",
+      "value": "cast.avilornik.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8d940706-b208-5315-8019-6784e588612d",
+      "value": "go.bonefreeze.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9cec61ed-c022-55c3-a645-b42ed07db5e7",
+      "value": "fuo.brgtitnow.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31c8a4d2-260b-56e3-a8ee-e65dd627d67e",
+      "value": "drop.bringcntrl.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7388eea9-21e2-5ad8-8674-aefe98b4c6f7",
+      "value": "drop.bringithis.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac25433b-1e55-5ef1-ace4-f08e07ed4ca1",
+      "value": "pack.brisrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d5efdfd-96c7-5b46-9520-e9ae2a00e78c",
+      "value": "explr.brngmypdf.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--913a4113-88c0-5534-a08f-2b728bec5fa8",
+      "value": "bring.buddychck.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b435d7ce-8275-5a71-b332-e014ec523f5b",
+      "value": "lock.checkitley.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9b7d61ac-d365-5e92-86ad-71f78e07115f",
+      "value": "coastalvibesapp.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1ae45e2-8b21-5952-b4a5-3fbcb101ec06",
+      "value": "ab.cococococ.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e784365-f0d8-5e9c-9452-768ad8ae7c9b",
+      "value": "eli.comoneet.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b1e1bb6a-3dc3-5230-a2f2-e727eaecdb0f",
+      "value": "nor.convertitmas.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8fad234-a4a3-5b8f-82c6-f8a246309d65",
+      "value": "go.deepteep.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd7df300-70f2-5ec9-b068-c6fc963658ab",
+      "value": "hpy.diamondcry.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f5ae3e40-6284-5f93-9669-ca707c0fdd79",
+      "value": "ishi.dorbani.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61157a59-0eb2-581f-a297-793c6f22069a",
+      "value": "stat.download.xunlei.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0855b36-dda4-57f7-87a6-8c50707e3ed7",
+      "value": "goto.easysearchonline.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f36fb915-18c1-5490-bca3-f2d52b65e996",
+      "value": "cast.explrskills.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--457d9e4e-fe2c-5680-96b3-c35232abb6a7",
+      "value": "run.fastsrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8dc9908e-59af-5822-88a7-cd1afc18d1a7",
+      "value": "lookup.findmyscreen.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--72d87025-87ff-56c5-8d92-81a0f20e0715",
+      "value": "goto.genisrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec7ac01e-553c-5900-9787-17fcc8d8e94f",
+      "value": "nsp.gifsearchutils.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9af97b80-b087-509d-a735-951d754f2d50",
+      "value": "der.gotojcf.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0afb83c-d349-5009-8175-0be15d6a0c9c",
+      "value": "lack.gotosrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee627c46-9cdc-5167-9d8e-d7f5467cd2ce",
+      "value": "loli.gradilsk.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03d802b4-96fb-50d5-87b1-c2401d4811e3",
+      "value": "ful.hartonly.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a052d967-14e2-5666-8bdb-4b8b2a859d5b",
+      "value": "cast.imgothis.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4482806d-f9bd-55d9-b972-a5f1501b89c0",
+      "value": "goci.iminogco.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--454f2fa6-eca0-59fa-9f9a-671c48a12969",
+      "value": "grt.imsrcgo.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d8f0276-9b56-5a71-b3d9-33b81119ad6d",
+      "value": "nex.justitsrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f9cb9a67-21df-5237-9cd6-88d5acc58319",
+      "value": "lookup.justsrch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--61dc462a-5fa1-522c-b4dd-82cc15410c4c",
+      "value": "go.knightsearcher.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--09595498-d8f3-5001-b36a-6762d1d3dfff",
+      "value": "laki.kolkolif.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4151e71f-4836-570b-8251-39666238c846",
+      "value": "cast.larianiot.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--642b925c-1bf7-5bfc-a6de-911c4f31ad0d",
+      "value": "gato.liveligoto.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c20944be-e0f3-5efc-8d93-f75c9f9ea105",
+      "value": "per.loringoit.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45e90429-3e42-56eb-95fc-ab6a3870ee00",
+      "value": "shok.lostient.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c229b7af-2f1b-538a-933a-61d819f6419a",
+      "value": "cast.martelok.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2afc44b-090f-5245-8b5b-5d92659d21c1",
+      "value": "go.mennythanks.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ae2a82f-2f31-561c-ae55-fa31c32e10d6",
+      "value": "go.normandoh.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--870112af-188f-5f49-8bcd-11d5d0014929",
+      "value": "opit.othersar.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c79587ae-51ff-5142-a5e9-2abd586bb655",
+      "value": "go.paradiskus.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f581ee2f-875c-5b54-9f15-bfd7c02d636a",
+      "value": "row.pltcli.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e81ed643-26e4-5eeb-be96-36067138866e",
+      "value": "retrorevivesearch.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb434090-7e92-531e-a304-31198d9d89d1",
+      "value": "riki.rikodis.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9f79a3e1-4f70-577c-a26a-4345c233981a",
+      "value": "pont.romiron.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--75889348-5ec2-5adc-988e-7cd20dff96c1",
+      "value": "cast.sarchcrystal.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f178da3-7cfa-5a3a-9dee-da330dd1b22c",
+      "value": "hub.scoutitech.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--98a223d5-19b8-59f0-9466-2f1414f96912",
+      "value": "juv.scoutjcf.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c2b97a5-5dbe-5cd8-8056-f490a350d9ad",
+      "value": "nsp.screensearchutils.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--531cbc3b-b681-5009-a414-cf5110758dec",
+      "value": "dsc.searcharchiver.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--326ebf85-4f31-598c-b7a5-b185d33f1bed",
+      "value": "lookup.searchconapp.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dfe79e97-b934-55bd-83a2-228ecc050888",
+      "value": "lookup.searchexfree.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bd1c12d8-315e-565a-945d-471441c79632",
+      "value": "dsc.searchfpapp.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f1bb265-552f-5f0b-a9de-f70671e78ad5",
+      "value": "lookup.searchitfalc.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1044217f-f02c-5f81-aeda-64ee45bda55e",
+      "value": "lookup.searchitnext.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5de3cf5a-ce5d-5f11-933e-03fbbf018c9e",
+      "value": "lookup.searchitral.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2380f01f-5b1f-5293-b3df-787d2a2edd56",
+      "value": "lookup.searchitziptech.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e3f9282-77f3-577b-8949-7896d6b7cf9d",
+      "value": "www.searchletter.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45b892b3-fae8-54af-82bf-9652d1175267",
+      "value": "lookup.searchlig.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8db3f11d-c81d-5b19-a962-08df902b740a",
+      "value": "zsrc.searchmagiconline.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0947528b-2c78-5eac-b4d9-b327362ad004",
+      "value": "find.searchmyhub.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58695258-b5d0-54d8-bf00-cbb1f2d50a0e",
+      "value": "lookup.searchmyppro.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--59aff93e-7cc2-5035-aaff-58728d3bed13",
+      "value": "goto.searchpoweronline.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b9d09311-aabd-552f-9180-6888c4d039de",
+      "value": "goto.searchproonline.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b5c0895-dddd-532b-9ed5-149c1d072006",
+      "value": "lookup.searchshar.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f6bf1f3a-b71e-5107-985f-21d1e7eed1ac",
+      "value": "find.searchtoolshub.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f2d6241-e4ce-52d2-b10e-57d165bb17b2",
+      "value": "goto.searchwithtabatoo.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ee2e6849-4822-50b2-9bd8-2fb3bd3b8d5e",
+      "value": "nsp.searchziputils.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--62605c04-92e3-5eb7-a57d-d35694c70348",
+      "value": "lookup.searchzr.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af34e85c-825c-5a4d-a05a-8eae70fd0c54",
+      "value": "get.seekentral.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a75762e4-948a-510d-aac0-57a15a21f1f1",
+      "value": "lookup.seekittral.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12e8056e-1e99-5abc-b8ba-78db2edadd86",
+      "value": "lookup.seekitzip.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2003d7c0-2d3b-51dc-b546-45d65f3fee69",
+      "value": "brng.seekmanager.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--475fd6a2-3b78-55e2-8de6-e8dad466136f",
+      "value": "dsc.sharksearchonline.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44851c85-d6bc-57f0-8edb-d90b3fe73dcd",
+      "value": "cast.skillsfnder.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9eb3701-40f6-59ee-9e89-bbaa5ff3ff56",
+      "value": "cast.sklitright.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dd08ed96-05cd-5e52-8ab4-4c37a78b1e10",
+      "value": "misho.sodirant.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6956454d-a03c-56e7-9f1c-4d07ff4915d6",
+      "value": "ella.solognei.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--40f9bb69-f805-5aad-bf30-dbd3a0075592",
+      "value": "tlh.srchconv.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f0221d5-9913-5660-a730-eafc08eeca58",
+      "value": "cast.srchiced.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0427cdca-a224-58a5-9d43-f801fac453ec",
+      "value": "grt.thisbrng.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d1bc385-fe01-5d7c-9826-62d668b9aa28",
+      "value": "go.trawanan.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99585587-72fc-5790-a60c-4c5f93f38a10",
+      "value": "seek.xplrthis.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6736e5d2-0008-5ad7-ab96-0e4c53de954c",
+      "value": "dsc.zoremov.com",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    }
+  ]
+}
