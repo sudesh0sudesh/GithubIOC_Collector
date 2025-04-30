@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--5aff0b38-0abb-49b1-b383-4c8ef9f5195a",
+  "id": "bundle--cd2784cb-e1c0-4032-a4c0-4f07f9258661",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--1797a0c9-5eba-5620-b56b-e3b9c8965221",
+      "value": "https://www.linkedin.com/posts/unit42_browserhijacking-activity-7323459147633430529-nXko",
+      "x_opencti_description": "2025-04-30-IOCs-for-suspciouis-search-pages.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",
