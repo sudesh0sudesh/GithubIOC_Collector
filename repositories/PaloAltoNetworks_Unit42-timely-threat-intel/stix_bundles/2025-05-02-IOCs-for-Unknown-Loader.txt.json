@@ -1,0 +1,687 @@
+{
+  "type": "bundle",
+  "id": "bundle--f273015e-7e40-4470-a619-c4902f26b972",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6f5c9659-bcc0-5ca2-a6f7-5ac4b14a12c2",
+      "value": "tinyurl.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--132eb612-9a47-5c24-832f-ad5153f11a56",
+      "value": "manageenglne.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1824ad22-85bc-5019-b5fb-4fb589b433ba",
+      "value": "getwheretostay.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2daf411-3334-5ab1-9512-ae10838dd729",
+      "value": "en.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--85620073-7304-548f-adbf-9482b0147e78",
+      "value": "cllcktime.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6b5a144-29e4-52b3-9cda-4b8fa1ed4f9c",
+      "value": "metatradar5.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2daf411-3334-5ab1-9512-ae10838dd729",
+      "value": "en.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1797ddc-bb42-501a-bec4-c3e5ccaccf24",
+      "value": "openofflce.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5726b335-6111-5d0f-a609-2908f8c6f6cd",
+      "value": "optislgns.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a2daf411-3334-5ab1-9512-ae10838dd729",
+      "value": "en.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1173ca9d-d7d0-579d-a30b-c94d9af0c1a7",
+      "hashes": {
+        "SHA-256": "8f55ad8c8dec23576097595d2789c9d53c92a6575e5e53bfbc51699d52d0d30a"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fab32a89-c4cd-572e-ae6f-d0fe1e9ccd01",
+      "hashes": {
+        "SHA-256": "28b62bf4f31cb322bbbb5f5d133e4268663f44bbe9efea1b3eaff44cf9990740"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3503e1b5-b2b8-5c40-a94b-04653802b261",
+      "hashes": {
+        "SHA-256": "4dfecfbd6317f82743e65dffea5bfd3650dd28e524e711d88d184fe80ff02576"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4e16d9ae-9f2e-5613-be07-82ad68b76f13",
+      "hashes": {
+        "SHA-256": "f7ab4efbff4604ef22672b24d4d6b45227d0dca7f4ef72eed63379b45ac382c2"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--10d10bf4-763d-57ec-a93a-697cdf14a730",
+      "hashes": {
+        "SHA-256": "55ea17a44d7a9882236b5cda25fa844e62cb1a4fe8d5cdc17b3591f4f98aa802"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b5b1e262-21c3-5f0b-ad96-d9e7547ee605",
+      "hashes": {
+        "SHA-256": "cfb4fbdb7c6537006e385c058a992b62ca4590356d3480b4b0ba6e5b19be3209"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--bdfa8543-4204-5b6e-8f86-d25d63e00133",
+      "hashes": {
+        "SHA-256": "9861d60cf037963fadb463d2f46621839071712791be7388dbfede1520315d0f"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad8f87ef-9def-5028-815e-6bd316c6ab62",
+      "hashes": {
+        "SHA-256": "0d5311014c66423261d1069fda108dab33673bd68d697e22adb096db05d851b7"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--87252995-1363-5a20-bf24-c209c8b9d920",
+      "hashes": {
+        "SHA-256": "0ee63776197a80de42e164314cea55453aa24d8eabca0b481f778eba7215c160"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e44e8b97-7f97-5905-8f5e-d8b5548c5118",
+      "hashes": {
+        "SHA-256": "12876f134bde914fe87b7abb8e6b0727b2ffe9e9334797b7dcbaa1c1ac612ed6"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--117bf23a-0554-53a3-8192-576abca103ab",
+      "hashes": {
+        "SHA-256": "1dcd05d854d54136010cdca282d99ce9ff87f778ef6400d49c56f9aabf7c0bdf"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b3e47b2-0609-5861-a88c-06a8151acfa5",
+      "hashes": {
+        "SHA-256": "269f16510e12acc4fdacb0891c605e944cce9845517ec817ea5a06f0c6c362f5"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f25af413-5358-5c9a-9e08-c5f74291e7f2",
+      "hashes": {
+        "SHA-256": "281b6d45bd5149adf0c099dc2b4fb83bad5064063d18c7d88f1310956cb081e1"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--feb43587-f659-5fa7-92c0-3e7550200786",
+      "hashes": {
+        "SHA-256": "331ce8282198f11733a5c643f8d9c9a0f44bfd111db7b1783c155d7a8b1f0724"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--7f632aef-d823-5d5c-b93c-3646b3f48bde",
+      "hashes": {
+        "SHA-256": "3530939adf7b42ff8886cfdd25cd08d86570025e1e88be920528b45579139801"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d456e961-e2b8-5cc9-bf1e-b219071f63ec",
+      "hashes": {
+        "SHA-256": "39a5d10c83bcf30e0d187be60db8792d589d3e8ca4bda2754660914032be744b"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--abcfa773-eeb1-5fb3-be07-0782eafeef15",
+      "hashes": {
+        "SHA-256": "3d4cbb25ea5319b9e4f6eba93973b65635baba7fbecd5cdd9670e5283a462f14"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e85570ba-de22-518f-a83b-306de2380df3",
+      "hashes": {
+        "SHA-256": "3daf4e83cee3e0180b371e336223086449b771fe2ca472db0531b2479b86633a"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--65e00fb7-cf71-5703-a495-817d5cbe7e2a",
+      "hashes": {
+        "SHA-256": "410a0dd78f3e0654483e61d563f23b9d74627db848295358986ecfe721b0e4cc"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--532dd1e9-a527-5f7e-bbe2-4fb8b3b7afde",
+      "hashes": {
+        "SHA-256": "43b9bb932501d8d186d9fd49ee5fa1a1c47283e1db898a68b5c846eb7b971aee"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34df1af1-e2f4-5eff-9d0c-ca9bb28d2463",
+      "hashes": {
+        "SHA-256": "460a652936880f83a75c2c913b345cf16859790225c57d97dedee9f907907aff"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b025449-a4d6-5a37-9715-752d36bb325e",
+      "hashes": {
+        "SHA-256": "4645c34b63cfe2e839c31994ae00756b38bae0212aceaa8875d69c176e14de3c"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9b88e91b-2e42-529e-ba69-7cb440e9e651",
+      "hashes": {
+        "SHA-256": "47ed954f5d68fa32ec1d013d39d9f96266b7f6a3eeeffbf627aad564a8b3e7e9"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--95fc9996-7ed3-5274-affa-dea26ff9a83a",
+      "hashes": {
+        "SHA-256": "4bf87afb8e9321d5831d37ee4a54994fe61e6579d9493722d3b4d85c20cc3dc9"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ff97c3f2-547b-5497-9ed8-89bf0231f80b",
+      "hashes": {
+        "SHA-256": "5333f38cc4572c374eb1e3a08c1af6c2de17578a65464d45e3ba67948b199d35"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c65053b7-f44a-5062-9a1f-362997de761c",
+      "hashes": {
+        "SHA-256": "54ee66a5fdf59ff0ec43361107db55e4d2f44e7da3b745104470c041a79ce048"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5dbd9a1-a02f-5b9a-aa96-975277ce6e3d",
+      "hashes": {
+        "SHA-256": "5ff677ef9a829aaacf13a0254461fe40e8b0a20056644e4a3ee16e879e0eb533"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--93f30dc8-2c07-5bc7-b742-3e479a6ab6c3",
+      "hashes": {
+        "SHA-256": "636c256c29ebf0bfe2fb4d8e258deece499a634a3c19a33ef9691912465220b7"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--63911e24-bd74-56b8-b6fa-6d32fb49d6bf",
+      "hashes": {
+        "SHA-256": "64a003f26e9f563bf68b1980fd015f5389ccf2f8285281b064a8117a245a2df1"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c67bc9ec-47a0-5557-b471-1dd03cf10a9f",
+      "hashes": {
+        "SHA-256": "69c9904393e60a0453066d880cf94aa808cff4242f0cff3d3eccb84e70428080"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--256edffa-9c8d-5ec8-a18f-67f4e3f7970f",
+      "hashes": {
+        "SHA-256": "6b03dc7d14f22151777bc710a9b0a642292e66710cbe97495c75012c9b82c7f4"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a8f58b8f-b74f-5616-b496-db0dadb3b99a",
+      "hashes": {
+        "SHA-256": "6f4a0cc0fa22b66f75f5798d3b259d470beb776d79de2264c2affc0b5fa924a2"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--abc562eb-ea36-5a32-9626-26b7f7cd6bf1",
+      "hashes": {
+        "SHA-256": "6fdd12c30b3db365214a0c7bf6e10801c792cfd7fbb791944eaa042355dd2d0b"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--27d1e13b-da16-59f2-bd72-2368f3de7571",
+      "hashes": {
+        "SHA-256": "7abfb1283250c346c86bc94aac469626c4aa6b5e58561afd47a034e661bc3136"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d73c7f8d-17d2-5390-b55e-17ccad639028",
+      "hashes": {
+        "SHA-256": "8378c6faf198f4182c55f85c494052a5288a6d7823de89914986b2352076bb12"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e427a448-bc77-5b7e-9a52-d353ceac2bd1",
+      "hashes": {
+        "SHA-256": "83fd8e0d5eaa9f5dce717db4b33adbb36b464bbcdc9ff91a0e4f060e92d73975"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--81cdcff1-2138-5550-be03-af3535e654cf",
+      "hashes": {
+        "SHA-256": "85f109f10597a76a4117d6f0076af78ab9b75bdc5136088c5e6cce417d196fdf"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6fb5eb8-3128-571e-b606-4c9542a6ab2e",
+      "hashes": {
+        "SHA-256": "87e0fe63dc505fd3190b6448f4950d60de8b55422fac5b8c4df991ee9b545b20"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1173ca9d-d7d0-579d-a30b-c94d9af0c1a7",
+      "hashes": {
+        "SHA-256": "8f55ad8c8dec23576097595d2789c9d53c92a6575e5e53bfbc51699d52d0d30a"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4975149b-59e0-5936-911d-a301ffbf94d5",
+      "hashes": {
+        "SHA-256": "908f80a9f9d4365b8348572aea358a41bf03f490e0c25c1fa8b1aae8655c1414"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b5d11a3-25bc-5e0f-bf53-f74cbe44de46",
+      "hashes": {
+        "SHA-256": "90a6d0f62beed5411805473a26142ae3233795a46aeaf69a12bcf61e00210073"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5c76df8-4d7a-5517-97a3-db4a00bece51",
+      "hashes": {
+        "SHA-256": "9791c5e718d4b2f15fae318c64f2bc17a94f8750270218d023ead9d539f8ed96"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ad75b1b6-4e9c-5d6e-b42c-0c40bebc0804",
+      "hashes": {
+        "SHA-256": "983138449a49c9e190979753c4f4081790a750c7175c59342a854905308ec037"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--67c0069b-7eab-5285-b5fe-03561a8888cb",
+      "hashes": {
+        "SHA-256": "9ced6d79862a22648f56106f67ce2d6975dcda103b411933baf9866a9dfe8bab"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--20a488cf-3268-5e18-a44b-9f48adcab2ac",
+      "hashes": {
+        "SHA-256": "a4e14d3f790c94be2f461406cfdc854db343057e4e11dc28e7d270df34210f21"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5fe8ccb-7994-5923-a8b2-7d2f70c36209",
+      "hashes": {
+        "SHA-256": "a868bccf04b183bba622403edad3efcb0fb78691086ec8901ac5600b54514ec9"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e821c3a5-dd5d-5c40-8093-2a8dec7286ff",
+      "hashes": {
+        "SHA-256": "a9de27c594b4a15efa7af25c3b649b8fd04c6d3d5c2386b224da8fabfe685d0f"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ee1e8096-1864-5dde-a41c-dd16961c7298",
+      "hashes": {
+        "SHA-256": "abb3b093bea395593eb63864ae4333d98c5da4a585cdd4a170b23836077ae100"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--77ce3c5e-79ba-5d5b-8502-25af14a825f3",
+      "hashes": {
+        "SHA-256": "b1a7bcbb7a39b469f1664a3697b651cb63404466cdf8ff0eb95c54f49c9ad912"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0b182176-5a88-5d54-bf12-82a83e472661",
+      "hashes": {
+        "SHA-256": "bb42022e85d01864b72ab8f90798ce3ba57ceac7547738616a72ba6b171504af"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--eb720e72-8434-5bc9-b915-4064cd93f910",
+      "hashes": {
+        "SHA-256": "bb63820ed0e2ededc13c201f71d318b9db713e1b33d4dfbe9a07fa372ca8fab4"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--48382d54-c8ed-5290-aebd-fc94216ab713",
+      "hashes": {
+        "SHA-256": "bfa4519d56a3d7d59eb66ee60c0c63a059767d44a2f925720f07257839848e7c"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8fadee92-b427-5d73-bb55-7ec0f84e77be",
+      "hashes": {
+        "SHA-256": "c39ed32b41c2e88ca57069ced2175fbdcbb100e11e5df62717bfbf199d285ad1"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--770d1e8d-55c8-5a48-b521-7d03af3e9add",
+      "hashes": {
+        "SHA-256": "c428b62f4e75234e529cb221587436fe954cb2b15e188565aee61dadc17b4e9c"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34c2c9fc-1108-5ab5-af61-12b9b565aad5",
+      "hashes": {
+        "SHA-256": "c4b636b74f24b75f50d9e0fc879fec644c8b43464bc238335ac14f4fc8ee4712"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--12e32d52-037a-5682-a3a1-ef23ff05c3bc",
+      "hashes": {
+        "SHA-256": "cd7aee034b9705798b830d9e311614d54ba860db627e6f40ea50c4672882bc69"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2a6bd87c-87a4-5774-bd40-8dc71380bff6",
+      "hashes": {
+        "SHA-256": "d5fa2160e74fee9501759e2766793cf35282fcc9dc5e1db5d8e7ac3e5b69007a"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d12e4ade-debe-553b-92e1-e6788dd7a77a",
+      "hashes": {
+        "SHA-256": "d60fb96437b9e2818eb6baf2183d2aa989c8f2adab597ea61b4611a0c6c98270"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--9832eaee-339a-5213-b7e6-566320af1f44",
+      "hashes": {
+        "SHA-256": "e318b2c1693bc771dfe9a66ee2cebcc2b426b01547bb0164d09d025467cb9ee3"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4b4a04a0-b96d-5914-88d4-c5948d3a39e0",
+      "hashes": {
+        "SHA-256": "e5a2167c544fa8a9ed0ad1057784c131fe2c6ba2264c288c38dd22073e238791"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fad43c48-90ba-51b0-bb16-55050fcd2dc2",
+      "hashes": {
+        "SHA-256": "e9e6b5e24455aa3fd0542c63d9c87c1f9054ed51e65f100332964e8e56e1b121"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--dbbb4dac-b2d1-50b3-a5bc-5b047662cb26",
+      "hashes": {
+        "SHA-256": "f75da3a8499f34c29c1c8ab834d4446843815d4d2f2ea331a2593ea27e23e13a"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--0397dacb-cbf7-5a78-9ac9-1c5a0f22539c",
+      "hashes": {
+        "SHA-256": "f8691139a087bb88d113046b9e950c66ad56ce91dc27a7d0f51539026c0ad57f"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--00535a71-4661-51c5-aa73-5733431dc377",
+      "hashes": {
+        "SHA-256": "f946567c5199244b8be5fc3843826ad97c31ee11753e26dbdc57689d443163e8"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69db4810-a09a-5e9c-a3c8-d70bf3148a48",
+      "value": "netsh.zip",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--69db4810-a09a-5e9c-a3c8-d70bf3148a48",
+      "value": "netsh.zip",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--12577805-0630-5cd3-bb07-6ddfee5a48c1",
+      "value": "CodedDi.exe",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--19688b92-4bbe-5076-ac00-218a232c410c",
+      "value": "DUHECNXC.zip",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c238032d-88fe-5e23-a17a-7edfdc3bace3",
+      "value": "DUHECNXC.exe",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    }
+  ]
+}
