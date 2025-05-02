@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--f273015e-7e40-4470-a619-c4902f26b972",
+  "id": "bundle--68779f5f-ff7d-49c8-9fb4-61ce7461b7fd",
   "objects": [
     {
       "type": "domain-name",
       "spec_version": "2.1",
       "id": "domain-name--6f5c9659-bcc0-5ca2-a6f7-5ac4b14a12c2",
       "value": "tinyurl.com",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f72cf607-b2ad-5ad9-ba36-1521f9db8d5c",
+      "value": "https://malpedia.caad.fkie.fraunhofer.de/details/win.hijackloader",
       "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
     },
     {
