@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--68779f5f-ff7d-49c8-9fb4-61ce7461b7fd",
+  "id": "bundle--9dc6faa0-050f-4720-8596-ce81b83cacad",
   "objects": [
     {
       "type": "domain-name",
@@ -139,6 +139,15 @@
       "id": "file--bdfa8543-4204-5b6e-8f86-d25d63e00133",
       "hashes": {
         "SHA-256": "9861d60cf037963fadb463d2f46621839071712791be7388dbfede1520315d0f"
+      },
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--071c551e-8c2c-52b5-8da6-f451806ecc09",
+      "hashes": {
+        "SHA-256": "b1b91744707a9e9e2c226710645a12315adefa0f51a5ca4555d39df706de3ed8"
       },
       "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
     },
