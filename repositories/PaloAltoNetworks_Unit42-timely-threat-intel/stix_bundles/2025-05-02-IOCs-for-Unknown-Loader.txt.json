@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--9dc6faa0-050f-4720-8596-ce81b83cacad",
+  "id": "bundle--345fa702-2700-4957-b4fa-20ff2be6ed78",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--27045772-9715-5133-800c-690c26403bf1",
+      "value": "https://www.linkedin.com/posts/unit42_malicious-webpages-impersonating-legitimate-activity-7325183783983337473-nPp7",
+      "x_opencti_description": "2025-05-02-IOCs-for-Unknown-Loader.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
