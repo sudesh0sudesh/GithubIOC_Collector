@@ -61,8 +61,8 @@ The following sources are being collected and parsed:
 
 10. **blacklotuslabs/IOCs**
    - Repository: [blacklotuslabs/IOCs](https://github.com/blacklotuslabs/IOCs)
-   - Latest commit: 88daaec978e4a0138e64e93ec96ea98a9bdb23ed
-   - Last updated: 2025-05-01 03:01:36
+   - Latest commit: d2b632f36d7a517b93c769ab64fb43b4cac67a8e
+   - Last updated: 2025-05-05 16:46:01
 
 11. **volexity/threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
