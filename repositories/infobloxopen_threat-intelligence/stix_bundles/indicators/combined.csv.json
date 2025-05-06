@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--b8deb7aa-d48f-43d0-b872-2826d4aec6d5",
+  "id": "bundle--69c72727-cf1f-47fb-bfab-a267fcae0e77",
   "objects": [
     {
       "type": "domain-name",
@@ -7425,36 +7425,57 @@
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--bf479b1b-661a-58d6-9220-f42920cde7fc",
-      "value": "6rnd9mitqt1rz82.top",
+      "id": "domain-name--ff9153ec-e1cd-5ce4-a891-d97f6c183c41",
+      "value": "marblemediaworks.cc",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--58382f17-6c11-5600-9ed4-978e10549678",
-      "value": "7r7suw52ls00i20.top",
+      "id": "domain-name--a08387d8-4876-5d06-9394-e59893b2dcec",
+      "value": "marblemediaseo.cc",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--83fd3e10-fab4-5dc6-ad4a-294a55e7feed",
-      "value": "9w9ohb5vky5p3dz.top",
+      "id": "domain-name--f931533e-d3f4-59ff-abbf-5186c579ab11",
+      "value": "tasks.cc",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--3c41326f-201a-574d-b447-b0cdf2322ee9",
-      "value": "bjbntaxmh09r09e.top",
+      "id": "domain-name--3b5e4479-7a5e-514c-b801-d5d28e471216",
+      "value": "works.cc",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
       "type": "domain-name",
       "spec_version": "2.1",
-      "id": "domain-name--84254de9-e126-5734-a599-bb7d3bc4681d",
-      "value": "qcj4pirltkpqrcu.top",
+      "id": "domain-name--1a259a1f-7bfc-5cf0-8551-8a8869ed79f9",
+      "value": "creatorseoireland.cc",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a4c857b-1113-524d-b96b-3713883ba6c5",
+      "value": "apps.cc",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18628a67-47eb-5de5-ae8b-ab37e47d88fc",
+      "value": "appradaseo.cc",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8f95b08-ffa3-5275-8bf9-af2c2b142440",
+      "value": "sdmgrowthseo.cc",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
@@ -7924,13 +7945,6 @@
       "spec_version": "2.1",
       "id": "domain-name--38c82643-0a97-54e7-ba22-175c2698fd7d",
       "value": "yb3650.com",
-      "x_opencti_description": "indicators/combined.csv"
-    },
-    {
-      "type": "domain-name",
-      "spec_version": "2.1",
-      "id": "domain-name--3f71ae4d-83e6-56b0-9a56-994f50eaadf2",
-      "value": "hth268.cn",
       "x_opencti_description": "indicators/combined.csv"
     },
     {

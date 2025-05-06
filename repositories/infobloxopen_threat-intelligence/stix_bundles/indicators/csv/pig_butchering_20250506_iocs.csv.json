@@ -1,0 +1,76 @@
+{
+  "type": "bundle",
+  "id": "bundle--f044bf4c-8eb9-4063-bc49-470c6e200081",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff9153ec-e1cd-5ce4-a891-d97f6c183c41",
+      "value": "marblemediaworks.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a08387d8-4876-5d06-9394-e59893b2dcec",
+      "value": "marblemediaseo.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--63f6811a-e0dd-52c2-9440-3eaa337f3090",
+      "value": "dreamseo.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f931533e-d3f4-59ff-abbf-5186c579ab11",
+      "value": "tasks.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b5e4479-7a5e-514c-b801-d5d28e471216",
+      "value": "works.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a259a1f-7bfc-5cf0-8551-8a8869ed79f9",
+      "value": "creatorseoireland.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9a4c857b-1113-524d-b96b-3713883ba6c5",
+      "value": "apps.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18628a67-47eb-5de5-ae8b-ab37e47d88fc",
+      "value": "appradaseo.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c8f95b08-ffa3-5275-8bf9-af2c2b142440",
+      "value": "sdmgrowthseo.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d53b384-a984-51e0-ba31-d50db96e5530",
+      "value": "hawksearchseos.cc",
+      "x_opencti_description": "indicators/csv/pig_butchering_20250506_iocs.csv"
+    }
+  ]
+}
