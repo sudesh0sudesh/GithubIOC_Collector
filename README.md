@@ -96,8 +96,8 @@ The following sources are being collected and parsed:
 
 17. **google/threat-team**
    - Repository: [google/threat-team](https://github.com/google/threat-team)
-   - Latest commit: a55f93314aad4265cad9cf85338db86163479612
-   - Last updated: 2024-12-04 23:50:31
+   - Latest commit: 32107b329450cc28d96fb7d73a7c187117b7f0f7
+   - Last updated: 2025-05-07 03:38:30
 
 18. **elastic/labs-releases**
    - Repository: [elastic/labs-releases](https://github.com/elastic/labs-releases)

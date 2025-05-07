@@ -1,0 +1,108 @@
+{
+  "type": "bundle",
+  "id": "bundle--29bd6fa4-ca03-4b43-b458-d23b33984e7f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--63cb24d9-505a-5966-9040-2a0eecd7329a",
+      "value": "165.227.148.68",
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--95e4cf9a-cfc3-533d-95ef-084962533eaa",
+      "value": "80.66.88.67",
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b8df349-e7f0-5f2b-a334-0fa8a70c0f5f",
+      "value": "cloudmediaportal.com",
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d93ab237-f345-5f37-abe8-8b67eb0589db",
+      "hashes": {
+        "SHA-256": "13f7599c94b9d4b028ce02397717a1282a46f07b9d3e2f8f2b3213fa8884b029"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--4ffdf48c-14b0-50aa-87ff-b7844d35d3c7",
+      "hashes": {
+        "SHA-256": "4c7accba35edd646584bb5a40ab78f963de45e5fc816e62022cd7ab1b01dae9c"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f399ca17-72c1-5adc-8ff1-d0fa9dd4f212",
+      "hashes": {
+        "SHA-256": "6b85d707c23d68f9518e757cc97adb20adc8accb33d0d68faf1d8d56d7840816"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b9efe0d9-928c-5a0e-b3f0-fe37489706ea",
+      "hashes": {
+        "SHA-256": "3233668d2e4a80b17e6357177b53539df659e55e06ba49777d0d5171f27565dd"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84395adb-9844-5f92-ac7f-f78492100a4e",
+      "hashes": {
+        "SHA-256": "6bc411d562456079a8f1e38f3473c33ade73b08c7518861699e9863540b64f9a"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f71de955-b636-517d-8483-ac8666006c06",
+      "hashes": {
+        "SHA-256": "28a0596b9c62b7b7aca9cac2a07b067109f27d327581a60e8cb4fab92f8f4fa9"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b81c3890-6b61-5feb-896e-51f15e635de6",
+      "hashes": {
+        "SHA-256": "b55cdce773bc77ee46b503dbd9430828cc0f518b94289fbfa70b5fbb02ab1847"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d251e448-47fe-5393-8478-324b9caaa577",
+      "hashes": {
+        "SHA-256": "02ce477a07681ee1671c7164c9cc847b01c2e1cd50e709f7e861eaab89c69b6f"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e5ac39df-bdc1-5a8f-9154-14b83aad19a9",
+      "hashes": {
+        "SHA-256": "8af28bb7e8e2f663d4b797bf3ddbee7f0a33f637a33df9b31fbb4c1ce71b2fee"
+      },
+      "x_opencti_description": "2025/coldriver-steal-documents-western-targets-ngos/indicators.csv"
+    }
+  ]
+}
