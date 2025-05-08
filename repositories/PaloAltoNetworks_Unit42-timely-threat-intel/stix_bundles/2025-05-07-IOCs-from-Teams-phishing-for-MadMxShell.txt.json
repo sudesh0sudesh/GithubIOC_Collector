@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--e1896029-d8fd-47e1-b34a-f92d5a5abf73",
+  "id": "bundle--e720c40a-3014-46f4-89ea-08892a893f21",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -217,6 +217,24 @@
       "spec_version": "2.1",
       "id": "domain-name--84690876-ec37-574d-ace3-25da225e337b",
       "value": "vpn.fastcall.cc",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e6e0fee8-a817-511e-8a2d-e110c4763c4a",
+      "hashes": {
+        "SHA-256": "e3fb13568f34db8de9f9d2bd6d50b7a22fb2a9bc58d700e3e51facdef0444f59"
+      },
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6177749f-4c0c-56c0-be4f-37d23092238d",
+      "hashes": {
+        "SHA-256": "f3b9fc8b857a1d9357700b1cb4e57bc0ae4882222777004bcaff37f4ef9e5e5d"
+      },
       "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
     },
     {
