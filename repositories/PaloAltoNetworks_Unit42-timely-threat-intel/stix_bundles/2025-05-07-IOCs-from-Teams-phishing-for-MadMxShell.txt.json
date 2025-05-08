@@ -1,0 +1,237 @@
+{
+  "type": "bundle",
+  "id": "bundle--e1896029-d8fd-47e1-b34a-f92d5a5abf73",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ada3575e-ada9-556f-820e-8b2eb62ad240",
+      "value": "164.92.67.56",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--ada3575e-ada9-556f-820e-8b2eb62ad240",
+      "value": "164.92.67.56",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--bca0512b-6690-5eaf-b41f-416df22215e7",
+      "value": "45.61.136.238",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--224250b9-2689-5998-90be-d9e7a0d08319",
+      "value": "45.61.136.214",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--3331da44-5104-58a2-ab1d-3581ae5cee0c",
+      "value": "107.170.37.233",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--96a16e82-738e-564f-95dd-85985b2876df",
+      "value": "161.35.151.75",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--06e0fb4a-6efc-508f-9aca-c04015cd9eda",
+      "value": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29e3ee9a-d266-5a0a-9777-d31c4c286ad9",
+      "value": "cristox.cl",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c655ffd-6043-54ad-9ef3-f6e820688be3",
+      "value": "deuscapacitaciones.cl",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--25a0d083-5dd5-5a85-ba2e-37b0f86d6c6c",
+      "value": "parusiafm.cl",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d45b175a-a77c-5887-9a60-c50b4411ad89",
+      "value": "pathernostrum.org",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7c8837d6-1915-5b68-94b1-cdba63ac6ab1",
+      "value": "sancupertino.cl",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af7d26d1-0fd1-59f8-95ee-49d3d4a6294d",
+      "value": "helpdesklocal.onmicrosoft.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7da1a9b3-dd3c-5687-acfe-208c8f4002e0",
+      "value": "ithelpdepartment.onmicrosoft.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4e96d581-bc00-5cf1-b571-bf1f0b33fc1d",
+      "value": "pathernostrum.onmicrosoft.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31a1d560-9771-5723-a09c-a399f373c244",
+      "value": "up.co",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31a1d560-9771-5723-a09c-a399f373c244",
+      "value": "up.co",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31a1d560-9771-5723-a09c-a399f373c244",
+      "value": "up.co",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cb036db3-a2f6-57a1-a20f-36744735a4a6",
+      "value": "vaihonet.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--55eb4e0e-4143-5b2a-9752-44ef5d268144",
+      "value": "dnscomp.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b464125b-7721-58fc-940f-ede3bafa0007",
+      "value": "leafinet.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4d84144d-20d9-5af9-a0c7-0678e14166cd",
+      "value": "netsapi.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--856f4468-7e69-5793-a636-4d6db0d104fd",
+      "value": "nodicomtel.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--620a9228-06b1-527c-bbe2-37bef06418ff",
+      "value": "okoqi.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28eedf4e-a28b-5fb4-a62a-ca8f243815b4",
+      "value": "webtpd.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f0175e11-5dc5-5115-bf4e-f1172e377d83",
+      "value": "zehful.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--31a1d560-9771-5723-a09c-a399f373c244",
+      "value": "up.co",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a395fe0a-3ac3-5f16-9c89-a38e1b1c48bc",
+      "value": "pa.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--56b62bda-bced-5676-9b10-3e8f8f6a0939",
+      "value": "vpnpalo.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--718158a4-fa80-5808-89f8-cd02638fc774",
+      "value": "rating.com",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84690876-ec37-574d-ace3-25da225e337b",
+      "value": "vpn.fastcall.cc",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a43242c9-0a68-599d-8a3c-a6b60de75f98",
+      "value": "globalprotect.msi",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a43242c9-0a68-599d-8a3c-a6b60de75f98",
+      "value": "globalprotect.msi",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    }
+  ]
+}
