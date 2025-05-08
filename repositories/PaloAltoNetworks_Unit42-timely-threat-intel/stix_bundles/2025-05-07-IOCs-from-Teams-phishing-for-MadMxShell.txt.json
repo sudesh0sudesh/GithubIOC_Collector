@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--08771119-af29-4109-9b97-4d3c6e311e00",
+  "id": "bundle--93a9369a-7ef7-40dc-ac92-9f3e46c52f71",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -42,6 +42,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--96a16e82-738e-564f-95dd-85985b2876df",
       "value": "161.35.151.75",
+      "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7d4d9eb1-4169-5542-ab6d-2c3fd6672a4d",
+      "value": "https://www.linkedin.com/posts/unit42_socialengineering-madmxshell-activity-7326298358447251457-ZpIv",
       "x_opencti_description": "2025-05-07-IOCs-from-Teams-phishing-for-MadMxShell.txt"
     },
     {
