@@ -1,0 +1,55 @@
+{
+  "type": "bundle",
+  "id": "bundle--4a2df7a3-a0e1-403a-95ad-78a959c46553",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2b156171-1f0c-51be-bca9-c6531b22ef20",
+      "value": "176.53.20.42",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e692610e-43f9-53a0-ba1b-5541d0c5caa0",
+      "value": "176.53.20.43",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--24630b38-ceb2-5121-9ecd-041d7cb221c5",
+      "value": "176.53.20.44",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5a77d2fb-e82c-5d6c-bb70-2b44b36c2f94",
+      "value": "176.53.20.45",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--b75f3445-50c6-55f0-9140-1495817d8471",
+      "value": "176.53.20.46",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--64ecba94-1566-525e-96bf-c1c6a2fd0818",
+      "value": "79.99.1.43",
+      "x_opencti_description": "socks_IOCs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fe9431a1-98ea-539f-992b-80a1f3021528",
+      "value": "128.199.39.218",
+      "x_opencti_description": "socks_IOCs.txt"
+    }
+  ]
+}
