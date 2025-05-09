@@ -1,0 +1,159 @@
+{
+  "type": "bundle",
+  "id": "bundle--681b178f-3a27-4c94-8023-3e3570f5f52e",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--66a890e7-a812-538b-9876-824a26715bb1",
+      "value": "104.21.84.251",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a97cb74c-a2bb-5828-9297-71986fe5f128",
+      "value": "104.21.84.25",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5da572b9-8d66-5f40-8752-ec80bbcd901e",
+      "value": "156.59.126.78",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--187b12e8-2798-5fc3-bc0b-1cc43a7e75b5",
+      "value": "141.193.213.10",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--2eac4112-9954-5a2e-95ff-f06a23fcadd0",
+      "value": "https://news.sophos.com/en-us/2025/05/09/lumma-stealer-coming-and-going",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2d6abf2-7a71-56de-bc08-4a2b81649d0c",
+      "value": "immureprech.biz",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4923e0d9-355a-51d9-9382-663594ec34b5",
+      "value": "deafeninggeh.biz",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--45d7fb8d-b4e1-553c-a23a-e23bc17d239a",
+      "value": "effecterectz.xyz",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e40f576-55bf-5491-a57d-6583e2285180",
+      "value": "diffuculttan.xyz",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18609eda-c17d-5f18-bc14-deec29316d38",
+      "value": "debonairnukk.xyz",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--787abd9c-d7b9-5f8f-9218-d769a736856f",
+      "hashes": {
+        "SHA-1": "e298cd6c5fe7b9b05a28480fd215ddcbd7aaa48a"
+      },
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--787abd9c-d7b9-5f8f-9218-d769a736856f",
+      "hashes": {
+        "SHA-1": "e298cd6c5fe7b9b05a28480fd215ddcbd7aaa48a"
+      },
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--b26bbf9b-1e0b-56fc-9f41-4cece2da5990",
+      "hashes": {
+        "SHA-1": "337424610694e00ebac66d36dd20e535c7a92164"
+      },
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95ecbf1e-76a5-556a-9579-70e62aace652",
+      "value": "artist.txt",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aeedc288-65d3-5fda-bac5-baa14ef4e094",
+      "value": "AutoIt3.exe",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aeedc288-65d3-5fda-bac5-baa14ef4e094",
+      "value": "AutoIt3.exe",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--95ecbf1e-76a5-556a-9579-70e62aace652",
+      "value": "artist.txt",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0dd3089-e70d-5f8a-9492-f6142cca2cbe",
+      "value": "ArtistSponsorship.exe",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a0dd3089-e70d-5f8a-9492-f6142cca2cbe",
+      "value": "ArtistSponsorship.exe",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13d983e9-1a59-52c8-84d8-69c1cccc6333",
+      "value": "Nhtfrh.csv",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--13d983e9-1a59-52c8-84d8-69c1cccc6333",
+      "value": "Nhtfrh.csv",
+      "x_opencti_description": "2025 Lumma Stealer.csv"
+    }
+  ]
+}
