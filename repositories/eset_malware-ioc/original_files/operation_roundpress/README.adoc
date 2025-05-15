@@ -1,0 +1,46 @@
+:toc:
+:toclevels: 2
+
+= Operation RoundPress –- Indicators of Compromise
+
+The blog post on Operation RoundPress is available on WeLiveSecurity at
+https://www.welivesecurity.com/en/eset-research/operation-roundpress/
+
+== Files
+
+[options="header"]
+|===
+|SHA-1 | Filename | ESET detection name | Description
+| `41FE2EFB38E0C7DD10E6009A68BD26687D6DBF4C` | `N/A` | `JS/Agent.RSO` | SpyPress.ZIMBRA.
+| `60D592765B0F4E08078D42B2F3DE4F5767F88773` | `N/A` | `JS/Exploit.Agent.NSH` | XSS exploit for CVE-2023-43770.
+| `1078C587FE2B246D618AF74D157F941078477579` | `N/A` | `JS/Exploit.Agent.NSH` | SpyPress.ROUNDCUBE.
+| `8EBBBC9EB54E216EFFB437A28B9F2C7C9DA3A0FA` | `N/A` | `HTML/Phishing.Agent.GNZ` | XSS exploit for CVE-2024-11182.
+| `F95F26F1C097D4CA38304ECC692DBAC7424A5E8D` | `N/A` | `HTML/Phishing.Agent.GNZ` | SpyPress.MDAEMON.
+| `2664593E2F5DCFDA9AAA1A2DF7C4CE7EEB1EDBB6` | `N/A` | `JS/Agent.SJU` | Probable XSS exploit for Horde.
+| `B6C340549700470C651031865C2772D3A4C81310` | `N/A` | `JS/Agent.SJU` | SpyPress.HORDE.
+| `65A8D221B9ECED76B9C17A3E1992DF9B085CECD7` | `N/A` | `HTML/Phishing.Gen` | SpyPress.ROUNDCUBE.
+| `6EF845938F064DE39F4BF6450119A0CDBB61378C` | `N/A` | `N/A` | Email exploiting CVE-2023-43770, found on VirusTotal.
+| `8E6C07F38EF920B5154FD081BA252B9295E8184D` | `N/A` | `JS/Agent.RSP` | SpyPress.ROUNDCUBE.
+| `AD3C590D1C0963D62702445E8108DB025EEBEC70` | `N/A` | `JS/Agent.RSN` | SpyPress.ZIMBRA.
+| `EBF794E421BE60C9532091EB432C1977517D1BE5` | `N/A` | `JS/Agent.RTD` | SpyPress.ROUNDCUBE.
+| `F81DE9584F0BF3E55C6CF1B465F00B2671DAA230` | `N/A` | `JS/Agent.RWO` | SpyPress.ROUNDCUBE.
+| `A5948E1E45D50A8DB063D7DFA5B6F6E249F61652` | `N/A` | `JS/Exploit.Agent.NSG` | XSS exploit for CVE-2023-43770.
+|===
+
+
+== Network Indicators
+
+[options="header"]
+|===
+| IP address | Domain | First seen | Details
+|`185.225.69[.]223` | `sqj[.]fr` | 2024-06-01 | SpyPress C&C server.
+|`193.29.104[.]152` | `tgh24[.]xyz` | 2024-06-04 | SpyPress C&C server.
+|`193.29.104[.]152` | `tuo[.]world` | 2024-06-27 | SpyPress C&C server.
+|`45.137.222[.]24` | `lsjb[.]digital` | 2024-07-03 | SpyPress C&C server.
+|`91.237.124[.]164` | `jiaw[.]shop` | 2023-09-28 | SpyPress C&C server.
+|`185.195.237[.]106` | `hfuu[.]de` | 2024-06-03 | SpyPress C&C server.
+|`91.237.124[.]153` | `raxia[.]top` | 2024-06-03 | SpyPress C&C server.
+|`146.70.125[.]79` | `rnl[.]world` | 2024-06-07 | SpyPress C&C server.
+|`89.44.9[.]74` | `hijx[.]xyz` | 2024-07-05 | SpyPress C&C server.
+|`111.90.151[.]167` | `ikses[.]net` | 2024-12-01 | SpyPress C&C server.
+|===
