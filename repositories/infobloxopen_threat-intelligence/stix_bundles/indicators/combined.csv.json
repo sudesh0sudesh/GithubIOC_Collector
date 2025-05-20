@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--69c72727-cf1f-47fb-bfab-a267fcae0e77",
+  "id": "bundle--01d1a73d-97da-41e2-91a2-d66ded939a23",
   "objects": [
     {
       "type": "domain-name",
@@ -2450,6 +2450,1259 @@
       "spec_version": "2.1",
       "id": "domain-name--285bdd9b-3c2e-5ab2-94ef-cdda63e15628",
       "value": "xspacemuskelon.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--548c734c-89ee-5646-8b3d-39ec13965fff",
+      "value": "live.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c89c3a0-a1cd-5bc7-9543-ff0aa46bb222",
+      "value": "69xtream.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--94046196-b665-5ef7-aa6f-8f5417d29f1f",
+      "value": "fighterr.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28deff9a-c74f-509a-8ef8-caa8108f2131",
+      "value": "a2iplaynow.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--badd50ea-f288-5ea0-99d8-25159c387427",
+      "value": "2024.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c2daab3-7454-52eb-a623-f2630206f5f9",
+      "value": "lives.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1777e6cf-4bcb-5366-8b9e-dff8b6e485cc",
+      "value": "acceleratetomb.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--713b1358-bc7c-5b4c-aa83-e9de95ef1d33",
+      "value": "accomodateyours.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f312f96-b088-5142-9f12-a070c2bd6f2c",
+      "value": "adotv24h.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1f913fd2-23a6-5b5b-a2a0-cbe6c0415586",
+      "value": "afcsports.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8fc2b5c-7044-56a5-9c13-5c144721c810",
+      "value": "ajobpola778.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--32427345-f2b4-5c3b-b3a2-d7ec478a7782",
+      "value": "cannon.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c545c05d-7f47-5f25-bfc9-a6dca27c2a2e",
+      "value": "allcheak.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ed75fd0-f0e0-54e1-b130-3b0687232831",
+      "value": "allsport247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5879160c-000c-577e-9667-5098cb0c939a",
+      "value": "apperetive.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c5d11f34-70c4-5b9a-ac6f-27e681ae815f",
+      "value": "arkotore.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--793ac723-4df2-58f7-8d3d-4d49082a1d1b",
+      "value": "cable.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9707422a-459c-5b3f-8fdd-f882b53c6b7b",
+      "value": "huzur.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c9967c8e-9f81-5a0d-8262-a237c55e57d2",
+      "value": "b2kawmplayer.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b5d2cb43-c295-5d1e-b379-a3fd5901b6cd",
+      "value": "liv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93f49d08-9415-5355-9e79-fad1c645fbce",
+      "value": "bcseursports.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d4a228d6-e8a7-56cc-9604-e03940a7b9c7",
+      "value": "bekartravel.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce72c0fe-361a-54f9-9c61-f50722654204",
+      "value": "tv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf514319-2bbb-53ed-a7ad-b24bca636a22",
+      "value": "sports.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d06c2a71-57ab-5318-8cac-dd3cfc878943",
+      "value": "boomblasteron247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e1c68678-aeb1-5f58-a1fc-f788114adbb8",
+      "value": "vai.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ec3e56e-da11-5286-829f-d0942228e9dd",
+      "value": "butlumastan.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1fcff762-d196-59dc-8583-d7d9831c39ea",
+      "value": "cambertech.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf514319-2bbb-53ed-a7ad-b24bca636a22",
+      "value": "sports.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8be0a97-588c-58ff-b346-f272838e52f3",
+      "value": "online.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ab7c8fef-c314-5456-82ec-2a8eb3bd5642",
+      "value": "bro.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a0c3f42-bcef-5ee3-8ee5-876e78162bc2",
+      "value": "chocklet333.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--57089ffd-c993-537d-97a0-f0d4b1674519",
+      "value": "bir.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c68a0e2f-9a91-5975-bd65-80508387d0d4",
+      "value": "katni.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6ff057dd-76bf-5624-bfad-665fdfb68588",
+      "value": "cingchangchung.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e32b980a-44ba-5b94-9271-314eae5a1788",
+      "value": "cleanupharm.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--07bf77cd-5478-544b-a24c-44020d5cdf60",
+      "value": "comebabyhdd.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--53349e09-4fe8-5c44-9cd0-d469bf06c0e6",
+      "value": "crackleflixz.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--841ae990-f2d6-52d4-ad40-cae0512c68e9",
+      "value": "crik24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d1e692a1-fe5c-5138-857c-b55f2ed51617",
+      "value": "danakataporitv247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7a770561-5626-5509-8065-2f4a77c194a0",
+      "value": "dankdigs.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6c11cad9-cfa9-5b86-88be-53a156c2a4c0",
+      "value": "relax.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5b040a4c-87ae-59a1-a8e0-64cb1d831217",
+      "value": "hoba.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9292f425-6d36-5c83-be1a-88dd2112da00",
+      "value": "destv24h.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2265f44-b10c-5323-9217-7af48c462baf",
+      "value": "digitdsk.org",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--679381ca-ea95-516e-968c-92f0f79a262d",
+      "value": "go.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b0cff11c-95e9-5505-90be-beb528c4947f",
+      "value": "disneyplusxyz.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4539a08-ca4c-5623-9369-6bfd7dff18d7",
+      "value": "djalok01.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--343f6a6a-3810-5fba-af4d-037c022080de",
+      "value": "edygik.org",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a18caa93-387c-55fb-9c3a-04848f124343",
+      "value": "encryptalert.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c685f0c8-c936-5221-a022-638961f5c2b8",
+      "value": "extuilowelevid.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a63e0668-dc9b-5154-bb33-b0d88f056114",
+      "value": "fabiansec.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d8ec24ad-c99f-5f88-a55c-9a0499418948",
+      "value": "futu.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--17ea90ee-51bb-5669-b7da-64b0e8b917d6",
+      "value": "ferigs.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a023edb-25be-52f8-8324-254cc7751ef1",
+      "value": "ferma.co.in",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff14c5a5-25bd-5b88-99cc-ac6327dfb3ee",
+      "value": "71.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf514319-2bbb-53ed-a7ad-b24bca636a22",
+      "value": "sports.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a5fed0b8-6923-51d5-93f3-4c6a21eda695",
+      "value": "followmallu.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c98782d-ed3f-5f41-bd12-e34ad8b98009",
+      "value": "clip.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a15ed196-6b40-538f-8e89-f9e449485f6e",
+      "value": "freetvtoday2024.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b67fa926-f999-5d72-a9f5-654023bbe435",
+      "value": "fata.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce72c0fe-361a-54f9-9c61-f50722654204",
+      "value": "tv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08b3573f-769d-5be9-85d6-4f013c343461",
+      "value": "gamedayint24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5256e24d-a05d-59e8-ad16-6af46ecc480e",
+      "value": "maratv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--556ead56-b615-5ac1-8598-9da5a0ef1656",
+      "value": "generation.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d6aed4f2-553c-546a-886f-1df019dd94b9",
+      "value": "goalsportstv24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--162b7518-bb6d-571a-b0dd-62257102320e",
+      "value": "gtrewe.co.in",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ea4e88b3-f872-5b69-a57e-07c67cefefa9",
+      "value": "filmbox.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--08711473-e6a7-5bde-8980-9fd4ed700250",
+      "value": "helal260.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--153b0fa8-12e1-51ef-9016-f83dbfedb492",
+      "value": "bunny.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49a08792-4a6c-5b70-9daf-342df3e6ebdc",
+      "value": "hotnewrumor.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e46352bb-8d88-565e-9f0f-879d79b77203",
+      "value": "impliednauseous.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3778906d-5ebc-5662-94dc-ea938b6c3546",
+      "value": "impliednauseous.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff14c5a5-25bd-5b88-99cc-ac6327dfb3ee",
+      "value": "71.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bd070dd-4b3e-51f4-9db2-77100dd676bf",
+      "value": "magictv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ad3e00dc-2c7f-5494-86ac-3e748e3a376b",
+      "value": "itsgametime0.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cd8124b7-b678-5e84-b2d8-0bd3c95104c7",
+      "value": "kore.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af49c93b-c70b-5b55-8924-7693f788a2ae",
+      "value": "marbo.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2f1dec70-b06a-5f43-85bd-f9b00354fae3",
+      "value": "kafumastan360.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70fe6351-20e0-500c-8bc2-1d713542b316",
+      "value": "bloogpost.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cfef7510-5c35-5739-ad9a-06dee616688a",
+      "value": "aschis.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5f668241-ca56-537b-ba9c-9320af84b633",
+      "value": "killerrabby95.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de820ac6-cf66-5821-a076-c757bb133a45",
+      "value": "legends.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d88fdfb-d03c-583d-9a2e-eba1d17f3a31",
+      "value": "kopasamsu24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--72d0c591-d438-5427-a90c-874c57d8428e",
+      "value": "kpre.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29d23f73-166d-56e8-ad7f-da59ada57f53",
+      "value": "ksancbsbda.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c14d64e1-36ff-5ee1-9093-c6cf1a6e2c6e",
+      "value": "lalhesportv24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4a0d5b54-4435-50a5-ba23-bda1434699d2",
+      "value": "ago.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5122d35b-d6a6-573e-9018-b108292b368a",
+      "value": "lastoptionss.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ef573d0-a28e-5b0c-aa50-2b153978e2da",
+      "value": "leak.eneu.io",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4c65d595-c6c1-5def-936f-7e928cf51aee",
+      "value": "leakedx999.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--60dc660e-bff9-516e-8619-82440d86204c",
+      "value": "heree.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--518dff67-ef80-5f42-9754-50f65814e318",
+      "value": "lijit.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce72c0fe-361a-54f9-9c61-f50722654204",
+      "value": "tv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5bc66d0c-369e-532a-aff3-8d8822761c92",
+      "value": "tvn.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d780996-0ab2-5144-864e-9619999b8a53",
+      "value": "ss.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce72c0fe-361a-54f9-9c61-f50722654204",
+      "value": "tv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bded1098-045c-5042-83d8-d3e0515bdc81",
+      "value": "todays.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93d1bef2-5e55-54c5-8d77-028de0d8382d",
+      "value": "2025.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--915d5d76-c919-5806-8e8a-e21d0b108465",
+      "value": "dalim.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--18c31aee-3b8b-5a55-a897-f6b16ae4bec0",
+      "value": "malkhor.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--afe389bb-4154-59b0-b2f0-ccc2f0bc5afe",
+      "value": "mamu00.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--99af6e16-6c55-5e55-83be-7273efbd5645",
+      "value": "fire22.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--642296e9-3c84-5f75-b432-6a14f180e0ce",
+      "value": "back.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--475b9b66-0b6f-594d-b8da-dd0e174c77a6",
+      "value": "mission25new.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--4934151f-6980-5cf0-a435-ef32fcfe4ee7",
+      "value": "dum.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ecd5f720-df31-55ed-8b0c-58c030d97616",
+      "value": "zone.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5ec7ffde-2989-59dc-bcdf-ef8e0f53d556",
+      "value": "mc.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bdb01f83-e157-5162-b299-bda2d5f6536c",
+      "value": "movieserisesnow.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--65e78f75-202b-5160-a928-bca3198606b0",
+      "value": "moyee.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8102d7a5-cd70-5b1f-9f33-4cb35a16e2c3",
+      "value": "mrlive247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ce26122-da10-52f1-a4da-cd7a79a90f19",
+      "value": "mrlive420.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b33f67e1-643a-5ced-bd70-fd17535f20de",
+      "value": "mstores.top",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ce72c0fe-361a-54f9-9c61-f50722654204",
+      "value": "tv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e81e101b-e594-5710-92a6-06f36dd6ccf9",
+      "value": "newideas200.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ac8551d8-fd35-52a2-8cea-421261ca456a",
+      "value": "nitehushpro24.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ee35c09-84a1-536d-8d6e-3ae37ad1bc17",
+      "value": "fatehii.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2226c934-56ce-5dfa-a114-3b8671ab68cd",
+      "value": "boy1.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ec8b2a63-7e34-50fe-9289-e9931a85a973",
+      "value": "novisitor25s.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8789f14c-3cd5-56b0-963d-0954cf50f5e0",
+      "value": "wwow.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--badd50ea-f288-5ea0-99d8-25159c387427",
+      "value": "2024.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8eecc4c0-0bb0-588a-b46d-452d6508e4af",
+      "value": "pessi.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7ae212ae-2532-54bd-b633-0194e7f4858d",
+      "value": "opukoj.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--837cd49a-fe57-5a92-8791-f05c18309b63",
+      "value": "nosto.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a15f73f-3c47-5232-8b03-6d6b21be6daf",
+      "value": "pailing7.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--badd50ea-f288-5ea0-99d8-25159c387427",
+      "value": "2024.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0c4f65f3-8151-5edd-9dd1-0cea110bb69a",
+      "value": "kha.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dfe54040-a7b3-5ffc-9b66-bf41a57f7de5",
+      "value": "pok.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9cde75f7-ab8b-5638-bb49-e026d1318a47",
+      "value": "khela.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a21df10b-c913-5c42-8a45-d1d297525d0a",
+      "value": "hd.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e6d884a6-68d6-57dc-b82a-053f33ea75d9",
+      "value": "portsmouth247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--af447f58-43bd-5112-b384-eaa9a33f5da4",
+      "value": "propertyportocolom.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7371500f-0d26-5a4d-b78c-ec0b95f21a91",
+      "value": "live777.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d29cc034-01fd-5812-b9f8-5b343f8b55b4",
+      "value": "pushparajmejhuganehisala.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--927959ca-2d5c-5292-93f8-1a7fc6a59815",
+      "value": "risotoska.co.in",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bf02b599-51b4-5ae8-843d-772514619c26",
+      "value": "247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--49fb8c7c-5be1-54c4-a862-dd2754d194cf",
+      "value": "sisters7.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--44427632-814e-55f9-9819-3f3c2ffa1262",
+      "value": "sompadok68.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b247f6fb-684a-50a4-8df1-badd293a09e3",
+      "value": "sportszonehd24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8bfa59b9-de63-5c85-a4a2-6e0c8ed8e8c1",
+      "value": "365.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0ac94179-9b31-5ed2-81e2-0a8f5b08ab2a",
+      "value": "steaminguser4u.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3b6bc8a3-c94b-5594-923c-93e3f66c9008",
+      "value": "sualiteregents.co.in",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a258a6d-6338-5d1e-a16c-db1ac59c4b5c",
+      "value": "sujoyporn.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a83cd7c9-95e6-50f3-a57a-323833a505c9",
+      "value": "bot.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0149e7d9-ed3a-51a8-b9e5-2df449621cf0",
+      "value": "thankstoyou.space",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fc3b3f3b-4c57-5638-a2bb-88279302bec7",
+      "value": "fan.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a43763e9-a1e8-51ce-aa81-650c0f38b161",
+      "value": "tntsports247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--ff7b858f-9c4e-5296-979b-1885753621b5",
+      "value": "pass.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a5e2e0c-3e43-54a0-af12-5606e216fe51",
+      "value": "now.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc67949b-4315-5ce0-bbc8-dce71f420270",
+      "value": "news.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--418aeb5d-0398-5e50-8dfa-78a0839f61d0",
+      "value": "usa.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21762c72-ed93-58d3-b93c-bcefb807a865",
+      "value": "mal.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03b228e3-a8f1-52df-a041-940c1cc55bca",
+      "value": "download.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--58e11d00-5727-59ab-a724-0233f98b7250",
+      "value": "toofans24.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93d1bef2-5e55-54c5-8d77-028de0d8382d",
+      "value": "2025.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--209d3758-5135-56c1-b10d-9592aee91bd9",
+      "value": "time.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--deb127d1-9282-5e67-b4bf-7cbb89994a95",
+      "value": "totalviralhdon.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3f07d24a-2512-5474-a8fe-6da6bd1c049e",
+      "value": "khan.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e860c337-91e7-5789-a564-4538ac060f50",
+      "value": "trendstormtv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2e55c2e7-3161-570e-9933-af8250077062",
+      "value": "trusthubmedia.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6cef55df-c97b-5867-bd22-10ee427b038a",
+      "value": "tuntunileaksvideohd.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7e342ada-ec38-5baa-83d0-cc10c1c57bf1",
+      "value": "killer95.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a797a02c-e506-53e4-8b46-40b5cf60ea6a",
+      "value": "ustream4ktv.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b877b29a-5c99-52b2-afbd-eb5c7c797bfe",
+      "value": "geche.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b52a79b4-1eee-50ea-b720-787e537c588d",
+      "value": "loading.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c57f3fd4-9a50-59b5-8ea8-63c97e02cd78",
+      "value": "new.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fb50561c-d2b5-5899-acee-a3c5e507d689",
+      "value": "newvideo.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc67949b-4315-5ce0-bbc8-dce71f420270",
+      "value": "news.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3a5e2e0c-3e43-54a0-af12-5606e216fe51",
+      "value": "now.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f84bebed-3cfb-5bcc-8aab-dcff25e864df",
+      "value": "viralclipnow.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c35a4d48-c177-566f-8d25-2f0f926626fe",
+      "value": "viralnow.xyz",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a4b2242e-3f51-557a-a552-8c57a193bb49",
+      "value": "free.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--330927fd-6f29-51ea-aaea-8dcd9454fffc",
+      "value": "wearychallengeraise.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0b060945-5eb2-5bde-8b07-0b4ef4e7182e",
+      "value": "whilsttypewriter.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73235ef4-10ce-579f-8116-5940212e10d9",
+      "value": "stream247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e872859b-225d-521c-8261-217208b1dc6c",
+      "value": "xamnsalaka.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d46eb93d-731b-5bdc-be2b-a2980ccf76d5",
+      "value": "original.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--346fb057-a276-5fce-a201-16f338b6928b",
+      "value": "xxxsujoy247.blogspot.com",
+      "x_opencti_description": "indicators/combined.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7240891d-0fd7-5940-884b-ada23d555ac4",
+      "value": "xxxsujoy.blogspot.com",
       "x_opencti_description": "indicators/combined.csv"
     },
     {
