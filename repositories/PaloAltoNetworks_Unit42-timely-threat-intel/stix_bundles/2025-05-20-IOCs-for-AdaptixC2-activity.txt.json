@@ -1,0 +1,68 @@
+{
+  "type": "bundle",
+  "id": "bundle--da6ff2e9-be3b-4305-8b3c-3900addc2259",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8b18216c-223f-51ff-91ca-84bd8320a288",
+      "value": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--8d6cb46f-392e-5012-b395-ed30da9f280e",
+      "value": "https://bazaar.abuse.ch/browse/tag/AdaptixC2",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--588e6e74-e5c7-5dba-9833-14fadbf2909a",
+      "value": "https://drive.google.com/uc?export=download&id=1x0-5EVyz2qanm_l4uZW-B3S8ZxKOIz3n",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e254eaec-7031-5503-9f24-96bea0bee8d1",
+      "hashes": {
+        "SHA-256": "83ac38fb389a56a6bd5eb39abf2ad81fab84a7382da296a855f62f3cdd9d629d"
+      },
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a08a8f01-89b7-5190-a4e1-ef70b0e3177a",
+      "hashes": {
+        "SHA-256": "ad96a3dab7f201dd7c9938dcf70d6921849f92c1a20a84a28b28d11f40f0fb06"
+      },
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d6a3b527-6701-5cad-bbaf-fd19b2a792bc",
+      "hashes": {
+        "SHA-256": "9e3a0d2f85148ea520cdfd9709b26d817287b8c0c37c22623cd06cda8a80ba8b"
+      },
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28f06c34-c9a5-5727-b75d-6aeaa99bc5af",
+      "value": "sx.txt",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--28f06c34-c9a5-5727-b75d-6aeaa99bc5af",
+      "value": "sx.txt",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    }
+  ]
+}
