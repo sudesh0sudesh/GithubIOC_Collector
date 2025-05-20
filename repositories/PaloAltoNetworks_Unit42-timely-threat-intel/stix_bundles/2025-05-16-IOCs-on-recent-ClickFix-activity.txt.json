@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--46bbf27e-e1bd-47da-a319-190dfaf7ab2c",
+  "id": "bundle--b69492d7-c209-40b4-a11b-f7fb20a2efaa",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -28,6 +28,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--5d7d7372-8201-5560-8e06-d155f44bf064",
       "value": "141.94.53.219",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--d9ec634d-041e-52ac-87fb-4e3abf463eb1",
+      "value": "https://www.linkedin.com/posts/unit42_clickfix-dllsideloading-activity-7330632165598154753-vLAh",
       "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
     },
     {

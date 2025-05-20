@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--44e39702-19bb-45e6-9696-36eb1a82e2a3",
+  "id": "bundle--0147b656-8b4a-46c3-b942-a9fcc524b1a5",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--52571194-d2ca-5556-b37c-25755bdcee77",
+      "value": "https://www.linkedin.com/posts/unit42_cypherit-lummastealer-activity-7330667644213231617-z0Ek",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
     {
       "type": "domain-name",
       "spec_version": "2.1",
