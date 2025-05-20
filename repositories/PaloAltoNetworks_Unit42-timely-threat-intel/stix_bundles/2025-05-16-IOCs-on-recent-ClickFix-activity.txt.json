@@ -1,0 +1,213 @@
+{
+  "type": "bundle",
+  "id": "bundle--9d4ae266-7400-446b-b5e8-0235fac99c0f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7d7372-8201-5560-8e06-d155f44bf064",
+      "value": "141.94.53.219",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7d7372-8201-5560-8e06-d155f44bf064",
+      "value": "141.94.53.219",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7d7372-8201-5560-8e06-d155f44bf064",
+      "value": "141.94.53.219",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5d7d7372-8201-5560-8e06-d155f44bf064",
+      "value": "141.94.53.219",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--de5919fb-0aff-57cc-92c4-cb7a5213f85b",
+      "value": "architrata.com",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--70ba4cc6-87dc-5c7c-ad83-df059a1f123d",
+      "value": "carflotyup.com",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7513bccf-3580-576e-9507-301af9b8fdf9",
+      "value": "lofiramegi.com",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bce61096-5d90-5261-a76c-ca2af82c9424",
+      "value": "topguningit.com",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c8d2a0ae-a709-58ca-a19a-0952bfe4ee54",
+      "value": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-03-07-IOCs-for-Latrodectus-and-Lumma-Stealer.txt",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8ea33472-25d2-57fc-89d0-28eacbb78321",
+      "value": "jrxsafer.top",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5c586e87-7c14-59cb-ace0-000d57fc06b3",
+      "value": "quavabvc.top",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a14f4ebc-f014-5dec-b500-5021fe0a77d8",
+      "value": "targett.top",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--54ece9e2-244b-5c13-9309-f6cd7a72e91b",
+      "value": "ywmedici.top",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f1b5c9ab-e767-5f56-bf86-941b2051ddc4",
+      "value": "steamcommunity.com",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--3e6bd7da-3f8c-5293-8553-124fdc852be0",
+      "hashes": {
+        "SHA-256": "a399bf56687bc04707fc1cc7771725f500d5d70d4fcdfbc3462d6b1ff37b8a9d"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f40e56bc-7dc5-5365-95fc-01ee7a7a783d",
+      "hashes": {
+        "SHA-256": "94479572d99e07c50d39c46c8a96843e1c8ae80ce126ae3ba4c4fd223e3d731a"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--84e23ba2-74b9-5334-a3af-b7c771363898",
+      "hashes": {
+        "SHA-256": "9d851620712c8122ee50d25723800ef2ecfb6bd7f810f0a1909b5f5808d8055f"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a6e43e32-757d-53df-8073-97a53630548b",
+      "hashes": {
+        "SHA-256": "391c964bd8df38ac4f024fff99528182f17fbd8e30fca43272f6812c34fa53b7"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--2ea4b400-5d71-55e5-9cd4-53121e6f5239",
+      "hashes": {
+        "SHA-256": "466cc0b75fa453dbf9b068341cea5e77f8543c626b7a905af578a415ae7791d0"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a0231f45-2bb1-5dd2-a714-8f483e2d2f78",
+      "hashes": {
+        "SHA-256": "5070cc64b72062e18baa2ba164e1fef9d9a57a9962a64738d8405cd8c3af5101"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1f445e9a-b6e6-5701-b56d-86c3f4f0ab07",
+      "hashes": {
+        "SHA-256": "6c94c9d7e231523e06b41275ab208e42cdd39278f341123b066b05a0a6830e4d"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--abd9c099-2b52-52bf-8934-83fe0ba3d804",
+      "hashes": {
+        "SHA-256": "146affbf12b8998f04fa2daf5e5e7bcc6b535e2097cbd541c690b3eca7d8e03b"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--804fa33d-d453-57ab-94ca-b8059be6c3f9",
+      "hashes": {
+        "SHA-256": "8502cabd12fa8c56c5ab62bdbb714592d0e4452efa025cf558de0a9e7605ad43"
+      },
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdd1cde6-a9a9-5831-bd18-f931e47e2f96",
+      "value": "Stealer.txt",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c83f8866-b285-5e01-943e-ad0595bbc5db",
+      "value": "Notification.exe",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c83f8866-b285-5e01-943e-ad0595bbc5db",
+      "value": "Notification.exe",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a64ba8ad-bb58-5f2c-bb77-b14e67ec350a",
+      "value": "libcef.dll",
+      "x_opencti_description": "2025-05-16-IOCs-on-recent-ClickFix-activity.txt"
+    }
+  ]
+}
