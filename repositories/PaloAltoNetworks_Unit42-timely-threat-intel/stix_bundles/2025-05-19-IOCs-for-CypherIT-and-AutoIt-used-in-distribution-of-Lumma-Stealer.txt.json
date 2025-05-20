@@ -1,0 +1,167 @@
+{
+  "type": "bundle",
+  "id": "bundle--bf6843d4-da56-401e-893f-096ee935be0d",
+  "objects": [
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--29d91c4d-4aa4-50fb-9be0-f828823654d7",
+      "value": "cypherit.org",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--78bc675f-58ca-57b0-b238-f3b7e00969bf",
+      "value": "Cypherit.org",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--fc9ed948-4811-50fa-a033-793d387e29a8",
+      "value": "https://www.autoitscript.com/wiki/Main_Page",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8a50c4af-2686-5944-85ee-63edf5262f46",
+      "value": "Merry.com",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a153bc7b-5062-5e3f-858c-ea963aafd8c4",
+      "hashes": {
+        "SHA-256": "af0bc229802a513b27120bf18b693389cfdfa1d0ab198d015927d0138e807d49"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d0770ea7-15a3-54bd-9b6d-4b81f66c5121",
+      "hashes": {
+        "SHA-256": "755143c1aa818f7be4405e0f52827d2b4ea0d72d7dcccbd6c6e789dfa787222b"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--71c6dc0e-11e7-5984-9e17-ad36cce66f03",
+      "hashes": {
+        "SHA-256": "b0baec0c7b466bea4c48903ef2cb243e28a2aafcab0a58c8306d41cb5a7c0c9c"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9cb49a3-6ac9-5e4a-9a74-635078ee9a5f",
+      "hashes": {
+        "SHA-256": "4293ee2f174d940aea1fc6c22cda22b67775982d310f2049cf7450e34de3ec89"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8756a072-52d1-5af7-a1f1-f193d7933323",
+      "hashes": {
+        "SHA-256": "595b1b24c50874e57741c251de7b7cf2db0c2d4804ea8b1c194a41dbe6806113"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--23831ee6-5a88-57bc-9287-f2895d095b5a",
+      "hashes": {
+        "SHA-256": "12d0fd9e0d4688ff75bc17b80d627f4ec2b398878cec2487af8c4f4ff1de2bf0"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d719ad93-857c-592e-84d0-0e00f07bca8f",
+      "hashes": {
+        "SHA-256": "83f4cfad4525e51378c7793c6d42c390da6554ab43ce7106ab2fd37c64d228b6"
+      },
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aeedc288-65d3-5fda-bac5-baa14ef4e094",
+      "value": "AutoIt3.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--96b7fedd-aa5d-5061-8c68-3bba0c7f19b1",
+      "value": "explorer.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--2ed2f250-e95a-525a-a957-4d511b25d10e",
+      "value": "explore.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--48f4c89a-c2b7-583d-97e4-16afb0333b0c",
+      "value": "Download.zip",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--10bdecd8-1116-5bf5-ae77-2d7d10b01a0f",
+      "value": "download.7z",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--f2637274-20cf-52c1-953f-d505b404b679",
+      "value": "download.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aeedc288-65d3-5fda-bac5-baa14ef4e094",
+      "value": "AutoIt3.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--21d9f19c-6ee4-5d81-beed-8abd262ef0ac",
+      "value": "Full.zip",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b251f46c-6f84-5802-8ddb-2bdcd4f4bcdb",
+      "value": "Full.7z",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--52467fda-58ab-558a-a5ee-664241e3fd26",
+      "value": "full.exe",
+      "x_opencti_description": "2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt"
+    }
+  ]
+}
