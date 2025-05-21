@@ -1,0 +1,430 @@
+{
+  "type": "bundle",
+  "id": "bundle--0eb11c13-b029-4e9b-8ab8-a62b79f39e9f",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5f6645a3-783c-51a8-8426-f32b3f687fee",
+      "value": "47.86.28.28",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cdb216c4-153a-51e2-b024-4843f70636c1",
+      "value": "202.79.168.211",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d9095faa-e410-50bd-82b1-0ccfff3fc03c",
+      "value": "43.226.125.44",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fb6e9606-fbb8-5786-8c39-a78a12e184f9",
+      "value": "27.122.59.71",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a5f1ddc3-00a5-5ba3-9dd6-c24838246f3c",
+      "value": "143.92.63.144",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a131429-2302-56d7-bfa8-f4b276dcb642",
+      "value": "47.238.125.85",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--27f32ae7-cd0c-5ebe-8562-3404753b9760",
+      "value": "202.79.171.133",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d9095faa-e410-50bd-82b1-0ccfff3fc03c",
+      "value": "43.226.125.44",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f21bfeb2-1be4-5d39-ab4f-b03363fd387d",
+      "value": "112.213.116.91",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04a7e8a7-e099-5346-875e-aa56fcf31a9d",
+      "value": "137.220.229.34",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--fb6e9606-fbb8-5786-8c39-a78a12e184f9",
+      "value": "27.122.59.71",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d9095faa-e410-50bd-82b1-0ccfff3fc03c",
+      "value": "43.226.125.44",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--2a131429-2302-56d7-bfa8-f4b276dcb642",
+      "value": "47.238.125.85",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--5f6645a3-783c-51a8-8426-f32b3f687fee",
+      "value": "47.86.28.28",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--f21bfeb2-1be4-5d39-ab4f-b03363fd387d",
+      "value": "112.213.116.91",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--04a7e8a7-e099-5346-875e-aa56fcf31a9d",
+      "value": "137.220.229.34",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d2b315c8-0736-52b1-8f06-4f595c633851",
+      "value": "143.92.61.154",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a5f1ddc3-00a5-5ba3-9dd6-c24838246f3c",
+      "value": "143.92.63.144",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--cdb216c4-153a-51e2-b024-4843f70636c1",
+      "value": "202.79.168.211",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--27f32ae7-cd0c-5ebe-8562-3404753b9760",
+      "value": "202.79.171.133",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--9ed05f71-5fdc-592f-b3e9-2696d9917b96",
+      "value": "103.46.185.74",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--dbf4f018-0d1a-58ea-b0cb-538b8edc1a4a",
+      "value": "103.46.185.44",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--d7858474-93ff-54cb-ab78-bdaa3cf510e0",
+      "value": "103.46.185.73",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--af3206d4-e132-50fa-abb2-9f09aed12a3c",
+      "value": "112.213.101.139",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--97f0921c-9fda-5de2-a8eb-25106a24bc11",
+      "value": "112.213.101.161",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--a3912dfc-e22c-5ec7-94b2-99ff21f1be77",
+      "value": "202.79.173.50",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--e821be52-9c5b-514c-8510-fb5493124154",
+      "value": "202.79.173.54",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--952f109a-c847-5d17-ae5c-ae8a3643250f",
+      "value": "202.79.173.98",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--731af020-7caf-5589-a4ed-2a08fe81f2b6",
+      "value": "47.83.184.193",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--35d51d46-dbe7-5881-aec2-95f1402a5b48",
+      "hashes": {
+        "SHA-256": "b12c8bf232ea87e37f3a035bb332d63a90b0df65842d06ab00a802800c969229"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--afdd0272-9120-5064-9a1b-83cad3c927ad",
+      "hashes": {
+        "SHA-256": "93BA67333EADAA2B8304784FB8E7231561FC251D837BEA688D33B0F39811E8C1"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--34208d54-88db-536e-8741-038544571b87",
+      "hashes": {
+        "SHA-256": "485466caf9747153c83d6983b37c743da6b3cdfa1c824706580654fd0045042f"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--16c5de00-1570-5bd6-b72b-ede6e9e96dbb",
+      "hashes": {
+        "SHA-256": "e6f7541ec55c1e8e90f139a03f4ef1af1beca4474e7dfd3e91e276914f033dea"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--a5375969-eae9-5351-b9cb-6fb69e84794c",
+      "hashes": {
+        "SHA-256": "fad0bd5f512467714f291002a9f1c51266d3bbdca8d5f482f3ad4d3d7c0a7fb0"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d9778f45-27a6-52da-9b93-db07848f4048",
+      "hashes": {
+        "SHA-256": "e72050fb80f88be57a0f699fdac2d5c36796858aa6cae54ef1229dc9b71343ff"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--311ce15d-f408-5b41-88c1-0c419474e559",
+      "hashes": {
+        "SHA-256": "8efc3e230245bcfad750ca5cebd35f4481bd8495f99a95bac0220a4c885b0dad"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--712f628b-bc2f-5fc5-97a2-ce8866422b2f",
+      "hashes": {
+        "SHA-256": "a6ccbb4e5644311dddc0f2e113875bc546c110cb49b7f5ef4c98bb6fa38b49b8"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1a31d64a-b656-551b-ae4f-80090153417e",
+      "hashes": {
+        "SHA-256": "06244624ccdebc37bb08e69dc2821bbcd0a7692b20d5e0649a6a8dedd2d62152"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--c8a1dcba-e668-5bbd-94a5-c0e15a9fd193",
+      "hashes": {
+        "SHA-256": "8085dfec9156d545882f9590d364ad26783d4eac4a7af3beab23ab26de61eea2"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1d9f81f3-2038-5f13-a18f-94ce5169bc8e",
+      "hashes": {
+        "SHA-256": "2fc334a8c603aadb5d5751029f0c2e1d4689bd994e9b963e5bb8580203bdcd8a"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d73b409f-a966-57a5-8646-fb35f7f44a60",
+      "hashes": {
+        "SHA-256": "54607cfd708dc47ea64442f433030ad493177b868145500c700300c16ff49aa6"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--149ed36c-73de-5c92-9d3f-af41d40fadd4",
+      "hashes": {
+        "SHA-256": "04e11d92b71a3efeefbd363a3c37379f82e7b43f690d3298809f88a1bb70a619"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--e62cd4d8-7130-5a2e-b296-12e311ccdf2d",
+      "hashes": {
+        "SHA-256": "daa089979597d088671c0d8a9f58047d434f0fbb3f358c7b0b92435ebca0ce8e"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--d68059dd-546c-5e32-b2d6-5fe01f96f27a",
+      "hashes": {
+        "SHA-256": "ad20da14a602d2c0adc3c12a5cbb0a1a078eed2194bf1b212c350749ed0679c5"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--f24559d4-c444-5091-99b0-6f93842f21b2",
+      "hashes": {
+        "SHA-256": "48aa26f8bd9a2c84daac94fe19d047867111209de049a936004d36b6e6b9188d"
+      },
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88c5573f-7f71-590d-8bbd-8eb3e93ef0f1",
+      "value": "Config2.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7b5654c8-2f92-5706-8f70-1048a0356224",
+      "value": "obs.zip",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88c5573f-7f71-590d-8bbd-8eb3e93ef0f1",
+      "value": "Config2.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88c5573f-7f71-590d-8bbd-8eb3e93ef0f1",
+      "value": "Config2.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e8481ca2-4c34-536e-aecc-ca27153b625d",
+      "value": "Config.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--88c5573f-7f71-590d-8bbd-8eb3e93ef0f1",
+      "value": "Config2.ini",
+      "x_opencti_description": "IOCs/nsis-abuse-srdi-winos4/iocs.txt"
+    }
+  ]
+}
