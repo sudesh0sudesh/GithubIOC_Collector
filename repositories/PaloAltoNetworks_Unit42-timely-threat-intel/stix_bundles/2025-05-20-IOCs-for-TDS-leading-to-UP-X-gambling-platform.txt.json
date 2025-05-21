@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--a902dacd-b10f-46fa-8e4e-45af668c60ef",
+  "id": "bundle--d1b9777d-2129-48fa-ba3b-e5311ae97104",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--11b9133f-5698-58f2-ad9e-61537d47e307",
       "value": "190.115.31.140",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--043fa9c8-cfe4-5400-841d-2a40d061a005",
+      "value": "https://www.linkedin.com/posts/unit42_we-uncovered-a-sophisticated-tds-supporting-activity-7331012187198480385-cnqA",
       "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
     },
     {

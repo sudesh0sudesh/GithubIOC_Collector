@@ -61,8 +61,8 @@ The following sources are being collected and parsed:
 
 10. **blacklotuslabs/IOCs**
    - Repository: [blacklotuslabs/IOCs](https://github.com/blacklotuslabs/IOCs)
-   - Latest commit: be5ccf31198296e63dc0eeb37851a0390b76cecc
-   - Last updated: 2025-05-21 15:51:59
+   - Latest commit: 29e4b744f574d69e52248a8d13a56f528c8e9ce1
+   - Last updated: 2025-05-21 18:47:57
 
 11. **volexity/threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: 9e505ecb26314ac5b07468b7c03af29c62b7ba08
-   - Last updated: 2025-05-21 17:32:20
+   - Latest commit: 754281e03abc40ce2d22a36085b360afe4e7d40e
+   - Last updated: 2025-05-21 18:47:59
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
