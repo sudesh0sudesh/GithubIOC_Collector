@@ -10,9 +10,9 @@ HarfangLab/iocs,1df815f4210f1d26151026cdd9658dbfc262b019,2025-04-16 09:49:08
 PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information,a5e0508c8d91d75e6e5239a59c9ee1bbc972f3a5,2025-03-28 20:49:16
 blacklotuslabs/IOCs,be5ccf31198296e63dc0eeb37851a0390b76cecc,2025-05-21 15:51:59
 volexity/threat-intel,1ef34c2e4704d1e6e6768c2d6800863bbae05a0d,2025-05-21 15:42:18
-eset/malware-ioc,7cf48548a359378612e503580f980a60e391d7d1,2025-05-15 04:27:44
+eset/malware-ioc,8928752b01581f418e4a72c4744d05b3cf2e07cf,2025-05-21 16:19:23
 hpthreatresearch/iocs,1e29108aaa233dd55f673574a4d75bc0e48a774b,2024-11-06 23:21:27
-PaloAltoNetworks/Unit42-timely-threat-intel,8a8f61a8ecf35d22bd3b4e5021eb940cb79f3f6a,2025-05-21 15:52:02
+PaloAltoNetworks/Unit42-timely-threat-intel,3db8d43f718aa7c4a6fa2a900a6a38a299fde63d,2025-05-21 16:19:24
 infobloxopen/threat-intelligence,1bf83addba2ef6c1397b93581195d98888ff2c69,2025-05-20 15:42:09
 netskopeoss/NetskopeThreatLabsIOCs,10b21b2fa5f280ea414fdbb47ea74c0386ab9587,2025-05-07 14:15:50
 google/threat-team,fa45a594f0f7463506bcdacac35e9793f6126cd3,2025-05-07 15:42:50
@@ -21,4 +21,4 @@ DoctorWebLtd/malware-iocs,d8ccb8cd26f3f8bb6593cc0abb28d717ef83e50f,2025-04-29 09
 prodaft/malware-ioc,5f1e4bcc34f9adc32a650e240b608045b4cad13b,2025-05-21 14:53:48
 WithSecureLabs/iocs,a5e50e76f7829cbab219bec94bf1887dea9bb304,2025-04-02 07:40:59
 rapid7/Rapid7-Labs,4d2a3ef2cc78d4780bad46c9e69d285d08068c71,2025-05-21 15:17:20
-huntresslabs/threat-intel,495a9142eb4360b0cc5ec1cb9f582d2a3e6b0032,2025-05-19 21:14:11
+huntresslabs/threat-intel,c273a82b892ab94b794969135389147c5cab513d,2025-05-21 16:19:28

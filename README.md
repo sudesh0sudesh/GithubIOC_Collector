@@ -71,8 +71,8 @@ The following sources are being collected and parsed:
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
-   - Latest commit: 7cf48548a359378612e503580f980a60e391d7d1
-   - Last updated: 2025-05-15 04:27:44
+   - Latest commit: 8928752b01581f418e4a72c4744d05b3cf2e07cf
+   - Last updated: 2025-05-21 16:19:23
 
 13. **hpthreatresearch/iocs**
    - Repository: [hpthreatresearch/iocs](https://github.com/hpthreatresearch/iocs)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: 8a8f61a8ecf35d22bd3b4e5021eb940cb79f3f6a
-   - Last updated: 2025-05-21 15:52:02
+   - Latest commit: 3db8d43f718aa7c4a6fa2a900a6a38a299fde63d
+   - Last updated: 2025-05-21 16:19:24
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
@@ -126,6 +126,6 @@ The following sources are being collected and parsed:
 
 23. **huntresslabs/threat-intel**
    - Repository: [huntresslabs/threat-intel](https://github.com/huntresslabs/threat-intel)
-   - Latest commit: 495a9142eb4360b0cc5ec1cb9f582d2a3e6b0032
-   - Last updated: 2025-05-19 21:14:11
+   - Latest commit: c273a82b892ab94b794969135389147c5cab513d
+   - Last updated: 2025-05-21 16:19:28
 

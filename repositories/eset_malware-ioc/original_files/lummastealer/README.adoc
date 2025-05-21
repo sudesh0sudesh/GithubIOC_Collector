@@ -1,0 +1,146 @@
+== ESET takes part in global operation to disrupt Lumma Stealer – Indicators of Compromise
+
+The blog post on Lumma Stealer is available on WeLiveSecurity at https://www.welivesecurity.com/en/eset-research/eset-takes-part-global-operation-disrupt-lumma-stealer
+
+=== WLS IoCs
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+|SHA-1 |Filename |Detection |Description
+|`6F94CFAABB19491F2B8E719D74AD032D4BEB3F29` |AcroRd32.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-06-27
+|`C5D3278284666863D7587F1B31B06F407C592AC4` |Notion.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-07-14
+|`5FA1EDC42ABB42D54D98FEE0D282DA453E200E99` |explorer.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-08-08
+|`0D744811CF41606DEB41596119EC7615FFEB0355` |aspnet_regiis.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-08-25
+|`2E3D4C2A7C68DE2DD31A8E0043D9CF7E7E20FDE1` |nslookup.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-09-20
+|`09734D99A278B3CF59FE82E96EE3019067AF2AC5` |nslookup.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-10-04
+|`1435D389C72A5855A5D6655D6299B4D7E78A0127` |BitLockerToGo.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-11-09
+|`2CCCEA9E1990D6BC7755CE5C3B9B0E4C9A8F0B59` |external.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2024-12-23
+|`658550E697D9499DB7821CBBBF59FFD39EB59053` |Wemod-Premium-Unlocker-2025 |MSIL/GenKryptik.HGWU |LummaStealer sample - Build 2025-01-18
+|`070A001AC12139CC1238017D795A2B43AC52770D` |khykuQw.exe |Win32/Kryptik.HYUC |LummaStealer sample - Build 2025-02-27
+|`1FD806B1A0425340704F435CBF916B748801A387` |Start.exe |Win64/Injector.WR |LummaStealer sample - Build 2025-03-24
+|`F4840C887CAAFF0D5E073600AEC7C96099E32030` |loader.exe |Win64/Kryptik.FAZ |LummaStealer sample - Build 2025-04-15
+|`8F58C4A16717176DFE3CD531C7E41BEF8CDF6CFE` |Set-up.exe |Win32/Spy.LummaStealer.B |LummaStealer sample - Build 2025-04-23
+|===
+
+==== Network
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+|IP |Domain |Hosting provider |First seen |Details
+|`172.67.134[.]100` |`cooperatvassquaidmew[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`172.67.175[.]165` |`crisisrottenyjs[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`188.114.96[.]1` |`deadtrainingactioniw[.]xyz` +
+`tamedgeesy[.]sbs` +
+`nighetwhisper[.]top` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`172.67.141[.]43` |`exuberanttjdkwo[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`188.114.96[.]3` |`grandcommonyktsju[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`104.21.92[.]96` |`qualificationjdwko[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`172.67.209[.]200` |`sweetcalcutangkdow[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`104.21.49[.]80` |`wordingnatturedowo[.]xyz` |Cloudflare, Inc. |2024-06-27 |Lumma Stealer C&C server.
+|`188.114.97[.]0` |`bigmouthudiop[.]shop` +
+`froytnewqowv[.]shop` +
+`locatedblsoqp[.]shop` +
+`stagedchheiqwo[.]shop` |Cloudflare, Inc. |2024-07-16 |Lumma Stealer C&C server.
+|`104.21.19[.]156` |`callosallsaospz[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.153[.]40` |`indexterityszcoxp[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.192[.]52` |`lariatedzugspd[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.213[.]85` |`liernessfornicsa[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.137[.]78` |`outpointsozp[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.221[.]214` |`shepherdlyopzc[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.204[.]158` |`unseaffarignsk[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`172.67.178[.]194` |`upknittsoappz[.]shop` |Cloudflare, Inc. |2024-07-18 |Lumma Stealer C&C server.
+|`188.114.97[.]3` |`bassizcellskz[.]shop` +
+`byteplusx[.]digital` +
+`sparkiob[.]digital` +
+`longitudde[.]digital` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`104.21.47[.]141` |`celebratioopz[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`172.67.158[.]159` |`complaintsipzzx[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`172.67.204[.]20` |`deallerospfosu[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`104.21.35[.]48` |`languagedscie[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`104.21.73[.]43` |`mennyudosirso[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`188.114.97[.]9` |`quialitsuzoxm[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`172.67.166[.]231` |`writerospzm[.]shop` |Cloudflare, Inc. |2024-08-07 |Lumma Stealer C&C server.
+|`104.21.16[.]180` |`caffegclasiqwp[.]shop` |Cloudflare, Inc. |2024-08-24 |Lumma Stealer C&C server.
+|`172.67.146[.]35` |`condedqpwqm[.]shop` |Cloudflare, Inc. |2024-08-24 |Lumma Stealer C&C server.
+|`N/A` |`evoliutwoqm[.]shop` |N/A |2024-08-24 |LummaStealer C&C server.
+|`188.114.96[.]0` |`millyscroqwp[.]shop` +
+`stamppreewntnq[.]shop` +
+`advennture[.]top` |Cloudflare, Inc. |2024-08-24 |Lumma Stealer C&C server.
+|`104.21.67[.]155` |`traineiwnqo[.]shop` |Cloudflare, Inc. |2024-08-24 |Lumma Stealer C&C server.
+|`94.140.14[.]33` |`achievenmtynwjq[.]shop` +
+`carrtychaintnyw[.]shop` +
+`chickerkuso[.]shop` +
+`metallygaricwo[.]shop` +
+`milldymarskwom[.]shop` +
+`opponnentduei[.]shop` +
+`puredoffustow[.]shop` +
+`quotamkdsdqo[.]shop` +
+`bemuzzeki[.]sbs` +
+`exemplarou[.]sbs` +
+`exilepolsiy[.]sbs` +
+`frizzettei[.]sbs` +
+`invinjurhey[.]sbs` +
+`isoplethui[.]sbs` +
+`laddyirekyi[.]sbs` +
+`wickedneatr[.]sbs` |Cloudflare, Inc. |2024-09-21 |Lumma Stealer C&C server.
+|`188.114.97[.]4` |`usseorganizedw[.]shop` +
+`bellflamre[.]click` +
+`tripfflux[.]world` |Cloudflare, Inc. |2024-09-24 |Lumma Stealer C&C server.
+|`104.21.44[.]84` |`beerishint[.]sbs` |Cloudflare, Inc. |2024-10-06 |Lumma Stealer C&C server.
+|`104.21.64[.]84` |`1212tank.activitydmy[.]icu` |Cloudflare, Inc. |2024-11-12 |Lumma Stealer C&C server.
+|`104.21.93[.]246` |`brownieyuz[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`172.67.189[.]210` |`ducksringjk[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`172.67.146[.]64` |`explainvees[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`104.21.90[.]226` |`relalingj[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`104.21.14[.]17` |`repostebhu[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`172.67.192[.]43` |`rottieud[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`188.114.97[.]1` |`thinkyyokej[.]sbs` |Cloudflare, Inc. |2024-11-08 |Lumma Stealer C&C server.
+|`188.114.97[.]7` |`bashfulacid[.]lat` +
+`tentabatte[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`104.21.86[.]54` |`curverpluch[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`104.21.66[.]86` |`lev-tolstoi[.]com` |Cloudflare, Inc. |2024-12-17 |Lumma Stealer C&C server.
+|`172.64.80[.]1` |`manyrestro[.]lat` +
+`toppyneedus[.]biz` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`188.114.97[.]2` |`shapestickyr[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`172.67.192[.]247` |`slipperyloo[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`172.67.146[.]68` |`talkynicer[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`172.67.184[.]241` |`wordyfindy[.]lat` |Cloudflare, Inc. |2024-12-23 |Lumma Stealer C&C server.
+|`N/A` |`beevasyeip[.]bond` |N/A |2025-01-22 |LummaStealer C&C server.
+|`N/A` |`broadecatez[.]bond` |N/A |2025-01-22 |LummaStealer C&C server.
+|`N/A` |`encirelk[.]cyou` |N/A |2025-01-28 |LummaStealer C&C server.
+|`N/A` |`granystearr[.]bond` |N/A |2025-01-22 |LummaStealer C&C server.
+|`N/A` |`quarrelepek[.]bond` |N/A |2025-01-22 |LummaStealer C&C server.
+|`N/A` |`rockemineu[.]bond` |N/A |2025-01-28 |LummaStealer C&C server.
+|`104.21.19[.]91` |`suggestyuoz[.]biz` |Cloudflare, Inc. |2025-01-22 |Lumma Stealer C&C server.
+|`N/A` |`tranuqlekper[.]bond` |N/A |2025-01-22 |LummaStealer C&C server.
+|`104.21.69[.]194` |`codxefusion[.]top` |Cloudflare, Inc. |2025-02-28 |Lumma Stealer C&C server.
+|`104.21.80[.]1` |`earthsymphzony[.]today` +
+`climatologfy[.]top` |Cloudflare, Inc. |2025-02-26 |Lumma Stealer C&C server.
+|`104.21.88[.]16` |`experimentalideas[.]today` |Cloudflare, Inc. |2025-03-01 |Lumma Stealer C&C server.
+|`172.67.146[.]181` |`gadgethgfub[.]icu` |Cloudflare, Inc. |2025-03-01 |Lumma Stealer C&C server.
+|`104.21.48[.]238` |`hardrwarehaven[.]run` |Cloudflare, Inc. |2025-02-28 |Lumma Stealer C&C server.
+|`104.21.16[.]1` |`hardswarehub[.]today` +
+`pixtreev[.]run` |Cloudflare, Inc. |2025-02-28 |Lumma Stealer C&C server.
+|`104.21.39[.]95` |`quietswtreams[.]life` |Cloudflare, Inc. |2025-02-26 |Lumma Stealer C&C server.
+|`172.67.222[.]46` |`socialsscesforum[.]icu` |Cloudflare, Inc. |2025-03-03 |Lumma Stealer C&C server.
+|`172.67.191[.]187` |`techmindzs[.]live` |Cloudflare, Inc. |2025-03-01 |Lumma Stealer C&C server.
+|`172.67.214[.]226` |`techspherxe[.]top` |Cloudflare, Inc. |2025-03-01 |Lumma Stealer C&C server.
+|`104.21.26[.]124` |`appgridn[.]live` |Cloudflare, Inc. |2025-03-24 |Lumma Stealer C&C server.
+|`172.67.178[.]7` |`lunoxorn[.]top` |Cloudflare, Inc. |2025-03-31 |Lumma Stealer C&C server.
+|`104.21.47[.]117` |`skynetxc[.]live` |Cloudflare, Inc. |2025-03-24 |Lumma Stealer C&C server.
+|`104.102.106[.]105` |`N/A` |Akamai Technologies, Inc. |N/A |AKAMAI.
+|`104.21.72[.]121` |`targett[.]top` |Cloudflare, Inc. |2025-03-20 |Lumma Stealer C&C server.
+|`188.114.96[.]2` |`travewlio[.]shop` |Cloudflare, Inc. |2025-03-20 |Lumma Stealer C&C server.
+|`104.21.42[.]7` |`changeaie[.]top` |Cloudflare, Inc. |2025-04-08 |Lumma Stealer C&C server.
+|`104.21.85[.]126` |`clarmodq[.]top` |Cloudflare, Inc. |2025-04-08 |Lumma Stealer C&C server.
+|`172.67.161[.]40` |`liftally[.]top` |Cloudflare, Inc. |2025-04-08 |Lumma Stealer C&C server.
+|`172.67.176[.]107` |`piratetwrath[.]run` |Cloudflare, Inc. |2025-04-17 |Lumma Stealer C&C server.
+|`172.67.215[.]114` |`quilltayle[.]live` |Cloudflare, Inc. |2025-04-17 |Lumma Stealer C&C server.
+|`172.67.143[.]12` |`salaccgfa[.]top` |Cloudflare, Inc. |2025-04-08 |Lumma Stealer C&C server.
+|`104.21.5[.]146` |`starofliught[.]top` |Cloudflare, Inc. |2025-04-17 |Lumma Stealer C&C server.
+|`104.21.32[.]1` |`zestmodp[.]top` |Cloudflare, Inc. |2025-04-08 |Lumma Stealer C&C server.
+|`172.67.147[.]123` |`equatorf[.]run` |Cloudflare, Inc. |2025-04-21 |Lumma Stealer C&C server.
+|`104.21.112[.]1` |`hemispherexz[.]top` |Cloudflare, Inc. |2025-04-21 |Lumma Stealer C&C server.
+|`104.21.20[.]106` |`latitudert[.]live` |Cloudflare, Inc. |2025-04-21 |Lumma Stealer C&C server.
+|`172.67.216[.]12` |`sectorecoo[.]live` |Cloudflare, Inc. |2025-04-19 |Lumma Stealer C&C server.
+|===
