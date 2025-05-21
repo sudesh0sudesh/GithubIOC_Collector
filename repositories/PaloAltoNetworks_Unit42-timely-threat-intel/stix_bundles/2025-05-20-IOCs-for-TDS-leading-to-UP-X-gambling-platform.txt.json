@@ -1,0 +1,293 @@
+{
+  "type": "bundle",
+  "id": "bundle--8e9adb65-038b-47dd-92a0-307560b4b121",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--11b9133f-5698-58f2-ad9e-61537d47e307",
+      "value": "190.115.31.140",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--0bd404ab-2d6b-51b8-a388-7ad966c0c1f3",
+      "value": "https://unit42.paloaltonetworks.com/detect-block-malicious-traffic-distribution-systems",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9ce501f1-cda6-5162-a1f9-a1800eb97de0",
+      "value": "up0axu8x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b6a0b6e5-3047-51ff-b161-5455efd870e6",
+      "value": "up0ec4x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b2a94164-9b5c-533b-a3e1-1bbb355d75a6",
+      "value": "up0pg4x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8e84243a-985d-5668-801b-950fac63c07d",
+      "value": "up1gt5x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9c07a44d-63a7-5b92-90b5-071696d224f4",
+      "value": "up1oz4x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e2542e52-7d31-55a8-9b48-6f20f0183e40",
+      "value": "up1qrp6x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--b4f05e44-b9b2-5894-92bd-5f89d8f9c794",
+      "value": "up1qsw9x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--e273b09d-ed3d-58d2-a813-83465a82c681",
+      "value": "up1xav8x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--d93496f6-4f59-55f3-b5e8-fdc1c8b1ee73",
+      "value": "up2gtj3x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6180604a-d6b8-5a43-b519-14497ef48701",
+      "value": "up2ng1x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c87300a4-81f3-5821-b73f-755132c5da72",
+      "value": "up2nrp5x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0d072a5c-d123-5550-8870-11442cba1685",
+      "value": "up2zo3x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--9d8f6c0a-e5a3-560d-b9fb-390ff9bb9a80",
+      "value": "up3aic4x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--fed7f5a7-bbdc-59a7-8329-a37bcc110a93",
+      "value": "up3azw5x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--1a012fda-dd6d-5c91-a649-245544f1568b",
+      "value": "up3bk3x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--0043b45f-16f5-5fd8-815d-f844eeccab31",
+      "value": "up3iox6x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5cd09492-fd91-5526-bef2-21392712a3e1",
+      "value": "up3to0x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bee8dd92-e5ce-53c8-85b5-7228b7bdecb0",
+      "value": "up4cq5x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--819d7112-66ab-5992-be6a-8ceb3843e1fa",
+      "value": "up4fme8x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aa8856c9-c175-5e2d-9953-587abf353e94",
+      "value": "up4nuz6x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--03167514-e2a4-5b13-a0e7-416846ce63e8",
+      "value": "up4vs8x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--76a28ca5-cb53-52f8-b857-02e2bcc35b8b",
+      "value": "up5eof4x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--3e5f63f7-830c-5d72-9eb1-95534bdb780f",
+      "value": "up5mfh2x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--73b23214-0d86-535d-a94f-732f09f8e31d",
+      "value": "up5xdz4x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--7d52c314-936e-5658-99c6-a356cef5b8ce",
+      "value": "up6ah2x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a171f5c7-51e9-543c-a201-53a484073565",
+      "value": "up6nsy9x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--659e331a-ac1a-5842-b4c9-6476ebfef5a8",
+      "value": "up6zbh9x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c31beb6f-e43a-5516-b581-811a2256433a",
+      "value": "up7eec9x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--453c985e-285f-5d91-b180-f7049f676cbc",
+      "value": "up7gw2x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--89314ed0-898e-5c0b-9469-6b0a4fbacdcd",
+      "value": "up7sui6x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--47f3d312-eda7-57e7-b0ca-7e8bd2af8e60",
+      "value": "up8icc4x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a7ad388f-0280-58ab-8079-dc90b600cae6",
+      "value": "up8ll3x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--466e3fa6-de0f-5ae4-86fa-cdd5aa6c2791",
+      "value": "up8vpu3x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--8b180730-3561-59a6-a388-fd31b49cd88a",
+      "value": "up8zy0x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--dabd5583-11df-5d8f-9d42-dfb394260a81",
+      "value": "up9as3x.tech",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--670f481b-2b5e-5a60-9d49-08fd04c7d3c9",
+      "value": "up9ggs1x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--516ec1c7-b6ce-5243-a100-948d1366a325",
+      "value": "up9jgj3x.space",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--5d8df923-eae0-538e-ac80-57dabcf2c99f",
+      "value": "up9ktw2x.top",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--bff9e380-efe8-56a7-becf-73a16d6f8312",
+      "value": "up9zh2x.xyz",
+      "x_opencti_description": "2025-05-20-IOCs-for-TDS-leading-to-UP-X-gambling-platform.txt"
+    }
+  ]
+}
