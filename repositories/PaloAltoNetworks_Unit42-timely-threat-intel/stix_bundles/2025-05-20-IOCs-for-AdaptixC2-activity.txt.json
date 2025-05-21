@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--b295ac75-f419-4fc4-abc3-39997d9de491",
+  "id": "bundle--411f9d0c-5102-4def-9232-b9588e24a243",
   "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--7300dd82-c000-5630-b359-50fd45c62e83",
+      "value": "https://www.linkedin.com/posts/unit42_adaptixc2-quickassist-activity-7330971914544336898-kgwJ",
+      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
+    },
     {
       "type": "url",
       "spec_version": "2.1",

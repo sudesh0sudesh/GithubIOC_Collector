@@ -66,8 +66,8 @@ The following sources are being collected and parsed:
 
 11. **volexity/threat-intel**
    - Repository: [volexity/threat-intel](https://github.com/volexity/threat-intel)
-   - Latest commit: cfa01eaa10ada87272205a106b5c763a95cd3814
-   - Last updated: 2025-05-21 14:15:59
+   - Latest commit: 1ef34c2e4704d1e6e6768c2d6800863bbae05a0d
+   - Last updated: 2025-05-21 15:42:18
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: bdce9767b8eb65759b95e365c5d58fe2b3b8df8b
-   - Last updated: 2025-05-20 21:14:27
+   - Latest commit: 4201efe3aedd44c2748b8b2dbe0b4faabc3ef05b
+   - Last updated: 2025-05-21 15:42:20
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
