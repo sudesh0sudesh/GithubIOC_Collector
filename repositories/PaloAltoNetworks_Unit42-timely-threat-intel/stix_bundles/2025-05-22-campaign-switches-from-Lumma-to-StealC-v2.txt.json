@@ -1,0 +1,138 @@
+{
+  "type": "bundle",
+  "id": "bundle--faf69f86-ad36-4708-ba11-9a0804dc6abe",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--81e17177-d031-5cff-87b8-2c60e97fccd5",
+      "value": "62.60.226.188",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--08fec8a8-cda8-5e10-9519-4b4016719059",
+      "value": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c81a9261-1e0b-54af-9d28-67b890a3c832",
+      "value": "https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ec253cfe-da0a-5618-8453-7923fd0a0c04",
+      "value": "https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--08fec8a8-cda8-5e10-9519-4b4016719059",
+      "value": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-05-19-IOCs-for-CypherIT-and-AutoIt-used-in-distribution-of-Lumma-Stealer.txt",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--c81a9261-1e0b-54af-9d28-67b890a3c832",
+      "value": "https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--ec253cfe-da0a-5618-8453-7923fd0a0c04",
+      "value": "https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a630ac63-e11b-559a-a13d-2a75bc50ea14",
+      "value": "Everyone.com",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--ef8ae691-dd0d-5931-bcbc-9fcba6aff703",
+      "hashes": {
+        "SHA-256": "99db1906316443e3e44383075dc83cbcab1485176e1651824377f8358ae67ca7"
+      },
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--387d2ede-745a-5149-8e9f-768ea5ce2f13",
+      "hashes": {
+        "SHA-256": "0f6a501ed28bc75e32c50e5aa8aa1e75938fcc562665649ca45539267098c841"
+      },
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--1b732080-1a40-556f-b5e0-333b9dbd1551",
+      "hashes": {
+        "SHA-256": "35a1ccb6ea8a426386d923c61f170c009f172e971ebff35ab02b93d395a0cb3f"
+      },
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdd1cde6-a9a9-5831-bd18-f931e47e2f96",
+      "value": "Stealer.txt",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cdd1cde6-a9a9-5831-bd18-f931e47e2f96",
+      "value": "Stealer.txt",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--22fc5342-46a0-5a9d-a48f-4de94891e1fd",
+      "value": "5D.zip",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--27518836-6c49-5f54-9023-445921482dac",
+      "value": "application.7z",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--c940c9ba-e4f1-5adb-861b-55625e3d3e70",
+      "value": "application.zip",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--a9f9bec4-f92e-577f-a1cb-bf4af5f34e58",
+      "value": "application.exe",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--aeedc288-65d3-5fda-bac5-baa14ef4e094",
+      "value": "AutoIt3.exe",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    }
+  ]
+}

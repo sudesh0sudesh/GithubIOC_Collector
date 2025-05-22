@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: c26d0591bb86e27eadaf8051a0494b795d9812fd
-   - Last updated: 2025-05-22 15:16:40
+   - Latest commit: 0cbac5061b921752dfdffbda4fc7f7cead1d4211
+   - Last updated: 2025-05-22 18:20:56
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
