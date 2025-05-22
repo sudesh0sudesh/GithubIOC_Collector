@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--411f9d0c-5102-4def-9232-b9588e24a243",
+  "id": "bundle--a96d69f7-e437-42fd-87d4-b5308f3f6d24",
   "objects": [
     {
       "type": "url",
@@ -21,13 +21,6 @@
       "spec_version": "2.1",
       "id": "url--8d6cb46f-392e-5012-b395-ed30da9f280e",
       "value": "https://bazaar.abuse.ch/browse/tag/AdaptixC2",
-      "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
-    },
-    {
-      "type": "url",
-      "spec_version": "2.1",
-      "id": "url--588e6e74-e5c7-5dba-9833-14fadbf2909a",
-      "value": "https://drive.google.com/uc?export=download&id=1x0-5EVyz2qanm_l4uZW-B3S8ZxKOIz3n",
       "x_opencti_description": "2025-05-20-IOCs-for-AdaptixC2-activity.txt"
     },
     {

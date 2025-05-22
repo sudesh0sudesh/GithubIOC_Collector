@@ -1,0 +1,119 @@
+{
+  "type": "bundle",
+  "id": "bundle--37a8598b-75bb-4c8d-a352-caf798fc19a1",
+  "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f00549f-30b5-57cf-ad76-3c2bf55feb4b",
+      "value": "192.210.239.172",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f00549f-30b5-57cf-ad76-3c2bf55feb4b",
+      "value": "192.210.239.172",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f00549f-30b5-57cf-ad76-3c2bf55feb4b",
+      "value": "192.210.239.172",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f00549f-30b5-57cf-ad76-3c2bf55feb4b",
+      "value": "192.210.239.172",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--1f00549f-30b5-57cf-ad76-3c2bf55feb4b",
+      "value": "192.210.239.172",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93da488b-ec4f-5586-93d8-a3eefef3834f",
+      "value": "cdn.phototagx.com",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--cc0e2c5a-4269-5953-aad2-d446dacd0133",
+      "value": "www.roomako.com",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--055a8801-cc51-5fe4-9f8d-7c1a1e590637",
+      "value": "lgaircon.xyz",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--93da488b-ec4f-5586-93d8-a3eefef3834f",
+      "value": "cdn.phototagx.com",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--8e62f074-170a-52d8-a750-86e6f9e2bc70",
+      "hashes": {
+        "SHA-256": "14ed3878b6623c287283a8a80020f68e1cb6bfc37b236f33a95f3a64c4f4611f"
+      },
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--52eb566e-6207-5821-973b-8115b9e689ed",
+      "hashes": {
+        "SHA-256": "4ffc33bdc8527a2e8cb87e49cdc16c3b1480dfc135e507d552f581a67d1850a9"
+      },
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--fe8ea62f-04bf-52e1-a45b-9a0844a2f993",
+      "hashes": {
+        "SHA-256": "1de72c03927bcd2810ce98205ff871ef1ebf4344fba187e126e50caa1e43250b"
+      },
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--61daa958-00e9-5acb-97b7-6908e37ce913",
+      "hashes": {
+        "SHA-256": "1c38e3cda8ac6d79d9da40834367697a209c6b07e6b3ab93b3a4f375b161a901"
+      },
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a940b1d-d7dc-55ed-b9bc-738c31c8d2f9",
+      "value": "3.3.1.min.js",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--6a940b1d-d7dc-55ed-b9bc-738c31c8d2f9",
+      "value": "3.3.1.min.js",
+      "x_opencti_description": "2025/05/uat-6382.txt"
+    }
+  ]
+}

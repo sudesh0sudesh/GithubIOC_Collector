@@ -31,8 +31,8 @@ The following sources are being collected and parsed:
 
 4. **Cisco-Talos/IOCs**
    - Repository: [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs)
-   - Latest commit: f9d9f41b24eafb6a98dc378ef55b1ae0c17a65fd
-   - Last updated: 2025-05-07 23:31:08
+   - Latest commit: 0cdf3aba64ec94b6a3b23aebfa4667a74ce31e5f
+   - Last updated: 2025-05-22 15:16:36
 
 5. **pan-unit42/iocs**
    - Repository: [pan-unit42/iocs](https://github.com/pan-unit42/iocs)
@@ -81,8 +81,8 @@ The following sources are being collected and parsed:
 
 14. **PaloAltoNetworks/Unit42-timely-threat-intel**
    - Repository: [PaloAltoNetworks/Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
-   - Latest commit: 754281e03abc40ce2d22a36085b360afe4e7d40e
-   - Last updated: 2025-05-21 18:47:59
+   - Latest commit: c26d0591bb86e27eadaf8051a0494b795d9812fd
+   - Last updated: 2025-05-22 15:16:40
 
 15. **infobloxopen/threat-intelligence**
    - Repository: [infobloxopen/threat-intelligence](https://github.com/infobloxopen/threat-intelligence)
