@@ -1,7 +1,14 @@
 {
   "type": "bundle",
-  "id": "bundle--c67eadf1-5b99-4113-95b5-9e54e105c610",
+  "id": "bundle--0ba26293-3490-4aff-bf79-2bf328cedb27",
   "objects": [
+    {
+      "type": "ipv4-addr",
+      "spec_version": "2.1",
+      "id": "ipv4-addr--81e17177-d031-5cff-87b8-2c60e97fccd5",
+      "value": "62.60.226.188",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
@@ -89,6 +96,15 @@
       "id": "file--1b732080-1a40-556f-b5e0-333b9dbd1551",
       "hashes": {
         "SHA-256": "35a1ccb6ea8a426386d923c61f170c009f172e971ebff35ab02b93d395a0cb3f"
+      },
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--985cd353-b03a-5751-819b-b51783e5d986",
+      "hashes": {
+        "SHA-256": "fd858b1bc9c008624214efeb20a916b93dd92af6f9f49e93924842b94d075287"
       },
       "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
     },
