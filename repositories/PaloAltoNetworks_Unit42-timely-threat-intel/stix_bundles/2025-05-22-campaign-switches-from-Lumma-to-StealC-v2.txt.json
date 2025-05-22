@@ -1,12 +1,19 @@
 {
   "type": "bundle",
-  "id": "bundle--faf69f86-ad36-4708-ba11-9a0804dc6abe",
+  "id": "bundle--c67eadf1-5b99-4113-95b5-9e54e105c610",
   "objects": [
     {
       "type": "ipv4-addr",
       "spec_version": "2.1",
       "id": "ipv4-addr--81e17177-d031-5cff-87b8-2c60e97fccd5",
       "value": "62.60.226.188",
+      "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--766e1942-ad33-5abb-90a1-ff9503282fa1",
+      "value": "https://www.linkedin.com/posts/unit42_lummastealer-stealc-stealcv2-activity-7331388147139788802-G25f",
       "x_opencti_description": "2025-05-22-campaign-switches-from-Lumma-to-StealC-v2.txt"
     },
     {
