@@ -36,8 +36,8 @@ The following sources are being collected and parsed:
 
 5. **pan-unit42/iocs**
    - Repository: [pan-unit42/iocs](https://github.com/pan-unit42/iocs)
-   - Latest commit: e7bb1925d60c293f0b34179367c7430ca21cc352
-   - Last updated: 2025-05-22 22:49:50
+   - Latest commit: 18f7b39943a6b9c2b721680dec9bd1de9e34dc5c
+   - Last updated: 2025-05-22 23:14:19
 
 6. **akamai/akamai-security-research**
    - Repository: [akamai/akamai-security-research](https://github.com/akamai/akamai-security-research)
@@ -71,8 +71,8 @@ The following sources are being collected and parsed:
 
 12. **eset/malware-ioc**
    - Repository: [eset/malware-ioc](https://github.com/eset/malware-ioc)
-   - Latest commit: 8928752b01581f418e4a72c4744d05b3cf2e07cf
-   - Last updated: 2025-05-21 16:19:23
+   - Latest commit: fe04052e78ca0abe33d70e30d0d9d0dc6573fe96
+   - Last updated: 2025-05-22 23:14:22
 
 13. **hpthreatresearch/iocs**
    - Repository: [hpthreatresearch/iocs](https://github.com/hpthreatresearch/iocs)
