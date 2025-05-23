@@ -1,6 +1,6 @@
 {
   "type": "bundle",
-  "id": "bundle--a19bcedf-1242-432a-b42b-ff1883469ac5",
+  "id": "bundle--677962de-2f8a-47ed-87c0-5096844cd349",
   "objects": [
     {
       "type": "ipv4-addr",
@@ -84,6 +84,13 @@
       "spec_version": "2.1",
       "id": "ipv4-addr--1f7120d6-a2bb-59f4-afd1-e849ebc9680d",
       "value": "216.238.107.61",
+      "x_opencti_description": "2025-05-21-IOCs-for-BTMOB-RAT-activity.txt"
+    },
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--f8fd5b91-1de2-50fb-b781-59f469958d75",
+      "value": "https://www.linkedin.com/posts/unit42_unit-42-has-identified-new-samples-of-btmob-activity-7331710618242039808-tCqZ",
       "x_opencti_description": "2025-05-21-IOCs-for-BTMOB-RAT-activity.txt"
     },
     {
