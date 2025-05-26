@@ -26,8 +26,8 @@ The following sources are being collected and parsed:
 
 3. **eSentire/iocs**
    - Repository: [eSentire/iocs](https://github.com/eSentire/iocs)
-   - Latest commit: a3d15432408faea7b8e5615104f83e43c7e62fec
-   - Last updated: 2025-05-09 14:36:19
+   - Latest commit: 78a0cc314711a88520049ca817a3f8295b8b385f
+   - Last updated: 2025-05-26 20:39:22
 
 4. **Cisco-Talos/IOCs**
    - Repository: [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs)
