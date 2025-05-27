@@ -1,0 +1,36 @@
+{
+  "type": "bundle",
+  "id": "bundle--a61468f2-595a-40c9-a728-cd3de592b82a",
+  "objects": [
+    {
+      "type": "url",
+      "spec_version": "2.1",
+      "id": "url--aeddbae5-ab77-5b0f-90e3-8581980231dc",
+      "value": "https://news.sophos.com/en-us/2025/05/27/dragonforce-actors-target-simplehelp-vulnerabilities-to-attack-msp-customers/,IoCs",
+      "x_opencti_description": "2505 DragonForce targets SimpleHelp RMM.csv"
+    },
+    {
+      "type": "file",
+      "spec_version": "2.1",
+      "id": "file--6c21f321-a46f-535a-838c-34c02cc68d4b",
+      "hashes": {
+        "SHA-256": "cee6a7663fad90c807c9f5ea8f689afd0e4ece04f8c55d7a047a7215db6be210"
+      },
+      "x_opencti_description": "2505 DragonForce targets SimpleHelp RMM.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84f699e3-69fb-522e-80d5-6e91cc87b191",
+      "value": "PUUUUUSH.bat",
+      "x_opencti_description": "2505 DragonForce targets SimpleHelp RMM.csv"
+    },
+    {
+      "type": "domain-name",
+      "spec_version": "2.1",
+      "id": "domain-name--84f699e3-69fb-522e-80d5-6e91cc87b191",
+      "value": "PUUUUUSH.bat",
+      "x_opencti_description": "2505 DragonForce targets SimpleHelp RMM.csv"
+    }
+  ]
+}
