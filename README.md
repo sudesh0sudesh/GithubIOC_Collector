@@ -126,6 +126,6 @@ The following sources are being collected and parsed:
 
 23. **huntresslabs/threat-intel**
    - Repository: [huntresslabs/threat-intel](https://github.com/huntresslabs/threat-intel)
-   - Latest commit: c273a82b892ab94b794969135389147c5cab513d
-   - Last updated: 2025-05-21 16:19:28
+   - Latest commit: fc13d8cd38d6aa0f84d657db57ac480c6a3d471f
+   - Last updated: 2025-05-27 16:19:29
 
